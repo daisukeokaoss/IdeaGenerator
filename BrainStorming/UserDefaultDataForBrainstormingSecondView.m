@@ -9,5 +9,10 @@
 #import "UserDefaultDataForBrainstormingSecondView.h"
 
 @implementation UserDefaultDataForBrainstormingSecondView
+@synthesize GeneralWordGenerateSwitch=_GeneralWordGenerateSwitch;
+@synthesize ITWordGenerateSwitch;
+@synthesize ChemicalWordSwitch;
+
+@synthesize wordNumberSegmentedControlIndex;
 
 @end
