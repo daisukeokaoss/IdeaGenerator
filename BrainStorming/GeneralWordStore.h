@@ -10,4 +10,6 @@
 
 @interface GeneralWordStore : WordStore
 
+-(NSMutableArray *)GenerateWordArray;
+
 @end
