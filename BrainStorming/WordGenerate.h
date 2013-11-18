@@ -8,6 +8,17 @@
 
 #import <Foundation/Foundation.h>
 
+//以下、ユーザーインクルード
+#import "WordStore.h"
+
 @interface WordGenerate : NSObject
+
+@property (nonatomic,strong) NSMutableArray *words;
+
+@property (nonatomic,strong) NSMutableArray *wordStoreArray;
+
+-(NSMutableArray *)outputManyWord2:(NSInteger)NumberOfWord AvoidWord:(NSMutableArray *)avoidWords;
+
+-(void)InputWordStore:(WordStore *)wordstore;
 
 @end
