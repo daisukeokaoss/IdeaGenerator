@@ -9,5 +9,6 @@
 #import "WordStore.h"
 
 @interface ElementaryWordEnglish : WordStore
+-(NSMutableArray *)GenerateWordArray;
 
 @end
