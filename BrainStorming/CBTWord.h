@@ -10,4 +10,6 @@
 
 @interface CBTWord : WordStore
 
+-(NSMutableArray *)GenerateWordArray;
+
 @end
