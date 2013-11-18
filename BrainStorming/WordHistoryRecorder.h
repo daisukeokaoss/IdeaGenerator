@@ -10,4 +10,14 @@
 
 @interface WordHistoryRecorder : NSObject
 
+@property (nonatomic) int MaximumWordCount;
+@property (nonatomic,weak) NSMutableArray *WordArray;
+
+-(void)PushToWordHistory:(NSString *)word;
+
+-(NSString *)ReturnHistoryWord:(int)index;
+
+-(void)InitializeSetting;
+-(void)FinalizeSetting;
+
 @end
