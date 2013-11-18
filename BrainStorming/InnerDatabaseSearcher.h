@@ -10,4 +10,8 @@
 
 @interface InnerDatabaseSearcher : NSObject
 
+@property (nonatomic,strong) NSMutableArray *WordStore;
+
+-(bool)SearchWord:(NSString *)word;
+
 @end
