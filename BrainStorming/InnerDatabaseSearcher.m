@@ -10,4 +10,28 @@
 
 @implementation InnerDatabaseSearcher
 
+
+
+- (id) init
+{
+    self = [super init];
+    
+    if (self != nil)
+    {
+        self.WordStore = [[NSMutableArray alloc] init];
+    }
+    
+    return self;
+}
+
+-(bool)SearchWord:(NSString *)word
+{
+    for(int i=0;i<[self.WordStore count];i++){
+        if([self.WordStore[i] isEqualToString:word]){
+            return true;
+        }
+    }
+    return false;
+}
+
 @end
