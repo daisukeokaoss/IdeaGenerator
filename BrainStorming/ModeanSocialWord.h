@@ -10,4 +10,6 @@
 
 @interface ModeanSocialWord : WordStore
 
+-(NSMutableArray *)GenerateWordArray;
+
 @end

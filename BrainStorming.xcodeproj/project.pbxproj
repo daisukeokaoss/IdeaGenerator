@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */; };
+		C91909CB17618A1C009ACF8D /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C91909CA17618A1C009ACF8D /* SearchViewController.m */; };
+		C927772917DA0EC400996623 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C927772817DA0EC400996623 /* iAd.framework */; };
+		C92C07311784FC65002F2AA1 /* BiologicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */; };
+		C930E64B180EAD8900745C19 /* WorldHistoryWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */; };
+		C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */; };
+		C95EDD41181E2638004489CC /* EnglishChemicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */; };
+		C9698D11174D2B5B007B7392 /* ElementaryWord1.m in Sources */ = {isa = PBXBuildFile; fileRef = C9698D10174D2B5B007B7392 /* ElementaryWord1.m */; };
+		C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */ = {isa = PBXBuildFile; fileRef = C96B083A16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m */; };
+		C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C96B083D16DE2A26001177A0 /* ChemicalWordStore.m */; };
 		C99494C216D90587007FDD3A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C99494C116D90587007FDD3A /* UIKit.framework */; };
 		C99494C416D90587007FDD3A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C99494C316D90587007FDD3A /* Foundation.framework */; };
 		C99494C616D90587007FDD3A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C99494C516D90587007FDD3A /* CoreGraphics.framework */; };
@@ -20,12 +30,54 @@
 		C99494DE16D90588007FDD3A /* BrainStormingFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C99494DD16D90588007FDD3A /* BrainStormingFirstViewController.m */; };
 		C99494E016D90588007FDD3A /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = C99494DF16D90588007FDD3A /* first.png */; };
 		C99494E216D90588007FDD3A /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C99494E116D90588007FDD3A /* first@2x.png */; };
-		C99494E516D90588007FDD3A /* BrainStormingSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C99494E416D90588007FDD3A /* BrainStormingSecondViewController.m */; };
 		C99494E716D90588007FDD3A /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = C99494E616D90588007FDD3A /* second.png */; };
 		C99494E916D90588007FDD3A /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C99494E816D90588007FDD3A /* second@2x.png */; };
+		C99494FB16D90C27007FDD3A /* ControlUI.m in Sources */ = {isa = PBXBuildFile; fileRef = C99494FA16D90C27007FDD3A /* ControlUI.m */; };
+		C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */ = {isa = PBXBuildFile; fileRef = C99494FD16D9B259007FDD3A /* WordGenerate.m */; };
+		C994950116D9B33E007FDD3A /* WordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C994950016D9B33E007FDD3A /* WordStore.m */; };
+		C994950416D9B3C6007FDD3A /* ITWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C994950316D9B3C6007FDD3A /* ITWordStore.m */; };
+		C994950716D9B405007FDD3A /* GeneralWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C994950616D9B404007FDD3A /* GeneralWordStore.m */; };
+		C996D0DA1754E96F00F8831E /* ElementaryWordEnglish.m in Sources */ = {isa = PBXBuildFile; fileRef = C996D0D91754E96F00F8831E /* ElementaryWordEnglish.m */; };
+		C998919817FFF98E00E4EAD9 /* CopyrightView.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919717FFF98E00E4EAD9 /* CopyrightView.m */; };
+		C998919B1800002700E4EAD9 /* CopyrightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919A1800002700E4EAD9 /* CopyrightViewController.m */; };
+		C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */; };
+		C9CCBB5A17656A48008EAF98 /* CBTWord.m in Sources */ = {isa = PBXBuildFile; fileRef = C9CCBB5917656A48008EAF98 /* CBTWord.m */; };
+		C9D729E718098CE400BBD163 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E618098CE400BBD163 /* Images.xcassets */; };
+		C9D729E9180990CA00BBD163 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E8180990CA00BBD163 /* Icon@2x.png */; };
+		C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */; };
+		C9EB947A17886043004979FA /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB947917886043004979FA /* Icon.png */; };
+		C9EB947E17886681004979FA /* 09-chat-2.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB947D17886681004979FA /* 09-chat-2.png */; };
+		C9EB94801788668A004979FA /* 09-chat-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB947F1788668A004979FA /* 09-chat-2@2x.png */; };
+		C9EB948217886697004979FA /* 15-tags.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB948117886697004979FA /* 15-tags.png */; };
+		C9EB94841788669D004979FA /* 15-tags@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB94831788669D004979FA /* 15-tags@2x.png */; };
+		C9EC50AC17FED28B006E2448 /* WordSetPlottingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = C9EC50AB17FED28B006E2448 /* WordSetPlottingScrollView.m */; };
+		C9EC50AF17FEF5F4006E2448 /* QBFlatButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C9EC50AE17FEF5F4006E2448 /* QBFlatButton.m */; };
+		C9ED10911756369E00DA197E /* ModeanSocialWord.m in Sources */ = {isa = PBXBuildFile; fileRef = C9ED10901756369E00DA197E /* ModeanSocialWord.m */; };
+		C9ED109417575D5700DA197E /* WordHistoryRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = C9ED109317575D5700DA197E /* WordHistoryRecorder.m */; };
+		C9ED10971757663F00DA197E /* InnerDatabaseSearcher.m in Sources */ = {isa = PBXBuildFile; fileRef = C9ED10961757663E00DA197E /* InnerDatabaseSearcher.m */; };
+		C9ED109A17576BE400DA197E /* InnerDatabaseSearch.m in Sources */ = {isa = PBXBuildFile; fileRef = C9ED109917576BE400DA197E /* InnerDatabaseSearch.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C90C908E16E9AA5E005EA9C1 /* PhysicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhysicalWordStore.h; sourceTree = "<group>"; };
+		C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhysicalWordStore.m; sourceTree = "<group>"; };
+		C91909C917618A1C009ACF8D /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		C91909CA17618A1C009ACF8D /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		C927772817DA0EC400996623 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BiologicalWordStore.h; sourceTree = "<group>"; };
+		C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BiologicalWordStore.m; sourceTree = "<group>"; };
+		C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorldHistoryWordStore.h; sourceTree = "<group>"; };
+		C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorldHistoryWordStore.m; sourceTree = "<group>"; };
+		C94C8DA116E7672900139C04 /* BrainStormingThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrainStormingThirdViewController.h; sourceTree = "<group>"; };
+		C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrainStormingThirdViewController.m; sourceTree = "<group>"; };
+		C95EDD3F181E2638004489CC /* EnglishChemicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishChemicalWordStore.h; sourceTree = "<group>"; };
+		C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishChemicalWordStore.m; sourceTree = "<group>"; };
+		C9698D0F174D2B5B007B7392 /* ElementaryWord1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ElementaryWord1.h; sourceTree = "<group>"; };
+		C9698D10174D2B5B007B7392 /* ElementaryWord1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ElementaryWord1.m; sourceTree = "<group>"; };
+		C96B083916DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserDefaultDataForBrainstormingSecondView.h; sourceTree = "<group>"; };
+		C96B083A16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserDefaultDataForBrainstormingSecondView.m; sourceTree = "<group>"; };
+		C96B083C16DE2A26001177A0 /* ChemicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChemicalWordStore.h; sourceTree = "<group>"; };
+		C96B083D16DE2A26001177A0 /* ChemicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChemicalWordStore.m; sourceTree = "<group>"; };
 		C99494BE16D90587007FDD3A /* BrainStorming.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrainStorming.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C99494C116D90587007FDD3A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C99494C316D90587007FDD3A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -44,10 +96,50 @@
 		C99494DD16D90588007FDD3A /* BrainStormingFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrainStormingFirstViewController.m; sourceTree = "<group>"; };
 		C99494DF16D90588007FDD3A /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		C99494E116D90588007FDD3A /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		C99494E316D90588007FDD3A /* BrainStormingSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BrainStormingSecondViewController.h; sourceTree = "<group>"; };
-		C99494E416D90588007FDD3A /* BrainStormingSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrainStormingSecondViewController.m; sourceTree = "<group>"; };
 		C99494E616D90588007FDD3A /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		C99494E816D90588007FDD3A /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		C99494F916D90C27007FDD3A /* ControlUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlUI.h; sourceTree = "<group>"; };
+		C99494FA16D90C27007FDD3A /* ControlUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControlUI.m; sourceTree = "<group>"; };
+		C99494FC16D9B259007FDD3A /* WordGenerate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordGenerate.h; sourceTree = "<group>"; };
+		C99494FD16D9B259007FDD3A /* WordGenerate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordGenerate.m; sourceTree = "<group>"; };
+		C99494FF16D9B33E007FDD3A /* WordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordStore.h; sourceTree = "<group>"; };
+		C994950016D9B33E007FDD3A /* WordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordStore.m; sourceTree = "<group>"; };
+		C994950216D9B3C6007FDD3A /* ITWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ITWordStore.h; sourceTree = "<group>"; };
+		C994950316D9B3C6007FDD3A /* ITWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ITWordStore.m; sourceTree = "<group>"; };
+		C994950516D9B404007FDD3A /* GeneralWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneralWordStore.h; sourceTree = "<group>"; };
+		C994950616D9B404007FDD3A /* GeneralWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneralWordStore.m; sourceTree = "<group>"; };
+		C996D0D81754E96F00F8831E /* ElementaryWordEnglish.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ElementaryWordEnglish.h; sourceTree = "<group>"; };
+		C996D0D91754E96F00F8831E /* ElementaryWordEnglish.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ElementaryWordEnglish.m; sourceTree = "<group>"; };
+		C998919617FFF98E00E4EAD9 /* CopyrightView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CopyrightView.h; sourceTree = "<group>"; };
+		C998919717FFF98E00E4EAD9 /* CopyrightView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CopyrightView.m; sourceTree = "<group>"; };
+		C99891991800002700E4EAD9 /* CopyrightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CopyrightViewController.h; sourceTree = "<group>"; };
+		C998919A1800002700E4EAD9 /* CopyrightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CopyrightViewController.m; sourceTree = "<group>"; };
+		C998919C1803A2A200E4EAD9 /* OpticalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpticalWordStore.h; sourceTree = "<group>"; };
+		C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpticalWordStore.m; sourceTree = "<group>"; };
+		C9CCBB5817656A48008EAF98 /* CBTWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBTWord.h; sourceTree = "<group>"; };
+		C9CCBB5917656A48008EAF98 /* CBTWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBTWord.m; sourceTree = "<group>"; };
+		C9D729E618098CE400BBD163 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		C9D729E8180990CA00BBD163 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		C9E1EB6A182A950E000D79B5 /* EnglishMedicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishMedicalWordStore.h; sourceTree = "<group>"; };
+		C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishMedicalWordStore.m; sourceTree = "<group>"; };
+		C9EB947917886043004979FA /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		C9EB947B17886053004979FA /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		C9EB947D17886681004979FA /* 09-chat-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "09-chat-2.png"; sourceTree = "<group>"; };
+		C9EB947F1788668A004979FA /* 09-chat-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "09-chat-2@2x.png"; sourceTree = "<group>"; };
+		C9EB948117886697004979FA /* 15-tags.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "15-tags.png"; sourceTree = "<group>"; };
+		C9EB94831788669D004979FA /* 15-tags@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "15-tags@2x.png"; sourceTree = "<group>"; };
+		C9EC50AA17FED28B006E2448 /* WordSetPlottingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordSetPlottingScrollView.h; sourceTree = "<group>"; };
+		C9EC50AB17FED28B006E2448 /* WordSetPlottingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordSetPlottingScrollView.m; sourceTree = "<group>"; };
+		C9EC50AD17FEF5EB006E2448 /* QBFlatButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QBFlatButton.h; sourceTree = "<group>"; };
+		C9EC50AE17FEF5F4006E2448 /* QBFlatButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QBFlatButton.m; sourceTree = "<group>"; };
+		C9ED108F1756369E00DA197E /* ModeanSocialWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModeanSocialWord.h; sourceTree = "<group>"; };
+		C9ED10901756369E00DA197E /* ModeanSocialWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModeanSocialWord.m; sourceTree = "<group>"; };
+		C9ED109217575D5700DA197E /* WordHistoryRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordHistoryRecorder.h; sourceTree = "<group>"; };
+		C9ED109317575D5700DA197E /* WordHistoryRecorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordHistoryRecorder.m; sourceTree = "<group>"; };
+		C9ED10951757663E00DA197E /* InnerDatabaseSearcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InnerDatabaseSearcher.h; sourceTree = "<group>"; };
+		C9ED10961757663E00DA197E /* InnerDatabaseSearcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InnerDatabaseSearcher.m; sourceTree = "<group>"; };
+		C9ED109817576BE400DA197E /* InnerDatabaseSearch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InnerDatabaseSearch.h; sourceTree = "<group>"; };
+		C9ED109917576BE400DA197E /* InnerDatabaseSearch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InnerDatabaseSearch.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +147,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C927772917DA0EC400996623 /* iAd.framework in Frameworks */,
 				C99494C216D90587007FDD3A /* UIKit.framework in Frameworks */,
 				C99494C416D90587007FDD3A /* Foundation.framework in Frameworks */,
 				C99494C616D90587007FDD3A /* CoreGraphics.framework in Frameworks */,
@@ -67,6 +160,9 @@
 		C99494B516D90587007FDD3A = {
 			isa = PBXGroup;
 			children = (
+				C927772817DA0EC400996623 /* iAd.framework */,
+				C9EB947B17886053004979FA /* Icon.png */,
+				C9D729E8180990CA00BBD163 /* Icon@2x.png */,
 				C99494C716D90587007FDD3A /* BrainStorming */,
 				C99494C016D90587007FDD3A /* Frameworks */,
 				C99494BF16D90587007FDD3A /* Products */,
@@ -94,17 +190,37 @@
 		C99494C716D90587007FDD3A /* BrainStorming */ = {
 			isa = PBXGroup;
 			children = (
+				C9ED109817576BE400DA197E /* InnerDatabaseSearch.h */,
+				C9ED109917576BE400DA197E /* InnerDatabaseSearch.m */,
+				C996D0DB1756212C00F8831E /* WordSelection */,
 				C99494D016D90588007FDD3A /* BrainStormingAppDelegate.h */,
 				C99494D116D90588007FDD3A /* BrainStormingAppDelegate.m */,
+				C9EC50AD17FEF5EB006E2448 /* QBFlatButton.h */,
+				C9EC50AE17FEF5F4006E2448 /* QBFlatButton.m */,
 				C99494D916D90588007FDD3A /* MainStoryboard.storyboard */,
+				C99891991800002700E4EAD9 /* CopyrightViewController.h */,
+				C998919A1800002700E4EAD9 /* CopyrightViewController.m */,
+				C998919617FFF98E00E4EAD9 /* CopyrightView.h */,
+				C998919717FFF98E00E4EAD9 /* CopyrightView.m */,
+				C9EC50AA17FED28B006E2448 /* WordSetPlottingScrollView.h */,
+				C9EC50AB17FED28B006E2448 /* WordSetPlottingScrollView.m */,
+				C91909C917618A1C009ACF8D /* SearchViewController.h */,
+				C91909CA17618A1C009ACF8D /* SearchViewController.m */,
+				C94C8DA116E7672900139C04 /* BrainStormingThirdViewController.h */,
+				C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */,
 				C99494DC16D90588007FDD3A /* BrainStormingFirstViewController.h */,
 				C99494DD16D90588007FDD3A /* BrainStormingFirstViewController.m */,
+				C9EB947D17886681004979FA /* 09-chat-2.png */,
+				C9EB947F1788668A004979FA /* 09-chat-2@2x.png */,
+				C9EB948117886697004979FA /* 15-tags.png */,
+				C9EB94831788669D004979FA /* 15-tags@2x.png */,
 				C99494DF16D90588007FDD3A /* first.png */,
+				C9EB947917886043004979FA /* Icon.png */,
 				C99494E116D90588007FDD3A /* first@2x.png */,
-				C99494E316D90588007FDD3A /* BrainStormingSecondViewController.h */,
-				C99494E416D90588007FDD3A /* BrainStormingSecondViewController.m */,
 				C99494E616D90588007FDD3A /* second.png */,
 				C99494E816D90588007FDD3A /* second@2x.png */,
+				C99494EF16D906FC007FDD3A /* Model */,
+				C9D729E618098CE400BBD163 /* Images.xcassets */,
 				C99494C816D90587007FDD3A /* Supporting Files */,
 			);
 			path = BrainStorming;
@@ -122,6 +238,58 @@
 				C99494D716D90588007FDD3A /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C99494EF16D906FC007FDD3A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C9ED109217575D5700DA197E /* WordHistoryRecorder.h */,
+				C9ED109317575D5700DA197E /* WordHistoryRecorder.m */,
+				C9ED10951757663E00DA197E /* InnerDatabaseSearcher.h */,
+				C9ED10961757663E00DA197E /* InnerDatabaseSearcher.m */,
+				C96B083916DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.h */,
+				C96B083A16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m */,
+				C99494F916D90C27007FDD3A /* ControlUI.h */,
+				C99494FA16D90C27007FDD3A /* ControlUI.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		C996D0DB1756212C00F8831E /* WordSelection */ = {
+			isa = PBXGroup;
+			children = (
+				C9ED108F1756369E00DA197E /* ModeanSocialWord.h */,
+				C9ED10901756369E00DA197E /* ModeanSocialWord.m */,
+				C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */,
+				C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */,
+				C998919C1803A2A200E4EAD9 /* OpticalWordStore.h */,
+				C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */,
+				C95EDD3F181E2638004489CC /* EnglishChemicalWordStore.h */,
+				C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */,
+				C9E1EB6A182A950E000D79B5 /* EnglishMedicalWordStore.h */,
+				C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */,
+				C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */,
+				C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */,
+				C994950516D9B404007FDD3A /* GeneralWordStore.h */,
+				C994950616D9B404007FDD3A /* GeneralWordStore.m */,
+				C996D0D81754E96F00F8831E /* ElementaryWordEnglish.h */,
+				C996D0D91754E96F00F8831E /* ElementaryWordEnglish.m */,
+				C9698D0F174D2B5B007B7392 /* ElementaryWord1.h */,
+				C9698D10174D2B5B007B7392 /* ElementaryWord1.m */,
+				C96B083C16DE2A26001177A0 /* ChemicalWordStore.h */,
+				C96B083D16DE2A26001177A0 /* ChemicalWordStore.m */,
+				C99494FC16D9B259007FDD3A /* WordGenerate.h */,
+				C99494FD16D9B259007FDD3A /* WordGenerate.m */,
+				C99494FF16D9B33E007FDD3A /* WordStore.h */,
+				C994950016D9B33E007FDD3A /* WordStore.m */,
+				C9CCBB5817656A48008EAF98 /* CBTWord.h */,
+				C9CCBB5917656A48008EAF98 /* CBTWord.m */,
+				C90C908E16E9AA5E005EA9C1 /* PhysicalWordStore.h */,
+				C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */,
+				C994950216D9B3C6007FDD3A /* ITWordStore.h */,
+				C994950316D9B3C6007FDD3A /* ITWordStore.m */,
+			);
+			name = WordSelection;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,6 +345,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C99494CC16D90587007FDD3A /* InfoPlist.strings in Resources */,
+				C9D729E9180990CA00BBD163 /* Icon@2x.png in Resources */,
+				C9D729E718098CE400BBD163 /* Images.xcassets in Resources */,
 				C99494D416D90588007FDD3A /* Default.png in Resources */,
 				C99494D616D90588007FDD3A /* Default@2x.png in Resources */,
 				C99494D816D90588007FDD3A /* Default-568h@2x.png in Resources */,
@@ -185,6 +355,11 @@
 				C99494E216D90588007FDD3A /* first@2x.png in Resources */,
 				C99494E716D90588007FDD3A /* second.png in Resources */,
 				C99494E916D90588007FDD3A /* second@2x.png in Resources */,
+				C9EB947A17886043004979FA /* Icon.png in Resources */,
+				C9EB947E17886681004979FA /* 09-chat-2.png in Resources */,
+				C9EB94801788668A004979FA /* 09-chat-2@2x.png in Resources */,
+				C9EB948217886697004979FA /* 15-tags.png in Resources */,
+				C9EB94841788669D004979FA /* 15-tags@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,8 +372,33 @@
 			files = (
 				C99494CE16D90588007FDD3A /* main.m in Sources */,
 				C99494D216D90588007FDD3A /* BrainStormingAppDelegate.m in Sources */,
+				C998919B1800002700E4EAD9 /* CopyrightViewController.m in Sources */,
 				C99494DE16D90588007FDD3A /* BrainStormingFirstViewController.m in Sources */,
-				C99494E516D90588007FDD3A /* BrainStormingSecondViewController.m in Sources */,
+				C9EC50AC17FED28B006E2448 /* WordSetPlottingScrollView.m in Sources */,
+				C99494FB16D90C27007FDD3A /* ControlUI.m in Sources */,
+				C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */,
+				C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */,
+				C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */,
+				C994950116D9B33E007FDD3A /* WordStore.m in Sources */,
+				C994950416D9B3C6007FDD3A /* ITWordStore.m in Sources */,
+				C994950716D9B405007FDD3A /* GeneralWordStore.m in Sources */,
+				C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */,
+				C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */,
+				C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */,
+				C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */,
+				C9698D11174D2B5B007B7392 /* ElementaryWord1.m in Sources */,
+				C996D0DA1754E96F00F8831E /* ElementaryWordEnglish.m in Sources */,
+				C9ED10911756369E00DA197E /* ModeanSocialWord.m in Sources */,
+				C9ED109417575D5700DA197E /* WordHistoryRecorder.m in Sources */,
+				C9ED10971757663F00DA197E /* InnerDatabaseSearcher.m in Sources */,
+				C9ED109A17576BE400DA197E /* InnerDatabaseSearch.m in Sources */,
+				C91909CB17618A1C009ACF8D /* SearchViewController.m in Sources */,
+				C9EC50AF17FEF5F4006E2448 /* QBFlatButton.m in Sources */,
+				C9CCBB5A17656A48008EAF98 /* CBTWord.m in Sources */,
+				C930E64B180EAD8900745C19 /* WorldHistoryWordStore.m in Sources */,
+				C998919817FFF98E00E4EAD9 /* CopyrightView.m in Sources */,
+				C95EDD41181E2638004489CC /* EnglishChemicalWordStore.m in Sources */,
+				C92C07311784FC65002F2AA1 /* BiologicalWordStore.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +451,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "1AAB5711-4216-4D75-A0C1-642AFEE2D3DF";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -275,6 +476,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "1AAB5711-4216-4D75-A0C1-642AFEE2D3DF";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -283,9 +485,12 @@
 		C99494ED16D90588007FDD3A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BrainStorming/BrainStorming-Prefix.pch";
 				INFOPLIST_FILE = "BrainStorming/BrainStorming-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -294,9 +499,12 @@
 		C99494EE16D90588007FDD3A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BrainStorming/BrainStorming-Prefix.pch";
 				INFOPLIST_FILE = "BrainStorming/BrainStorming-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -321,6 +529,7 @@
 				C99494EE16D90588007FDD3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
