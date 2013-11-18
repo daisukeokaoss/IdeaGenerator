@@ -8,17 +8,57 @@
 
 #import "BrainStormingFirstViewController.h"
 
+//ユーザーインクルード
+#import "SearchViewController.h"
+
+
 @interface BrainStormingFirstViewController ()
 
 @end
 
 @implementation BrainStormingFirstViewController
 
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+  
+    self.scroll.mainViewController = self;
+    
+    [self.scroll SetUpAtViewDidLoadUsingUILabelToOutputWord];
+    
+    
+    
+    
+    
+    BrainStormingAppDelegate *appDelegate;
+    appDelegate = [[UIApplication sharedApplication] delegate];
+    
+    if(appDelegate.controlUI ==Nil){
+          appDelegate.controlUI = [[ControlUI alloc] init];
+    }
+    
+    
+    [appDelegate.controlUI SettingImportFromNSUserDefault];
+
 }
+
+#pragma mark - iAd Delegate
+
+-(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
+{
+
+    
+    
+}
+
+
+
+
+
+
+
 
 - (void)didReceiveMemoryWarning
 {
