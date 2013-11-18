@@ -10,4 +10,10 @@
 
 @interface UserDefaultDataForBrainstormingSecondView : NSObject
 
+@property (nonatomic) BOOL GeneralWordGenerateSwitch;
+@property (nonatomic) BOOL ITWordGenerateSwitch;
+@property (nonatomic) BOOL ChemicalWordSwitch;
+
+@property (nonatomic) int wordNumberSegmentedControlIndex;
+
 @end
