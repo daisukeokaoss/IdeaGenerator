@@ -10,4 +10,16 @@
 
 @implementation ElementaryWordEnglish
 
+-(NSMutableArray *)GenerateWordArray
+{
+    NSMutableArray *ElementaryWordEnglish;
+    NSArray *EWord1 =@[@"recreation",@"realistic",@"funeral",@"emphasize",@"fame",@"dip",@"remain",@"indeed",
+                       @"apply",@"tailor",@"mild",@"governor",@"politician",@"punish",@"oxygen",@"herd",
+                       @"failure",@"microscope",@"process",@"essential",@"believe",@"arithmetic",@"schedule",
+                       @"need",@"grass",@"settle",@"plate",@"represent",@"invitation",@"model",@"halt",
+                       @"trend",@"union",@"farm",@"save",@"absentee",@"secret",@""];
+    [ElementaryWordEnglish addObjectsFromArray:EWord1];
+    return ElementaryWordEnglish;
+}
+
 @end
