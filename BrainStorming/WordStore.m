@@ -10,4 +10,9 @@
 
 @implementation WordStore
 
+-(NSMutableArray *)GenerateWordArray
+{
+    return nil;
+}
+
 @end
