@@ -278,7 +278,20 @@
         @"Atonic",@"Atopic",@"Atopy",@"Atresia",@"Anal atresia",@"Aortic atresia",
         @"Biliary atresia",@"Atria",@"Atrial",@"Atrial arrhythmias",@"Atrial fib",
         @"Atrial flutter",@"Atrial septal defect",@"ASD",@"Atrial septum",@"Atriodigital dysplasia",
-        @""];
+        @"Atriodigital dyplasia",@"Atrioventricular",@"AV",@"Atrioventricular node",
+        @"Atrium",@"Atrophy",@"Peroneal muscular atrophy",@"Atropine",@"Atropine psychosis",
+        @"Vasovagal attack",@"Attention",@"Attention deficit disorder",@"ADD",@"Attention getting",
+        @"Attentional",@"Attenuate",@"Attenuated",@"Attenuated FAP",@"Attenuated familial adenomatous polyposis",
+        @"Attenuated virus",@"Atypical",@"Atypical measles syndrome",@"AMS",@"Audiogram",
+        @"Audiologist",@"Audiology",@"Audiometry",@"Auditory acuity",@"Auditory brainstem response test",
+        @"Auditory cortex",@"Central auditory disease",@"Auditory integration training",
+        @"Auditory perception",@"Auditory prosthesis",@"Auditory tube",@"Aura",@"Auricle",
+        @"Auricular",@"Auscultate",@"Austin Flint murmur",@"Autism",@"Autistic savant",
+        @"Autoantibody",@"Autochthonous",@"Autoclave",@"Autogenous",@"Autograft",@"Autoimmune",
+        @"Autoimmune disease",@"Autoimmune lymphoproliferative syndrome",@"ALPS",@"Autoimmune polyendocrinopathy",
+        @"Autoimmune polyendocrinopathy syndrome",@"Autoimmune polyglandular syndrome",@"APS",
+        @"Autoimmune process",@"Autoimmunity",@"Autoinnoculation",@"Autologous",
+        @"Autologous blood donation",@"Autolysis",@""];
     [MedicalWordStore addObjectsFromArray:AdWord];
     
     return MedicalWordStore;
