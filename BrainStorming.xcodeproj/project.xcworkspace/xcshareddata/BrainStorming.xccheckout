@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C3BDD403-61F6-46C0-B690-E03D3ED32CBC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BrainStorming</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</key>
+		<string>https://github.com/Daisukedayon/IdeaGenerator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BrainStorming.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Daisukedayon/IdeaGenerator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BrainStorming</string>
+		</dict>
+	</array>
+</dict>
+</plist>
