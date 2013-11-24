@@ -398,9 +398,41 @@
         @"Bony tarsus",@"Boomeritis",@"Booster shot",@"Borage",@"Borborygmi",@"Borborygmus",
         @"Bornholm disease",@"Borrelia",@"Borrelia burgdorferi",@"Bos taurus genome",
         @"Botox",@"Bottlefeeding",@"Botulinum toxin",@"Bougie",@"Bougienage",@"Boutonneuse",
-        @"Bovine genome",@"Bow-legs",@"Bowel",@""];
+        @"Bovine genome",@"Bow-legs",@"Bowel",@"Inflammatory bowel disease",@"Bowel sounds",
+        @"Bowen disease",@"Bp",@"Milwaukee Brace",@"Foot-drop brace",@"Brachinal artery",
+        @"Brachinal neuritis",@"Brachinal palsy",@"Brachinal paralysis",@"Brachinal plexus",
+        @"Brachinal plexus palsy",@"Brachinal plexus paralysis",@"Brachial vein",
+        @"Brachmann-de Lange syndrome",@"Brachy-",@"Brachycephaly",@"Brachydactyly",
+        @"Bradycardia",@"Bradykinesia",@"Bradykinetic",@"Bradyphrenia",@"Bradypnea",
+        @"Brailly system",@"Brain",@"Brain biopsy",@"Brain freeze",@"Brain malleability",
+        @"Brain plasticity",@"Brain stem",@"Brain stem glioma",@"Brain swelling",@"Brain ventricle",
+        @"Fornix of the brain",@"Water on the brain",@"Brainstem",@"Brainstem auditory evoked potentials",
+        @"Brainstem implant",@"Branched-chain ketoaciduria",@"Branchial cleft cyst",
+        @"Brazelton newborn test",@"Breadbasket",@"Breakbone fever",@"Breathing",@"Breech",
+        @"Breech birth",@"Breslow thickness",@"Bridge",@"Bright's disease",@"Brill-Zinsser disease",
+        @"Brissaud's infantilism",@"British National Formulary",@"Brittle bone disease",
+        @"Brittle diabetes",@"Broca's area",@"Broken hip",@"Bromine",@"Bromism",@"Bromobenzylcyanide",
+        @"Bromoderma",@"Bronchi",@"Bronchiole",@"Bronchiolitis",@"Bronchopulmonary",
+        @"Bronchopulmonary dysplasia",@"Bronchopulmonary segments",@"Bronchoscope",@"Bronchus",
+        @"Brontophobia",@"Bross",@"Irwin DJ Bross",@"Brown fat",@"Brown syndrome",@"Louise Brown",
+        @"Michael Stuart Brown",@"Bruce N.Ames",@"Bruce protocol",@"Bruit",@"Brunhilde virus",
+        @"Brushfield's spots",@"Bruton agammaglobulinemia tyrosine kinase",@"Bubble boy disease",
+        @"Bubo",@"Buboes",@"Buccal mucosa",@"Buffalo chest",@"Buffalo hump",@"Kissing bug",
+        @"Reduviid bug",@"Bullbar",@"Bullbar conjunctiva",@"Bulbourethral gland",@"Bulla",
+        @"Bullae",@"Bullous",@"Bumps",@"Bundling",@"Buprenorphine",@"Burkholderia capacia",
+        @"Burkitt lymphoma",@"Burkitt's lymphoma",@"Burning urination",@"Burp",@"Bursa",
+        @"Bursae",@"Bursal",@"Bursopathy",@"Buruli ulcer",@"Buschke disease",@"Buschke scleredema",
+        @"Buschke's disease",@"Buschke's scleredema",@"Butterbur",@"Butyric acid",@"Bx",@"Bypass"];
     [MedicalWordStore addObjectsFromArray:BWord];
-    
+    NSArray *CWord = @[@"Cardiopulmonary bypass",@"Coronary bypass",@"C(cytosine)",@"C peptide",@"C-IBS",
+                       @"C-peptide",@"C-reactive protein",@"C.botulinum",@"C.difficile",@"C.elegans",
+                       @"C.elegans genome",@"C.perfringens",@"C.welchii",@"C1(cervical vertebra)",
+                       @"C1-C7(cervical vertebrae)",@"C2(cervical vertebra)",@"C3(cervical vertebra)",
+                       @"C4(cervical vertebra)",@"C5(cervical vertebra)",@"C6(cervical vertebra)",
+                       @"C7(cervical vertebra)",@"CA",@"CA 15-3",@"CA 19-9",@"CA 27-29",@"CABG",@"Off-pump CABG",
+                       @"CAD",@"CADASIL",@"CADLLA",@"CAMP-dependent protein kinase",@"CAPD",@"CARDIA Study",
+                       @"CB1",@"CB1 receptor",@"CB2",@"CB2 receptor",@"CBC"];
+    [MedicalWordStore addObjectsFromArray:CWord];
     return MedicalWordStore;
 }
 
