@@ -463,7 +463,14 @@
     @"Squamous cell carcinoma in situ",@"Carcinoma of the tongue",@"Markel cell carcinoma",
     @"Ampullary carcinoma",@"Basal cell carcinoma",@"hepatocellular carcinoma",@"islet cell carcinoma",
     @"Pancreatic carcinoma",@"Cardiac",@"Cardiac aneurysm",@"Cardiac conduction system",
-    @""];
+    @"Implantable Cardiac defibrillator",@"Cardiac index",@"Cardiac insufficiency",@"Cardiac muscle",
+    @"Cardiac myocyte",@"Cardiac myxoma",@"Cardiac output",@"Cardiac rehabilitation",
+    @"Cardiac septum",@"Cardiac temponade",@"Cardiac transplant",@"Cardiac ventricle",
+    @"Cardiac-limb syndrome",@"Cardio-cutaneous syndrome",@"Cardiologist",@"Cardiology",
+    @"Cardiomegaly",@"Cardiomyopathy",@"Doxorubicin cardiomyopathy",@"Cardiopathy",@"Cardioplegia",
+    @"Cardiopulmonary",@"Cardiopulmonary bypass",@"Cardiopulmonary resuscitation",
+    @"Cardiovascular",@"Cardiovascular disease",@"Cardiovascular syncope",@"Cardiovascular system",
+    @"Cardioversion",@""];
     [MedicalWordStore addObjectsFromArray:CWord];
     return MedicalWordStore;
 }
