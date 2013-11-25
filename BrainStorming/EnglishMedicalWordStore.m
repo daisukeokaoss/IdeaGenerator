@@ -499,7 +499,30 @@
     @"Center for Devices&Radiological Helth",@"Trauma center",@"Centigrade",@"Centimeter",
     @"Centimorgan",@"Central",@"Central auditory processing disorder",@"Central catheter",
     @"Central core disease",@"Central core disease of muscle",@"Central fovea",@"Central line",
-    @"Central nervous system",@"CNS",@"Central retinal artery"];
+    @"Central nervous system",@"CNS",@"Central retinal artery",@"Central retinal vein",
+    @"Central venous catheter",@"Central venous line",@"Central vision",@"Centric-fusion translocation",
+    @"Centromere",@"Cephal-",@"Cephalgia",@"Histamine cephalgia",@"Cephalic",@"Cephalic disorder",
+    @"Cephalic disorders",@"Cephalothoracic lipodystrophy",@"Cerclage",@"Cercopithecine herpesvirus 1",
+    @"Cerebellar",@"Cerebellum",@"Cerebral",@"Cerebral aneurysm",@"Cerebral arterial gas embolism",
+    @"CAGE",@"Nonarteriosclerotic cerebral calcification",@"Cerebral cortex",@"Cerebral fornix",
+    @"Cerebral hemispheres",@"Cerebral herniation",@"Cerebral vascular",@"Cerebral ventricle",
+    @"Cerebritis",@"Cerebrohepatorenal syndrome",@"Cerebrospinal fluid",@"Cerebrovascular",
+    @"Cerebrovascular accident",@"Cerebrovascular disease",@"Cerebrovascular ferrocalcinosis",
+    @"Cerebrum",@"Certified midwife",@"Certified nurse-midwife",@"Certified professional midwife",
+    @"Ceruloplasmin deficinecy",@"Cervical",@"Cervical cap",@"Cervical cerclage",@"Cervical disc",
+    @"Cervical dystocia",@"Cervical intraepithelial neoplasia",@"Cervical rib",@"First cervical vertebra",
+    @"Second cervical vertebra",@"Cervical vertebrae",@"Cervicectomy",@"Cervicitis",@"Cervix",
+    @"Incompetent cervix",@"Lower segment cesarean section",@"Vaginal birth after Cesarean section",
+    @"LSCS",@"Vaginal birth after cesarian section",@"Ceteris paribus",@"Chain-termination codon",
+    @"anterior chamber",@"posterior chamber",@"Chamomile",@"Chancre",@"Chancroid",@"Chandipura virus",
+    @"Change of life",@"Single base change",@"Ion channel",@"Channelopathy",@"Chaperone",
+    @"Chapped lips",@"Char syndrome",@"Charbon",@"Activated charcoal",@"Charcot-Wilbrand syndrome",
+    @"Chargaff ratios",@"Chargaff rule",@"Chargaff's rule",@"Charles Bell",@"Charles D.Kelman",
+    @"Charles Darwin",@"Charley horse",@"Snellen's chart",@"Chasing the dragon",@"Checkpoint",
+    @"Cheek",@"Cheilitis",@"Cheiroarthropathy",@"Chekhov",@"Anton Chekhov",@"Chemical reaction",
+    @"Chemical terrorism",@"Chemo",@"Chemo-brain",@"Chemo-fog",@"Chemobrain",@"Chemoembolization",
+    @"Chemofog",@"Chemokine",@"Chemokine receptor",@"Chemokinesis",@"Chemoprevention",@"Chemoprophylaxis",
+    @"Chemoradiotherapy",@"Chemosense",@"Chemosensory",@"Chemosis",@"Zhong Wei Chen",@"Cherubism",];
     [MedicalWordStore addObjectsFromArray:CWord];
     return MedicalWordStore;
 }
