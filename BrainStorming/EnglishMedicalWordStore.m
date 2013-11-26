@@ -522,7 +522,23 @@
     @"Cheek",@"Cheilitis",@"Cheiroarthropathy",@"Chekhov",@"Anton Chekhov",@"Chemical reaction",
     @"Chemical terrorism",@"Chemo",@"Chemo-brain",@"Chemo-fog",@"Chemobrain",@"Chemoembolization",
     @"Chemofog",@"Chemokine",@"Chemokine receptor",@"Chemokinesis",@"Chemoprevention",@"Chemoprophylaxis",
-    @"Chemoradiotherapy",@"Chemosense",@"Chemosensory",@"Chemosis",@"Zhong Wei Chen",@"Cherubism",];
+    @"Chemoradiotherapy",@"Chemosense",@"Chemosensory",@"Chemosis",@"Zhong Wei Chen",@"Cherubism",
+    @"Chest",@"Chest cold",@"Chest film",@"Chewing tobacco",@"Chicken genome",@"Chicken pox",
+    @"Chickenpox immunization",@"Chickenpox vaccination",@"Chikungunya",@"Chilblain",@"Child development test",
+    @"Child health",@"Mental child injury",@"Child neglect",@"Childbed fever",@"Childbirth assistant",
+    @"Childbirth fever",@"Childhood",@"Childhood ataxia with CNS hypomyelinization",
+    @"Children of the dark",@"Children of the night",@"Chills",@"Chimera",@"Chimeraplasty",
+    @"Chin",@"Chinese medicine",@"Chinese restaurant syndrome",@"Chiron",@"Chiropractic",
+    @"Chiropractor",@"Chlamydia",@"Chlamydia trachomatis",@"Chloral hydrate",@"Chloride",
+    @"Chlorinated camphene",@"Chloroacetophenone",@"Chlorobenzylidenemalononitrile",
+    @"Chloroform",@"Chloropicrin",@"Chloroprene",@"Chlorpyrifos",@"Choana",@"Choanae",
+    @"Choanal",@"Choanal atresia",@"Choanal stenosis",@"Chocolate",@"Choking",
+    @"Choking in children",@"Cholangi-",@"Cholangiogram",@"Ⅳ Cholangiogram",@"Intravenous cholangiogram",
+    @"Cholangiography",@"Percutaneous transhepatic cholangiography",
+    @"Endoscopic retrograde Cholangiopancreatography",@"Cholangitis",@"Primary sclerosing cholangitis",
+    @"Sclerosing cholangitis",@"Cholecalciferol",@"Cholecyst",@"Cholecystitis",@"Oral cholecystogram",
+    @"Cholecystokinin",@"Cholelithiasis",@"Cholestasis with peripheral pulmonary stenosis",
+    @"Cholesteryl ester transfer protein",@"Cholestin",@"Chondrocalcinosis",@""];
     [MedicalWordStore addObjectsFromArray:CWord];
     return MedicalWordStore;
 }
