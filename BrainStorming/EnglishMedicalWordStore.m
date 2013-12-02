@@ -850,7 +850,7 @@
     @"Faciodigitogenital dysplasia",@"Faciogenital dysplasia",@"Thanatophoric dysplasia",
     @"Dysplastic nevi",@"Dysplastic nevus",@"Dyspnea",@"Dyspnoea",@"Dyspraxia",@"Dyspraxia of speech",
     @"Developmental dyspraxia",@"Dystocia",@"Cervical dystocia",@"Fetal dystocia",@"Placemental Dystocia",
-    @"Shoulder dystocia",@"Dystrophia brevicollis cogenita"];
+    @"Shoulder dystocia",@"Dystrophia brevicollis cogenita",@"Dystrophic epidermolysis bullosa"];
     [MedicalWordStore addObjectsFromArray:DWord];
     return MedicalWordStore;
 }
