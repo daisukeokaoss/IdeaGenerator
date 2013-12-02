@@ -801,7 +801,25 @@
     @"Rheumatic heart disease",@"Sigle gene disease",@"Sixth Disease",@"Sleeping Disease",
     @"Startle disease",@"Subclinical disease",@"Variant Creutxfeldt-Jakob disease",
     @"von Recklinghausen disease",@"Disease-free survival",@"Diseases related to obesity",
-    @""];
+    @"inherited metabolic disease",@"Rickettsial disease",@"Disinsection",@"Intervertebral Disk",
+    @"Dislocation of the radial head",@"Congenital hip dislocation",@"Articulation disorder",
+    @"Attention deficit disorder",@"Autoimmune disorder",@"Bipolar disorder",@"Borderline personality disorder",
+    @"Central auditory processing disorder",@"Cephalic disorder",@"Mathematics disorder",
+    @"Orgasmic disorder",@"Seasonal affective disorder",@"Specific developmental disorder",
+    @"Disordered thinking",@"Lymphoproliferative disorders",@"Myeloproliferative disorders",
+    @"Disruption sequence",@"Dissect",@"Dissecting aneurysm",@"Dissection",@"Aortic dissection",
+    @"Axillary dissection",@"Neck Dissection",@"Raical neck dissection",@"Disseminated sclerosis",
+    @"Disseminated vaccinia",@"Dissociation",@"Distal",@"Distance healing",@"Distention",
+    @"Distichiasis",@"Disto-",@"Diuresis",@"Diuretic",@"Diurnal",@"Diverticula",@"Diverticulitis",
+    @"Bleeding from diverticulitis",@"Treatment of acute diverticulitis",@"Diverticulum",
+    @"Meckel's diverticulum",@"Zenker diverticulum",@"Hypopharyngeal diverticulum",
+    @"Pharyngoesophageal diverticulum",@"Diving injury",@"Dizygotic twin",@"Pre-syncopal dizziness",
+    @"Do not resuscitate order",@"Dobelle",@"William H. Dobelle",@"Doc",@"Docosahexaenoic acid",
+    @"Doctor",@"Doctor discontent",@"Doctor Without Borders",@"Doctor's symbol",@"Dog genome",
+    @"Dog heartworm",@"Dol",@"Dolor",@"Gerhard Domagk",@"Domain",@"Dominant",@"Autosomal dominant",
+    @"Donald Fredrickson",@"Donor",@"Donor insemination",@"Donor lymphocyte infusion",
+    @"Universal donor",@"Dopa",@"Dopamine",@"Doraphobia",@"Dorian Gray effect",@"Dorothy Hodgkin",
+    @"Dorsal",@"Dorsum",@"Absorbed dose",@"Double helix",@"Double-blind",@"Double-blinded study"];
     [MedicalWordStore addObjectsFromArray:DWord];
     return MedicalWordStore;
 }
