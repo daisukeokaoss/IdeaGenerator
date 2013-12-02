@@ -819,7 +819,10 @@
     @"Dog heartworm",@"Dol",@"Dolor",@"Gerhard Domagk",@"Domain",@"Dominant",@"Autosomal dominant",
     @"Donald Fredrickson",@"Donor",@"Donor insemination",@"Donor lymphocyte infusion",
     @"Universal donor",@"Dopa",@"Dopamine",@"Doraphobia",@"Dorian Gray effect",@"Dorothy Hodgkin",
-    @"Dorsal",@"Dorsum",@"Absorbed dose",@"Double helix",@"Double-blind",@"Double-blinded study"];
+    @"Dorsal",@"Dorsum",@"Absorbed dose",@"Double helix",@"Double-blind",@"Double-blinded study",
+    @"Double-jointed",@"Double-masked",@"Pouch of douglas",@"Doula",@"Dowager's hump",
+    @"Down-regulation",@"Downregulation",@"Doxorubicin cardiomyopathy",@"Sir Arthur Conan Doyle",
+    @"Doyne honeycomb retinal dystrophy",@"Dr. Andrew Weil",@"Dr. Joseph Moscati",@"Dracunculiasis",];
     [MedicalWordStore addObjectsFromArray:DWord];
     return MedicalWordStore;
 }
