@@ -935,7 +935,22 @@
     @"Temporal lobe epilepsy",@"Temporal-lobe epilepsy",@"Epinephrine",@"Epiphenomenon",
     @"Epiphysis",@"Epiretinal membrane",@"Episclera",@"Episcleritis",@"Epispadias",@"Epistaxis",
     @"Treatment of epistaxis",@"Epistemic",@"Epithelial",@"Epithelial basement corneal dystrophy",
-    @"Epithelial carcinoma",@"Epithelium",@"Epitope",@"Epizootic",@"Eponym"];
+    @"Epithelial carcinoma",@"Epithelium",@"Epitope",@"Epizootic",@"Eponym",@"Epsom salt",
+    @"Epstein-Barr virus",@"Equinophobia",@"Equol",@"Erb palsy",@"Erb paralysis",@"Erb's palsy",
+    @"ErbB",@"ErbB1",@"Penile Erection",@"Ergonomics",@"Ergophobia",@"Ergot",@"Ergotism",
+    @"Erosion",@"Erotic jealousy syndrome",@"Erotomania",@"Error of the first kind",
+    @"Error of the second kind",@"Alpha error",@"Beta error",@"type Ⅰ error",@"type Ⅱ error",
+    @"Inborn errors of metabolism",@"Eructation",@"Bather's eruption",@"Eruptive xanthoma",
+    @"Erythema",@"Erythema chronicum migrans",@"Erythema dose",@"Erythema infectiosum",
+    @"Erythema multiforme",@"Erythrasma",@"Erythrocyanosis",@"Erythrocyte",
+    @"Erythrocyte membrane protein band 4.1",@"EPB41",@"Erythroleukemia",@"Erythrophobia",
+    @"Erythroplakia",@"Erythroprosopalgia",@"Eschar",@"Excherichia coli",@"Eskalith",@"Esophageal",
+    @"Esophageal acid infusion test",@"Esophageal reflux",@"Esophageal speech",
+    @"Acute esophageal stricture",@"Chronic esophageal stricture",@"Esophageal ulcer",
+    @"Esophagectomy",@"Esophagogastric temponade",@"Esophagogastroduodenoscopy",@"Esophagoscopy",
+    @"Esophagram",@"Esophagus",@"Esotropia",@"Essential",@"Essential fatty acid",@"Essential oil",
+    @"Essential vulvodynia",@"Estimated date of confinement",@"EDC",@"Estrogen",
+    @"Estrogen replacement thrapy"];
     [MedicalWordStore addObjectsFromArray:EWord];
     return MedicalWordStore;
 }
