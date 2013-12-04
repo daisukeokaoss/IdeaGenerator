@@ -1014,7 +1014,28 @@
     @"Trans fatty acid",@"Fatty acids",@"Fatty alcohol:NAD+ oxidoreductase deficiency",
     @"Fatty aldehyde dehydrogenase deficiency",@"Fauces",@"Fava bean",@"Favism",@"Fear of age",
     @"Fear of animals",@"Fear of bacteria",@"Fear of bees",@"Fear of being buried alive",
-    @"Fear of birds",@"Fear of blood",@"Fear of blushing"];
+    @"Fear of birds",@"Fear of blood",@"Fear of blushing",@"Fear of cats",@"Fear of children",
+    @"Fear of closed spaces",@"Fear of cold",@"Fear of crossing streets",@"Fear of demons",
+    @"Fear of depths",@"Fear of dogs",@"Fear of drinking alcohol",@"Fear of dust",@"Fear of faces",
+    @"Fear of flowers",@"Fear of flying",@"Fear of fur",@"Fear of ghosts",@"Fear of going to bed",
+    @"Fear of having a malformed child",@"Fear of heart",@"Fear of heights",@"Fear of horses",
+    @"Fear of insects",@"Fear of intercourse",@"Fear of joy",@"Fear of loneliness",
+    @"Fear of marriage",@"Fear of men",@"Fear of mirrors",@"Fear of money",@"Fear of new things",
+    @"Fear of nudity",@"Fear of oneself",@"Fear of pain",@"Fear of pleasure",@"Fear of public places",
+    @"Fear of self",@"Fear of sexual intercourse",@"Fear of sharks",@"Fear of socializing",
+    @"Fear of solitude",@"Fear of spiders",@"Fear of the dark",@"Fear of number 13",
+    @"Fear of thunder",@"Fear of thunderstorms",@"Fear of travel",@"Fear of vomiting",
+    @"Fear of water",@"Fear of women",@"Fear of work",@"Fear of worms",@"Febrile",@"Febrile herpes",
+    @"Fecal",@"Fecal occult blood test",@"Fecalith",@"Faces",@"Fecund",@"Fecundity",
+    @"Federal Emergency Management Agency",@"Fee for service",@"Feed contaminant",
+    @"Feedback",@"Feeding tube",@"Feet",@"Female",@"Female condom",@"Female external genitalia",
+    @"Female genitalia",@"Female gonad",@"Female internal genitalia",@"Female organs of reproduction",
+    @"Female orgasmic dysfunction",@"Female pelvis",@"Female urethral meatus",
+    @"Female urethral opening",@"Fermara",@"Femicide",@"Femoral",@"Femoral artery",
+    @"Avascular necrosis of the femoral head",@"Femoral vein",@"Femur",@"Fenestration",
+    @"Ferritin",@"Cerebrovascular ferrocalcinosis",@"Ferroniere",@"Fertile",@"Fertility",
+    @"Fertility awareness",@"Fertilization",@"in vitro fertilization",@"Fetal alcohol effects",
+    @"FAE",@"Fetal circulation",@"Fetal distress"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
