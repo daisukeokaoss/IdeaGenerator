@@ -984,7 +984,32 @@
     @"FMO3",@"FMR1",@"FMRI",@"FMRP",@"FOBT",@"FTA-ABS test",@"FTT",@"FXTAS",@"Fabricated illness by proxy",
     @"Masklike face",@"Facelift surgery risks",@"Facial canal introitus",@"Facial muscle",
     @"Facial nerve",@"Facial nerve paralysis",@"Facies",@"Facio-auriculo-vertebral spectrum",
-    @"Facioauriculovertebral sequence",@"Faciodigitogenital dysplasia",@"Faciogenital dysplasia",];
+    @"Facioauriculovertebral sequence",@"Faciodigitogenital dysplasia",@"Faciogenital dysplasia",
+    @"Facioscapulohumerial muscular dystrophy",@"Factitious disease by proxy",
+    @"Factitious disorder by proxy",@"Factor V",@"Factor V Leiden",@"Factor Ⅷ",@"Factor X",
+    @"Colony-stimulating factor",@"Rheumatoid factor",@"Facultative",@"Facultative heterochromatin",
+    @"Fahr syndrome",@"Fahrenheit",@"Failure to thrive",@"FTT",@"Adrenal failure",@"Autonomic failure",
+    @"Heart failure",@"Respiratory failure",@"Fallopian tube",@"False negative",@"False positive",
+    @"False rib",@"False vocal cord",@"False vocal fold",@"Familial",@"Familial ALS",
+    @"Familial Mediterranean fever",@"FMF",@"Familial Perkinson disease type 1",
+    @"Familial Parkinson disease type 10",@"Familial Parkinson disease type 11",
+    @"Familial Parkinson disease type 2",@"Familial Parkinson disease type 3",
+    @"Familial Parkinson disease type 4",@"Familial Parkinson disease type 5",
+    @"Familial Parkinson disease type 6",@"Familial Parkinson disease type 7",
+    @"Familial Parkinson disease type 8",@"Familial Parkinson disease type 9",
+    @"Autosomal recessive familial adenomatous coli",@"Familial adenomatous polyposis",
+    @"Autosomal recessive familial adenomatous polyps",@"Familial cylindromatosis",
+    @"Familial dysautonomia",@"Familial eosinophilia",@"Familial hypercholesterolemia",
+    @"Familial hypertrophic cardiomyopathy",@"Familial juvenile nephronophthisis",
+    @"FJN",@"Familial mental retardation 1",@"Familial mental retardation protein",
+    @"Familial polyposis",@"Autosomal recessive familial polyposis of colon",
+    @"Familial polyposis of entire GI tract",@"Family",@"Family history",@"Family medicine",
+    @"Family physician",@"Natural family planning",@"Family practice",@"Family therapy",
+    @"Extended family",@"Gene family",@"Nuclear family",@"Fanconi pancytopenia",
+    @"Fantod",@"Fari Amini",@"Fariborz Amini",@"Fart",@"Fascia",@"Fasciculation",@"Fasciitis",
+    @"Eosinophilic fasciitis",@"Plantar fasciitis",@"Fascinoma",@"Fasciola hepatica",
+    @"Fascioliasis",@"Fasciolopsiasis",@"Fasciolopsis",@"Fasciolopsis buski",@"Fasting",
+    @"Fat"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
