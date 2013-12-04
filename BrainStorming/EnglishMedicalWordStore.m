@@ -1035,7 +1035,14 @@
     @"Avascular necrosis of the femoral head",@"Femoral vein",@"Femur",@"Fenestration",
     @"Ferritin",@"Cerebrovascular ferrocalcinosis",@"Ferroniere",@"Fertile",@"Fertility",
     @"Fertility awareness",@"Fertilization",@"in vitro fertilization",@"Fetal alcohol effects",
-    @"FAE",@"Fetal circulation",@"Fetal distress"];
+    @"FAE",@"Fetal circulation",@"Fetal distress",@"Fetal dystocia",@"Fetal fibronectin",
+    @"Fetal infant",@"Fetal mortality rate",@"Fetal rubella effects",@"Fetal surgery",
+    @"Fetal vaccinia",@"Fetishism",@"Alpha-fetoprotein",@"AFP",@"Fetoscope",@"Fetoscopy",
+    @"Fetus",@"Fever",@"Fever blister",@"Fever of Unknown Origin",@"Fever therapy",
+    @"Hemorrhagic fever with renal syndrome",@"Ebola virus fever",@"Lassa fever",
+    @"Mediterranean fever",@"Meuse fever",@"Philippine hemorrhagic fever",@"Pontiac fever",
+    @"Q Fever",@"Rift Valley Fever",@"Rocky Mountain spotted fever",@"RMSF",@"Southeast Asian hemorrhagic Fever",
+    @"Thai hemorrhagic fever"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
