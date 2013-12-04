@@ -974,10 +974,18 @@
     @"National Eye Institute",@"NEI",@"Eye bank",@"Eye bleed",@"Eye chart test",@"Snellen's sys chart",
     @"Eye color",@"Eye pressure test",@"Eye retraction syndrome",@"Absent eye",@"Dry eye",@"Lazy eye",
     @"No eye",@"Small eye",@"Eyedrop test",@"Eyelash",@"Eyelid",@"Eyelid granulation",@"Eyelid myokymia",
-    @"Adult ptosis of the eyelids",@"Congenital ptosis of the eyelids",@"Flashing lights in the eyes",
-    @"Eyetooth",@"F(coefficient of inbreeding)",@"F(Symbol)",@"FAE",@"fetal alcohol effects",
-    @"FALDH deficiency",@"FAO deficiency",@"FAP",@"FAS",@"FAS diagnosis",@""];
+    @"Adult ptosis of the eyelids",@"Congenital ptosis of the eyelids"];
     [MedicalWordStore addObjectsFromArray:EWord];
+    NSArray *FWord = @[@"Flashing lights in the eyes",
+                       @"Eyetooth",@"F(coefficient of inbreeding)",@"F(Symbol)",@"FAE",@"fetal alcohol effects",
+                       @"FALDH deficiency",@"FAO deficiency",@"FAP",@"FAS",@"FAS diagnosis",@"FAS gene",@"FBLN3",
+    @"FBLN5",@"FBN1",@"FCC",@"FDA",@"FDA recalls",@"FEMA",@"FET1",@"FEV1",@"FFI",@"FFN",@"FGD1",
+    @"FGFR2",@"FGFR3",@"FISH",@"FLAP",@"FLT-3 inhibitor",@"FMDV",@"FMF",@"Familial Mediterranean fever",
+    @"FMO3",@"FMR1",@"FMRI",@"FMRP",@"FOBT",@"FTA-ABS test",@"FTT",@"FXTAS",@"Fabricated illness by proxy",
+    @"Masklike face",@"Facelift surgery risks",@"Facial canal introitus",@"Facial muscle",
+    @"Facial nerve",@"Facial nerve paralysis",@"Facies",@"Facio-auriculo-vertebral spectrum",
+    @"Facioauriculovertebral sequence",@"Faciodigitogenital dysplasia",@"Faciogenital dysplasia",];
+    [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
 
