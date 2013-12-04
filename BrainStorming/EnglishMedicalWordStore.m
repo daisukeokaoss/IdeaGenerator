@@ -1009,7 +1009,12 @@
     @"Fantod",@"Fari Amini",@"Fariborz Amini",@"Fart",@"Fascia",@"Fasciculation",@"Fasciitis",
     @"Eosinophilic fasciitis",@"Plantar fasciitis",@"Fascinoma",@"Fasciola hepatica",
     @"Fascioliasis",@"Fasciolopsiasis",@"Fasciolopsis",@"Fasciolopsis buski",@"Fasting",
-    @"Fat"];
+    @"Fat",@"Fat Embolism",@"Fat cell",@"Infant fat requirements",@"Fat scales",@"Brown fat",
+    @"Saturated fat",@"Trans fat",@"Unsaturated fat",@"Father",@"Fats",@"Fatty acid",
+    @"Trans fatty acid",@"Fatty acids",@"Fatty alcohol:NAD+ oxidoreductase deficiency",
+    @"Fatty aldehyde dehydrogenase deficiency",@"Fauces",@"Fava bean",@"Favism",@"Fear of age",
+    @"Fear of animals",@"Fear of bacteria",@"Fear of bees",@"Fear of being buried alive",
+    @"Fear of birds",@"Fear of blood",@"Fear of blushing"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
