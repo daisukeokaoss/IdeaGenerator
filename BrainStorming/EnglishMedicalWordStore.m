@@ -1042,7 +1042,20 @@
     @"Hemorrhagic fever with renal syndrome",@"Ebola virus fever",@"Lassa fever",
     @"Mediterranean fever",@"Meuse fever",@"Philippine hemorrhagic fever",@"Pontiac fever",
     @"Q Fever",@"Rift Valley Fever",@"Rocky Mountain spotted fever",@"RMSF",@"Southeast Asian hemorrhagic Fever",
-    @"Thai hemorrhagic fever"];
+    @"Thai hemorrhagic fever",@"West Nile Fever",@"Wolhynia Fever",@"Breakbone fever",
+    @"Cat scratch fever",@"Chikungunya fever",@"Dandy fever",@"Dengue fever",@"Dengue hemorrhagic fever",
+    @"DHF",@"Desert fever",@"Dumdum fever",@"Epidemic hemorrhagic fever",@"Familial Mediterranean Fever",
+    @"FMF",@"Five-day fever",@"Hemorrhagic fever",@"Jail fever",@"Puerperal fever",@"Quintan fever",
+    @"Relapsing fever",@"Remittent fever",@"Rheumatic fever",@"Scarlet fever",@"Shin bone fever",
+    @"Splenic fever",@"Spotted fever",@"Tick fever",@"Trench fever",@"Typhoid fever",
+    @"Undulant fever",@"Valley fever",@"Yellow fever",@"Feverfew",@"Fibril",@"Fibrillation",
+    @"Atrial fibrillation",@"Auricular fibrillation",@"Ventricular fibrillation",
+    @"Fibrillin 1",@"Fibrin",@"Fibrinogen",@"Fibro fog",@"Fibroadenoma",@"Fibroblast",
+    @"Fibroblast growth factor receptor 2",@"Fibrodysplasia ossificans progressiva",
+    @"FOP",@"Trichodiscomas and acrochordons fibrofolliculomas",@"Fibroid",@"Fibroids",
+    @"Fibroma",@"Cemento-ossifying fibroma",@"Desmoplastic fibroma",@"Nonossifying fibroma",
+    @"Fetal fibronectin",@"Fibrosarcoma",@"Cystic fibrosis",@"Premacular fibrosis",
+    @"Pulmonary fibrosis"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
