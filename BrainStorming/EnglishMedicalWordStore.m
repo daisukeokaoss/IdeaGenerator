@@ -1055,7 +1055,19 @@
     @"FOP",@"Trichodiscomas and acrochordons fibrofolliculomas",@"Fibroid",@"Fibroids",
     @"Fibroma",@"Cemento-ossifying fibroma",@"Desmoplastic fibroma",@"Nonossifying fibroma",
     @"Fetal fibronectin",@"Fibrosarcoma",@"Cystic fibrosis",@"Premacular fibrosis",
-    @"Pulmonary fibrosis"];
+    @"Pulmonary fibrosis",@"Radiation fibrosis",@"Fibrositis",@"Monostotic fibrous dysplasia",
+    @"Polyostotic fibrous dysplasia",@"Fibula",@"Fibulin 3",@"Fibulin 5",@"Visual field",
+    @"Fievre boutonneuse",@"Fifth cranial nerve",@"Filariasis",@"Lymphatic filariasis",
+    @"Filial",@"Filler",@"Film",@"AP Film",@"PA Film",@"Lateral film",@"Tear film",@"Filoviridae",
+    @"Filovirus",@"Fine needle aspiration",@"Finger prick",@"Finger stick",@"Fingernail",
+    @"Fingerprint",@"Six fingers",@"Finished DNA sequence",@"Fire ant sting",@"Fire ants",
+    @"Fire gilding",@"St.Antony's fire",@"Fireworks injury",@"First American medical journal",
+    @"First American medical school",@"First and second branchial arch syndrome",
+    @"First cranial nerve",@"First degree burn",@"First do no harm",@"First stage of labor",
+    @"Fish bowl granuloma",@"Fish odor syndrome",@"Fisher's exact test",@"Fissure",
+    @"Palpebral Fissure",@"Fistula",@"Anal fistula",@"Fistulize",@"Five-day fever",
+    @"Five-lipoxygenase activating protein",@"Five-lipoxygenase-activating protein",
+    @"External Fixation",@"Internal fixation"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
