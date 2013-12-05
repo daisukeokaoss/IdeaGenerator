@@ -1067,7 +1067,19 @@
     @"Fish bowl granuloma",@"Fish odor syndrome",@"Fisher's exact test",@"Fissure",
     @"Palpebral Fissure",@"Fistula",@"Anal fistula",@"Fistulize",@"Five-day fever",
     @"Five-lipoxygenase activating protein",@"Five-lipoxygenase-activating protein",
-    @"External Fixation",@"Internal fixation"];
+    @"External Fixation",@"Internal fixation",@"Fixative",@"Flail chest",@"Flare",@"Flashing",
+    @"Flat affect",@"Flat condyloma",@"Flat feet",@"Flatfeet",@"Flatfoot",@"Flatulent",
+    @"Flatus",@"Flavin-containing monooxygenase-3",@"FMO3",@"Flaviviridae",@"Flavivirus",
+    @"Flavivirus encephalitis",@"Flavoproteins",@"Flax seed",@"Flesh-eating bacteria",
+    @"Flexion",@"Flexner Report",@"Floating rib",@"Floating-Harbor syndrome",@"Flood",
+    @"Floppy baby syndrome",@"Floppy valve syndrome",@"Flora",@"Florence R. Sabin",
+    @"Flores man",@"Flow cytometry",@"Flow karyotyping",@"Flu",@"Asian Flu",@"Hong Kong Flu",
+    @"Spanish Flu",@"Avian flu",@"Bird flu",@"Stomach flu",@"Fluctuating rib",@"Cerebrospinal fluid",
+    @"CSF",@"Fluorescein angiography",@"Fluorescent in situ hybridization",@"Fluorescent microscope",
+    @"Fluorescent treponemal antibody absorbed test",@"Fluoridation",@"Water fluoridation",
+    @"Fluoride",@"Fluorobody",@"Fluoroscopy",@"Fluorosis",@"Flush",@"Flutter",@"Atrial flutter",
+    @"Fear of flying",@"Focal",@"Focal gigantism",@"Focal sclerosis",@"Focused H and P",
+    @"Folate",@""];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
