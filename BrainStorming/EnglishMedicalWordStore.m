@@ -1084,7 +1084,7 @@
     @"Fong disease",@"Fontanel",@"Fontanelle",@"Food",@"Food and Drug Administration",@"Food insecure",
     @"Food irradiation",@"Food security",@"Functional food",@"Super food",@"Food-insecure",
     @"Food-secure",@"Foot",@"Foot drop",@"Foot fungus",@"Foot type",@"Athlete foot",@"Foot-and-mouth disease",
-    @""];
+    @"Foot-drop",@"Foot-drop brace",@"Footdrop",@"Footling presentation",@"Foramen",@"Foramen magnum",];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
