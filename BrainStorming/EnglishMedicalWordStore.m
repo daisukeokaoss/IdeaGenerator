@@ -1079,7 +1079,12 @@
     @"Fluorescent treponemal antibody absorbed test",@"Fluoridation",@"Water fluoridation",
     @"Fluoride",@"Fluorobody",@"Fluoroscopy",@"Fluorosis",@"Flush",@"Flutter",@"Atrial flutter",
     @"Fear of flying",@"Focal",@"Focal gigantism",@"Focal sclerosis",@"Focused H and P",
-    @"Folate",@""];
+    @"Folate",@"Folding motif",@"Foley catheter",@"Folic acid",@"Folinic acid",@"Hair follicle",
+    @"Follicular cyst of the ovary",@"Fomentation",@"Fondation Jean Dausset-CEPH",
+    @"Fong disease",@"Fontanel",@"Fontanelle",@"Food",@"Food and Drug Administration",@"Food insecure",
+    @"Food irradiation",@"Food security",@"Functional food",@"Super food",@"Food-insecure",
+    @"Food-secure",@"Foot",@"Foot drop",@"Foot fungus",@"Foot type",@"Athlete foot",@"Foot-and-mouth disease",
+    @""];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
