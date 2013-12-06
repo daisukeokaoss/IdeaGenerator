@@ -1091,8 +1091,28 @@
     @"Forensic",@"Forensic anthropology",@"Forensic genetics",@"Forensic medicine",
     @"DNA Forensics",@"Foreskin",@"Inflammation of the foreskin and glans",@"Inflammation of the foreskin",
     @"Tight foreskin",@"Forestier disease",@"Forget me",@"Forgotton disease",@"Formaldehyde",
-    @"Formalin",@"Formication",@"Formula feeding",@"Infant formula",@"Formulary"];
+    @"Formalin",@"Formication",@"Formula feeding",@"Infant formula",@"Formulary",@"Fornication",
+    @"Fornices",@"Fornix",@"Fornix cerebri",@"Fornix conjunctivae",@"Fornix uteri",@"Fornix vaginae",
+    @"Founder effect",@"Four-finger crease",@"Four-finger line",@"Fourth cranial nerve",
+    @"Fourth disease",@"Fourth stage of labor",@"Fourth ventricle",@"Fovea",@"Fovea centralis",
+    @"Ejection fraction",@"Fractured hip",@"Fragile X chromosome",@"Fragile site",@"Fraily syndrome",
+    @"Frambesia",@"Open reading frame",@"Reading frame",@"Framingham study",@"Francis Crick",
+    @"Frankenfood",@"Frasier syndrome",@"Fraternal twin",@"Freckle",@"Fred L.Soper",@"Fredrickson",
+    @"Donald Fredrickson",@"French disease",@"French paradox",@"Frenulum",@"Frenum",@"Urinary frequency",
+    @"Freudian",@"Frey syndrome",@"Friend in dying",@"Frigidity",@"Frontal",@"Frontal bone",
+    @"Frontal lobe",@"Frotteurism",@"Fructose",@"Fruit fly",@"Fruitfly genome",@"Ft.",
+    @"Fuchs endothelial corneal dystrophy",@"Fugue state",@"Full gene sequence",@"Functional food",
+    @"Functional gene test",@"Functional genomics",@"Functional hemispherectomy",
+    @"Functional magnetic resonance imaging",@"Fundus",@"Retinal fundus",@"Fungal",
+    @"Fungi",@"Fungicidal",@"Fungicide",@"Fungiform",@"Fungiform papilla",@"Fungistat",
+    @"Fungistatic",@"Fungus",@"Foot fungus",@"Funnel chest",@"Pectus excavatum",@"Funny bone",
+    @"Furuncle",@"Fusiform",@"Fusiform aneurysm",@"Fusion inhibitor",@"Spinal fusion",
+    @"Fusospirillary gingivitis",@"Fusospirillosis",@"Fusospirochetal gingivitis"];
     [MedicalWordStore addObjectsFromArray:FWord];
+    NSArray *GWord = @[@"G",@"gram",@"G protein",@"G-CSF",@"GAD",@"GALT",@"GALT deficiency",
+    @"GB virus C",@"GBS",@"GBV-C",@"GCRC",@"GD",@"GDB",@"GDF-8",@"GFAP",@"GFP",@"GHB",@"GI",@"GI track",
+    @"GIFT",@"GIST",@"GJB2",@"GLA",@""];
+    [MedicalWordStore addObjectsFromArray:GWord];
     return MedicalWordStore;
 }
 
