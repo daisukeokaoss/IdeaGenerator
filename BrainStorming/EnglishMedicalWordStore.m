@@ -1084,7 +1084,14 @@
     @"Fong disease",@"Fontanel",@"Fontanelle",@"Food",@"Food and Drug Administration",@"Food insecure",
     @"Food irradiation",@"Food security",@"Functional food",@"Super food",@"Food-insecure",
     @"Food-secure",@"Foot",@"Foot drop",@"Foot fungus",@"Foot type",@"Athlete foot",@"Foot-and-mouth disease",
-    @"Foot-drop",@"Foot-drop brace",@"Footdrop",@"Footling presentation",@"Foramen",@"Foramen magnum",];
+    @"Foot-drop",@"Foot-drop brace",@"Footdrop",@"Footling presentation",@"Foramen",@"Foramen magnum",
+    @"Foramen of Magendie",@"Foramen ovale",@"Interventricular foramen",@"Intervertebral foramen",
+    @"Neural foramen",@"Foramina",@"Foramina of Luschka",@"Forced expiratory volume",
+    @"Forceps",@"Obstetrical forceps",@"Forearm",@"Foreign body airway obstruction",
+    @"Forensic",@"Forensic anthropology",@"Forensic genetics",@"Forensic medicine",
+    @"DNA Forensics",@"Foreskin",@"Inflammation of the foreskin and glans",@"Inflammation of the foreskin",
+    @"Tight foreskin",@"Forestier disease",@"Forget me",@"Forgotton disease",@"Formaldehyde",
+    @"Formalin",@"Formication",@"Formula feeding",@"Infant formula",@"Formulary"];
     [MedicalWordStore addObjectsFromArray:FWord];
     return MedicalWordStore;
 }
