@@ -1213,7 +1213,20 @@
     [MedicalWordStore addObjectsFromArray:GWord];
     NSArray *HWord = @[@"H",@"H and H",@"H and P",@"H. erectus",@"H. floresiensis",@"H. flu",@"H. flu genome",
         @"H. flu immunization",@"H. heilmannii",@"H. sapiens",@"HAART",@"HAPE",@"HAV",@"HAVRIX",
-        @"HAVS",@"HBIG",@"HBV"];
+        @"HAVS",@"HBIG",@"HBV",@"HCFA",@"HCG",@"HCM",@"HCV",@"HDL",@"HDR syndrome",@"HDV",@"HELLP syndrome",
+        @"HEPA",@"HER1",@"HER2",@"HEV",@"HGD",@"HHS",@"HHT",@"HHV-1",@"HHV-2",@"HHV-3",@"HHV-4",@"HHV-5",
+        @"HHV-6",@"HHV-7",@"HHV-8",@"HIB",@"HIB immunization",@"HIPAA",@"Acute HIV infection",
+        @"Primary HIV infection",@"HIV test",@"HLA",@"HLA-B57",@"HMPS",@"HMPV",@"HMS1",@"HNP",
+        @"HNPCC",@"HPE",@"HPIV",@"HPS",@"HPV",@"HRT",@"Hormone replacement therapy",@"HS",
+        @"HSA",@"HSAN Ⅲ",@"HSP",@"HT1A",@"HTLV",@"HTLV-Ⅰ",@"HTLV-Ⅱ",@"HTLV-Ⅲ",@"HTR1A",@"HUGO",
+        @"HUS",@"Habitual abortion",@"Habitus",@"Haemophilus influenzae genome",@"Haemophilus influenzae type B",
+        @"Haemophilus influenzae type B immunization",@"HIB immunization",@"Samuel hahnemann",
+        @"Hair follicle",@"Hair of the dog",@"Exclamation point hair",@"Lanugal hair",@"Hair-on-end skull",
+        @"Hairball",@"Hairy-cell leukemia",@"Hallervorden-Spatz disease",@"Hallucination",
+        @"Hypnagogic hallucination",@"Musical hallucination",@"Hallucinogen",@"Hallucinogenic",
+        @"Musical hallucinosis",@"Hallux",@"Hallux valgus",@"Hallux varus",@"Hamartoma",@"Hypothalamic hamartoma",
+        @"Hammer",@"Hammer toe",@"Hamstring",@"Hand,foot,and mouth disease",@"Hand-arm vibration syndrome",
+        @"Hand-foot-and-mouth disease",@"Handedness",@"Hangover",@""];
     [MedicalWordStore addObjectsFromArray:HWord];
     return MedicalWordStore;
 }
