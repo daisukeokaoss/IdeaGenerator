@@ -1155,7 +1155,32 @@
     @"Genoplasty",@"Genotoxin",@"Genotype",@"Genu",@"Medical geography",@"George W.Thorn",
     @"Gephyrophobia",@"Gerascophobia",@"Geriatric medicine",@"Geriatrics",
     @"Germ",@"Germ cell",@"Germ cell tumor",@"Germ line",@"German disease",@"Germanium",@"Germinoma",
-    @"Germline mutation",@"Gerstmann-Staussler disease"];
+    @"Germline mutation",@"Gerstmann-Staussler disease",@"Gerstmann-Straussler syndrome",
+    @"Gerstmann-Straussler-Scheinker disease",@"Gerstmann-Straussler-Scheinker syndrome",
+    @"Gertie F.Marx",@"Gesell Developmental Schedules",@"Gestalt therapy",@"Gestation",
+    @"Gestation period",@"Gestational carrier",@"Gestational hypertension",@"Gesundheit",
+    @"Giant cell arteritis",@"Giant cell tumor of bone",@"malignant giant cell tumor",
+    @"Giant hypertrophy of gastric mucosa",@"Giant intestinal fluke",@"Giant platelet syndrome",
+    @"Giardia",@"Giardiasis",@"Gibbon",@"Gibbon heart-lung machine",@"John H. Gibbon Jr",
+    @"Gigantism",@"Eunuchoid gigantism",@"Focal gigantism",@"Pituitary gigantism",@"Ginger",
+    @"Gingiva",@"Gingivitis",@"Vincent Gingivitis",@"Acute membranous gingivitis",
+    @"Acute necrotizing ulcerative gingivitis",@"Fusospirillary ginsivitis",
+    @"Fusospirochetal gingivitis",@"Necrotizing gingivitis",@"Phagedenic gingivitis",
+    @"Ulcerative gingivitis",@"Gingko biloba",@"Ginseng",@"Glabella",@"Gland",@"Gland of external secretion",
+    @"Gland of internal secretion",@"Cowper's Gland",@"Meibomian Gland",@"Adrenal gland",
+    @"Bulbourethral gland",@"Endocrine gland",@"Exocrine gland",@"Lacrimal gland",@"Mammary gland",
+    @"Palpebral gland",@"Pituitary gland",@"Prostate gland",@"Salivary gland",@"Sublingual gland",
+    @"Sudoriferous gland",@"Sweat gland",@"Tarsal gland",@"thymus gland",@"Thyroid gland",
+    @"Glanders",@"Glandular fever",@"Glans",@"Inflammation of the glans and foreskin",
+    @"Inflammation of the glans penis",@"Glass eye",@"Gleason score",@"Glenn shunt",
+    @"Glenohumeral dislocation",@"Glenoid labrum",@"Gliadin",@"Glial cell",@"Glial fibrillary acidic protein",
+    @"Glioblastoma multiforme",@"Glioma",@"Optic glioma",@"Visual pathway glioma",@"Gliosis",
+    @"Glisson's capsule",@"Gln",@"Global Initiative for Chronic Obstructive Lung Dis",
+    @"Global warming",@"Pale globe",@"Globus",@"Globus hystericus",@"Globus major",@"Globus minor",
+    @"Globus pallidus",@"Glomerular",@"Glomeruli",@"Glomerulus",@"Glossal",@"Glossitis",
+    @"Glossolalia",@"Glossopharyngeal nerve",@"Glottis",@"Glu",@"Glucocentric",@"Glucocerebrosidase deficiency",
+    @"Glucocorticoid",@"Glucosamine",@"UDP-Glucuronosyltransferase",@"Glutamate",@"Glutamic acid",
+    @""];
     [MedicalWordStore addObjectsFromArray:GWord];
     return MedicalWordStore;
 }
