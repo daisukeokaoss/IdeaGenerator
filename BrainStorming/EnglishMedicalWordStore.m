@@ -1180,8 +1180,41 @@
     @"Globus pallidus",@"Glomerular",@"Glomeruli",@"Glomerulus",@"Glossal",@"Glossitis",
     @"Glossolalia",@"Glossopharyngeal nerve",@"Glottis",@"Glu",@"Glucocentric",@"Glucocerebrosidase deficiency",
     @"Glucocorticoid",@"Glucosamine",@"UDP-Glucuronosyltransferase",@"Glutamate",@"Glutamic acid",
-    @""];
+    @"Glutamine",@"Glutathione S-transferase",@"Glutathione S-transferase omega-1",
+    @"Omega-1 glutathione S-transferase",@"Gluteal",@"Gluten",@"Gluten enteropathy",@"Gluteus maximus",
+    @"Gly",@"Glycemic index",@"Glycine",@"Glycobiology",@"Glycogen storage disease",
+    @"Glycogen storage disease type Ⅴ",@"Glycohemoglobin",@"Glycopeptide",@"Glycoprotein",
+    @"Glycosylated hemoglobin",@"Gm",@"gram",@"Gnathostomiasis",@"God bless you",@"Godfrey Hounsfield",
+    @"Goiter",@"Deffuse toxic goiter",@"Iodide goiter",@"Toxic multinodular goiter",@"Goitrogenic foods",
+    @"Joseph goldberger",@"Goldenhar syndrome",@"Goldring",@"Sidney goldring",@"Golfer's cramp",
+    @"Gonad",@"Female gonad",@"Indifferent gonad",@"Male gonad",@"Gonadotropin",
+    @"Human chorionic gonadotropin",@"Gonarthritis",@"Gonorrhea",@"Good Samaritan",@"Good Samaritan law",
+    @"Good-for-you bacteria",@"Goodman syndrome",@"Goodpasture syndrome",@"Goose bump",
+    @"Gooseflesh",@"Gorham disease",@"Gorlin syndrome",@"Gorlin syndrome Ⅱ",@"Gorlin-Goltz syndrome",
+    @"Gottron sign",@"Gower syndrome",@"Situational syncope",@"Graft",@"Graft-versus-host disease",
+    @"Gram",@"Gram calorie",@"Gram stain",@"Gram-negative",@"Gram-positive",@"Granary weevil",
+    @"Grand mal",@"Grand mal epilepsy",@"Grand multipara",@"Grand rounds",@"Granny cam",
+    @"Granny-cam",@"Grannycam",@"Granular leukocyte",@"Granulation",@"Granulocyte",
+    @"Granulocyte colony-stimulating factor",@"Granulocytopenia",@"Granuloma",@"Granuloma annulare",
+    @"Calcified granuloma",@"Fish bowl granuloma",@"Allergic granulomatosis",@"Granulomatous colitis",
+    @"Grapefruit diet",@"Gravid",@"Gray",@"Gray baby syndrome",@"Gray matter",@"Gray syndrome",
+    @"Gray's Anatomy",@"Great pox",@"Great saphenous vein",@"Green fluorescent protein",
+    @"Gregarious",@"Gregarious parasite",@"Amsler Grid",@"Grief",@"Grief therapy",@"Anticipatory grief",
+    @"Complicated grief",@"Public grief",@"Unresolved grief",@"Groin",@"Gross anatomy",@"Gross hematuria",
+    @"Group B streptococcus infection",@"Group therapy",@"Growing pains",@"Growth and differentiation factor 8",
+    @"Growth differentiation factor 8",@"Growth hormone",@"Growth in height",@"Normal growth",
+    @"Gtt.",@"Gua sha",@"Gua-sha",@"Guanine",@"Abdominal Guarding",@"Guasha",@"Guided imagery",
+    @"Guillotine",@"Guinea pig",@"Gulf war syndrome",@"Gullet",@"Gun stock deformity",
+    @"Gunnar B. Stickler",@"Gustatolacrimal reflex",@"Gustatory sweating",@"Gustavson syndrome",
+    @"Guthrie test",@"Gy",@"Gymnophobia",@"Gyn-",@"Gyne-",@"Gyneco-",@"Gynecoid",@"Gynecoid obesity",
+    @"Gynecoid pelvis",@"Gynecologic oncologist",@"Gynecologist",@"Gynecology",@"Gynephobia",
+    @"Gyno-",@"Gyri",@"Gyrus",@"Gyrus lingualis",@"Gyrus occipitotemporalis medialis",
+    @"Lingual Gyrus"];
     [MedicalWordStore addObjectsFromArray:GWord];
+    NSArray *HWord = @[@"H",@"H and H",@"H and P",@"H. erectus",@"H. floresiensis",@"H. flu",@"H. flu genome",
+        @"H. flu immunization",@"H. heilmannii",@"H. sapiens",@"HAART",@"HAPE",@"HAV",@"HAVRIX",
+        @"HAVS",@"HBIG",@"HBV"];
+    [MedicalWordStore addObjectsFromArray:HWord];
     return MedicalWordStore;
 }
 
