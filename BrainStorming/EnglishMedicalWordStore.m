@@ -1153,7 +1153,9 @@
     @"Mustard Arabidopsis thaliana genome",@"Rice genome",@"Roundworm genome",@"Yeast genome",
     @"Genomic",@"Genomic imprinting",@"Genomic library",@"Genomic segment",@"Genomics",@"Structural genomics",
     @"Genoplasty",@"Genotoxin",@"Genotype",@"Genu",@"Medical geography",@"George W.Thorn",
-                ];
+    @"Gephyrophobia",@"Gerascophobia",@"Geriatric medicine",@"Geriatrics",
+    @"Germ",@"Germ cell",@"Germ cell tumor",@"Germ line",@"German disease",@"Germanium",@"Germinoma",
+    @"Germline mutation",@"Gerstmann-Staussler disease"];
     [MedicalWordStore addObjectsFromArray:GWord];
     return MedicalWordStore;
 }
