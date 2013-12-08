@@ -1264,7 +1264,8 @@
         @"Hepatocellular carcinoma",@"Hepatology",@"Hepatoma",@"Hepatomegaly",@"Hepatosplenomegaly",
         @"Hepatotoxic",@"Heptad repeat",@"Hera",@"Herbal",@"Herbal remedy",@"Herbalism",@"Herbalist",
         @"Herbicidal",@"Herbicide",@"Herbicide chemical 2,4-DCP",@"Hereditary ALS",@"Hereditary angioedema",
-        @"Hereditary arthro-ophthalmopathy"];
+        @"Hereditary arthro-ophthalmopathy",@"Hereditary arthroophthalmopathy",@"Hereditary atransferrinemia",
+        @"Hereditary hemorrhagic telangiectasia"];
     [MedicalWordStore addObjectsFromArray:HWord];
     return MedicalWordStore;
 }
