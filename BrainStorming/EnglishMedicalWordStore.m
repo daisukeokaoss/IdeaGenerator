@@ -1366,7 +1366,13 @@
         @"Iatromisia",@"Iatry",@"Ibuprofen",@"Ichthyosis",@"Ichthyosis simplex",@"Ichthyosis vulgaris",
         @"Ichthyosis,spasticity,oligophrenia syndrome",@"Icterus",@"Amaurotic familial idiocy",
         @"Idiopathic",@"Idiopathic nephrotic syndrome of childhood",@"Idiopathic pulmonary arterial hypertension",
-        @"Idiopathic sclerosing cholangitis",@"Idiopathy"];
+        @"Idiopathic sclerosing cholangitis",@"Idiopathy",@"Idiot savant",@"Ig",@"IgA",@"IgD",
+        @"IgE",@"IgG",@"IgM",@"Ile",@"Ileal pouch",@"Crohn Ileitis",@"Terminal Ileitis",
+        @"Crohn Ileocolitis",@"Ileoscopy",@"Ileostomy",@"Ileum",@"Ileus",@"Meconium Ileus",@"Paralytic ileus",
+        @"Iliac",@"Iliac horns",@"Iliopsoas muscle",@"Ilium",@"Acute Illness",@"Altitude illness",
+        @"Chronic illness",@"Heat-related illness",@"Illusion",@"Imagery",@"Imbibe",@"Imbricate",
+        @"Imitrex",@"Immune",@"Immune complex",@"Immune response",@"Immune system",
+        @"Immune thrombocytopenic purpura"];
     [MedicalWordStore addObjectsFromArray:IWord];
     return MedicalWordStore;
 }
