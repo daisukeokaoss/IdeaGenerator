@@ -1303,7 +1303,26 @@
         @"Antidiuretic hormone",@"ADH",@"Cortisol hormone",@"Estrogenic hormone",
         @"Follicle-stimulating hormone",@"FSH",@"Glucocorticoid hormone",@"Growth hormone",
         @"Human chorionic gonadotropin hormone",@"Mineralocorticoid hormone",@"Parathormone hormone",
-        @"Parathyrin hormone",@"Parathyroid hormone",@"Progesterone hormone",@"Secretin hormone"];
+        @"Parathyrin hormone",@"Parathyroid hormone",@"Progesterone hormone",@"Secretin hormone",
+        @"Thyroid hormone",@"Thyroid stimulating hormone",@"TSH",@"Thyrotropin hormone",
+        @"Thyroxine hormone",@"Triiodothyronine Hormone",@"T4 hormone",@"Horner syndrome",
+        @"Hornet sting",@"Horripilation",@"Horror autotoxicus",@"Hospital",@"Hospital code",
+        @"Hospital gown",@"Hospital-acquired infection",@"Hospitalist",@"Host",@"Hotel-Dieu",
+        @"Hounsfield",@"Godfrey Hounsfield",@"House",@"House officer",@"House staff",@"House surgeon",
+        @"Housekeeping gene",@"Housemaid's knee",@"Howard Hughes Medical Institute",
+        @"Hox gene",@"Ht",@"Hughes Investigator",@"Hughlings Jackson",@"John Hughlings Jackson",
+        @"NICHD",@"Human Genome Organisation",@"Human Genome Project",
+        @"National Human Genome Research Institute",@"Human T-lymphotropic virus",
+        @"Human T-lymphotropic virus type Ⅰ",@"Human T-lymphotropic virus type Ⅲ",
+        @"Human chorionic gonadotropin",@"Human chromosome count",@"Human cloning",
+        @"Human embryonic stem cell",@"Human gene map",@"Human gene therapy",@"Human genome",
+        @"Human growth",@"Human herpesvirus 1",@"HHV-1",@"Human herpesvirus 2",@"HHV-2",
+        @"Human herpesvirus 3",@"Human herpesvirus 4",@"Human Herpesvirus 5",@"Human herpesvirus 6",
+        @"Human herpesvirus 7",@"Human herpesvirus 8",@"HHV-8",@"Human kinome",@"Human lymphotropic virus Ⅲ",
+        @"Human metapneumovirus",@"Human neutrophil peptide",@"Human papilloma virus",@"Human papillomavirus",
+        @"Human parainfluenza virus",@"Human pluripotent stem cell",@"Human reproductive cloning",
+        @"Humerus",@"Humidifier",@"Humidifier fever",@"Humor",@"Aqueous humor",@"Humoral",
+        @"Humoralism",@"Humorism",@"Dowager hump",@"Hunter syndrome",@"Huntingtin",@"Hurler syndrome",];
     [MedicalWordStore addObjectsFromArray:HWord];
     return MedicalWordStore;
 }
