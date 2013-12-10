@@ -1473,7 +1473,12 @@
         @"John Hughlings Jackson",@"Jackson-Pratt drain",@"Jacksonian epilepsy",
         @"Jadassohn-Lewandowski Syndrome",@"Jail fever",@"Jakob's disease",@"Jakob-Creutzfeldt disease",
         @"Jamais vu",@"James Ramsay Hunt",@"James Watson",@"Jammed finger",@"Janus kinase 3",
-        @"Japanese encaphalitis"];
+        @"Japanese encephalitis",@"Jaw",@"Jawbone",@"Delusional jealousy",@"Jejunal",
+        @"Jejunostomy",@"Jejunum",@"Jellyfish sting",@"Jenner's method",@"Jennerian method",
+        @"Jennerization",@"Jequirity pea",@"Hypnic jerk",@"Jewett staging system",
+        @"Jimmy Fund",@"Jogger's nails",@"John H. Gibbon,Jr.",@"John Hughlings Jackson",
+        @"John La Montagne",@"John W. Kirkland",@"Johnnies",@"Johnny",@"Johnson-Stevens syndrome",
+        @"Joint",@"AC Joint",@"TM Joint",@"Acetabular joint",@"Acromioclavicular joint"];
     [MedicalWordStore addObjectsFromArray:JWord];
     return MedicalWordStore;
 }
