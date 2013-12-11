@@ -1590,7 +1590,8 @@
         @"Livid",@"Living will",@"Lizard bite",@"Loa loa",@"Lobar",@"Lobe",@"Lobectomy",
         @"Lobotomy",@"Lobstein's disease",@"Lobule",@"Local therapy",@"Local treatment",
         @"Lochia",@"Locked-in syndrome",@"Lockjaw",@"Locomotion",@"Locomotive system",@"Locoregional",
-        @"Locoregional anesthesia",@"Locoregional metastasis",@"Locus",@"Locus minoris resistentiae",];
+        @"Locoregional anesthesia",@"Locoregional metastasis",@"Locus",@"Locus minoris resistentiae",
+        @"Loiasis"];
     [MedicalWordStore addObjectsFromArray:LWord];
     return MedicalWordStore;
 }
