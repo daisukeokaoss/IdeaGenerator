@@ -1591,7 +1591,30 @@
         @"Lobotomy",@"Lobstein's disease",@"Lobule",@"Local therapy",@"Local treatment",
         @"Lochia",@"Locked-in syndrome",@"Lockjaw",@"Locomotion",@"Locomotive system",@"Locoregional",
         @"Locoregional anesthesia",@"Locoregional metastasis",@"Locus",@"Locus minoris resistentiae",
-        @"Loiasis"];
+        @"Loiasis",@"Loin",@"fear of Loneliness",@"Long QT syndrome",@"Long arm of a chromosome",
+        @"Long-chain-3-hydroxyacyl-CoA dehydrogenase def",@"Long-chain-3-hydroxyacyl-CoA dehydrogenase def.",
+        @"Long-term care facility",@"Long-term memory",@"Longevity",@"Longitudinal",@"Longitudinal section",
+        @"Longitudinal study",@"Lordosis",@"Loss-of-function mutation",@"Lou Gehrig disease",
+        @"Louise Brown",@"Love pearls",@"Low blood sugar",@"Low placenta",@"Low platelets",@"Low vision",
+        @"Low vision device",@"Low-grade lymphoma",@"Low-set ear",@"Lower GI series",@"Lower leg",
+        @"Lower motor neuron",@"Lower segment Cesarian section",@"LSCS",@"Lubricant",@"Lucid dreaming",
+        @"Lues",@"Luetic",@"Lumbar",@"Lumbar strain",@"Lumbar vertebrae",@"Lumen",@"Lumpectomy",
+        @"Lung reduction surgery",@"Lung transplant",@"Lung volume reduction surgery",
+        @"National Heart,Lung,and Blood Institute",@"Collapsed lung",@"Lungs",@"Lunula",
+        @"Lunule",@"Lupus",@"Foramina of luschka",@"Luteinizing hormone",@"Luteinzing hormone-releasing hormone",
+        @"Luxation",@"Lycanthropy",@"Lycopene",@"Lymph",@"Lymph gland",@"Lymph node",@"Sentinel lymph node",
+        @"Regional lymphadenitis",@"Lymphadenopathy",@"Lymphadenopathy virus",@"Lymphadenopathy-associated virus",
+        @"Lymphangiogram",@"Lymphangioma",@"Lymphangitis",@"Lymphatic",@"Lymphatic filariasis",
+        @"Lymphatic system",@"Lymphatic tissue",@"Lymphatics",@"Lymphocyte",@"Lymphocytic",
+        @"Acute lymphocytic leukemia",@"ALL",@"Lymphocytosis",@"Lymphogranuloma venereum",@"Lymphoid",
+        @"Lymphoid tissue",@"Lymphoma",@"AIDS-related lymphoma",@"Burkitt Lymphoma",@"MALT lymphoma",
+        @"Aggressive lymphoma",@"High-grade lymphoma",@"Indolent lymphoma",@"Intermediate-grade lymphoma",
+        @"Low-grade lymphoma",@"Lymphoblastic lymphoma",@"Lymphoproliferative",@"Lymphoproliferative disorder",
+        @"benign lymphoreticulosis",@"Lynch syndrome",@"Lyon hypothesis",@"Lyonization",@"Lyophilization",
+        @"Lyophilize",@"Lys",@"Lysenkoism",@"Lysergic acid diethylamide",@"Lysine",@"Lysis",
+        @"Lysosomal enzyme",@"Lysosome",@"Lytic",@"M protein",@"M. avium",@"M. intercellulare",
+        @"M. leprae",@"M. marinum",@"M.D.",@"MAB",@"MAC",@"MADH4",@"MALT",@"MALT lymphoma",
+        @"MAM",@"MAO inhibitor",@"MAOI"];
     [MedicalWordStore addObjectsFromArray:LWord];
     return MedicalWordStore;
 }
