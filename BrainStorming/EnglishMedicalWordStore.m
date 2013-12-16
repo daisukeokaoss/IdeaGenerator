@@ -1729,7 +1729,11 @@
         @"Michael Stuart Brown",@"Micro-",@"Micro-RNA",@"Microabscess",@"Microalbuminuria",
         @"Microangiopathy",@"Microarray",@"Microbe",@"Microbicide",@"Microcephalin",@"Microcephalin 1",
         @"Microchimerism",@"Microcystic corneal dystrophy",@"Microcytic",@"Microdeletion",
-        @"Microdosimetry",@""];
+        @"Microdosimetry",@"Microduplication",@"Microduplication 22q11.2 syndrome",@"Microembolus",
+        @"Microhematuria",@"Microorchidism",@"Micropenis",@"Microphallus",@"Microphthalmia",
+        @"Lenz microphthalmia syndrome",@"Micropigmentation",@"Microscope",@"Compound microscope",
+        @"Electron microscope",@"Fluorescent microscope",@"Simple microscope",@"Microscopic",
+        @"Microscopic anatomy",@"Microscopy",@"Cryo-electron Microscopy",@"Electron microscopy",];
     [MedicalWordStore addObjectsFromArray:MWord];
     return MedicalWordStore;
 }
