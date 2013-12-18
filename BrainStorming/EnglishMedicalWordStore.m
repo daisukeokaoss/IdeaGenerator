@@ -1861,7 +1861,18 @@
         @"Neonatal",@"Neonatal chloramphenicol toxicity",@"Neonatal hyperbilirubinemia",
         @"Neonatal intensive care unit",@"Neonatal jaundice",@"Neonatal lupus",@"Neonatal mortality rate",
         @"Neonate",@"Neonatologist",@"Neonatology",@"Neophobia",@"Neoplasia",@"Neoplasm",@"Neoplastic",
-        @"Nephrectomy",@"Nephritis",@"Acute nephritis",@"Infective tubulointerstitial nephritis"];
+        @"Nephrectomy",@"Nephritis",@"Acute nephritis",@"Infective tubulointerstitial nephritis",
+        @"Interstitial nephritis",@"Lipomatous nephritis",@"Nephro-",@"Nephroblastoma",
+        @"Nephroblastomatosis",@"Nephrocalcinosis",@"Nephrogenic rest",@"Nephrolith",@"Nephrolithiasis",
+        @"Percutaneous nephrolithotripsy",@"PNL",@"Nephrologist",@"Nephrology",@"Nephron",
+        @"Nephronophthisis 1",@"NPH1",@"Nephropathy",@"Diabetic nephropathy",@"Membranous nephropathy",
+        @"Nephrosclerosis",@"Nephrosis",@"Lipoid nephrosis",@"Minimal change nephrotic syndrome",
+        @"Nephrotomogram",@"Nephrotoxic",@"Neprilysin",@"Nerve",@"Nerve cell",@"Nerve compression",
+        @"Nerve conduction study",@"Nerve growth factor",@"Laryngeal nerve palsy",@"Visual nerve pathways",
+        @"Abducent nerve",@"Accessory nerve",@"Afferent nerve",@"Efferent nerve",@"Eighth cranial nerve",
+        @"Eleventh cranial nerve",@"Facial nerve",@"Fifth cranial nerve",@"First cranial nerve",
+        @"Fourth cranial nerve",@"Glossopharyngeal nerve",@"Hypoglossal nerve",@"Ninth cranial nerve",
+        @"Oculomotor nerve",@"Olfactory nerve",@"Optic nerve",@"Pinched nerve",@"Pressor nerve",];
     [MedicalWordStore addObjectsFromArray:NWord];
     return MedicalWordStore;
 }
