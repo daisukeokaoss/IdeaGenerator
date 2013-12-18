@@ -1859,7 +1859,9 @@
         @"Negative calorie diet",@"Negative clinical trial",@"False negative",@"Negative-strand RNA virus",
         @"Child neglect",@"Neisseria",@"Neisseria infection",@"Nematodes",@"Neo-",@"Neocortex",
         @"Neonatal",@"Neonatal chloramphenicol toxicity",@"Neonatal hyperbilirubinemia",
-        @"Neonatal intensive care unit",@""];
+        @"Neonatal intensive care unit",@"Neonatal jaundice",@"Neonatal lupus",@"Neonatal mortality rate",
+        @"Neonate",@"Neonatologist",@"Neonatology",@"Neophobia",@"Neoplasia",@"Neoplasm",@"Neoplastic",
+        @"Nephrectomy",@"Nephritis",@"Acute nephritis",@"Infective tubulointerstitial nephritis"];
     [MedicalWordStore addObjectsFromArray:NWord];
     return MedicalWordStore;
 }
