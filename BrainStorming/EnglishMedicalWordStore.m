@@ -1872,7 +1872,9 @@
         @"Abducent nerve",@"Accessory nerve",@"Afferent nerve",@"Efferent nerve",@"Eighth cranial nerve",
         @"Eleventh cranial nerve",@"Facial nerve",@"Fifth cranial nerve",@"First cranial nerve",
         @"Fourth cranial nerve",@"Glossopharyngeal nerve",@"Hypoglossal nerve",@"Ninth cranial nerve",
-        @"Oculomotor nerve",@"Olfactory nerve",@"Optic nerve",@"Pinched nerve",@"Pressor nerve",];
+        @"Oculomotor nerve",@"Olfactory nerve",@"Optic nerve",@"Pinched nerve",@"Pressor nerve",
+        @"Recurrent laryngeal nerve",@"Sciatic nerve",@"Second cranial nerve",@"Seventh cranial nerve",
+        @"Sixth cranial nerve"];
     [MedicalWordStore addObjectsFromArray:NWord];
     return MedicalWordStore;
 }
