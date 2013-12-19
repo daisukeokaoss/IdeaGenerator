@@ -1874,7 +1874,31 @@
         @"Fourth cranial nerve",@"Glossopharyngeal nerve",@"Hypoglossal nerve",@"Ninth cranial nerve",
         @"Oculomotor nerve",@"Olfactory nerve",@"Optic nerve",@"Pinched nerve",@"Pressor nerve",
         @"Recurrent laryngeal nerve",@"Sciatic nerve",@"Second cranial nerve",@"Seventh cranial nerve",
-        @"Sixth cranial nerve"];
+        @"Sixth cranial nerve",@"Spinal nerve",@"Tenth cranial nerve",@"Third cranial nerve",
+        @"Trigeminal nerve",@"Trochlear nerve",@"Twelfth cranial nerve",@"Vagus nerve",@"Vestibulocochlear nerve",
+        @"Cranial nerves",@"Nervine",@"Nervous colon syndrome",@"autonomic nervous system",
+        @"Central nervous system",@"CNS",@"Human nervous system",@"Parasympathetic nervous system",
+        @"Peripheral nervous system",@"PNS",@"Sympathetic nervous system",@"Nervus ulnaris",
+        @"Neti pot",@"Neural",@"Neural foramen",@"Neural tube defect",@"Neuralgia",@"Ciliary neuralgia",
+        @"Facial neuralgia",@"Migrainous neuralgia",@"Postherpetic neuralgia",@"Sphenopalatine neuralgia",
+        @"Vidian neuralgia",@"Neuraminidase inhibitor",@"Neurectomy",@"Acoustic neurinoma",
+        @"Neuritis",@"Neurobiological disorder",@"Neurocysticercosis",
+        @"Neurodegeneration with brain iron accumulation",@"Neurodermatitis",@"Neuroendocrine",
+        @"Neuroendocrinology",@"Neuroepithelial",@"Neurofibromatosis",@"Neurofibromatosis type 1",
+        @"Neurofibromatosis type 2",@"Bilateral acoustic neurofibromatosis",@"Central neurofibromatosis",
+        @"Neurogenesis",@"Neurogenic",@"Neuroleptic",@"Neurological",@"Neurologist",@"Neurology",
+        @"Neuroma",@"Acoustic neuroma",@"Optic neuroma",@"Neuromuscular",@"Neuron",@"Arcuate neuron",
+        @"Sensory neuron",@"Spindle neuron",@"Neuron-specific enolase",@"NSE",@"Neurone",@"Vestibular neuronitis",
+        @"Neurooncologist",@"Neuropathologist",@"Neuropathy",@"Charcot-Marie-Tooth Neuropathy",
+        @"Accessory neuropathy",@"Diabetic neuropathy",@"Hypoglossal neuropathy",@"Neuroplasticity",
+        @"Neuropsychologist",@"Neuroradiologist",@"Neuroradiology",@"Neuroscience",@"Neuroscientist"
+        @"Neurosis",@"Hypochondriacal neurosis",@"Neurosteroid",@"Neurosurgeon",@"Neurosyphilis",
+        @"Tabes neurosyphilis",@"Neurotheology",@"Neurotoxic",@"Neurotoxin",@"Neurotransmitter",
+        @"Natural foot type",@"Neutral posture",@"Neutrophil",@"Neutrophilia",@"Nevi",
+        @"Nevoid basal cell carcinoma syndrome",@"Nevus",@"The New England Journal of Medicine",
+        @"New Engl J Med",@"Fear of the New",@"Newborn hearing screen",@"Newborn intensive care unit",
+        @"Newborn screening",@"Brazelton newborn test",@"Nexus",@"Nickel",@"Nicotiana tabacum",
+        @"Nicotinic acid",@"Nictitate"];
     [MedicalWordStore addObjectsFromArray:NWord];
     return MedicalWordStore;
 }
