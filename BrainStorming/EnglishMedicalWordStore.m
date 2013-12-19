@@ -1923,10 +1923,18 @@
         @"Nurse assistant",@"Nurse practitioner",@"Licensed practical nurse",@"Licensed vocational nurse",
         @"Registered nurse",@"Nurse-midwife",@"Nurse-midwifery",@"Nursemaid's elbow",@"Nurses Health Study",
         @"Nursing",@"Nursing home",@"Nutraceutical",@"Nutrigenomics",@"Nutritional neuroscience",
-        @"Nutritionist",@"NvCJD",@"Nyctalopia",@"Nyctanopia",@"Nyctophobia",@"Nymph",@"Nystagmus",
-        @"OAE",@"OB",@"OB/GYN",@"OBS",@"OCD",@"OCG",@"OCP",@"OCPD",@"OD",@"lens prescription",
-        @""];
+        @"Nutritionist",@"NvCJD",@"Nyctalopia",@"Nyctanopia",@"Nyctophobia",@"Nymph",@"Nystagmus"];
     [MedicalWordStore addObjectsFromArray:NWord];
+    NSArray *OWord = @[@"OAE",@"OB",@"OB/GYN",@"OBS",@"OCD",@"OCG",@"OCP",@"OCPD",@"OD",@"lens prescription",
+            @"ODD syndrome",@"OGGI",@"OHRP",@"OKT3",@"OMS",@"OPCA",@"OPV",@"OR",@"abbreviation",@"ORF",
+                       @"ORS",@"OS",@"OSHA",@"OTC",@"over-the-counter",@"Oat cell cancer",@"Oath of maimonides",
+        @"Obese",@"Endogenous obesity",@"Exogenous obesity",@"Gynecoid obesity",@"Obesity-related disease",
+        @"Objective",@"Observer variation",@"Obsessive-compulsive personality disorder",
+        @"Obstetrical forceps",@"Obstetrician",@"Obstetrician/gynecologist",@"Obstetrics",
+        @"Obstruction",@"Airway obstruction",@"Intestinal obstruction",@"Obtund",@"Obtunded",
+        @"Obverse",@"Occam's razor",@"Occipital",@"Occipital bone",@"Occiput",@"Occlude",@"Occlusion",
+        @""];
+    [MedicalWordStore addObjectsFromArray:OWord];
     return MedicalWordStore;
 }
 
