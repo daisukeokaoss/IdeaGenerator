@@ -2035,7 +2035,30 @@
         @"Paraesthesia",@"Paraffin dip",@"Paragonimiasis",@"Paragonimus infection",@"Parainfectious",
         @"Parainfluenza",@"Paralysis",@"Facial nerve paralysis",@"Infantile paralysis",
         @"Laryngeal nerve paralysis",@"Stomach Paralysis",@"Vocal cord paralysis",@"Paralytic ileus",
-        @"Paramyxovirus",@"Paraneoplastic syndrome",@""];
+        @"Paramyxovirus",@"Paraneoplastic syndrome",@"Paranychia",@"Paraoxonase",@"Paraparesis",
+        @"Paraphimosis",@"Paraplegia",@"Palaplegic",@"paraquat",@"Paraquat lung",@"Parasite",
+        @"Parasitemia",@"Parasitic",@"Parasitic worm",@"Parasitosis",@"Paraskevidekatriaphobia",
+        @"Parasomnia",@"Paraplenic",@"Parasuicide",@"Parasympathetic nervous system",@"Parathormone",
+        @"Parathyrin",@"Parathyroid adenoma",@"Parathyroid gland",@"Parathyroid hormone",
+        @"Parathyroid insufficiency",@"Hypoplasia of the thymus and Parathyroids",@"Parenchyma",
+        @"Parenchymal",@"Parentalism",@"Parentectomy",@"Parenteral",@"Paresis",@"general paresis",
+        @"Paresthesia",@"Paricalcitol",@"Parietal",@"Parietal bone",@"Parietal lobe",@"Parietal pericardium",
+        @"Parkinson disease gene",@"Parkinson disease genetics",@"Parkinson's disease",
+        @"James Parkinson",@"Parkinsonism",@"Paronychia",@"Parotid gland",@"Parotids",@"Parotitis",
+        @"Paroxysm",@"Paroxysmal atrial tachycardia",@"Paroxysmal lactimation",@"Paroxysmal sleep",
+        @"Parrot fever",@"psittacosis",@"Parry's disease",@"Parthenogenesis",@"Partial laryngectomy",
+        @"Partial seizure",@"Partial syndactyly",@"Participant",@"Alpha particle",@"Parturition",
+        @"Parumbilical",@"Parvovirus B19",@"Parvovirus infection",@"Nasal Passage",@"Passive immunity",
+        @"Passive smoking",@"Passive-aggressive",@"Passive-aggressive personality disorder",
+        @"Pasteur Institute",@"Louis Pasteur",@"Pasteurization",@"Patau syndrome",@"Trisomy 13 syndrome",
+        @"Patella",@"Patellar",@"Patellar ligament",@"Patellar reflex",@"Patellar tendon",
+        @"Patellar tendon reflex",@"Patellar tendonitis",@"Patellar tendonopathy",@"Patellectomy",
+        @"Patellofemoral joint",@"Patent",@"Patent ductus",@"Patent ductus arteriosus",
+        @"Patent urachus",@"Paterfamilias",@"Paternal",@"Paternal age",@"Paterson-Kelly syndrome",
+        @"Patho-",@"Pathobiology",@"Pathogen",@"Pathogen inactivation",@"Special Pathogen",
+        @"Pathogenesis",@"Pathogenetic",@"Pathogenic",@"Pathogenicity island",@"Pathognomonic",
+        @"Pathologic",@"Pathological hoarding",@"Pathologist",@"Speech-language Pathologist",
+        @"Pathology",@"Pathophysiology",@"Pathy",@"Patient",@"Patient autonomy",@""];
     [MedicalWordStore addObjectsFromArray:PWord];
     return MedicalWordStore;
 }
