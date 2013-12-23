@@ -2058,7 +2058,26 @@
         @"Patho-",@"Pathobiology",@"Pathogen",@"Pathogen inactivation",@"Special Pathogen",
         @"Pathogenesis",@"Pathogenetic",@"Pathogenic",@"Pathogenicity island",@"Pathognomonic",
         @"Pathologic",@"Pathological hoarding",@"Pathologist",@"Speech-language Pathologist",
-        @"Pathology",@"Pathophysiology",@"Pathy",@"Patient",@"Patient autonomy",@""];
+        @"Pathology",@"Pathophysiology",@"Pathy",@"Patient",@"Patient autonomy",@"Patient controlled analgesia",
+        @"Patient-activated cardiac event recorder",@"Patient-activated event recorder",
+        @"Patient-controlled analgesia",@"Paul C. Lauterbur",@"Paul Ehrlich",@"Paul M. Zoll",
+        @"Pauling",@"Pauling-Corey helix",@"Pavlov conditioning",@"Pavlov pouch",@"Pavlov stomach",
+        @"Pavlovian conditioning",@"Pax3",@"Jequirity pea",@"Peak expiratory flow",@"Peak-flow meter",
+        @"Peanut allergy",@"Peccant",@"Pecs",@"Pectoral muscles",@"Pectoralis muscle absence with syndactyly",
+        @"Pectus carinatum",@"Pectus excavatum",@"Pediatric",@"Pediatric UTI",@"Pediatric arthritis",
+        @"Pediatric cystitis",@"Pediatric pyelonephritis",@"Pediatric renal infection",
+        @"Pediatric rheumatologist",@"Pediatric urinary tract infection",@"Pediatrics",
+        @"Pediculicide",@"Pediculosis",@"Pedigree",@"Pedodontics",@"Pedophilia",@"Pedophobia",
+        @"Pee",@"Peeling agent",@"Peeping tom",@"Peer review",@"Peliosis hepatis",@"Pelizaeus-Merzbacher disease",
+        @"Pelizaeus-Merzbacher-like disease",@"Pellagra",@"Pelvic",@"Pelvic congestion syndrome",
+        @"Pelvic pain",@"Pelvis",@"Android pelvis",@"Female pelvis",@"Gynecoid pelvis",@"Male pelvis",
+        @"Pemphigus",@"Penetrance",@"Penetrant trait",@"Penicillin",@"Penicillin history",
+        @"Penicillin-resistant bacteria",@"Penicillium notatus",@"Penile",@"Penis",@"Erection of the penis",
+        @"Hypospadias of the penis",@"Inflammation of the foreskin and glans penis",
+        @"Inflammation of the head of the penis",@"Small penis",@"Penrose drain",@"Pentapeptide",
+        @"Peptidase",@"Peptide",@"Peptidomimetic",@"Peptidyl-prolyl cis/trans isomerase",
+        @"Percentile",@"Auditory perception",@"Perchlorate",@"Perchloric acid",@"Percutaneous",
+        @"Percutaneous endoscopic jejunostomy",@""];
     [MedicalWordStore addObjectsFromArray:PWord];
     return MedicalWordStore;
 }
