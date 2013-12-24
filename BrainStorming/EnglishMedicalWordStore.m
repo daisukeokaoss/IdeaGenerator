@@ -2196,7 +2196,22 @@
         @"Prepuce",@"Inflammation of the prepuce",@"Presbyacousia",@"Presbyacusia",@"Presbyacusis",
         @"Presbycusis",@"Prescription",@"Prescription drug",@"Breech presentation",@"Footling presentation",
         @"Vertex presentation",@"Presenteeism",@"Pressor",@"Pressor substance",@"Pressure neuropathy",
-        @"Pressure sore",@"Pressure urticaria",@""];
+        @"Pressure sore",@"Pressure urticaria",@"Pressure wound",@"Intraocular pressure",@"Low blood pressure",
+        @"Prevalence",@"Preventive medicine",@"Priapism",@"Primary",@"Primary HIV infection",
+        @"Primary amebic meningoencephalitis",@"Primary atelectasis",@"Primary care",
+        @"Primary care provider",@"Primary cataract",@"Primary ciliary dyskinesia",@"Primary dentition",
+        @"Primary immunodeficiency disease",@"Primary teeth",@"Primary tumor",
+        @"Primitive neuroectodermal tumor",@"Primordia",@"Primordium",@"Primum non nocere",
+        @"Principal investigator",@"Principal joints of the body",@"Prion",@"Prion disease",
+        @"Prior approval",@"Prior authorization",@"Private mutation",@"Pro",@"Pro time",@"Pro-",
+        @"Probability",@"Proband",@"Probe",@"Probiotic",@"Whipple procedure",@"Process",
+        @"Proclivity",@"Procollagen",@"Proctitis",@"Ulcerative proctitis",@"Proctocele",@"Proctology",
+        @"Proctosigmoidoscopy",@"Prodrug",@"Gene product",@"Progeny",@"Progeria",@"Progestational hormone",
+        @"Progesterone",@"Progesterone receptor test",@"Progestin",@"Prognathism",@"Prognosis",
+        @"Prognostic",@"Programmed cell death",@"Progressive",@"Progressive cardiomyopathic lentiginosis",
+        @"Progressive infantile poliodystrophy",@"Progressive multifocal leukoencephalopathy",
+        @"Progressive vaccinia",@"Proinflammatory",@"Prokaryote",@"Prokaryotic",@"Prolactin",
+        ];
     [MedicalWordStore addObjectsFromArray:PWord];
     return MedicalWordStore;
 }
