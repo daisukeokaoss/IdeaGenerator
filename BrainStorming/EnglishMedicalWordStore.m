@@ -2181,7 +2181,22 @@
         @"Potassium",@"Potassium excess",@"Potassium perchlorate",@"Potomania",@"Pott's disease",
         @"Pouch of Douglas",@"Pavlov Pouch",@"Rectovaginal pouch",@"Poultice",@"Pound",
         @"Durable power of attorney",@"Power outage and the heat",@"Power outage drinking water safety",
-        @"Power outage preparations",@""];
+        @"Power outage preparations",@"Power outage work safety",
+        @"Power-of-attorney for health-care decision-making",@"Pox virus",@"Family practice",
+        @"Prandial",@"Prayer of Maimonides",@"Pre-sleep dream",@"Prealbumin",@"Preauricular tag",
+        @"Precancerous",@"Preclinical study",@"Precocious",@"Preconceptual counselling",
+        @"Precursor",@"Predispose",@"Preemie",@"Preexcitation",@"Medical prefix",
+        @"Pregnancy danger from urinary tract infection",@"Ectopic pregnancy",@"Tubal pregnancy",
+        @"Pregnant",@"Prehypertension",@"Preleukemia",@"Prelingual",@"Premacular fibrosis",
+        @"Premalignant",@"Premature baby",@"Premature beat",@"Premature birth",@"Premature contraction",
+        @"Premature contraction of the heart",@"Premature ejaculation",@"Premature systole",
+        @"Premature ventricular beat",@"Prematurity",@"Premenstrual",@"Premie",@"Prenatal",
+        @"Prenatal care",@"Prenatal development",@"Prenatal diagnosis",@"Prenatal radiation exposure",
+        @"Prenatal surgery",@"Preop",@"Preoperative",@"Preoperative care",@"Prepubertal",
+        @"Prepuce",@"Inflammation of the prepuce",@"Presbyacousia",@"Presbyacusia",@"Presbyacusis",
+        @"Presbycusis",@"Prescription",@"Prescription drug",@"Breech presentation",@"Footling presentation",
+        @"Vertex presentation",@"Presenteeism",@"Pressor",@"Pressor substance",@"Pressure neuropathy",
+        @"Pressure sore",@"Pressure urticaria",@""];
     [MedicalWordStore addObjectsFromArray:PWord];
     return MedicalWordStore;
 }
