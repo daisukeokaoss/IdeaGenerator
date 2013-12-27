@@ -2373,8 +2373,45 @@
         @"Floating rib",@"Fluctuating rib",@"Sternal rib",@"True rib",@"vertebral rib",@"Ribonucleic acid",
         @"RNA",@"Ribonucleoprotein",@"Ribosomal RNA",@"Ribosome",@"Ribozyme",@"Rice genome",
         @"Rice rat",@"Richard L. Varco",@"Ricker syndrome",@"Howard T. Ricketts",@"Rickettsia",
-        @""];
+        @"Rickettsial diseases",@"Rickettsialpox",@"Rickettsioses",
+        @"tick-borne rickettsioses of the eastern hemisphere",@"North Asian tick-borne Rickettsiosis",
+        @"Vesicular rickettsiosis",@"Right atrium",@"Right heart",@"Right hepatic duct",@"Right ventricle",
+        @"Right-handed",@"Rigor",@"Rigor mortis",@"Rigour",@"Riley-Day syndrome",@"Riley-Day syndrome",
+        @"Ring chromosome",@"Ring vaccination",@"intrastromal corneal ring",@"Ringing in the ears",
+        @"Riot control agent poisoning",@"Rick factor",@"Risk of recurrence",@"Ritter disease",
+        @"Roach-2",@"Roapies",@"Robertsonian translocation",@"Robo",@"Robotripping",@"Robust",
+        @"Rochalimaea quintana",@"Rocky Mountain wood tick",@"Rod",@"Rod Beals",@"Rodbell",
+        @"Martin Rodbell",@"Rodenticidal",@"Rodenticide",@"Rodney K. Beals",@"Roentgen",
+        @"Roentgen ray",@"Wilhelm Roentgen",@"Roentgenology",@"Rohypnol",@"Romano-Ward syndrome",
+        @"Roofer's knee",@"Roofers",@"Rooting reflex",@"Rorschach test",@"Rosary pea",@"Rossi counter",
+        @"Roth's spot",@"Round",@"Round window",@"Rounds",@"Roundworm",@"roundworm c. elegans genome",
+        @"Roundworm genome",@"The Royal Society",@"Rubella",@"Rubella immunization",@"Rubella syndrome",
+        @"Rubella vaccine",@"Rubeola",@"Rubor",@"Rule out",@"Rumination",@"Runny nose",
+        @"Runt-related transcription factor 1",@"RUNX1",@"Rupture",@"Rupture of appendix",
+        @"Uterine rupture",@"Ruptured spleen",@"Rx"];
     [MedicalWordStore addObjectsFromArray:RWord];
+    NSArray *SWord = @[@"S1-S5",@"SA node",@"SAA",@"SAD",@"SAMHSA",@"SARS vaccine",@"SBCC",@"SCFE",
+        @"SCID",@"SCYA2",@"SDF-1",@"SEER",@"SEER program",@"SEM",@"SEMG",@"SERM",@"SGA",@"SGOT",
+        @"SGPT",@"SHP",@"SI joint pain",@"SIDDT",@"SJS",@"SKY",@"spectral karyotype",
+        @"SLS",@"sjogren-larsson syndrome",@"SLV",@"SMA",@"SMAD4",@"SMAD4/DPC4",@"SNCA",
+        @"SNP",@"SPD calcinosis",@"SPECT",@"SPECT scan",@"SRAS",@"SRY",@"SSPE",@"SSRI",@"STARI",
+        @"STAT",@"STD",@"STDs in men",@"STDs in women",@"STEP procedure",@"STI",@"STL1",@"STL2",
+        @"STL3",@"STOP",@"selective tubal occlusion procedure",@"STS",@"SV 40",@"SV40",@"Sabin",
+        @"sabin vaccine",@"Albert Sabin",@"Florence R. Sabin",@"Sabulous",@"amniotic sac",
+        @"dural sac",@"egg sac",@"pericardial sac",@"yolk sac",@"Saccade",@"saccadic movement",
+        @"Saccharin",@"saccharomyces cerevisiae",@"Saccharomyces cerevisiae genome",
+        @"Saccular",@"Saccular aneurysm",@"Sacral",@"sacral agenesis",@"sacral vertebrae",
+        @"sacrococcygeal",@"sacroiliac joint dysfunction",@"SI Joint Pain",@"Sacrum",@"Saddle gall",
+        @"Saddle sore",@"safe sex",@"Safer sex",@"saffir-simpson hurricane scale",@"Saffron",
+        @"sagittal",@"Sagittal sinus",@"salaam",@"Salabrasion",@"salicylic acid",@"salient",
+        @"saline",@"saliva",@"salivary gland",@"salk institute",@"salmon safety",@"salmonellosis",
+        @"salpingo-oophorectomy",@"salt",@"salubrious",@"salutary",@"salvage chemotherapy",
+        @"salvage radiotherapy",@"salvage therapy",@"samaritan",@"random sample",@"San Joaquin Valley disease",
+        @"biliary sand",@"Sand-blind",@"sandfly fever",@"sandhoff disease",@"sanfilippo syndrome",
+        @"Sanger Centre",@"sanguine",@"great saphenous vein",@"large saphenous vein",@"small saphenous vein",
+        @"Sapovirus",@"Sapphism",@"Sapporo-like virus",@"Sarcoma",@"sarcoma botryoides",
+        @"ewing sarcoma",@"Kaposi sarcoma"];
+    [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
 
