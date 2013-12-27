@@ -2372,7 +2372,8 @@
         @"Rhythm method",@"Sinus rhythm",@"Rib",@"Rib cage",@"Cervical rib",@"False rib",
         @"Floating rib",@"Fluctuating rib",@"Sternal rib",@"True rib",@"vertebral rib",@"Ribonucleic acid",
         @"RNA",@"Ribonucleoprotein",@"Ribosomal RNA",@"Ribosome",@"Ribozyme",@"Rice genome",
-        @"Rice rat",@"Richard L. Varco",@"Ricker syndrome",@""];
+        @"Rice rat",@"Richard L. Varco",@"Ricker syndrome",@"Howard T. Ricketts",@"Rickettsia",
+        @""];
     [MedicalWordStore addObjectsFromArray:RWord];
     return MedicalWordStore;
 }
