@@ -2454,7 +2454,9 @@
         @"Finished DNA sequence",@"Intervening sequence",@"Regulatory sequence",@"Sequencing",
         @"Sequester",@"Ser",@"Serendipity",@"Serial amnioreduction",@"Serial transverse enteroplasty",
         @"Serine",@"Seroconversion",@"Serositis",@"Serotonin",@"Selective serotonin reuptake inhibitor",
-        @""];
+        @"Serotype",@"Serrated",@"Serration",@"Serratus",@"Serratus anterior",@"Serratus magnus",
+        @"serratus posterior inferior",@"Serratus posterior superior",@"Serum",@"Serum amyloid A",
+        @"Serum glutamic oxaloacetic transaminase",];
     [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
