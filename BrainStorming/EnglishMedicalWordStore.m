@@ -2410,7 +2410,25 @@
         @"biliary sand",@"Sand-blind",@"sandfly fever",@"sandhoff disease",@"sanfilippo syndrome",
         @"Sanger Centre",@"sanguine",@"great saphenous vein",@"large saphenous vein",@"small saphenous vein",
         @"Sapovirus",@"Sapphism",@"Sapporo-like virus",@"Sarcoma",@"sarcoma botryoides",
-        @"ewing sarcoma",@"Kaposi sarcoma"];
+        @"ewing sarcoma",@"Kaposi sarcoma",@"metastatic sarcoma",@"soft tissue sarcoma",@"synovial sarcoma",
+        @"sartorius muscle",@"satellite DNA",@"saturated fat",@"Sawbones",@"Sawyer extractor",
+        @"Scabicide",@"Scaffold",@"Scalded skin syndrome",@"Centigrade Scale",@"Fahrenheit Scale",
+        @"Skin scale",@"Body fat scales",@"Scaling",@"Scan",@"CAT scan",@"CT Scan",@"DXA Scan",
+        @"SPECT Scan",@"Bone scan",@"Computerized axial tomography scan",@"Computerized tomography scan",
+        @"Helical CAT scan",@"Radionuclide Scan",@"Spiral CAT scan",@"Thyroid scan",@"Scanning electron microscope",
+        @"Scapula",@"Scarification",@"Scarlatina",@"Schadenfreude",@"Gesell Developmental Schedule",
+        @"Scheuermann's disease",@"Schistosoma haematobium",@"Schistosoma japonicum",@"Schistosoma mansoni",
+        @"Schistosome",@"Schizencephaly",@"Schizoid",@"Childhood schizophrenia",@"Schizotypal personality disorder",
+        @"Schmorl's node",@"Schonlein-Henoch purpura",@"First American medical school",@"Medical school",
+        @"Schwartz-Jampel syndrome",@"Sciatic nerve",@"Science Journal",@"Cognitive Science",
+        @"Medical scientist",@"Scintigraphy",@"Scintimammography",@"Scler-",@"Sclera",@"Scleredema",
+        @"Scleredema adultorum",@"Sclerencephaly",@"Sclero-",@"Scleral Conjunctival",@"Sclerodactyly",
+        @"Sclerokeratitis",@"Scleromalacia",@"Sclerose en plaques",@"Sclerosing cholangitis",
+        @"Subacute sclerosing panencephalitis",@"SSPE",@"Sclerosis",@"Multiple sclerosis",
+        @"Sclerotherapy",@"Nonstructural scoliosis",@"Scooter injury",@"Scorbutic",@"Scorbutus",
+        @"Apgar score",@"Gleason score",@"Scorpion venom",@"Scrape",@"Kidney disease screening",
+        @"Newborn hearing screening",@"Script",@"Scrofula",@"Scrofulous",@"Scrotum",@"Scrub",
+        @"Scrub in",@"Scrub up",@""];
     [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
