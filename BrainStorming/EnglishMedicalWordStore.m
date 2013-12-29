@@ -2456,7 +2456,26 @@
         @"Serine",@"Seroconversion",@"Serositis",@"Serotonin",@"Selective serotonin reuptake inhibitor",
         @"Serotype",@"Serrated",@"Serration",@"Serratus",@"Serratus anterior",@"Serratus magnus",
         @"serratus posterior inferior",@"Serratus posterior superior",@"Serum",@"Serum amyloid A",
-        @"Serum glutamic oxaloacetic transaminase",];
+        @"Serum glutamic oxaloacetic transaminase",@"SGOT",@"Serum glutamic pyruvic transaminase",
+        @"SGPT",@"Serving size",@"Sesamoid bone",@"Sesamoiditis",@"Sesquipedalian",@"Seven day diet",
+        @"Seven-day measles",@"Seventh cranial nerve",@"Seventh cranial nerve paralysis",
+        @"Severe combined immunodeficiency disease",@"Severe cyclonic storm",@"Severe tropical cyclone",
+        @"Sex before sports",@"Sex chromosome",@"Sex region Y",@"Sex-determining region Y",
+        @"Sexagenarian",@"Sexploitation",@"Sexual jealousy",@"Sexual masochism",@"Sexual sadism",
+        @"Sexually transmitted disease",@"Sexually transmitted diseases in women",
+        @"Sexually transmitted infection",@"ShRNA",@"Shank",@"Shark attack",@"Sharp",@"Shell egg",
+        @"Sheila Sherlock",@"Shettles method",@"Nipple shield",@"Shigella",@"Shigellosis",@"Shin",
+        @"Shin bone fever",@"Shin spot",@"Shinbone",@"Shingle",@"Ship fever",@"Psychological shock",
+        @"Spinal shock",@"Toxic shock",@"Shopaholc",@"Short arm of a chromosome",@"Short bowel syndrome",
+        @"Short hairpin RNA",@"Short-term memory",@"Shortness of breath",@"Flu shot",@"Shotgun sequencing",
+        @"Shotty",@"Shoulder",@"Shoulder blade",@"Shoulder dislocation",@"Shoulder dystocia",
+        @"Shoulder joint",@"Shoulder pain",@"Frozen shoulder",@"Show",@"Shprintzen syndrome",
+        @"Shulman's syndrome",@"Shunt",@"Blalock-Taussig Shunt",@"Glenn Shunt",@"Spitz-Holter Shunt",
+        @"Transjugular intrahepatic portosystemic shunt",@"Triculoperitoneal shount",@"Ventriculoatrial shunt",
+        @"Ventriculopleural shount",@"Shy-Drager syndrome",@"SiRNA",@"Sialidosis",@"Siamese twin",
+        @"Sib",@"Sibling",@"Sibship",@"Sicca syndrome",@"Sick sinus syndrome",@"Sickle hemoglobin",
+        @"Acute mountain sickness",@"AMS",@"Altitude sickness",@"Morning sickness",@"Motion sickness",
+        @"Mountain sickness"];
     [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
