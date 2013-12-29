@@ -2475,7 +2475,21 @@
         @"Ventriculopleural shount",@"Shy-Drager syndrome",@"SiRNA",@"Sialidosis",@"Siamese twin",
         @"Sib",@"Sibling",@"Sibship",@"Sicca syndrome",@"Sick sinus syndrome",@"Sickle hemoglobin",
         @"Acute mountain sickness",@"AMS",@"Altitude sickness",@"Morning sickness",@"Motion sickness",
-        @"Mountain sickness"];
+        @"Mountain sickness",@"Siddha medicine",@"Side effects",@"Sideropenic dysphagia",
+        @"Sidney Goldring",@"Day sight",@"Sigma Theta Tau",@"Sigmodon hispidus",@"Sigmoid",
+        @"Sigmoid volvulus",@"Sigmoidoscope",@"Sigmoidoscopy",@"Sign",@"Babinski sign",
+        @"Gottron's sign",@"Kernig Sign",@"Lhermitte Sign",@"Macewen sign",@"Tinel's sign",@"Toe sign",
+        @"Signal transduction",@"Signal transduction pathway",@"Signature",@"Sikimitoxin",
+        @"Gene silencing",@"Silica",@"Silicatosis",@"Silicosis",@"Silk Road disease",@"Silver",
+        @"Silver bullet",@"Silver poisoning",@"Simian crease",@"Simian virus 40",@"Single base change",
+        @"Single gene disease",@"Single nucleotide polymorphism",@"Single palmar flexion crease",
+        @"Single palmar flexion line",@"Single transverse palmar crease",@"Single transverse palmar line",
+        @"Single upper palm crease",@"Single upper palm line",@"Single-blind",@"Single-masked",
+        @"Single-payer health care",@"Singultus",@"Sinoatrial node",@"Sinuous",@"Sinus",@"Sinus arrhythmia",
+        @"Sinus barotrauma",@"Sinus bradycardia",@"Sinus node",@"Sinus rhythm",@"Sinus tachycardia",
+        @"Cavernous sinus",@"ethmoid sinus",@"Sinusitis headache",@"Sir Charles Bell",@"Sirolimus",
+        @"Sitophilus granarius",@"Sitosterolemia",@"Situational syncope",@"Situs inversus totalis",
+        @"Six fingers or toes",@"Sixth cranial nerve"];
     [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
