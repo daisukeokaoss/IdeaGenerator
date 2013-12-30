@@ -2489,7 +2489,30 @@
         @"Sinus barotrauma",@"Sinus bradycardia",@"Sinus node",@"Sinus rhythm",@"Sinus tachycardia",
         @"Cavernous sinus",@"ethmoid sinus",@"Sinusitis headache",@"Sir Charles Bell",@"Sirolimus",
         @"Sitophilus granarius",@"Sitosterolemia",@"Situational syncope",@"Situs inversus totalis",
-        @"Six fingers or toes",@"Sixth cranial nerve"];
+        @"Six fingers or toes",@"Sixth cranial nerve",@"Sixth disease",@"Sjogren of Sjogren syndrome",
+        @"Sjogren-Larsson syndrome",@"Skeletal",@"Skeletal dysplasia",@"Skeletal muscle",@"Skeleton",
+        @"Bones of the skeleton",@"Skin",@"Skin abscess",@"Skin calipers",@"Skin color",@"Skin erosion",
+        @"Skin graft",@"Allogeneic skin graft",@"Autogenic skin graft",@"Composite skin graft",
+        @"Full-thickness skin graft",@"Mesh skin graft",@"Pedicle skin graft",@"Pinch skin graft",
+        @"Porcine skin graft",@"Split-thickness skin graft",@"Skin plaque",@"Skin test for immunity",
+        @"Scalded skin syndrome",@"Tattooing of the skin",@"Skittles",@"Skittling",@"Skull",
+        @"Hair-on-end skull",@"Skullcap",@"Skute barbata",@"Slake",@"Slanted ear",@"Slap cheek",
+        @"Slapped cheek",@"Sleep drug",@"Sleep hygiene",@"Non-rapid eye movement sleep",@"Paroxysmal sleep",
+        @"Excessive daytime sleepiness",@"EDS",@"Sleeping disease",@"African sleeping sickness",
+        @"Sleeplessness",@"Slipped disc",@"Slipped elbow",@"Slipped spine",@"Slipped vertebra",
+        @"Slow virus",@"Biliary sludge",@"Sly syndrome",@"Smad3",@"Small bowel",@"Small calorie",
+        @"Small calorie",@"Small eye",@"Small for gestational age",@"Small inducible cytokine A2",
+        @"Small inhibitory RNA",@"Small intestine",@"Small intestine insufficiency",@"Small saphenous vein",
+        @"Smell",@"Smell disorder",@"Inability to smell",@"Smith-Lemli-Opitz syndrome",@"Smith-Magenis syndrome",
+        @"Environmental tobacco smoke",@"Second-hand smoke",@"Involuntary smoking",@"Passive smoking",
+        @"Smooth muscle",@"Snake",@"Snake antivenin",@"Snake antivenom",@"Snake stick",@"Sneeze",
+        @"Snellen chart",@"Snip",@"Injection snoreplasty",@"Snort",@"Snot",@"Snowblindness",
+        @"Snowmobile safety",@"Snuff",@"Anatomical snuffbox",@"Social phobia",@"Social psychology",
+        @"Clinical social worker",@"Socialized medicine",@"Sociogenomics",@"Sociopath",@"Sociopathic personality",
+        @"Sociopathic personality disorder",@"Sociophobia",@"Sodium",@"Sodium perchlorate",
+        @"Soft chancre",@"Soft palate",@"Soft sore",@"Soft tissue sarcoma",@"Soft ulcer",@"Solar keratosis",
+        @"Solipsism",@"Solitary tapeworm",@"Fear of solitude",@"Somatic",@"Somatic cell",
+        @"Somatic cell nuclear transfer"];
     [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
