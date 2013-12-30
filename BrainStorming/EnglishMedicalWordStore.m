@@ -2512,7 +2512,18 @@
         @"Sociopathic personality disorder",@"Sociophobia",@"Sodium",@"Sodium perchlorate",
         @"Soft chancre",@"Soft palate",@"Soft sore",@"Soft tissue sarcoma",@"Soft ulcer",@"Solar keratosis",
         @"Solipsism",@"Solitary tapeworm",@"Fear of solitude",@"Somatic",@"Somatic cell",
-        @"Somatic cell nuclear transfer"];
+        @"Somatic cell nuclear transfer",@"Somatic mutation",@"Somatization",@"Somatoform disorder",
+        @"Somatostatin",@"Somatotropin",@"Somatropin",@"Somnambulism",@"Somnambulist",@"Somniloquy",
+        @"Somnolence",@"Somnolent",@"Son",@"Soothing",@"Sopor",@"Soporific",@"Sore",@"Cold sore",
+        @"South Sudan disease",@"Southeast Asian hemorrhagic fever",@"Southern blot",
+        @"Southern tick-associated rash illness",@"Memory span",@"Spanish disease",@"Spanish flu",
+        @"Coronary artery spasm",@"Nictitating spasm",@"Spasmodic dysphonia",@"Infantile spasms",
+        @"Spastic colon",@"Spastic dysphonia",@"Autosomal dominant spastic paraplegia",@"Spastic pseudoparalysis",
+        @"Spasticity",@"Special pathogens",@"Specific developmental disorder",@"Specific-pathogen free",
+        @"Specificity",@"Analytical specificity",@"Speckled iris",@"Spectral karyotype",@"SKY",
+        @"Spectrophobia",@"Spectrophotometer",@"Speculum",@"Ear speculum",@"Nasal speculum",
+        @"Vaginal speculum",@"Speech disorder",@"Speech therapist",@"Speech therapy",@"Esophageal speech",
+        @""];
     [MedicalWordStore addObjectsFromArray:SWord];
     return MedicalWordStore;
 }
