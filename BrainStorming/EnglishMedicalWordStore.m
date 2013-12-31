@@ -2685,7 +2685,10 @@
         @"Premature systole",@"Systolic",@"Systolic click-murmur syndrome",@"Sz"];
     [MedicalWordStore addObjectsFromArray:SWord];
     NSArray *TWord = @[@"T",@"Thymine",@"T cell",@"Peripheral T cell",@"Cytotoxic T lymphocyte",
-        @"T-4 cell",@""];
+        @"T-4 cell",@"T-4 count",@"T-8 cells",@"T-cell depletion",@"T-cell lymphoma",@"T-cell receptor",
+        @"T-helper cell",@"T-suppressor cell",@"T-suppressor cells",@"T-suppressor count",
+        @"T.i.d",@"T1-T12",@"T4",@"TACE",@"TAR syndrome",@"TB",@"TC-99 tetrofosmin scintimammography",
+        @"TCM",@"TEE",@"TGA",@"TGF",@"THG",@""];
     [MedicalWordStore addObjectsFromArray:TWord];
     return MedicalWordStore;
 }
