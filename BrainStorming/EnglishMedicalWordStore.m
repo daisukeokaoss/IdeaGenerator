@@ -2696,7 +2696,21 @@
         @"Sinus tachycardia",@"Ventricular tachycardia",@"Tachypnea",@"Tactile",@"Tactile device",
         @"Taenia",@"Taenia armata",@"Taenia asiatica",@"Taenia denata",@"Taenia saginata",@"Taenia solium",
         @"Taeniasis",@"Ear tag",@"Preauricular Tag",@"Skin tag",@"Tail",@"Tailbone",@"Taint",
-        @"Takayasu arteritis",@"Talc",@"Talipes",@"Talipes equinovarus",@"Talus"];
+        @"Takayasu arteritis",@"Talc",@"Talipes",@"Talipes equinovarus",@"Talus",@"Tampon",@"Balloon Tamponade",
+        @"Cardiac Tamponade",@"Chronic tamponade",@"Esophagogastric tamponade",@"Pericardial tamponade",
+        @"Tanapox",@"Tandem MS",@"Tandem mass spectrometry",@"Tandem repeat sequence",
+        @"Spinal tap",@"Tapazol",@"Tapeworm",@"Pork tapeworm infection",@"African tapeworm",
+        @"Armed tapeworm",@"Beef tapeworm",@"Measly tapeworm",@"Pork tapeworm",@"Taphephobia",
+        @"Tarantism",@"Tarantismo",@"Tardive dyskinesia",@"Tarsal cyst",@"Tarsal gland",
+        @"Tarsal tunnel syndrome",@"Tarsus",@"Bony Tarsus",@"Tartar",@"Tassinari syndrome",
+        @"Taste",@"Taste bud",@"Tattoo",@"Tay-Sachs disease",@"Td",@"Td immunization",@"Tear",
+        @"Tear film",@"Tear gas poisoning",@"Tear gland",@"Teaspoon",@"Technetium tetrofosmin scintimammography",
+        @"Technology transfer",@"Recombinant DNA technology",@"Telangiectasia perstans",
+        @"Hereditary hemorrhagic telangiectasia",@"Telemedicine",@"Teleological",@"Teleology",
+        @"Telepathology",@"Telesurgery",@"Telogen effuvium",@"Telomerase",@"Telomere",@"Temperature",
+        @"Temple",@"Temporal",@"Temporal arteritis",@"Temporal bone",@"Temporal lobe",@"Temporal lobe epilepsy",
+        @"Temporal-lobe epilepsy",@"Temporary loss of consciousness",@"Temporomandibular joint",
+        @"TMJ",@"Ten-day measles",@"Tendinitis"];
     [MedicalWordStore addObjectsFromArray:TWord];
     return MedicalWordStore;
 }
