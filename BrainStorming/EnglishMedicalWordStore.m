@@ -2710,7 +2710,27 @@
         @"Telepathology",@"Telesurgery",@"Telogen effuvium",@"Telomerase",@"Telomere",@"Temperature",
         @"Temple",@"Temporal",@"Temporal arteritis",@"Temporal bone",@"Temporal lobe",@"Temporal lobe epilepsy",
         @"Temporal-lobe epilepsy",@"Temporary loss of consciousness",@"Temporomandibular joint",
-        @"TMJ",@"Ten-day measles",@"Tendinitis"];
+        @"TMJ",@"Ten-day measles",@"Tendinitis",@"Achilles tendon",@"Tendo calcaneus",@"Tendon",
+        @"Achilles Tendon",@"Patellar tendon",@"Achilles Tendonitis",@"Patellar tendonitis",
+        @"Tendinopathy",@"Patellar tendinopathy",@"Tenesmus",@"Tenia",@"Tenormin",@"De Quervain's Tenosynovitis",
+        @"Tension",@"Arterial tension",@"Intraocular tension",@"intravenous tension",@"Oxygen tent",
+        @"Tenth cranial nerve",@"Ter in die",@"Teratogen",@"Ecstasy as teratogen",@"Coumadin as teratogen",
+        @"Teratogenic",@"Teratogenic drugs",@"Teratoma",@"Ovarian teratoma",@"Teratophobia",
+        @"Teres minor muscle",@"Terminal ileitis",@"Termination codon",@"Brazelton test",@"CEA test",
+        @"EPO Test",@"FTA-ABS test",@"Fisher's exact test",@"Gesell Developmental Test",@"NSE Test",
+        @"PSA Test",@"Pap Test",@"RPR Test",@"Rorschach test",@"ThinPrep Pap Test",@"VDRL Test",
+        @"Venereal Disease Research Laboratory Test",@"Auditory brainstem response test",
+        @"Child development test",@"Eye chart test",@"Eyedrop Test",@"Fecal occult blood test",
+        @"Fluorescent treponemal antibody absorbed test",@"Inkblot test",@"Nerve conduction test",
+        @"Pupil dilation test",@"Rapid plasma reagin test",@"Rapid strep test",@"Stool occult blood test",
+        @"Sweat test",@"Sweat chloride test",@"Syphilis Test",@"FTA-ABS",@"Syphilis Test",@"RPR",
+        @"VDRL",@"Tilt-table test",@"Treadmill test",@"Triglyceride Test",@"Visual acuity test",
+        @"Visual field test",@"Tests",@"Testicles",@"Testicular feminization syndrome",
+        @"Testicular self-examination",@"Anonymous testing",@"Testis",@"Testosterone",
+        @"Testosterone replacement therapy",@"Tetany",@"Tetraethylplumbane",@"Tetrafluoroethylene",
+        @"Tetrahydrogestrinone",@"Tetralogy of Fallot",@"Tetranucleotide",@"Tetrapeptide",
+        @"Tetraphocomelia-thrombocytopenia syndrome",@"Th1",@"Th2",@"Th3",@"Thai hemorrhagic fever",
+        @"Thalassemia",@""];
     [MedicalWordStore addObjectsFromArray:TWord];
     return MedicalWordStore;
 }
