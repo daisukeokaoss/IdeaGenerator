@@ -2688,7 +2688,15 @@
         @"T-4 cell",@"T-4 count",@"T-8 cells",@"T-cell depletion",@"T-cell lymphoma",@"T-cell receptor",
         @"T-helper cell",@"T-suppressor cell",@"T-suppressor cells",@"T-suppressor count",
         @"T.i.d",@"T1-T12",@"T4",@"TACE",@"TAR syndrome",@"TB",@"TC-99 tetrofosmin scintimammography",
-        @"TCM",@"TEE",@"TGA",@"TGF",@"THG",@""];
+        @"TCM",@"TEE",@"TGA",@"TGF",@"THG",@"TIA",@"TIPS",@"TLR4",@"TLSO",@"TMA",@"TMJ",@"TMJ syndrome",
+        @"TMS",@"TNF",@"TNFRSF6",@"TORCH screen",@"TPA",@"TPH2",@"TPN",@"TRNA",@"TSC1",@"TSC2",@"TSD",
+        @"TSE",@"TSH",@"TSH receptor",@"TSI",@"TTP",@"Thrombotic thrombocytopenic purpura",
+        @"TTR",@"TVS",@"TXA2",@"TXB2",@"Tabes dorsalis",@"Table",@"Tablespoon",@"Tablet",@"Tablet splitter",
+        @"Tablet splitting",@"Tabun",@"Tache noire",@"Tachycardia",@"Paroxysmal atrial tachycardia",
+        @"Sinus tachycardia",@"Ventricular tachycardia",@"Tachypnea",@"Tactile",@"Tactile device",
+        @"Taenia",@"Taenia armata",@"Taenia asiatica",@"Taenia denata",@"Taenia saginata",@"Taenia solium",
+        @"Taeniasis",@"Ear tag",@"Preauricular Tag",@"Skin tag",@"Tail",@"Tailbone",@"Taint",
+        @"Takayasu arteritis",@"Talc",@"Talipes",@"Talipes equinovarus",@"Talus"];
     [MedicalWordStore addObjectsFromArray:TWord];
     return MedicalWordStore;
 }
