@@ -2730,7 +2730,21 @@
         @"Testosterone replacement therapy",@"Tetany",@"Tetraethylplumbane",@"Tetrafluoroethylene",
         @"Tetrahydrogestrinone",@"Tetralogy of Fallot",@"Tetranucleotide",@"Tetrapeptide",
         @"Tetraphocomelia-thrombocytopenia syndrome",@"Th1",@"Th2",@"Th3",@"Thai hemorrhagic fever",
-        @"Thalassemia",@""];
+        @"Thalassemia",@"Thalassemia minor",@"Alpha Thalassemia",@"Pseudonana thalassiosira",
+        @"Thanatology",@"Thanatophobia",@"Thanatophoric dysplasia",@"The Lancet",@"The South Beach Diet",
+        @"Thelarche",@"Bayes' theorem",@"Therapeutic",@"Therapeutic abortion",@"Therapeutic cloning",
+        @"Therapeutic touch",@"Therapeutics",@"Therapy",@"PUVA therapy",@"Adjuvant therapy",
+        @"Antiretroviral therapy",@"ART",@"Behavior therapy",@"Biological therapy",@"Cell therapy",
+        @"Constraint-induced movement therapy",@"Electroconvulsive therapy",@"Electroshock therapy",
+        @"Estrogen replacement therapy",@"ERT",@"External beam radiation therapy",@"Family therapy",
+        @"Fever therapy",@"Gene Therapy",@"Grief therapy",@"Hormone replacement therapy",@"HRT",
+        @"Human gene therapy",@"Interpersonal therapy",@"Maintenance therapy",@"Psychodynamic therapy",
+        @"Pulmonary therapy",@"Respiratory therapy",@"Salvage therapy",@"Testosterone replacement therapy",
+        @"Thermometer",@"Ear thermometer",@"Thermophobia",@"Thermostat",@"Thiamine",@"Infantile thiamine deficiency",
+        @"Thiazolidinedione",@"Thigh",@"Thigh bone",@"Thimerosal",@"ThinPrep Pap test",@"Thioxanthene",
+        @"Third and fourth pharyngeal pouch syndrome",@"Third cranial nerve",@"Third degree burn",
+        @"Third stage of labor",@"Third ventricle",@"Thomas Campion",@"Thomas Sydenham",
+        @"Lewis Thomas",@"Thoracentesis",@"Thoraces"];
     [MedicalWordStore addObjectsFromArray:TWord];
     return MedicalWordStore;
 }
