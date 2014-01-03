@@ -2837,8 +2837,40 @@
     [MedicalWordStore addObjectsFromArray:TWord];
     NSArray *UWord = @[@"Uracil",@"U.S. National Library of Medicine",@"UA",@"UAA",@"UAG",@"UAL",@"UBT",
         @"UDP-glucuronosyltransferase",@"UGA",@"UL",@"UMP",@"UNESCO",@"UNOS",@"URG",@"URI",@"UROD",
-        @"UROD deficiency",@"US Department of Agriculture",@"USDA",@"USFDA"];
+        @"UROD deficiency",@"US Department of Agriculture",@"USDA",@"USFDA",@"USP",@"USPHS",
+        @"United States Public Health Service",@"UTI in children",@"UV radiation",@"Ubidecarenone",
+        @"Ubiquinone",@"Ubiquitin",@"Ubiquitination",@"Ubiquitous",@"Ulcer",@"Buruli Ulcer",@"Aphthous ulcer",
+        @"Duodenal ulcer",@"Esophageal ulcer",@"Gastric ulcer",@"Peptic ulcer",@"Stasis ulcer",@"Ulceration",
+        @"Ulcerative gingivitis",@"Ulcerative proctitis",@"Ullrich congenital muscular dystrophy",
+        @"Ulna",@"Ulnar",@"Ulnar nerve",@"Ulocarcinoma",@"Ultrafast CT",@"Doppler Ultrasound",
+        @"Ultrasound/Ultrasonography",@"Ultraviolet A",@"Ultraviolet B",@"Ultraviolet C",@"Ultraviolet radiation",
+        @"Umami",@"Umbilical cord",@"Umbilicus",@"Unassisted childbirth",@"Uncertainty",
+        @"Unconscious",@"Temporary unconsciousness",@"Under the weather",@"Underload syndrome",
+        @"Underventilation",@"Underwater weighing",@"Undulant fever",@"Undulatant",@"Undulate",
+        @"Unguis incarnatus",@"Unicellular",@"Unicornuate",@"Unilateral",@"Uniparous",@"Unique identifier reporting",
+        @"International Unit",@"IU",@"United Network for Organ Sharing",@"UNOS",@"United States Pharmacopeia",
+        @"United States Public Health Service",@"Universal donor",@"Unresectable",@"Unresolved grief",
+        @"Unsaturated fat",@"Unstable diabetes",@"Unsteadiness",@"Unwell",@"Up-regulation",@"Upper leg",
+        @"Upper motor neuron",@"Upregulation",@"Urachus",@"Uracil",@"Uranium",@"Urate",@"Urea",
+        @"Ureaplasma",@"Uremia",@"Ureter",@"Urethra",@"Female urethral meatus",@"Female urethral opening",
+        @"Urethral sphincter",@"Urethritis",@"Urethroscope",@"Urge incontinence",@"Urinary urgency",
+        @"Uric acid",@"Uricaciduria",@"Uridine monophosphate",@"Urinary",@"Urinary calculus",
+        @"Urinary infection in children",@"Urinary tract",@"Urinary tract infection in children",
+        @"Urinary urgency",@"Burning urination",@"Difficulty urination",@"Painful urination",
+        @"Urine",@"Urine blood",@"Urine hemoglobin",@"Urine pH",@"Urogastrone",@"Urogenital",@"Urography",
+        @"Urolithiasis",@"Urological surgeon",@"Urologist",@"Uroporphyrinogen decarboxylase",
+        @"Uroporphyrinogen decarboxylase deficiency",@"Urothelium",@"Urticaria",@"Urticaria pigmentosa",
+        @"Ut dict.",@"Uterine bleeding",@"Uterine contraction",@"Uterine fornix",@"Uterine lining",
+        @"Uterine retroversion",@"Uterine rupture",@"Uterine tube",@"Uteroglobin",@"Uterus",
+        @"Uterus cancer",@"Contraction of the uterus",@"Prolapsed uterus",@"Tipped uterus",
+        @"Utility",@"Uvea",@"Uvula",@"Uvulitis",@"Uvulopalatopharyngoplasty"];
     [MedicalWordStore addObjectsFromArray:UWord];
+    NSArray *VWord = @[@"V. cholerae genome",@"VACTERL association",@"VAD",@"VAQTA",@"VATER association",
+        @"VBAC",@"VCJD",@"VCU",@"VCUG",@"VDRL test",@"VEGF",@"VER",@"VES",@"Voluntary Euthanasia Society",
+        @"VHF",@"VHL",@"VIG",@"VSD",@"VWM",@"Vaccination",@"DPT Vaccination",@"DT Vaccination",
+        @"DTaP Vaccination",@"H. flu vaccination",@"HIB Vaccination",@"Haemophilus influenzae type B vaccination",
+        @"HIB",@"Td Vaccination"];
+    [MedicalWordStore addObjectsFromArray:VWord];
     return MedicalWordStore;
 }
 
