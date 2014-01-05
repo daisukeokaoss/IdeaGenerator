@@ -2958,8 +2958,52 @@
         @"Weaver's bottom",@"Weaver-Smith syndrome",@"Hydrostatic weighing",@"Underwater weighing",
         @"Weight watchers",@"Weil syndrome",@"Wellcovorin",@"Welt",@"Werner syndrome",
         @"Werner-His disease",@"Wesand",@"Wesil",@"West Nile fever",@"West Nile virus",
-        @""];
+        @"West syndrome",@"Western blot",@"Western medicine",@"Wet brain",@"Wet lung",@"Wet market",
+        @"Wezand",@"Wharton's jelly",@"Wheal",@"Wheat weevil",@"Wheezer",@"Wheezing",@"Whipple's disease",
+        @"Whipworm",@"White blood cell",@"White blood cell count",@"Automated white cell differential",
+        @"White coat hypertension",@"White matter",@"White phosphorus",@"White spots on the nails",
+        @"White subungual onychomycosis, proximal",@"White-footed mouse",@"Whitehead",@"Whitmore's disease",
+        @"Whitmore-Jewtt staging system",@"Whole-arm translocation",@"Whooping cough",
+        @"Wiedemann-Beckwith syndrome",@"Wildervanck syndrome",@"Lawson Wilkins",@"Living will",
+        @"Willebrand-Juergens disease",@"William Dobelle",@"Circle of Willis",@"Wilms tumor",
+        @"Wilson's disease",@"Wimmin",@"Wind chill",@"Round window",@"Windpipe",@"Wing bone",
+        @"Winter depression",@"Witch's milk",@"Withdrawal symptoms",@"Penis withdrawal",@"Witkop syndrome",
+        @"Wolf-Hirschhorn syndrome",@"Wolfram syndrome",@"Wolframin",@"Wolhynia fever",
+        @"Womb",@"Women's Health Initiative",@"Women's Hospital",@"Womyn",@"Wordprocessor's cramp",
+        @"Working memory",@"World Health Organization",@"Wormwood",@"Retinal wrinkling",@"Wrist",
+        @"Writer's cramp",@"Wry neck",@"Wt",@"Wymin",@"Wymmin"];
     [MedicalWordStore addObjectsFromArray:WWord];
+    NSArray *XWord = @[@"X Chromosome",@"X chromosome inactivation",@"X inactivation",@"Factor X",@"X-linked",
+        @"X-linked juvenile retinoschisis",@"X-linked retinoschisis",@"X-ray",@"X-ray crystallography",
+        @"AP X-ray",@"PA X-ray",@"Lateral X-ray",@"X-rays during pregnancy",@"XP",@"XRT",@"XTC",
+        @"XX",@"XX gonadal dysgenesis with sensorineural deafness",@"XX male syndrome",@"XXX syndrome",
+        @"XXXX syndrome",@"XXXXX syndrome",@"XXY",@"XY",@"XYY",@"XYY syndrome",@"Xanax",@"Xanth-",
+        @"Xanthelasma",@"Xanthelasma",@"Xanthoma",@"Xanthine",@"Xanthinuria",@"Xanthoma",@"Xanthoma tendinosum",
+        @"Xanthoma tuberosum",@"Diabetic xanthoma",@"Xanthoma disseminatum",@"Eruptive xanthoma",
+        @"Planar xanthoma",@"Xanthomatosis",@"Xanthopsia",@"Xanthosis",@"Xen-",@"Xeno-",@"Xenoantigen",
+        @"Xenobiotic",@"Xenograft",@"Xenotransplantation",@"Xenotropic virus",@"Xeric",@"Xero-",
+        @"Xeroderma",@"Xeroderma pigmentosum",@"Xerogram",@"Xeromammography",@"Xerophagia",@"Xerophthalmia",
+        @"Xeroradiograph",@"Xeroradiography",@"Xerosis",@"Xerostomia",@"Xiphoid process",@"Xuezhikang",
+        @"Xylitol",@"Y(in chemistry)",@"Y(in genetics)",@"Y chromatin",@"Y chromosome",@"Y chromosome infertility",
+        @"Y chromosome sex-determining region",@"Y map",@"Y sex-determining region",@"Y-linkage",
+        @"Y-linked",@"Y-linked gene",@"Y-linked inheritance",@"Y. pestis",@"YAC",@"YAG laser surgery",
+        @"YAMA",@"Yard",@"Yawn",@"Yawning",@"Yd.",@"Yeast",@"Yeast artificial chromosome",@"YAC",
+        @"Yeast genome",@"Yeast infection",@"Yeast rash",@"Yeast syndrome",@"Yeast vulvitis",
+        @"Warburg's yellow enzyme",@"Yellow enzyme",@"Yellow jack",@"Yellow jacket sting",
+        @"Yerba mate",@"Yersinia",@"Yersinia enterocolitica",@"Yersinia pestis",@"Yersinia pestis genome",
+        @"Yersiniosis",@"Yogurt",@"Yolk sac",@"Yolk stalk",@"Youth",@"Youth violence",
+        @"Yttrium",@"Yttrium Y 90 ibritumomab tiuxetan"];
+    [MedicalWordStore addObjectsFromArray:XWord];
+    NSArray *ZWord = @[@"Z Chromosome",@"ZAP-70",@"ZIFT",@"Protein ZIP code",@"ZNF9",@"Zebra",@"Zeitgeber",
+        @"Zellweger syndrome",@"Zenker's diverticulum",@"Zenker's diverticulum",@"Zhitai",
+        @"Zhong-Wei Chen",@"Zinc",@"Zinc acetate",@"Zinc deficiency",@"Zinc excess",@"Zinc finger",
+        @"Zinc finger protein 9",@"Zinc ointment",@"Zinc oxide",@"Zinc sulfate",@"Zinc-finger protein",
+        @"Zinsser disease",@"Zoll",@"Paul M. Zoll",@"Zollinger-Ellison syndrome",@"Zomig",
+        @"Zona",@"Zona pellucide",@"Zone Diet",@"Zoonosis",@"Zoonotic",@"Zoonotic disease",
+        @"Zoonotic transfer",@"Zooparasite",@"Zoophilia",@"Zoophobia",@"Zovirax",@"Zygoma",@"Zygomatic arch",
+        @"Zygomatic bone",@"Zygomycosis",@"Zygote",@"Zygote intrafallopian transfer",@"ZIFT",
+        @"Zygotic lethal gene"];
+    [MedicalWordStore addObjectsFromArray:ZWord];
     return MedicalWordStore;
 }
 
