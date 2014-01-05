@@ -41,6 +41,7 @@
 		C998919817FFF98E00E4EAD9 /* CopyrightView.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919717FFF98E00E4EAD9 /* CopyrightView.m */; };
 		C998919B1800002700E4EAD9 /* CopyrightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919A1800002700E4EAD9 /* CopyrightViewController.m */; };
 		C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */; };
+		C9A06DD21879B5AB00F2E654 /* EnglishITWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */; };
 		C9CCBB5A17656A48008EAF98 /* CBTWord.m in Sources */ = {isa = PBXBuildFile; fileRef = C9CCBB5917656A48008EAF98 /* CBTWord.m */; };
 		C9D729E718098CE400BBD163 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E618098CE400BBD163 /* Images.xcassets */; };
 		C9D729E9180990CA00BBD163 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E8180990CA00BBD163 /* Icon@2x.png */; };
@@ -116,6 +117,8 @@
 		C998919A1800002700E4EAD9 /* CopyrightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CopyrightViewController.m; sourceTree = "<group>"; };
 		C998919C1803A2A200E4EAD9 /* OpticalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpticalWordStore.h; sourceTree = "<group>"; };
 		C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpticalWordStore.m; sourceTree = "<group>"; };
+		C9A06DD01879B5AB00F2E654 /* EnglishITWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishITWordStore.h; sourceTree = "<group>"; };
+		C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishITWordStore.m; sourceTree = "<group>"; };
 		C9CCBB5817656A48008EAF98 /* CBTWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBTWord.h; sourceTree = "<group>"; };
 		C9CCBB5917656A48008EAF98 /* CBTWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBTWord.m; sourceTree = "<group>"; };
 		C9D729E618098CE400BBD163 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -268,6 +271,8 @@
 				C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */,
 				C9E1EB6A182A950E000D79B5 /* EnglishMedicalWordStore.h */,
 				C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */,
+				C9A06DD01879B5AB00F2E654 /* EnglishITWordStore.h */,
+				C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */,
 				C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */,
 				C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */,
 				C994950516D9B404007FDD3A /* GeneralWordStore.h */,
@@ -381,6 +386,7 @@
 				C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */,
 				C994950116D9B33E007FDD3A /* WordStore.m in Sources */,
 				C994950416D9B3C6007FDD3A /* ITWordStore.m in Sources */,
+				C9A06DD21879B5AB00F2E654 /* EnglishITWordStore.m in Sources */,
 				C994950716D9B405007FDD3A /* GeneralWordStore.m in Sources */,
 				C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */,
 				C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */,
