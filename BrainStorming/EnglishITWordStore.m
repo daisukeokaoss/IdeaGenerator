@@ -36,7 +36,23 @@
         @"ACPI",@"ACR",@"Acrobat",@"acronym",@"acronyms used in online chatting",@"Acrylic",@"ACT",
         @"ACTA",@"action plan",@"ActionScript",@"ActionScript Cheat Sheets",@"active cooling",
         @"Active Directory",@"Active Directory domain",@"Active Directory Federation Services",
-        @"Active Directory forest",@"Active Directory tree"];
+        @"Active Directory forest",@"Active Directory tree",@"Active man in the middle attack",
+        @"active man-in-the-middle attack",@"active matrix display",@"active network",@"active reconnaissance",
+        @"Active Server Page",@"Active Template Library",@"active/active array",@"ActiveX",@"ActiveX control",
+        @"ActiveX Data Objects",@"ACTS",@"ad hoc analysis",@"ad hoc testing",@"ad-hoc network",@"Ada",
+        @"Ada Byron,countess of Lovelace",@"ADA Cheat Sheet",@"Ada Lovelace",@"adapter",
+        @"Adaptive differential pulse code modulation",@"adaptive enterprize",@"Adaptive organization",
+        @"Adaptive Planning",@"Adaptive Server Enterprise",@"adaptive software",@"adaptive technology",
+        @"ADAT",@"ADC",@"add-in",@"add-on",@"address",@"Address Resolution Protocol",@"address sign",
+        @"address space",@"addressability",@"addressable call endpoint",@"ADF",@"adiabatic cooling",
+        @"administrator code",@"Admiral Grace Hopper",@"admittance",@"ADO",@"Adobe AIR",@"Adobe Buzzword",
+        @"Adobe Flash Player",@"Adobe Publish",@"ADPCM",@"ADS",@"ADSI",@"ADSL",@"ADSL Terminal Unit-Remote",
+        @"ADSM",@"ADSTAR Distributed Storage Management",@"advanced analytics",
+        @"Advanced Business Application Programming",@"Advanced Configuration and Power Interface",
+        @"Advanced Encryption Standard",@"Advanced evasion technique",@"Advanced Function Printing",
+        @"Advanced Intelligent Network",@"advanced intelligent tape",@"Advanced Interactive eXecutive",
+        @"Advanced metering infrastructure",@"Advanced Micro Devices",@"Advanced Mobile Phone Service",
+        @"Advanced Peer to Peer Networking",@"advanced persistent threat"];
     [ITWordStore addObjectsFromArray:AWord];
     
     
