@@ -52,7 +52,26 @@
         @"Advanced Encryption Standard",@"Advanced evasion technique",@"Advanced Function Printing",
         @"Advanced Intelligent Network",@"advanced intelligent tape",@"Advanced Interactive eXecutive",
         @"Advanced metering infrastructure",@"Advanced Micro Devices",@"Advanced Mobile Phone Service",
-        @"Advanced Peer to Peer Networking",@"advanced persistent threat"];
+        @"Advanced Peer to Peer Networking",@"advanced persistent threat",@"Advanced Planner and Optimizer",
+        @"advanced planning and scheduling",@"Advanced Program-to-Program Communication",
+        @"Advanced Research Projects Agency",@"Advanced Reserch Projects Agency Network",
+        @"Advanced SCSI Programming Interface",@"Advanced SCSI Programming Interface driver",
+        @"advanced shipping notice",@"Advanced Technology Attachment",@"Advanced Television",
+        @"Advanced Television Enhancement Forum",@"Advanced Television Systems Committee",
+        @"AdventureWorks Database",@"advertising terminology on the Internet",@"adware",
+        @"AEBU",@"aerogel",@"AES",@"AET",@"AF",@"AFC",@"AFC media",@"affective computing",@"affiliate",
+        @"affinity rules",@"AFIS",@"AFM",@"AFP",@"AFS",@"Agency for Healthcare Research and Quality",
+        @"agent",@"aggregate",@"aggregator",@"agile applet",@"Agile concepts quiz",
+        @"agile glossary:Words-2-Go",@"Agile Manifesto",@"agile project management",@"Agile retrospective",
+        @"agile software development",@"agitation",@"aglet",@"agnostic",@"AGP",@"Ah",@"AHA",
+        @"AHIMA",@"AHRQ",@"AHT",@"AI",@"AIBO",@"AICPA",@"AIDC",@"AIFF",@"AIM",@"AIN",@"air conditioning",
+        @"air interface",@"Airborne Internet",@"airplane mode",@"AIT",@"AIX",@"Ajax",@"Ajax Cheat Sheets",
+        @"Ajax quiz:Do you speak Geek?",@"akamaize",@"AKO",@"ALE",@"aleph",@"Alesis Digital Audio Tape",
+        @"Alexander B. Howard, Associate Editor",@"algebraic number",@"algorithm",@"alias",@"aliasing",
+        @"Alien crosstalk",@"ALL",@"All Categories",@"All our Information Kits",@"All our Words-to-Go",
+        @"Allied Digital Services Ltd",@"Allscripts",@"ALM",@"Aloha",@"Aloha method",@"Alohanet",
+        @"Alpha",@"alphameric",@"alphanumeric",@"Alphanumerish",@"ALPR",@"alt group",@"alt text",
+        @"alt.",@"Altair",@"AltaVista",@"altdot",@"alternate data stream"];
     [ITWordStore addObjectsFromArray:AWord];
     
     
