@@ -71,7 +71,31 @@
         @"Alien crosstalk",@"ALL",@"All Categories",@"All our Information Kits",@"All our Words-to-Go",
         @"Allied Digital Services Ltd",@"Allscripts",@"ALM",@"Aloha",@"Aloha method",@"Alohanet",
         @"Alpha",@"alphameric",@"alphanumeric",@"Alphanumerish",@"ALPR",@"alt group",@"alt text",
-        @"alt.",@"Altair",@"AltaVista",@"altdot",@"alternate data stream"];
+        @"alt.",@"Altair",@"AltaVista",@"altdot",@"alternate data stream",@"alternate newsgroup",
+        @"alternating current",@"ALU",@"alureon",@"AM",@"Amalga",@"amateur radio",
+        @"amateur teleprinting over radio",@"Amaya",@"Amazon Cloud Drive",@"Amazon CloudSearch",
+        @"Amazon Dynamo Database",@"Amazon EC2",@"Amazon Elastic Compute Cloud",
+        @"Amazon Elastic Compute Cloud",@"Amazon ElastiCache",@"Amazon Kindle Touch",
+        @"Amazon Mechanical Turk",@"Amazon RedShift",@"Amazon S3",@"Amazon Silk",
+        @"Amazon Simple Storage Service",@"Amazon Web Services",@"ambient air cooling",
+        @"ambient energy scavenging",@"ambient temperature",@"ambulatory medical record",
+        @"AMD",@"AMD K6",@"AMD V",@"AMD virtualization",@"AMD-K6",@"AMD-V",@"Amdahl's law",
+        @"amelioration pattern",@"America's Carriers Telecommunications Association",
+        @"American Health Information Management Association",@"American Medical Information Association",
+        @"American National Standards Institute",@"American Radio Relay League",
+        @"American Recovery and Reinvestment Act of 2009",@"American Registry of Internet Numbers",
+        @"American Standard Code for Information Interchange",@"American Telemedicine Association",
+        @"American Wire Gauge",@"Americas' SAP Users' Group",@"AMI",@"AMI BIOS",@"AMIA",@"AMIBIOS",
+        @"Amiga",@"AML",@"amount of physical bulk",@"amount of substance",
+        @"amount of substance concentration",@"amp hour",@"ampere",@"ampere hour",@"ampere per meter",
+        @"ampere per meter squared",@"amplification factor",@"amplifier",@"amplitude modulation",
+        @"AMPS",@"AMR",@"AMR slot",@"AMSI",@"AMTOR",@"AMU",@"anacronym",@"analog",@"analog computing",
+        @"Analog Display Services Interface",@"analog telephone adapter",@"analog to digital conversion",
+        @"analog-to-digital conversion",@"analytic database",@"analytical CRM",@"Analytical Engine",
+        @"analytics",@"Ananova",@"anchor",@"anchor text",@"ancillary services",@"AND",@"Andon",
+        @"Andrew",@"Andrew file system",@"Android 3.0 Honeycomb",@"Android 4",@"Android 4.0",
+        @"Android 4.0 Ice Cream Sandwich",@"Android 4.2 Jelly Bean",@"Android Beam",
+        @"Android Factory Reset",@"Android Ice Cream Sandwich",];
     [ITWordStore addObjectsFromArray:AWord];
     
     
