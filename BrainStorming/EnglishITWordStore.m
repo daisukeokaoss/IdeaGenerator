@@ -301,7 +301,14 @@
         @"Broadband Global Area Network",@"Broadband Integrated Services Digital Network",
         @"Broadband Metropolitan Area Network",@"Broadband over Power Line",@"BPL",
         @"Broadband Over Powerline",@"Broadband Technology Opportunities Program",@"BTOP",
-        @"broadband voice gateway",@"broadcast",@"broadcast flag",@"broadvision",@"brochureware",];
+        @"broadband voice gateway",@"broadcast",@"broadcast flag",@"broadvision",@"brochureware",
+        @"brouter",@"brownfield deployment",@"brownfield site",@"brownout reset",@"browser",
+        @"browser hijacker",@"hijackware",@"Browser Shortcut Cheat Sheet",@"browser-safe palette",
+        @"browserless Web",@"brute force",@"brute force cracking",@"BS 10012:2009",@"BS 15000",
+        @"BS 25999",@"BS 7799",@"BSA",@"BSB",@"BSD",@"Berkeley Software Distribution",@"BSI",@"BSM",@"BSOD",
+        @"BSP",@"BSRAM",@"BT",@"BTM",@"BTOP",@"BTP",@"Btu",@"BTW",@"bubble help",@"bubble network",
+        @"bucket brigade attack",@"buckypaper",@"buckytube",@"buckytubes",@"buddy icon",@"buddy list",
+        @"budgeting,planning and forecasting"];
     [ITWordStore addObjectsFromArray:BWord];
     
     
