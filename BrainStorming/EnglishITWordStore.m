@@ -522,7 +522,24 @@
         @"code division multiple access 2000",@"code division multiple access one",@"Code of Connection",
         @"code review",@"code-division multiple access",@"codec",@"coded orthogonal frequency division multiplexing",
         @"coding error",@"CoE",@"coefficient",@"COFDM",@"CoffeeScript",@"cognitive modeling",@"cognitive radio",
-        @"CR",@"Cognos"];
+        @"CR",@"Cognos",@"CoIP",@"communication over Internet Protocol",@"COLD",@"Computer Output to Laser Disc",
+        @"cold backup",@"offline backup",@"cold boot",@"cold boot attack",@"cold buffer",@"cold fusion",
+        @"Cold Fusion",@"cold server",@"cold site",@"ColdFusion",@"ColdFusion Cheat Sheets",
+        @"ColdFusion Markup Language",@"coldset",@"coldset Web offset printing",
+        @"coldset Web offset printing",@"collaboration",@"Collaboration Data Objects",@"CDO",
+        @"collaboration diagram",@"collaboration platform",@"collaboration software",
+        @"collaborative authoring",@"collaborative BI",@"collaborative business intelligence",
+        @"collaborative browsing",@"co-browsing",@"collaborative citizen journalism",@"CCJ",
+        @"collaborative CRM",@"Collaborative Master Data management",@"CMDM",@"collaborative robot",
+        @"collaborative software",@"collaborative tagging",@"collision",@"Collision Avoidance",
+        @"collocated",@"collocation",@"colocated",@"colocated care-of address",@"colocation",@"colo",
+        @"colocation center",@"Color in the Office",@"Color printing: Choosing the right printer",
+        @"color thin film transistor",@"CTFT",@"column address strobe",@"columnar database",
+        @"com",@"COM",@"COM+",@"combinatorial logic",@"comfort noise generator",@"CNG",
+        @"comma separated values file",@"comma-separated values file",@"CSV",@"command",
+        @"command injection",@"command interpreter",@"command line interface",@"CLI",@"comment",
+        @"Commerce Extensible Markup Language",@"Commerce XML",@"commercial construction software",
+        @"commercial off the shelf",@"commercial off-the-shelf",@"Commercial Processing Workload"];
     [ITWordStore addObjectsFromArray:CWord];
     
     
