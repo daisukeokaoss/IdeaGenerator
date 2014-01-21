@@ -578,7 +578,8 @@
         @"computer forensics",@"cyber forensics",@"Computer Fraud and Abuse Act",@"CFAA",
         @"computer hardware chart",@"Computer History Museum",@"Computer history museum guide",
         @"Computer Intensive Workload",@"Computer Misuse Act 1990",@"CMA",@"computer operator",
-        @"Computer Output to Laser Disc"];
+        @"Computer Output to Laser Disc",@"computer pidgin language",@"CPL",@"computer room air conditioning unit",
+        @"CRAC"];
     [ITWordStore addObjectsFromArray:CWord];
     
     
