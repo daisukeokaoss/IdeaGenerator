@@ -606,7 +606,26 @@
         @"consumer ultra low voltage",@"consumer ultra-low voltage",@"consumerization policy",
         @"consumption-based pricing model",@"contact center",@"contact port numbers",@"container",
         @"content",@"content addressed storage",@"content aggregator",@"content analytics",
-        @"content caching",@"content curation"];
+        @"content caching",@"content curation",@"content delivery",@"content distribution",
+        @"content caching",@"content delivery network",@"CDN",@"Content Discovery",@"content distribution",
+        @"content distribution delivery",@"content farm",@"content mill",@"content filtering",
+        @"information filtering",@"content generation software",@"content management",
+        @"content management application",@"CMA",@"Content Management Interoperability Services",
+        @"content management system",@"CMS",@"content marketing",@"content mill",
+        @"Content Protection for Removable Media",@"CPRM",@"content replication",
+        @"Content Scrambling System",@"CSS",@"content spinner",@"content spoofing",
+        @"content type",@"content-addressed storage",@"CAS",@"context switch",@"context-aware network access control",
+        @"context-aware security",@"context driven testing",@"ContextAds",@"contextual collaboration",
+        @"contextual marketing",@"contiguity",@"contiguous",@"continental United States",@"contingency plan",
+        @"continuation symbol",@"Continuity of Care Document",@"CCD",@"Continuity of Care Record",@"CCR",
+        @"continuous backup",@"continuous data protection",@"storage convergence",@"continuous improvement",
+        @"continuous integration",@"CI",@"continuous media",@"contract delivery date",@"CDD",
+        @"contact management software",@"contracting officer",@"control framework",@"control network",
+        @"control plane",@"CP",@"Control-Alt-Delete",@"controller",@"CONUS",@"Continental United States",
+        @"conventional memory",@"converged infrastructure",@"converged network adapter",@"CNA",
+        @"converged storage",@"convergence",@"conversational Monitor System",@"CMS",@"Conversion calculators",
+        @"COO",@"cook-off test",@"cooked data",@"cookie",@"cookie poisoning",@"Cool",@"Coordinated Universal Time",
+        @"UTC",];
     [ITWordStore addObjectsFromArray:CWord];
     
     
