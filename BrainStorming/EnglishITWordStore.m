@@ -963,7 +963,26 @@
         @"eaddress",@"EDFA",@"EDGAR",@"Edgar F Codd",@"Edgar F. Codd",@"EDGE",@"Enhanced Data GSM Environment",
         @"edge device",@"edge router",@"edge transport server",@"EDI",@"Electronic Data Interchange",
         @"EDIFACT",@"eDiscovery",@"EDM",@"Electronic Document Management",@"EDO RAM",@"extended data output RAM",
-        @"EDP",@"electronic data processing",@"eDRAM",@"enhanced dynamic random access memory"];
+        @"EDP",@"electronic data processing",@"eDRAM",@"enhanced dynamic random access memory",
+        @"EDRM",@"electronic discovery reference model",@"edu",@"Edubuntu",@"edutainment",@"EEPROM",
+        @"electrically erasable programmable read-only memory",@"EES",@"EF sensing",@"EFF",@"EFS",@"EFT",
+        @"EFTAM",@"EGA",@"egg vertising",@"egg-vertising",@"Eggdrop",@"EggFusion",@"egg-vertising",
+        @"egosurf",@"egosurfing",@"EGP",@"egress",@"egress filtering",@"eHealth Initiative",
+        @"EHR",@"EHR implementation plan",@"EI",@"EIA",@"Electronic Industries Association",
+        @"Electronic Industries ALliance",@"EIDE",@"Enhanced Integrated Drive Electronics",@"Eiffel",
+        @"EIGRP",@"Enhanced  Interior Gateway Routing Protocol",@"EIM",@"eInk",@"EINSTEIN",@"EIP",
+        @"EISA",@"Extended Industry Standard Archtecture",@"EJB",@"Elastic Load Balancing",
+        @"ElasticSearch",@"eLearning",@"electric arc",@"electric charge",@"electric field sensing",
+        @"EF sensing",@"electric field strength",@"electric fire extinguisher",@"electric grid",
+        @"electric permittivity",@"Electric plugs for each country",@"electric power",
+        @"electrical charge",@"Electrical Discharge Machine",@"Electrical Discharge Machining",
+        @"Electrical Estimating software",@"electrical pollution",@"dirty electricity",
+        @"Electrically Erasable Programmable Read-Only Memory",@"Electrically Erasable Programmable ROM",
+        @"Electricity over IP",@"EoIP",@"electro-optical fingerprint recognition",@"electrochromic",
+        @"Electrohippies Collective",@"electroluminescence",@"electromagnetic bomb",@"electromagnetic field",
+        @"electromagnetic interference",@"EMI",@"electromagnetic pulse",@"electromagnetic pulse",@"EMP",
+        @"electromagnetic radiation spectrum",@"electromotive force",@"electron",@"electron rest mass",
+        @"electron tube",@"electronic bill presentment and payment",@"Electronic Business",];
     [ITWordStore addObjectsFromArray:EWord];
     
     
