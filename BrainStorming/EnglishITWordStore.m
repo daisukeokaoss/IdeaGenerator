@@ -1001,7 +1001,10 @@
         @"EPOD",@"electronic reader",@"Electronic Resume",@"scannable resume",@"scanner-friendly resume",
         @"electronic retailing",@"Electronic Services",@"electronic signature",
         @"Electronic Signature in Global and National Commerce Act",@"E-signature Bill",
-        @"Electronic Terrorism",@"electronic ticket",@"electronic voting"];
+        @"Electronic Terrorism",@"electronic ticket",@"electronic voting",@"Electronic Worldwide Switch Digital",
+        @"Electronic-discovery",@"electronically stored information",@"ESI",@"Electronics Industries Alliance",
+        @"electrophotography",@"Electrostatic discharge",@"ESD",@"electrostatic field",@"eLED",
+        @"elegant solution",@"element"];
     [ITWordStore addObjectsFromArray:EWord];
     
     
