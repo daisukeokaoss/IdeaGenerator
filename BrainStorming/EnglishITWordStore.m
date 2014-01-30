@@ -941,7 +941,29 @@
         @"e-invoicing",@"e-learning",@"e-mail",@"electronic mail",@"e-mail archive",@"e-mail authentication",
         @"e-Mail Discoverability",@"e-mail extractor",@"e-mail forgery",@"e-mail list",@"e-mail postage",
         @"sender pays",@"e-mail program",@"e-mail rage",@"e-mail reflector",@"e-mail server",@"e-nose",
-        @"e-outsourcing",@"e-paper",@"radio paper",@"electronic paper",@"e-postage"];
+        @"e-outsourcing",@"e-paper",@"radio paper",@"electronic paper",@"e-postage",@"e-prescribing",
+        @"electronic prescribing",@"e-prescribing incentive program",@"eRx incentive program",
+        @"e-procurement",@"supplier exchange",@"e-reader",@"electronic reader",@"E-Recruiting",
+        @"e-score",@"E-Services",@"Electronic services",@"E-Signature",@"E-Signature Bill",
+        @"e-speak",@"e-support",@"e-tailing",@"Electronic Retailing",@"E-tailware",@"e-thrombosis",
+        @"e-ticket",@"electronic ticket",@"e-voting",@"electronic voting",@"e-waste",@"E-ZPass",
+        @"E.F. Codd",@"E.164",@"E1",@"E2",@"E2E",@"exchange-to-exchange",@"E2K",@"Exchange 2000",
+        @"E3",@"e3000",@"E4",@"E5",@"E911",@"Enhanced 911",@"EA",@"EaaS",@"eai",@"EAI",
+        @"Enterprise application integration",@"EAM",@"EAP",@"ear and mouth",@"E&M",
+        @"early adaptor",@"earnings before interest,taxes,depreciation and amortization",@"earnings season",
+        @"Earth's mean orbital speed",@"Earth's mean radius",@"Earth-Moon-Earth",@"Easter Egg",
+        @"Easy Pass",@"EasyPass",@"eavesdropping",@"EB",@"EBCDIC",@"Extended Binary Coded Decimal Interchange Code",
+        @"EBIF",@"Enhanced TV Binary Interchange Format",@"EBIT",@"EBITD",@"EBITDA",
+        @"earning before interest,taxes,depreciation, and amortization",@"eBook",@"EBPP",
+        @"electronic bill presentment and payment",@"ebXML",@"electronic business xml",@"ebXML Initiative",
+        @"EC",@"EC Directive Regulations 2002",@"eCash",@"ECASS",@"ECB",@"ECC",@"error correction code",
+        @"error checking and correction",@"ECDL",@"Echelon",@"eClinicalWorks",@"Eclipse",@"Eclipse Foundation",
+        @"Eclipse Platform",@"ECM",@"ECMAScript",@"European Computer Manufacturers Association Script",
+        @"economizer",@"ECOphlex",@"PHase-change Liquid EXchange",@"ECP",@"ECPA",@"EDA",@"Edapt",@"EDD",
+        @"eaddress",@"EDFA",@"EDGAR",@"Edgar F Codd",@"Edgar F. Codd",@"EDGE",@"Enhanced Data GSM Environment",
+        @"edge device",@"edge router",@"edge transport server",@"EDI",@"Electronic Data Interchange",
+        @"EDIFACT",@"eDiscovery",@"EDM",@"Electronic Document Management",@"EDO RAM",@"extended data output RAM",
+        @"EDP",@"electronic data processing",@"eDRAM",@"enhanced dynamic random access memory"];
     [ITWordStore addObjectsFromArray:EWord];
     
     
