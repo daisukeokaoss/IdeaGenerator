@@ -998,7 +998,10 @@
         @"Electronic Postmaster",@"Electronic Prescribing",@"Electronic Privacy Information Center",@"EPIC",
         @"Electronic Product Environmental Assessment Tool",@"Electronic Program Guide",@"EPG",
         @"Electronic Protected Health Information",@"EPHI",@"Electronic Publishing on Demand",
-        @"EPOD",@"electronic reader",@"Electronic Resume",];
+        @"EPOD",@"electronic reader",@"Electronic Resume",@"scannable resume",@"scanner-friendly resume",
+        @"electronic retailing",@"Electronic Services",@"electronic signature",
+        @"Electronic Signature in Global and National Commerce Act",@"E-signature Bill",
+        @"Electronic Terrorism",@"electronic ticket",@"electronic voting"];
     [ITWordStore addObjectsFromArray:EWord];
     
     
