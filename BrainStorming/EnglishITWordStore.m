@@ -982,7 +982,8 @@
         @"Electrohippies Collective",@"electroluminescence",@"electromagnetic bomb",@"electromagnetic field",
         @"electromagnetic interference",@"EMI",@"electromagnetic pulse",@"electromagnetic pulse",@"EMP",
         @"electromagnetic radiation spectrum",@"electromotive force",@"electron",@"electron rest mass",
-        @"electron tube",@"electronic bill presentment and payment",@"Electronic Business",];
+        @"electron tube",@"electronic bill presentment and payment",@"Electronic Business",
+        @"electronic business xml",@"Electronic Code Book",@"ECB",];
     [ITWordStore addObjectsFromArray:EWord];
     
     
