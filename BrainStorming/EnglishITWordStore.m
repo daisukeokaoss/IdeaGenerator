@@ -983,7 +983,22 @@
         @"electromagnetic interference",@"EMI",@"electromagnetic pulse",@"electromagnetic pulse",@"EMP",
         @"electromagnetic radiation spectrum",@"electromotive force",@"electron",@"electron rest mass",
         @"electron tube",@"electronic bill presentment and payment",@"Electronic Business",
-        @"electronic business xml",@"Electronic Code Book",@"ECB",];
+        @"electronic business xml",@"Electronic Code Book",@"ECB",@"Electronic Commerce",
+        @"Electronic Commerce Regulations 2002",@"EC Directive Regulations 2002",
+        @"Electronic Communications Privacy Act",@"ECPA",@"Electronic Content Discovery",
+        @"Electronic Data Interchange",@"Electronic Data Management",@"Electronic Data Processing",
+        @"Electronic Discovery",@"e-discovery",@"ediscovery",@"Electronic Document Discovery",
+        @"Electronic Document Management",@"Electronic Evidence",@"Electronic Evidence Discovery",
+        @"electronic filing",@"electronic form",@"Electronic Frontier Foundation",@"EFF",
+        @"Electronic Funds Transfer",@"EFT",@"electronic health record",@"EHR",@"Electronic Industries Alliance",
+        @"Electronic Industries Association",@"Electronic Information Discovery",@"Electronic Ink",
+        @"Electronic Intensive Care Unit",@"EICU",@"electronic magazine",@"electronic mail",
+        @"Electronic Medical Billing",@"Electronic Medical Record",@"EMR",@"electronic newspaper",
+        @"electronic nose",@"e-nose",@"electronic paper",@"electronic paper display",@"EPD",
+        @"Electronic Postmaster",@"Electronic Prescribing",@"Electronic Privacy Information Center",@"EPIC",
+        @"Electronic Product Environmental Assessment Tool",@"Electronic Program Guide",@"EPG",
+        @"Electronic Protected Health Information",@"EPHI",@"Electronic Publishing on Demand",
+        @"EPOD",@"electronic reader",@"Electronic Resume",];
     [ITWordStore addObjectsFromArray:EWord];
     
     
