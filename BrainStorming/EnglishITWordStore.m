@@ -1116,8 +1116,49 @@
         @"Exterior Gateway Protocol",@"EGP",@"external hard drive",@"external storage",@"extract transform load",
         @"Extract,Load,Transform",@"ELT",@"extranet",@"extrapolation and interpolation",@"Extreme Programming",
         @"XP",@"extreme ultraviolet lithography",@"EUVL",@"extremely low frequency",@"extrusion prevention",
-        @"eye candy",@"eye tracking",@"gaze tracking",@"eye-in-hand system",@"ezine"];
+        @"eye candy",@"eye tracking",@"gaze tracking",@"eye-in-hand system",@"ezine",@"electronic magazine",
+        @"EZPass",@"Microsoft Exchange 2013 Safety Net",@"Microsoft Exchange 2013 site mailbox",
+        @"Microsoft Exchange Control Panel",@"Microsoft Exchange Fast Access",
+        @"Microsoft Exchange Information Store",@"Microsoft Exchange Online Protection",
+        @"EOP",@"Microsoft Exchange Server 2013"];
     [ITWordStore addObjectsFromArray:EWord];
+    NSArray *FWord = @[@"F",@"fabric",@"Facebook",@"Facebook Connect",@"Facebook event",@"Facebook group",
+        @"Facebook Insights",@"Facebook Mobile",@"Facebook page",@"Facebook scam",@"Facebook Status",
+        @"Facebook wall",@"FaceTime",@"facial recognition",@"fact table",@"FACTA",
+        @"Fair and Accurate Credit Transaction Act",@"factorial",@"Fahrenheit",@"failback",
+        @"failover",@"failover cluster",@"Fair and Accurate Credit Transactions Act",
+        @"fair and reasonable price",@"Fair Credit Reporting Act",@"FCRA",@"Fair Information Practices",
+        @"FIP",@"fair opportunity",@"fair use",@"FairPlay",@"false acceptance",@"type Ⅱ error",
+        @"false positive",@"false rejection",@"type Ⅰ error",@"false rejection rate",
+        @"Family Educational Rights and Privacy Act of 1974",@"fan in",@"Fan out",@"fan-in",@"fan-out",
+        @"FAQ",@"frequently-asked questions",@"FAR",@"farad",@"faraday",@"Faraday cage",@"Faraday constant",
+        @"FASAB",@"Federal Accounting Standards Advisory Board",@"fast array of wimpy nodes",
+        @"FAWN",@"fast clear down",@"fast dial-up",@"Fast Ethernet",@"fast flux DNS",
+        @"Fast Guide to acronyms used in manufacturing",@"Fast Guide to Case Studies",
+        @"Fast Guide to CD/DVD",@"Fast Guide to Collaborative Software",@"Fast Guide to DSL",
+        @"Digital Subscriber Line",@"Fast Guide to DTV",@"Fast Guide to free IT book Excerpts",
+        @"Fast Guide to Helpful Tips",@"Fast Guide to IT Humor",@"Fast Guide to Job Hunting and Career Resources",
+        @"Fast Guide to Measuring efficiency and prudictivity",@"Fast Guide to Mobile Telephony",
+        @"Fast Guide to Pandemic Planning",@"Fast Guide to RAM",@"Fast Guide to Regulatory Compliance",
+        @"Fast Guide to Storage Technologies",@"Fast guide to writing resumes and cover letters",
+        @"Enterprise AIR Applications",@"Friday Geeking",@"SQL Server 2000 commands",@"Fast Infoset",
+        @"FI",@"fast packet technology",@"Fast Page Mode DRAM",@"Fast Reference for Mathematical Symbols",
+        @"fast retransmit and recovery",@"FRR",@"FastCGI",@"FasTrak",@"FAT",@"fat client",@"thick client",
+        @"fat Mac",@"fat provisioning",@"FP",@"fatal exception",@"FatDB",@"fault management",
+        @"Fault tolerance",@"fault-management,configuration,accounting,performance, and security",
+        @"Fault-Management Platform",@"fault-tolerant",@"favicon",@"favorite icon",@"FAWN",
+        @"fax",@"Fax Group",@"fax polling",@"fax server",@"faxserver",@"FC",@"FC IP",@"FC PGA",
+        @"FC-PGA",@"flip chip-pin grid array",@"FC/IP",@"FCAPS",
+        @"fault-management,configuration,accounting,performance, and security",@"Fcc",
+        @"FCIP",@"FCoE",@"Fibre Channel over Ethernet",@"FCR",@"FCRA",@"Fair Credit Reporting Act",
+        @"FDCC",@"FDDI",@"Fiber Distributed Data Interfae",@"FDE",@"FDIC",@"FDISK",@"FDM",@"FDMA",
+        @"Frequency division multiple access",@"fear uncertainty doubt",@"feather",@"Feather Linux",
+        @"feathering",@"Feature Creep",@"Requirements Creep or scope creep",@"Feature Group D",
+        @"Feature Manipulation Engine",@"FME",@"FEC",@"FECN",@"FECN BECN",@"FECN/BECN",
+        @"forward explicit congestion notification",@"backward explicit congestion notification",
+        @"FED",@"Federal Acquisition Regulation",@"FAR",@"Federal Compliance",];
+    
+    [ITWordStore addObjectsFromArray:FWord];
     
     
     return ITWordStore;
