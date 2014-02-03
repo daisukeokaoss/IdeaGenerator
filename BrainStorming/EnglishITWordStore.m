@@ -1185,7 +1185,20 @@
         @"field-effect transistor",@"FET",@"field-programmable gate array",@"FPGA",@"Field-replacement unit",
         @"FRU",@"FIFO",@"first-in,first-out",@"file",@"file allocation table",@"FAT",@"File Carbon Copy",
         @"file extension",@"file format",@"file formats",@"file name extension",@"file replication",
-        @"File Server",];
+        @"File Server",@"File sharing",@"File Storage",@"File System",@"File Transfer",
+        @"File Transfer,Access and Management",@"File Transfer Access Method",@"File Transfer Protocol",
+        @"FTP",@"File Virtualization",@"FileMaker",@"FMP",@"filter",@"Filesystem",@"Filter",@"FIM",
+        @"Finacle",@"Final 4",@"Financial Analytics",@"Financial Application",@"Financial Consolidation",
+        @"Financial Controller",@"Financial Crimes Enforcement Network",@"FinCEN",@"Financial Data Management",
+        @"Financial Industry Regulatory Authority",@"FINRA",@"Financial Information Exchange Protocol",
+        @"Financial Management System",@"Financial Modeling",@"Financial Modernization Act of 1999",
+        @"Financial Products Markup Language",@"Financial Reporting",@"Financial Services Authority",
+        @"FSA",@"Financial Services Markup Language",@"FSML",@"financial Supply Chain Management",@"FinCEN",
+        @"Find and replace wildcards for Microsoft Word",@"Find Me",@"find me/follow me",
+        @"Fine-structure constant",@"Finger",@"Finger Image",@"Finger Vein ID",@"Fingernail storage",
+        @"Fingerprint Scanning",@"Fingerscanning",@"fingerprint scanning",@"finite capacity scheduling",
+        @"Finite state machine",@"FinnOne",@"FINRA",@"FiOS",@"Fiber Optic Service",@"FIP",@"FIPS",
+            ];
     
     [ITWordStore addObjectsFromArray:FWord];
     
