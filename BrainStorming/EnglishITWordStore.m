@@ -1198,7 +1198,29 @@
         @"Fine-structure constant",@"Finger",@"Finger Image",@"Finger Vein ID",@"Fingernail storage",
         @"Fingerprint Scanning",@"Fingerscanning",@"fingerprint scanning",@"finite capacity scheduling",
         @"Finite state machine",@"FinnOne",@"FINRA",@"FiOS",@"Fiber Optic Service",@"FIP",@"FIPS",
-            ];
+        @"FIPS PUB 197",@"Fire Brigade attack",@"Fire Fighting",@"FireFighting",@"Firefox",@"Firefox3",
+        @"Fx3",@"FF3",@"Firefox 3.5",@"firehose effect",@"FireSheep",@"Firestarter",@"Firewall",
+        @"Firewall Builder",@"Fwbuilder",@"FireWire",@"firmware",@"First Amendment of the Internet",
+        @"first call resolution",@"FCR",@"First Computer Virus",@"first in first out",
+        @"first law of thermodynamics",@"First-mover",@"First-order logic",@"First-order Predicate Calculus",
+        @"Firstsource Solutions",@"Fiscal quarter",@"Fiscal year",@"Fishbone Diagram",@"fishing",
+        @"FISMA",@"Fist of Five",@"Fist to Five",@"FITCE",@"five 9s",@"five nines",
+        @"Five Steps to Incident Management in a Virtualized Environment",@"fix",@"FIX protocol",
+        @"Financial Information Exchange Protocol",@"fixed data",@"Permanent Data",@"Reference Data",
+        @"archival data",@"Fixed Content Data",@"Fixed-Length Subnet Mask",@"FLSM",
+        @"Fixed-Mobile Convergence",@"FMC",@"Fixed-Mobile Substitution",@"FMS",@"Fizt",@"physics tool",
+        @"flag",@"flamebait",@"flaming",@"flanging",@"Flash",@"Flash ad",@"Flash array",@"Flash Cache",
+        @"Flash Cache Appliance",@"flash controller",@"flash driver",@"Flash drive",@"Flash file system",
+        @"Flash Memory",@"Flash Memory Card",@"Flash mob",@"Flash RAM",@"Flash rob",@"Flash robbery",
+        @"Flash storage",@"Flash-based solid state drive",@"flashmob",@"FlashMob supercomputer",
+        @"flat address space",@"flat design",@"Flat file",@"Flat file system",@"Flat-panel TV",
+        @"Flex",@"flexfield",@"Flexible Mandatory Access Control",@"FMAC",@"Flexible organic LED",
+        @"flexible organic light emitting device",@"flexible transistor",@"Flexo",@"Flexography",
+        @"surface printing",@"FlexPod",@"Flight Simulator",@"Flip chip pin grid array",@"Flip flops",
+        @"bistable gates",@"Flip-flop",@"Floating Ad",@"Floating-gate",@"floating point operations per second",
+        @"floating-point unit",@"FPU",@"floating-point operations per second",@"floating-point unit",
+        @"Flock",@"flooding",@"Floodlight",@"FLOP",@"floppy",@"floppy disk",@"FLOPS",
+        @"floating-point operations per second",@"FLOSS"];
     
     [ITWordStore addObjectsFromArray:FWord];
     
