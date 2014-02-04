@@ -1269,7 +1269,17 @@
     [ITWordStore addObjectsFromArray:FWord];
     NSArray *GWord = @[@"802.11ac",@"Gigabit Wi-Fi",@"g",@"G",@"G-cloud",@"government cloud",@"G.703",@"G.711",
         @"G.722",@"G.723.1",@"G.729",@"G.lite",@"G2G",@"G3",@"G4",@"GAAP",@"generally accepted accounting standards",
-        @"GaAs",@"GaAsFET",@"gain",@"GajShield",@"Galileo",];
+        @"GaAs",@"GaAsFET",@"gain",@"GajShield",@"Galileo",@"Gallium arsenide",@"GaAs",
+        @"Gallium Arsenide Field Effect Transistor",@"Gallium Arsenide Field-Effect Transistor",
+        @"GaAsFET",@"gallium nitride",@"GaN",@"GALP",@"Game theory",@"gamer",@"gamification",@"gaming",
+        @"gaming the system",@"gamma",@"GAN",@"GaN",@"Gantt chart",@"gap analysis",@"garbage",
+        @"garbage collecting",@"garbage in garbage out",@"garbage in,garbage out",@"GIGO",
+        @"garbage in,gospel out",@"GARP",@"Generic Attribute Registration Protocol",@"GARP VLAN",
+        @"GARP VLAN Registration Protocol",@"Gartner",@"Gartner hype cycle",@"Gartner Magic Quadrants",
+        @"GARUDA",@"gas",@"gas constant",@"universal molar gas constant",@"GASB",@"Gatekeeper",@"Gateway",
+        @"Gauss",@"G",@"GB",@"GB billing",@"GBIC",@"Gbps",@"billions of bits per second",@"GCSX",@"GDMO",
+        @"Guidelines for Definition of Managed Objects",@"GE Healthcare",@"geek",@"Geek Games",
+        @"geek speak",@"geekosphere",@"GeekSpeak",@"gender charger"];
     [ITWordStore addObjectsFromArray:GWord];
     
     
