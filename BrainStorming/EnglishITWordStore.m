@@ -1279,7 +1279,30 @@
         @"GARUDA",@"gas",@"gas constant",@"universal molar gas constant",@"GASB",@"Gatekeeper",@"Gateway",
         @"Gauss",@"G",@"GB",@"GB billing",@"GBIC",@"Gbps",@"billions of bits per second",@"GCSX",@"GDMO",
         @"Guidelines for Definition of Managed Objects",@"GE Healthcare",@"geek",@"Geek Games",
-        @"geek speak",@"geekosphere",@"GeekSpeak",@"gender charger"];
+        @"geek speak",@"geekosphere",@"GeekSpeak",@"gender charger",@"General Architecture for Text Engineering",
+        @"GATE",@"general ledger",@"GL",@"General Packet Radio Services",@"general protection fault",
+        @"GPF",@"general-purpose computer",@"Generalized Markup Language",
+        @"Generalized Multiprotocol Label Switching",@"generally accepted accounting standards",
+        @"Generally Accepted Recordkeeping Principles",@"GARP",@"Generation Facebook",@"Generation F",
+        @"Generic Access Network",@"GAN",@"Generic Attribute Registration Protocol",
+        @"Generic Routing Encapsulation",@"GRE",@"Generic top level domain name",
+        @"generic top-level domain name",@"Generic VLAN Registration Protocol",
+        @"genetic engineering",@"genetic modification",@"genetic programming",@"geo-fencing",
+        @"geofencing",@"geo-replication",@"geocache",@"Geocaching",@"GPS stash hunting",@"geoclustering",
+        @"Geoengineering",@"geographic information system",@"geolocation",@"geolocation data",
+        @"George Boole",@"George Simon Ohm",@"GeoRSS",@"Geospatial analysis",@"Geostationary satellite",
+        @"geotagging",@"geotargeting",@"geothermal energy",@"GESTALT",
+        @"Grid-based Estimation of Surface Traversability Applied to Local Terrain",@"gesture recognition",
+        @"GFEBS",@"General Fund Enterprise Business System",@"Ghost",@"ghost asset",@"ghost imaging",
+        @"ghost site",@"Ghostscript",@"GHz",@"GIA",@"giant",@"giant magnetoresistive effect",@"gibi",
+        @"GID",@"group ID",@"global index file",@"GIF",@"Graphics Interchange Format",@"GIF89a",
+        @"Graphic Interchange Format Version 89a",@"Gift Economy",@"giga",@"gigabit",
+        @"Gigabit Ethernet",@"Gigabit Interface Converter",@"GBIC",@"gigabit point of presence",
+        @"gigabit point of presence",@"gigabit point-of-presence",@"gigabyte",@"GB",@"gigaflop",
+        @"gigahertz",@"GHz",@"gigapop",@"gigabit point-of-presence",@"GIGO",@"GII",@"GIMP",
+        @"GNU Image Manipulation Program",@"GIS",@"geographic information system",@"GitHub",@"GL",
+        @"Glacier",@"Amazon Glacier",@"glass house",@"glassfet",@"GLB Act",@"GLBA",@"GLib",@"glitch",
+        @"Glite",@"glob",@"Global Available-to-Promise",];
     [ITWordStore addObjectsFromArray:GWord];
     
     
