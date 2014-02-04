@@ -1267,7 +1267,10 @@
         @"Fuzzing",@"Fuzzy logic",@"Fuzzy matching",@"Fuzzy number",@"Fuzzy Search",@"Fwbuilder",
         @"Fx3",@"FYI"];
     [ITWordStore addObjectsFromArray:FWord];
-    NSArray *GWord = @[@"802.11ac",@"Gigabit Wi-Fi",];
+    NSArray *GWord = @[@"802.11ac",@"Gigabit Wi-Fi",@"g",@"G",@"G-cloud",@"government cloud",@"G.703",@"G.711",
+        @"G.722",@"G.723.1",@"G.729",@"G.lite",@"G2G",@"G3",@"G4",@"GAAP",@"generally accepted accounting standards",
+        @"GaAs",@"GaAsFET",@"gain",@"GajShield",@"Galileo",];
+    [ITWordStore addObjectsFromArray:GWord];
     
     
     return ITWordStore;
