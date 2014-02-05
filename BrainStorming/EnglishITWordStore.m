@@ -1326,7 +1326,9 @@
         @"Google Knol",@"Google Knowledge Graph",@"Google Maps",@"Google Now",@"Google Play",
         @"Android Market",@"Google scanning",@"Google Spreadsheets",@"Google Street View",
         @"Google Trends",@"Google Voice",@"Google Wallet",@"Google+",@"Google Plus",@"Googlehacking",
-        @"Googlewhack",@"Googlewhacking",@"Googling",@"googol"];
+        @"Googlewhack",@"Googlewhacking",@"Googling",@"googol",@"googol and googolplex",
+        @"googolplex",@"Gopher",@"gopherspace",@"Gorilla Glass",@"Gorilla Glass 3",@"gOS",
+        @"good operating system",@"GOTS"];
     [ITWordStore addObjectsFromArray:GWord];
     
     
