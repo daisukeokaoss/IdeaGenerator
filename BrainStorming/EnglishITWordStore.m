@@ -1328,7 +1328,13 @@
         @"Google Trends",@"Google Voice",@"Google Wallet",@"Google+",@"Google Plus",@"Googlehacking",
         @"Googlewhack",@"Googlewhacking",@"Googling",@"googol",@"googol and googolplex",
         @"googolplex",@"Gopher",@"gopherspace",@"Gorilla Glass",@"Gorilla Glass 3",@"gOS",
-        @"good operating system",@"GOTS"];
+        @"good operating system",@"GOTS",@"gov",@"Governance,Risk and Compliance",@"Governance Software",
+        @"GRC",@"government cloud computing plan",@"Government Information Awareness",@"GIA",
+        @"Government Information Security Reform Act",@"government off-the-shelf",@"government spyware",
+        @"government-to-government",@"G2G",@"government Trojan",@"governmentwide acquisition contract",
+        @"GWAC",@"GPF",@"GPL",@"GPO",@"gpresult",@"GPRS",@"General Packet Radio Services",@"GPS",
+        @"GPS cache hunt",@"GPS messaging",@"mid-air messaging",@"GPS navigation system",
+        @"GPS stash hunt",@"GPS stash hunting"];
     [ITWordStore addObjectsFromArray:GWord];
     
     
