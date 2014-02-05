@@ -1302,7 +1302,31 @@
         @"gigahertz",@"GHz",@"gigapop",@"gigabit point-of-presence",@"GIGO",@"GII",@"GIMP",
         @"GNU Image Manipulation Program",@"GIS",@"geographic information system",@"GitHub",@"GL",
         @"Glacier",@"Amazon Glacier",@"glass house",@"glassfet",@"GLB Act",@"GLBA",@"GLib",@"glitch",
-        @"Glite",@"glob",@"Global Available-to-Promise",];
+        @"Glite",@"glob",@"Global Available-to-Promise",@"Global Catalog",@"Active Directory",
+        @"global data deduplication",@"Global Index File",@"Global Information Infrastructure",@"GII",
+        @"Global Navigation Satellite System",@"Global Network Enterprise Construct",@"GNEC",
+        @"global positioning stash hunt",@"Global Positioning System",@"GPS",
+        @"Global Positioning System messaging",@"global spy network",@"Global System for Mobile communication",
+        @"Global Tag",@"Global Unique Identifier",@"globalism",@"globality",@"globalization",
+        @"globbing",@"glocalization",@"GLONASS",@"Information Technology",@"Robotics",@"glue logic",
+        @"GlusterFS",@"Gluster File System",@"GLV",@"glyph",@"gm",@"Gmail",@"GML",
+        @"Generalized Markup Language",@"GMPLS",@"Generalized Multiprotocol Label Switching",
+        @"Multiprotocol Lambda Switching",@"GMT",@"GNEC",@"GNOME",@"GNU Network Object Model Environment",
+        @"GNSS",@"Global Navigation Satellite System",@"GNU General Public License",@"GNU GPL",
+        @"simply GPL",@"GNU GPL",@"GNU GRUB",@"GNU Image Manipulation Program",@"GNU Linux",@"GNU zip",
+        @"Gnutella",@"Go big or stay home",@"go bosh",@"Go Big or Stay Home",@"go-to-market strategy",
+        @"GTM strategy",@"goat",@"going forward",@"gold code",@"golden handcuffs",@"golden image",
+        @"golden parachute",@"golden record",@"Goobuntu",@"Good Automated Laboratory Practices",
+        @"GALP",@"good operating system",@"Good Practice Guide 13",@"good worm",@"Google",
+        @"Google Adsense",@"Google Advertising ID",@"Google Alert",@"Google Analytics",
+        @"Google Analytics Dashboard",@"Google Apps for Business",@"Google Base",@"Google BigQuery",
+        @"Google BigTable",@"Google bomb",@"Google Chrome Browser",@"Google Chrome OS",@"Google Cloud Print",
+        @"Google Coop",@"Google Docs",@"Google Drive",@"Google Fiber",@"Google Glass",@"Google hacking",
+        @"Google scanning",@"Engine hacking",@"Google Hangouts",@"Google Health",@"Google I/O",
+        @"Google Knol",@"Google Knowledge Graph",@"Google Maps",@"Google Now",@"Google Play",
+        @"Android Market",@"Google scanning",@"Google Spreadsheets",@"Google Street View",
+        @"Google Trends",@"Google Voice",@"Google Wallet",@"Google+",@"Google Plus",@"Googlehacking",
+        @"Googlewhack",@"Googlewhacking",@"Googling",@"googol"];
     [ITWordStore addObjectsFromArray:GWord];
     
     
