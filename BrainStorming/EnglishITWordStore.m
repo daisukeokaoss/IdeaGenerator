@@ -1542,7 +1542,24 @@
         @"Inbound Call",@"Inbound Call Center",@"inbound link",@"Inbox Zero",@"Incentivize",
         @"incidence",@"incident",@"Incident management",@"IcM",@"Incident Response",
         @"Incident Response Plan",@"Incident Response Policy",@"Incompleteness Theorem",@"increment",
-        @"incremental backup",@"Incremental Revenue Analysis",@"Incubator",@"Incumbent local exchange carrier",];
+        @"incremental backup",@"Incremental Revenue Analysis",@"Incubator",@"Incumbent local exchange carrier",
+        @"Indefeasible Right of Use",@"IRU",@"indemnification",@"indemnity",@"indempotency",@"Indeo",
+        @"Independent Software Vendor",@"Independent variable",@"index register",
+        @"Indexed Sequential Access Method",@"India State Data Centre",@"Indian Institute of Information Technology",
+        @"IIIT",@"Indian Institute of Technology",@"IIT",@"Indigo",@"inductance",@"Inductive charging",
+        @"Inductive reasoning",@"Inductor",@"Industrial espionage",@"Industrial Software",@"Industrial Strength",
+        @"Industry Standard Architecure",@"Inertia",@"iNet",@"InfiniBand",@"infinite loop",
+        @"Infinite Monkey Theorem",@"Infinite Series",@"infinity",@"InfoCard",@"infographics",
+        @"Infomediary",@"Infomercial",@"infonesia",@"Infonomics",@"Information",
+        @"Information and communications technologies",
+        @"Information and Communication Technologies for Development",@"ICT4D",
+        @"Information and Content Exchange",@"ICE",@"Information Appliance",@"Information Architecture",
+        @"Information Asset",@"Information Assurance Standard 6",@"IAS 6",
+        @"Information Awareness Office",@"IAO",@"Information Commissioner's Office",@"ICO",
+        @"Information design",@"Information Display System",@"Information Filtering",
+        @"information governance",@"Information Kit",@"64-bit Computing",@"Grid Computing",
+        @"Linux,Unix, and All the Little ixes",@"Voice over IP",@"Information life cycle management",
+        @"ILM",@"Information lifecycle management",];
     [ITWordStore addObjectsFromArray:IWord];
     
     
