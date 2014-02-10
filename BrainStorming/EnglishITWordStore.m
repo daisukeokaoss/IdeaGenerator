@@ -1559,7 +1559,19 @@
         @"Information design",@"Information Display System",@"Information Filtering",
         @"information governance",@"Information Kit",@"64-bit Computing",@"Grid Computing",
         @"Linux,Unix, and All the Little ixes",@"Voice over IP",@"Information life cycle management",
-        @"ILM",@"Information lifecycle management",];
+        @"ILM",@"Information lifecycle management",@"Information Management System",@"information radiator",
+        @"Information Security Breaches Survey",@"ISBS",@"Information Security Management System",
+        @"ISMS",@"Information Service",@"Information Signature",@"Information Society",
+        @"Information Storage and Retrieval System",@"Information System",@"Information Technology",
+        @"Information Technology Amendment Act 2008",@"Information Technology Association of America",
+        @"Information Technology Consumerization",@"Information Technology Information Sharing and Analysis Center",
+        @"Information Technology Infrastructure Library",@"Information theory",@"Information war",
+        @"Information-Centric Security",@"infosurfing",@"Infosurfing",@"Infosys Technology",@"Infosys Limited",
+        @"Infotainment",@"infranet",@"Infranet Initiative",@"Infrared",@"Infrared Data Association",
+        @"Infrared Radiation",@"IR",@"Infrared Transmission",@"Infrared Wireless",@"Infrastructure",
+        @"Infrastructure as a Service",@"IaaS",@"Infrastructure Management",@"IM",@"Ingres",@"ingress",
+        @"Inheritance",@"INI",@"initial extent",@"Initial Program Load",@"IPL",@"Initial public offering",
+        @"Initialism",@"Initialization"];
     [ITWordStore addObjectsFromArray:IWord];
     
     
