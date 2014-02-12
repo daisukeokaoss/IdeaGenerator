@@ -1738,8 +1738,26 @@
         @"Josephson Effect",@"Josephson interferometer",@"Josephson junction",@"Josephson Tunneling",
         @"Joule",@"Journaling file system",@"joy stick",@"Joystick",@"JPEG",@"JPG",@"JRE",@"JRun",
         @"JScript",@"JSML",@"Java Speech API Markup Language",@"JSON",@"JavaScript Object Notation",
-        @"JSP",@"JSR 208"];
+        @"JSP",@"JSR 208",@"JTAPI",@"Java Telephony Application Programming Interface",@"Juarez",
+        @"judder",@"Jughead",@"Julian Calendar",@"Julian Date",@"Jumbo Frames",@"jumbogram",@"Jump drive",
+        @"Jump page",@"Jumper",@"jumper block",@"Jumper cable",@"Jumper setting",@"JUnit",@"junk e-mail",
+        @"just a bunch of disks",@"Just a bunch of drives",@"just enough operating system",
+        @"Just for Fun freeware and shareware guide",@"just in case manufacturing",
+        @"just in time compiler",@"just in time manufacturing",@"Just-in-case manufacturing",
+        @"JIC manufacturing",@"just-in-time compiler",@"JIT",@"Just-in-time manufacturing",
+        @"JIT manufacturing",@"Juxtaposed",@"JVM",@"JXTA",@"Juxtaposed",@"Jython"];
     [ITWordStore addObjectsFromArray:JWord];
+    NSArray *KWord = @[@"K",@"K Desktop Environment",@"KDE",@"K map",@"K scale for Internet addiction",@"K-12",
+        @"K-Business",@"K-map",@"K-scale",@"K-scale for Internet Addiction",@"Korea scale for Internet Addiction",
+        @"K/P",@"K56flex",@"K6",@"AMD-K6",@"K7",@"kaizen",@"kaizen(or continuous improvement)",@"kanban",
+        @"Kapow",@"Kaptoxa",@"Karnaugh map",@"K-map",@"Katmai",@"Kazaa Media Desktop",@"KMD",@"KB",@"KBA",
+        @"Kbps",@"kilobits per second",@"KBW",@"Kbyte",@"KDE",@"keep it simple stupid",@"Keep It Simple ,Stupid",
+        @"keiretsu",@"Keitai",@"kelvin",@"Kerberos",@"Kermit",@"kernel",@"kernel panic",
+        @"kernel-based Virtual Machine",@"KVM",@"key",@"key chain",@"key chain drive",@"Key Fob",
+        @"Key Lifetime",@"Key Logger",@"Key Performance Indicator",@"KPI",@"KRI",@"Key Station",
+        @"key string",@"key-value pair",@"key-value pair",@"KVP",@"keyboard",@"keyboard shortcut",
+        @"keyboard video mouse switch",@"keyboard wedge",];
+    [ITWordStore addObjectsFromArray:KWord];
     
     
     return ITWordStore;
