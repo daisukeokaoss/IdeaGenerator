@@ -1756,7 +1756,14 @@
         @"kernel-based Virtual Machine",@"KVM",@"key",@"key chain",@"key chain drive",@"Key Fob",
         @"Key Lifetime",@"Key Logger",@"Key Performance Indicator",@"KPI",@"KRI",@"Key Station",
         @"key string",@"key-value pair",@"key-value pair",@"KVP",@"keyboard",@"keyboard shortcut",
-        @"keyboard video mouse switch",@"keyboard wedge",];
+        @"keyboard video mouse switch",@"keyboard wedge",@"KBW",@"keychain drive",@"Keyhole Markup Language",
+        @"KML",@"keylogger",@"keystroke logger",@"System monitor",@"keylogging software",@"keyphone",
+        @"K/P",@"key station",@"keystone jack",@"keystone plug",@"Keystroke dynamics",@"Keystroke Logger",
+        @"keyword stuffing",@"kg",@"Kahn Academy",@"kHz",@"Kilohertz",@"kibi",@"Kibi",@"mebi",@"gibi",
+        @"tebi",@"pebi",@"kickstand",@"Kill switch",@"Killer app",@"killswitch",@"kilo",@"Kilo",@"mega",
+        @"tera",@"peta",@"kilobit",@"kilobits per second",@"kilobyte",@"KB",@"Kbyte",@"Kilocalorie",
+        @"kilogram",@"kg",@"Kilogram per meter cubed",@"kilogram-meter per second",@"Kilohertz",
+        ];
     [ITWordStore addObjectsFromArray:KWord];
     
     
