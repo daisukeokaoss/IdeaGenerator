@@ -1763,8 +1763,18 @@
         @"tebi",@"pebi",@"kickstand",@"Kill switch",@"Killer app",@"killswitch",@"kilo",@"Kilo",@"mega",
         @"tera",@"peta",@"kilobit",@"kilobits per second",@"kilobyte",@"KB",@"Kbyte",@"Kilocalorie",
         @"kilogram",@"kg",@"Kilogram per meter cubed",@"kilogram-meter per second",@"Kilohertz",
-        ];
+        @"kilowatt hour",@"kilowatt-hour",@"kWh",@"Kindle Fire",@"Kinect",@"Kinetic energy",@"kiosk",
+        @"Kirchhoff's Laws for current and voltage",@"KISS",@"KISS Principle",@"Keep It Simple, Stupid",
+        @"Kitemark",@"Klez",@"KLOC",@"thousands of lines of code",@"kludge",@"KM",@"KMD",@"KML",@"knowbot",
+        @"knowledge",@"knowledge base",@"knowledge based authentication",@"Knowledge Management",@"KM",
+        @"Knowledge Management Software",@"Knowledge Process Outsourcing",@"KPO",@"Knowledge Warehouse",
+        @"Data Repository",@"Knowledge worker",@"Knowledge-based authentication",@"KBA",@"KnujOn",
+        @"Korea scale for Internet Addiction",@"Korn Shell",@"KP",@"KPI",@"KPO",@"Kraken",@"Kriz virus",
+        @"W32.Kriz",@"W32.Kriz.dr",@"PE_KRIZ",@"Kronos Inc.",@"Kubuntu",@"KVM hypervisor",@"KVM switch",
+        @"KVP",@"KW",@"Knowledge Warehouse",@"kWh",@"Kyoto Protocol",@"KyotoCooling",@"Kyoto Wheel"];
     [ITWordStore addObjectsFromArray:KWord];
+    NSArray *LWord = @[@"L1",@"L1 and L2",@"l10n",@"L2",@"L2TP",@"Laboratory Data Sharing Interoperability",@"LDSI",];
+    [ITWordStore addObjectsFromArray:LWord];
     
     
     return ITWordStore;
