@@ -1893,7 +1893,20 @@
         @"MSS",@"Managed Service Provider",@"MSP",@"Managed Service Provider Platform",@"Managed Storage",
         @"Management and Operations Stamp of Approval",@"Management Information Base",@"MIB",
         @"Management Information Systems",@"Management Service Provider",@"Manchester Encoding",
-        @"Mandatory Access Control",@"Mantrap",];
+        @"Mandatory Access Control",@"Mantrap",@"interlocking door controller",@"manual restore point",
+        @"Manufactured sapphire",@"Manufacturing 2.0",@"Manufacturing details",@"Manufacturing execution system",
+        @"MES",@"Manufacturing Intelligence Software",@"Manufacturing Message Specification",@"MMS",
+        @"Manufacturing Operation Management",@"MOM",@"Manufacturing Resource Planning",@"MRP Ⅱ",@"MAPI",
+        @"Messaging Application Program Interface",@"Mapping services",@"MapReduce",@"maps",@"Mapuccino",
+        @"Marchitecture",@"Marcom",@"marcomm",@"Marimba",@"Market leadership",@"Market segmentation",
+        @"Marketecture",@"Marchitecture",@"Marketing Automation",@"Marketing Encyclopedia",
+        @"Markets in Financial Instruments Directive",@"Markup",@"Marsenne prime",@"Marshalling",
+        @"Mash-up",@"mask",@"Mason",@"Masquerade",@"Mass",@"Massachusetts data protection law",
+        @"Massive array of idle disks",@"Massive open online course",@"MOOC",@"Massively Parallel Processing",
+        @"Master",@"Master and Commander",@"Master and Commander:Do you speak business?",
+        @"Master Boot Record",@"MBR",@"master data",@"Master data management",@"MDM",@"Master File Table",
+        @"MFT",@"Master Patient Index",@"MPI",@"Master/Slave",@"Masthead",@"Material Density",
+        @"material quantity",];
     [ITWordStore addObjectsFromArray:MWord];
     
     
