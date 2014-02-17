@@ -1906,7 +1906,8 @@
         @"Master",@"Master and Commander",@"Master and Commander:Do you speak business?",
         @"Master Boot Record",@"MBR",@"master data",@"Master data management",@"MDM",@"Master File Table",
         @"MFT",@"Master Patient Index",@"MPI",@"Master/Slave",@"Masthead",@"Material Density",
-        @"material quantity",];
+        @"material quantity",@"material requirement planning",@"MRP",@"Math Coprocessor",
+        @"math symbols",@"mathematical Induction",@"Mathematical Symbols",@"MathML",];
     [ITWordStore addObjectsFromArray:MWord];
     
     
