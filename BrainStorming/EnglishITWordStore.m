@@ -1907,7 +1907,26 @@
         @"Master Boot Record",@"MBR",@"master data",@"Master data management",@"MDM",@"Master File Table",
         @"MFT",@"Master Patient Index",@"MPI",@"Master/Slave",@"Masthead",@"Material Density",
         @"material quantity",@"material requirement planning",@"MRP",@"Math Coprocessor",
-        @"math symbols",@"mathematical Induction",@"Mathematical Symbols",@"MathML",];
+        @"math symbols",@"mathematical Induction",@"Mathematical Symbols",@"MathML",@"MathXML",@"matrix",
+        @"The Matrix",@"matter",@"maturity grid",@"maturity model",@"MAU",@"Maximum Segment Size",@"MSS",
+        @"Maximum Tolerable Period of Disruption",@"MTPOD",@"Maximum Transmission Unit",@"MTU",@"Maya",
+        @"MB",@"MBean",@"Managed Bean",@"MBone",@"Multicast Internet",@"mbox",@"MBps",@"Mbps",
+        @"millions of bits per second",@"megabits per second",@"MBR",@"MCA",@"McKesson Corp.",@"MCL",
+        @"MCM",@"Mcps",@"MCSA",@"Microsoft Certified Solutions Associate",@"MCSD",@"MCSE",@"MCSE Private Cloud",
+        @"Microsoft Certified Solutions Expert Private Cloud",@"MD",@"MD2",@"MD4",@"MD5",@"MDB",@"MDD",
+        @"MDI",@"MDI crossover",@"MDI MDIX",@"MDI/MDIX",@"medium dependent interface/MDI crossover",
+        @"MDIX",@"MDM",@"MDOP 2012",@"Microsoft Desktop Optimization Pack 2012",@"MDp",@"MDP",@"MDRAM",
+        @"Multibank Dynamic RAM",@"MDX",@"mean",@"mean opinion score",@"MOS",@"mean swap between failure",
+        @"mean time between failure",@"mean-swap-between-failure",@"MSBF",@"meaning of life",
+        @"meaningful life",@"Meaningful Use Attestation",@"Meaningful Use Stage 1",@"Meaningful Use Stage 2",
+        @"Meaningful Use Stage 3",@"MEAP",@"mebi",@"Mechanical Engineering Software",@"Mechanical Refrigeration",
+        @"Media",@"Media Access Control Address",@"Media Access Control layer",@"MAC layer",
+        @"Media Access Management",@"Media Attachment Unit",@"MAU",@"Media Convergence",@"Media gateway",
+        @"Media Gateway Control Protocol",@"MGCP",@"Media type",@"Content type",@"Median",@"Medical Identity Theft",
+        @"Medical transcription",@"MT",@"Medical Transcription Software",@"MTS",@"Medium",
+        @"Medium dependent Interface",@"Medium Earth Orbit Satellite",@"Meet-in-the-middle attack",
+        @"Mega",@"Megabit",@"Megabits per second",@"Megabyte",@"MB",@"Megabytes per second",@"Mbps",
+        @"Megachips per second",@"Mcps",@"Megaco",@"megaflop",@"Megahertz",@"MHz",];
     [ITWordStore addObjectsFromArray:MWord];
     
     
