@@ -1953,7 +1953,22 @@
         @"micro USB",@"Micro VM",@"micro virtual machine",@"micro-botnet",@"mini-botnet",@"baby botnet",
         @"micro-electromechanical systems",@"MEMS",@"micro-HDMI",@"micro-virtualization",@"MicroBlaze",
         @"Microblogging",@"Microcent",@"Microchip",@"Microchip art",@"Microcode",@"Microcommerce",
-        @"Microcomputer",@"Microcontroller",@"MicroCraft",];
+        @"Microcomputer",@"Microcontroller",@"MicroCraft",@"microfarad",@"Microfinance",@"Microfludics",
+        @"Microformat",@"microformats",@"Microgrid",@"Microhand",@"Micrometer",@"MicroMovie",@"Micron",
+        @"Micropayment",@"Microprosessor",@"Logic chip",@"Microrobot",@"microsatellite",@"Microsecond",
+        @"microsegmentation",@"Microsite",@"Microsoft",@"Microsoft Active Directory Rights Management Services",
+        @"Microsoft Antigen",@"Microsoft Certified Educator",@"Microsoft Certified Solution Developer",
+        @"MCSD",@"Microsoft Certified Systems Engineer",@"MCSE",@"Microsoft Cluster Server(MSCS) Generic Application",
+        @"Microsoft Cluster Server (MSCS) Generic Script",@"Microsoft Cluster Service",@"MSCS",
+        @"Microsoft Connectivity Analyzer",@"MCA",@"Microsoft D",@"Microsoft DirectAccess Connectivity Assistant",
+        @"Microsoft Disk Operating System",@"Microsoft Dynamic Access Control",@"DAC",@"Microsoft Dynamics AX",
+        @"Microsoft Axapta",@"Microsoft Exchange",@"Microsoft Exchange 2010 Mailbox Server Role Requirements Calculator",
+        @"Microsoft Exchange 2013 In-Place Hold",@"Microsoft Exchange 2013 Managed Store",
+        @"Microsoft Exchange 2013 Poison Message Queue",@"Microsoft Exchange 2013 Safety Net",
+        @"Microsoft Exchange 2013 site mailbox",@"Microsoft Exchange Address Book Policy",@"ABP",
+        @"Microsoft Exchange Control Panel",@"Microsoft Exchange Fast Access",
+        @"Microsoft Exchange Global Address List",@"GAL",@"Microsoft Exchange Information Store",
+        @"Microsoft Exchange Management Shell",@"EMS",@"Microsoft Exchange Online Protection",@"EOP",];
     [ITWordStore addObjectsFromArray:MWord];
     
     
