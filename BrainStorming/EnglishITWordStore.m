@@ -2075,8 +2075,32 @@
         @"Multidimensional online analytical processing",@"Multifactor Authentication",@"MFA",
         @"Multifunction Peripheral",@"MFP",@"Multifunction Printer",@"Multifunction Product",@"MultiHome",
         @"multihomed",@"multihoming",@"multilink bundle",@"multilink PPP",@"Multimedia",
-        @"Multimedia and Graphics Learning Guides",];
+        @"Multimedia and Graphics Learning Guides",@"Multimedia Card",@"Multimedia Home Platform",@"MHP",
+        @"Multimedia Messaging Service",@"MMS",@"Multimedia Messaging System",@"MultiMediaCard",@"MMC",
+        @"Multimode fiber",@"Multipartite virus",@"Multipath I/O",@"MPIO",@"Multiple Document Interface",
+        @"MDI",@"Multiple Frequency Shift Keying",@"Multiple Input Multiple Output",
+        @"Multiple Input Single Output",@"Multiple Operating System",@"Multiple Virtual Storage",
+        @"multiple-zone recording",@"Multiplexing",@"Multiplexed Information and Computing Service",
+        @"Multiplexing",@"multiPPP",@"multiprocessing",@"multiprogramming",@"Multiprotocol Label Switching",
+        @"MPLS",@"Multiprotocol Lambda Switching",@"Multisession CD",@"multisourcing",@"multi-sourcing",
+        @"MultiSpeak",@"Multistation Access Unit",@"MSAU",@"multitasking",@"multithreading",@"MULTOS",
+        @"Multiple Operating System",@"NUMPs",@"munge",@"munging",@"Murker",@"Murkogram",@"Murphy's Law",
+        @"Musical Instrument Digital Interface",@"Mutex",@"Mutual Exclusion Object",@"Mutual Authentication",
+        @"Mutual Exclusion Object",@"MVC",@"MVS",@"Multiple Virtual Storage",@"MX record",
+        @"Mail Exchange Record",@"MyDiamo",@"MyODBC",@"myoelectric signal",@"motor action potential",
+        @"mySAP",@"Myspace",@"MySQL",@"MySQL Connector",@"MySQL Connector/ODBC",@"MySQL ODBC",
+        @"mystery whisperer",@"Mytob",@"MyWeb2.0"];
     [ITWordStore addObjectsFromArray:MWord];
+    NSArray *NWord = @[@"N s",@"N+1 UPS",@"N-Tier",@"n00b",@"N1",@"N_Port ID virtualization",@"NPIV",@"NAC",@"NACHA",
+        @"Nagios",@"Nagle's algorithm",@"Naging",@"Nagware",@"annoyware",@"NAHIT",@"NAK",
+        @"Native Acknowledgement",@"Not acknowledged",@"Named Entity",@"Named Pipe",@"Namespace",
+        @"NAND",@"NAND flash memory",@"NAND flash wear-out",@"nanite",@"nano",@"Nano Emissive Display",
+        @"Nano-Emissive Display",@"NED",@"nano-storage",@"nanoanalysis",@"Nanobiomechanics",
+        @"Nanoscale Biomechanics",@"nanochip",@"Nanocomputer",@"nanocrystal",@"nanofabrication",
+        @"Nanogenerator",@"Nanolithography",@"nanomachine",@"nanite",@"NanoManipulator",@"nanomedicine",
+        @"nanometer",@"nanopaint",@"nanopaper",@"nanorobot",@"Nano-Satellite",@"nanoscale biomechanics",
+        @"Nanoscale technology",@"nanosecond",];
+    [ITWordStore addObjectsFromArray:NWord];
     
     
     return ITWordStore;
