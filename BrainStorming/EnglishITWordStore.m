@@ -2148,7 +2148,20 @@
         @"Neutrino",@"neutron",@"New media",@"New Product Development",@"newb",@"newbie",@"Network Address Translator",@"NewsFeed",@"newsgroup",@"NewsML",
         @"NewSQL",@"newsXML",@"Newton",@"Newton Second",@"Newton-second",@"NeXT",@"NeXT Computer",@"Next Generation Secure Computing Base",@"NGSCB",
         @"Next Hop Resolution Protocol",@"NHRP",@"Next Steps in Signaling",@"NSIS",@"Next-Generation Firewall",@"NGFW",@"Nexus",@"Nexus 1000V",@"Cisco Nexus 1000V",
-        @"Nexus 7",@"Nexus of Forces",@"NFAT",];
+        @"Nexus 7",@"Nexus of Forces",@"NFAT",@"NFC",@"NFR",@"NFS",@"NFTS",@"NGA Human Resources",@"NGO",@"Non-governmental Organization",@"NGSCB",@"NHII",
+        @"NHIN",@"NHIN Direct",@"NHRP",@"NHS",@"Ni-Cd",@"Ni-Cd battery",@"Ni-MH",@"Ni-MH battery",@"Ni2",@"Net indexer 2",@"nibble",@"NIC",@"NIC handle",
+        @"Network Information Center handle",@"NiCd",@"niche off-the-shelf",@"Nicira Inc.",@"Nicira Network Virtualization Platform",@"Nickel-Cadmium battery",
+        @"Ni-Cd",@"NiCd",@"Nickel-Metal Hydride",@"Nickel-Metal Hydride battery",@"Ni-MH",@"NiMH",@"NIDS",@"Nifty",@"NSE Nifty",@"night vision",@"NIH",
+        @"NII Consulting",@"Nikola Tesla",@"nil",@"Nimda",@"NiMH",@"Ning",@"NIPS",@"NIS",@"Network Information System",@"NIS+",@"NIST",
+        @"National Institute of Standards and Technology",@"NIST 800 Series",@"NIST-F1",@"NIST F1",@"nit",@"NIU",@"NJE",@"NKO",@"NLM",@"NLP",@"NLX",
+        @"NNI",@"NNM",@"NNTP",@"Network News Transfer Protocol",@"no op",@"no operation",@"NO to a national ID",@"no-swipe credit card",@"NO2ID",
+        @"NO to a national ID",@"NOAA Weather Radio",@"NWR",@"NOC",@"node",@"Node.js",@"noise",@"noisy data",@"Noisy text",@"Nokia Lumia",@"nomadic computing",
+        @"Mobile computing",@"Nomadicity",@"Nomophobia",@"Non Broadcast Multiple Access",@"Non Disclosure Agreement",@"Non governmental organization",
+        @"Non-Heatset",@"Non return to zero",@"Non-Uniform Memory Access",@"Non-breaking space",@"Non-Broadcast Multiple Access",@"non-disclosure agreement",
+        @"NDA",@"Non-Geographic Number",@"Non-Governmental Organization",@"Non-Heatset",@"Non-Impact",@"Non-Interlaced Display",@"Non-practicing entity",
+        @"NPE",@"Non-renewable resource",@"Non-repudiation",@"Non-return-to-zero",@"Non-Uniform Memory Access",@"Non-virtual hosting",@"non-volatile storage",
+        @"nonce",@"number used once",@"number once",@"Nonlinearity",@"Nonpersistent Desktop",@"Nonrepudiation",@"nonuniform rational B spline",@"NURBS",
+        @"nonvolatile memory",@"Nonvolatile RAM",@"nonvolatile storage",@"NVS",@"noob",@"NoOps",@"NOR",@"NOR flash memory",];
     [ITWordStore addObjectsFromArray:NWord];
     
     
