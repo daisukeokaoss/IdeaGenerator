@@ -2207,7 +2207,12 @@
         @"Open Networking Foundation",@"ONF",@"Open Profiling Standard",@"OPS",@"Open Rack",@"open relay",@"insecure relay",@"a third-party relay",
         @"Open Relay Behavior Modification System",@"Open Relay Behavior-modification System",@"Open Service Gateway Intiative",@"OSGi",
         @"Open Shortest Path First",@"Open Shortest Path First Protocol",@"Open Software Foundation",@"OSF",@"Open Source",@"Open Source Beer",
-        @"Open Source Business Intelligence",];
+        @"Open Source Business Intelligence",@"OSBI",@"Open Source Development Labs",@"OSDL",@"open source ERP",@"Open Source Hardening Project",@"Open Source Hardware",
+        @"open source software",@"OSS",@"Open Source Storage",@"Open Source Virtual Private Network",@"open system",@"Open System Authentication",@"OSA",
+        @"Open Systems Interconnection",@"Open Test Standard",@"open ticket",@"Open Vault",@"Open Virtualization Format",@"Open Web Application Security Project",
+        @"Open Web Application Security Project Top Ten",@"Open XML",@"open-source",@"OpenBSD",@"OpenCourseWare",@"OpenDNS",@"OpenEMR",@"OpenFlow",
+        @"OpenFlow Consortium",@"OpenFlow controller",@"OpenFlow switch",@"OpenGL",@"Open Graphics Library",@"OpenID",@"OpenNebula",@"OpenNebula",
+        @"OpenNMS",@"Open Network Management System",@"OpenServing",@"OpenShift",];
     [ITWordStore addObjectsFromArray:OWord];
     
     
