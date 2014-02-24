@@ -2188,7 +2188,26 @@
         @"Offline Backup",@"Offline Folder File",@"Offset Lithography",@"Offset Printing",@"Offset Lithography",@"Offset Quadrature Phase-Shift Keying",
         @"Offshore Outsourcing",@"OffShoring",@"OFSSL",@"Ogg Theora",@"Ogg Vorbis",@"Ogo",@"OGSA",@"OH",@"OHA",@"ohm",@"Ohm's Law",@"ohnosecond",@"OK",@"Okay",
         @"OLA",@"OLAP",@"Online Analytical Processing",@"OLAP cube",@"OLAP dashboard",@"OLE",@"Object Linking and Embedding",@"OLE DB",@"Object Linking and Embedding Database",
-        @"OLED",@"organic light-emitting diode",];
+        @"OLED",@"organic light-emitting diode",@"OLED TV",@"OLEDB",@"OLPC",@"One Laptop per Child",@"OLTP",@"Online Transaction Processing",@"OMAP",@"OMG",
+        @"omnidirectional antenna",@"On Demand Computing",@"On Demand Mail Relay",@"on screen display",@"on the fly",@"on-demand computing",@"On-Demand Mail Relay",
+        @"ODMR",@"on-screen display",@"OSD",@"On-Screen Keyboard",@"onboarding and offboarding",@"ONC",@"Office of the National Coordinator for Health Information Technology",
+        @"ondemand mail relay",@"ONE",@"One Laptop Per Child",@"One Throat to Choke",@"One to One",@"One to One marketing",@"One-armed router",@"one-banana problem",
+        @"one-molecule transistor",@"one-time pad",@"one-time password",@"OTP",@"one-to-one",@"one-to-one marketing",@"1:1 marketing",@"one-way pager",@"OneID",
+        @"OneWebDay",@"OWD",@"online",@"online analytical processing",@"Online Backup",@"Remote Backup",@"Online Certificate Security Protocol",
+        @"Online Certificate Status Protocol",@"online citation",@"Online Customer Privacy",@"Online File Sharing Service",@"Online forum",@"Online Mapping",
+        @"Online Public Access Catalog",@"OPAC",@"online risk",@"online service provider",@"OSP",@"Online Service System",@"OSS",@"Online Transaction Processing",
+        @"Online Voting",@"OnScreen Keyboard",@"Onshore Outsourcing",@"domestic outsourcing",@"ontology",@"ooblick",@"OODBMS",@"OoOE",@"OOP",@"OOPSLA",
+        @"Object-Oriented Programming Systems",@"OOXML",@"Office Open Extended Markup Language",@"OPAC",@"Online Public Access Catalog",@"open",
+        @"Open and Distance Learning",@"Open API",@"Open Blueprint",@"Open Buying on the Internet",@"OBI",@"Open Compute",@"Open Compute Project",
+        @"Open Compute Project",@"open courseware",@"Open Data Center",@"Open Data-Link Interface",@"Open Data Link Interface",@"ODI",@"Open Database Connectivity",
+        @"ODBC",@"Open Device Identification Number",@"Open Directory Project",@"ODP",@"Open Document Format",@"ODF",@"Open Document Management API",
+        @"Open E-Book Forum",@"Open eBook Forum",@"Open Electronic Book Forum",@"Open Electronic Book Forum",@"OpenGL",@"Open Government Dashboard",
+        @"Open Government Directive",@"Open Graphics Library",@"Open Grid Services Architecture",@"OGSA",@"Open Handset Alliance",@"OHA",@"Open Hardware",
+        @"Open Hardware Initiative",@"open id",@"Open Multimedia Application Platform",@"OMAP",@"Open Net Environment",@"Open Network Management System",
+        @"Open Networking Foundation",@"ONF",@"Open Profiling Standard",@"OPS",@"Open Rack",@"open relay",@"insecure relay",@"a third-party relay",
+        @"Open Relay Behavior Modification System",@"Open Relay Behavior-modification System",@"Open Service Gateway Intiative",@"OSGi",
+        @"Open Shortest Path First",@"Open Shortest Path First Protocol",@"Open Software Foundation",@"OSF",@"Open Source",@"Open Source Beer",
+        @"Open Source Business Intelligence",];
     [ITWordStore addObjectsFromArray:OWord];
     
     
