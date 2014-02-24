@@ -2161,8 +2161,35 @@
         @"NDA",@"Non-Geographic Number",@"Non-Governmental Organization",@"Non-Heatset",@"Non-Impact",@"Non-Interlaced Display",@"Non-practicing entity",
         @"NPE",@"Non-renewable resource",@"Non-repudiation",@"Non-return-to-zero",@"Non-Uniform Memory Access",@"Non-virtual hosting",@"non-volatile storage",
         @"nonce",@"number used once",@"number once",@"Nonlinearity",@"Nonpersistent Desktop",@"Nonrepudiation",@"nonuniform rational B spline",@"NURBS",
-        @"nonvolatile memory",@"Nonvolatile RAM",@"nonvolatile storage",@"NVS",@"noob",@"NoOps",@"NOR",@"NOR flash memory",];
+        @"nonvolatile memory",@"Nonvolatile RAM",@"nonvolatile storage",@"NVS",@"noob",@"NoOps",@"NOR",@"NOR flash memory",@"NORAD Santa tracker",
+        @"norm",@"Normal Distribution",@"Normal Forms",@"normalization",@"normative",@"North American Electric Reliability Corporation",@"Northbridge",
+        @"Northwood",@"NOS",@"NoSQL",@"Not Only SQL",@"NOT",@"not aknowledged",@"Not element-of symbol",@"Not for resale",@"NFR",@"Not Only SQL",
+        @"notebook computer",@"Notes",@"NOTS",@"Novell Directory Services",@"NDS",@"Novell Filr",@"NOX",@"NPD",@"NPI",@"NPIV",@"NPV",@"NQF",@"nroff",@"NRZ",
+        @"Non-return-to-zero",@"ns",@"NSA",@"NSAP",@"NSAPI",@"NSDG",@"nsec",@"NSFNET",@"NSIS",@"nslookup",@"NSP",@"NT",@"NT file system",@"NT1",@"NTBackUp",
+        @"Microsoft Windows NT Backup",@"Ntdsutil",@"NTFS",@"NTP",@"NTS",@"NTSC",@"NTT DoCoMo",@"NTU",@"Nuclear fusion",@"Nuclear Time Unit",@"NTU",@"NUI",
+        @"nuking",@"Null modem",@"null set",@"NUMA",@"Non-Uniform Memory Access",@"Number One",@"Number Portability",@"Number theory",@"higher arithmetic",
+        @"Number Translation Service",@"NTS",@"number used once",@"numbers",@"numeric coprocessor",@"NUnit",@"NURBS",@"NUS",@"NVGRE",
+        @"Network Virtualization using Generic Routing Encapsulation",@"NVLAP",@"NVMe",@"Non-Volatile Memory Express",@"NVRAM",@"NVS",@"NWay",@"NWR",
+        @"NX-OS",@"nym",@"Nyquist Theorem"];
     [ITWordStore addObjectsFromArray:NWord];
+    NSArray *OWord = @[@"Microsoft Outlook 2013",@"Microsoft Outlook Web App 2013",@"O2C",@"OA and M",@"OA&M",@"Operations,Administration and Management",@"Offline Address Book",
+        @"OASIS",@"OAuth",@"obfuscate",@"obfuscation",@"Obfuscator",@"OBI",@"object",@"object code",@"object ID",@"OID",@"Object Linking and Embedding",
+        @"Object Linking and Embedding Database",@"Object Management Group",@"OMG",@"Object oriented programming",@"Object Oriented Programming,Systems,Languages, and Application",
+        @"Object Relational Mapping",@"Object Request Broker",@"ORB",@"Object Storage",@"Object Storage Device",@"OSD",@"Object-Oriented",
+        @"Object-Oriented Database Management System",@"OODB",@"Object-oriented programming",@"OOP",@"Object-Oriented Programming in the Enterprise",
+        @"Object-Relational Mapping",@"ORM",@"obliquity",@"OC levels",@"OC-1",@"OC-12",@"OC-192",@"OC-2",@"OC-256",@"OC-3",@"OC-48",@"OC-768",@"OC-x",@"Occam's razor",
+        @"occlusion",@"Occupancy",@"Occupational Safety and Health Administration",@"occupations",@"Ockham's razor",@"OCM",@"OCR",@"Optical Character Recognition",
+        @"OCSIA",@"OCSP",@"Online Certificate Status Protocol",@"octal",@"octal latch",@"OCTAVE",@"octet",@"Octopus",@"OCW",@"OCX",@"OCx",@"OD computing",
+        @"ODBC",@"ODBMS",@"ODCA",@"Open Data Center Alliance",@"ODF",@"ODI",@"ODIN",@"Open Data Center with an Interoperable Network",
+        @"Open Device Identification Number",@"ODL",@"Open and Distance Learning",@"ODMA",@"Open Document Management API",@"ODMR",@"ODP",@"ODS",@"Offloaded Data Transfer",
+        @"Oe",@"OEBF",@"OEM",@"Original Equipment Manufacturer",@"oersted",@"OF-Config",@"OpenFlow Configuration and Management Protocol",@"OFB",@"OFDM",
+        @"Off-the-grid",@"Off-Grid Data Center",@"Off-Peak",@"Offensive Security",@"Office Cubicle",@"Office for Civil Rights",@"OCR",@"Office Hoteling",
+        @"Office of Cyber Security and Information Assurance",@"Office of Management and Budget",@"OMB",@"Office Open Extended Markup Language",@"offline",
+        @"Offline Backup",@"Offline Folder File",@"Offset Lithography",@"Offset Printing",@"Offset Lithography",@"Offset Quadrature Phase-Shift Keying",
+        @"Offshore Outsourcing",@"OffShoring",@"OFSSL",@"Ogg Theora",@"Ogg Vorbis",@"Ogo",@"OGSA",@"OH",@"OHA",@"ohm",@"Ohm's Law",@"ohnosecond",@"OK",@"Okay",
+        @"OLA",@"OLAP",@"Online Analytical Processing",@"OLAP cube",@"OLAP dashboard",@"OLE",@"Object Linking and Embedding",@"OLE DB",@"Object Linking and Embedding Database",
+        @"OLED",@"organic light-emitting diode",];
+    [ITWordStore addObjectsFromArray:OWord];
     
     
     return ITWordStore;
