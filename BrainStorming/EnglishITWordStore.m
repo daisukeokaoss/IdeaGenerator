@@ -2212,7 +2212,24 @@
         @"Open Systems Interconnection",@"Open Test Standard",@"open ticket",@"Open Vault",@"Open Virtualization Format",@"Open Web Application Security Project",
         @"Open Web Application Security Project Top Ten",@"Open XML",@"open-source",@"OpenBSD",@"OpenCourseWare",@"OpenDNS",@"OpenEMR",@"OpenFlow",
         @"OpenFlow Consortium",@"OpenFlow controller",@"OpenFlow switch",@"OpenGL",@"Open Graphics Library",@"OpenID",@"OpenNebula",@"OpenNebula",
-        @"OpenNMS",@"Open Network Management System",@"OpenServing",@"OpenShift",];
+        @"OpenNMS",@"Open Network Management System",@"OpenServing",@"OpenShift",@"OpenStack",@"OpenStack Neutron",@"OpenStack Swift",@"OpenText ECM Suite",
+        @"OpenType",@"OpenView",@"OpenVMS",@"OpenVPN",@"open source virtual private network",@"OpenVZ",@"Opera",@"operand",@"Operating system",@"OS",
+        @"Operating System Clustering",@"Operating System Commanding",@"Operation Phish Phry",@"Operational Business Intelligence",@"Operational Costs",
+        @"Operational Data Store",@"ODS",@"Operational Expenditure",@"Operational Level Agreement",@"OLA",@"Operational Performance Management",@"OPM",
+        @"Operational risk",@"Operational Support System",@"OSS",@"Operations Administration and Management",@"Operations Reserch",@"OR",@"operator",
+        @"OPEX",@"Operational Expenditure",@"opinion mining",@"Sentiment Mining",@"OPM",@"OPML",@"Outline Processor Markup Language",@"OPS",@"Opscode Chef",
+        @"Opt-In Email",@"Optical Amplifier",@"Optical Carrier Levels",@"Optical Character Recognition",@"Optical Computer",@"Photonic Computer",
+        @"Optical Coupler",@"optical disc",@"Optical Disk",@"Optical Fiber",@"fiber optic",@"Optical Media",@"Optical Mouse",@"Optical Network",
+        @"Photonic Network",@"Optical Storage",@"optical transceiver chip",@"Optical Wireless",@"Optivity Telephony Manager",@"OTM",@"Octocoupler",
+        @"Optoelectronics",@"optoisolator",@"Optical coupler",@"optocoupler",@"OQPSK",@"OR",@"Oracle",@"Oracle Content Management",
+        @"Oracle Financial Services Software Limited",@"OFSSL",@"Oracle Fusion Applications",@"Oracle Hyperion",@"Oracle TimesTen In-Memory Database",
+        @"Oracle Unlimited License Agreement",@"ULA",@"Orange Book",@"ORB",@"ORBS",@"Open Relay Behavior-Modification System",@"Order management",
+        @"Order of Magnitude",@"Order to cash",@"OTC",@"O2C",@"ordinal",@"org",@"organic LED",@"organic Light-emitting diodes",@"organic search results",
+        @"Organic Thin Film Transistor",@"Organic Thin-Film Transistor",@"OTFT",@"Organic Transistor",@"Organization for the Advancement of Structured Information",
+        @"Organization Change Management",@"OCM",@"Organization Unit",@"OU",@"Original Equipment Manufacturer",@"ORM",@"Orphan file",@"orr.f",@"orthogonal",
+        @"Orthogonal Frequency Division Multiplexing",@"OFDM",@"OS",@"OS 10",@"OS 10.2",@"OS Commanding",@"OS Security",@"OS X",@"OS X widget",@"OS-9",@"OS/2",
+        @"OS/390",@"OS/400",@"OSA",@"OSBI",@"oscillate",@"Oscillation",@"oscillator",@"Oscilloscope",@"OSD",@"OSDL",@"OSF",@"OSGi",@"Open Service Gateway Initiative",
+        @"OSHA",@"OSI",@"Open System Interconnection",];
     [ITWordStore addObjectsFromArray:OWord];
     
     
