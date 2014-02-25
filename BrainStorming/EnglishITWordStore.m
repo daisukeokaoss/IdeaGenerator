@@ -2229,7 +2229,10 @@
         @"Organization Change Management",@"OCM",@"Organization Unit",@"OU",@"Original Equipment Manufacturer",@"ORM",@"Orphan file",@"orr.f",@"orthogonal",
         @"Orthogonal Frequency Division Multiplexing",@"OFDM",@"OS",@"OS 10",@"OS 10.2",@"OS Commanding",@"OS Security",@"OS X",@"OS X widget",@"OS-9",@"OS/2",
         @"OS/390",@"OS/400",@"OSA",@"OSBI",@"oscillate",@"Oscillation",@"oscillator",@"Oscilloscope",@"OSD",@"OSDL",@"OSF",@"OSGi",@"Open Service Gateway Initiative",
-        @"OSHA",@"OSI",@"Open System Interconnection",];
+        @"OSHA",@"OSI",@"Open System Interconnection",@"OSI Reference Model illustrated",@"OSP",@"OSPF",@"Open Shortest Path First",@"OSS",@"ost",@"OST file",
+        @"OTA",@"OTA Update",@"over-the-air update",@"OTC",@"OTFT",@"OTM",@"OTS",@"OTTO protocol",@"OUCH To Trade Options",@"OUCH protocol",
+        @"OUCH To Trade Options",@"Ouch to Trade Options Protocol",@"Our 70+ tech-specific sites",@"Our Favorite Cheat Sheets",@"Sniglet",
+        @"Our Favorite Technology Blogs",@"Our Favorite Technology Quotations"];
     [ITWordStore addObjectsFromArray:OWord];
     
     
