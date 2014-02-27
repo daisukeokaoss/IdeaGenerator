@@ -2232,8 +2232,44 @@
         @"OSHA",@"OSI",@"Open System Interconnection",@"OSI Reference Model illustrated",@"OSP",@"OSPF",@"Open Shortest Path First",@"OSS",@"ost",@"OST file",
         @"OTA",@"OTA Update",@"over-the-air update",@"OTC",@"OTFT",@"OTM",@"OTS",@"OTTO protocol",@"OUCH To Trade Options",@"OUCH protocol",
         @"OUCH To Trade Options",@"Ouch to Trade Options Protocol",@"Our 70+ tech-specific sites",@"Our Favorite Cheat Sheets",@"Sniglet",
-        @"Our Favorite Technology Blogs",@"Our Favorite Technology Quotations"];
+        @"Our Favorite Technology Blogs",@"Our Favorite Technology Quotations",@"Our Latest Discovery",@"Out of order execution",@"out of the box",
+        @"out-of-band patch",@"out-of-band signaling",@"Out-of-order execution",@"OoOE",@"Outbound Call",@"Outbound Call Center",@"outlet",@"outline",
+        @"Outline Processor Markup Language",@"Outliner",@"Outlook Anywhere",@"Outlook Cheat Sheets",@"Outlook Web App",@"OWA",@"Output Feedback",
+        @"OFB",@"outsource",@"outsourcing",@"over provisioning",@"Over-the-Air",@"OTA",@"overclocking",@"overcommitment",@"overhead",@"Overheard in the Tech blogosphere",
+        @"Overlay network",@"overprovisioning",@"SSD overprovisioning",@"oversharing",@"overstuffing",@"oversubscription",@"oVirt",@"OVSDB",
+        @"Open vSwitch Database Management Protocol",@"OWA",@"OWASP",@"Open Web Application Security Project",@"OWASP Top Ten",@"OWD",@"ownership tag"];
     [ITWordStore addObjectsFromArray:OWord];
+    NSArray *PWord = @[@"P and NP",@"P equals NP",@"P Ink",@"p ram",@"P-versus-NP",@"polynomial versus non deterministic polynomial",@"P-Ink",@"P/390",@"P/E cycle",
+        @"P2P",@"P2V",@"P3P",@"Platform for Privacy Preferences",@"P4",@"P4P",@"Proactive Provider Participation for P2P",@"PA DSS",@"Payment Application Data Security Standard",
+        @"PaaS",@"PABX",@"Package Management System",@"Package Manager",@"Package Management System",@"PMS",@"packet",@"Packet analyzer",@"Packet Filter",
+        @"Packet Filtering",@"Packet Hound",@"Packet-Level Procedure",@"packet loss",@"packet loss concealment",@"PLC",@"Packet Mangling",@"Packet Monkey",
+        @"Packet Order Correction",@"POC",@"packet shaping",@"Packet switching",@"Packet writing",@"Packet-Level Procedure",@"PAP",@"packet-switched",
+        @"Packet-switching",@"PacketHound",@"PACS",@"Page",@"page description language",@"PDL",@"Page File",@"pagefile",@"pagejacking",@"Pager",@"pages per minute",
+        @"paging",@"paid inclusion",@"PAIR",@"Policy Analysis of Internet Routing",@"PAL",@"Paladion",@"palette",@"Palladium",@"Palm",@"Palm Operating System",
+        @"Palm OS",@"PAM",@"PAN",@"pan",@"pan setting",@"PAN truncation",@"primary account number",@"pandemic plan",@"Pandemic planning",@"Panel",@"Pango",
+        @"Panther",@"PAP",@"paper and binding sizes",@"Paper battery",@"Paperwork Reduction Act",@"PAR",@"para-site",@"Paradigm",@"Paradox",@"Parallax",
+        @"Parallel",@"Parallel Adoption",@"Parallel Advanced Technology Attachment",@"Parallel ATA",@"Parallel File System",@"Parallel Presence Detect",
+        @"PPD",@"Parallel Processing",@"Parallel Processing Software",@"Parallel Sysplex",@"Parallel Virtual Machine",@"PVM",@"parameter",@"Parameter RAM",
+        @"Parameter Random Access Memory",@"Parameter Random Access Memory",@"Parameter Tampering",@"Paravirtualization",@"Parent Company",
+        @"Holding Company",@"Parent Partition",@"Pareto Chart",@"Pareto Distribution Diagram",@"Pareto efficiency",@"Pareto principle",@"Parity",
+        @"Parlay",@"Parse",@"Parser",@"Parsing",@"parthenogenesis",@"Asexual reproduction",@"partition",@"partner",@"Partner account manager",@"PAM",
+        @"partner portal",@"Partner Program",@"Partner Relationship Management",@"PRM",@"Partner Specialization",@"Pascal",@"pascal",@"pass phrase",
+        @"Passive Candidate",@"Passive cooling",@"Passive FTP",@"Passive optical network",@"PON",@"passive reconnaissance",@"Passphrase",@"Password",
+        @"Password Blacklist",@"password chaos",@"password cracker",@"password cracking",@"password entropy",@"Password Hardening",@"Password Strength Meter",
+        @"Password Synchronization",@"Pasta Theory",@"Pasta Theory of Programming",@"Pastebin",@"PASV FTP",@"PAT",@"PATA",@"patch",@"fix",@"Patch antenna",
+        @"patch cable",@"Patch cord",@"Patch Management",@"Patch Matrix",@"Patch panel",@"Patch Tuesday",@"Patent",@"Patent troll",@"path",
+        @"Path Computation Element",@"PCE",@"Path Computation Element Protocol",@"PCEP",@"path control",@"Path to Profitability",@"P2P",@"Pathing",
+        @"path control",@"Pathological Computer Use",@"pathological Internet Use",@"Patient Record Locator",@"Patriot Act",@"Patriot Grid",@"PatriotGrid",
+        @"Pattern",@"Design Pattern",@"Pay Per Click Fraud",@"pay per use",@"pay-per-click fraud",@"pay-per-use",@"Pay-per-view",@"Payload",
+        @"Payment Application Data Security Standard",@"payment card industry compliance",@"Payment Card Industry Data Security Standard",@"PayPal",@"PayPhrase",
+        @"Payroll Software",@"PBD",@"PBX",@"PC",@"PC blade",@"PC Card",@"PC Demo",@"PC DOS",@"PC philanthropy",@"PC-DOS",@"Personal Computer - Disk Operating System",
+        @"PC100 SDRAM",@"PC100 Synchronous Dynamic Random Access Memory",@"PC100SDRAM",@"PCAOB",@"Public Company ACcounting Oversight Board",@"PCI",
+        @"Peripheral Component Interconnect",@"PCI Assessment",@"PCI compliance",@"payment card industry compliance",@"PCI DSS",@"Payment Card Industry Data Security Standard",
+        @"PCI DSS 12 requirements",@"PCI DSS 2.0",@"PCI DSS 3.0",@"PCI DSS Requirements Fast Guide",@"PCI DSS User Group",@"PCI e",@"PCI Express",@"PCIe",
+        @"PCI-E",@"PCI policy",@"PCI QSA",@"PCI Security Standards Council",@"PCI X",@"PCI-CISP",@"PCI-E",@"PCI-SIG I/O Virtualization",@"PCI-X",
+        @"Peripheral Component Interconnect Extended",@"PCIe",@"PCIe solid state storage",@"PCL",@"PCM",@"PCMCIA",@"PCMCIA card",@"PCoIP",@"PC over IP",
+        @"PCRAM",@"PCS",@"Personal Communications Service",@"PDA",@"PDC",@"PDD-63",@"PDF"];
+    [ITWordStore addObjectsFromArray:PWord];
     
     
     return ITWordStore;
