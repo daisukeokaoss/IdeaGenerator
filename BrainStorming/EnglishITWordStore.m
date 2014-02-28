@@ -2268,7 +2268,22 @@
         @"PCI DSS 12 requirements",@"PCI DSS 2.0",@"PCI DSS 3.0",@"PCI DSS Requirements Fast Guide",@"PCI DSS User Group",@"PCI e",@"PCI Express",@"PCIe",
         @"PCI-E",@"PCI policy",@"PCI QSA",@"PCI Security Standards Council",@"PCI X",@"PCI-CISP",@"PCI-E",@"PCI-SIG I/O Virtualization",@"PCI-X",
         @"Peripheral Component Interconnect Extended",@"PCIe",@"PCIe solid state storage",@"PCL",@"PCM",@"PCMCIA",@"PCMCIA card",@"PCoIP",@"PC over IP",
-        @"PCRAM",@"PCS",@"Personal Communications Service",@"PDA",@"PDC",@"PDD-63",@"PDF"];
+        @"PCRAM",@"PCS",@"Personal Communications Service",@"PDA",@"PDC",@"PDD-63",@"PDF",@"PDL",@"PDM",@"PDP 11",@"PDP-11",@"Programmed Data Processor-11",
+        @"PDU",@"PE_KRIZ",@"Peachtree",@"peak",@"pk",@"Peak to Peak",@"Peak-to-Peak",@"pk-pk",@"PEAP",@"Protected Extensible Authentication Protocol",
+        @"PEBCAK",@"Problem Exists Between Chair And Keyboard",@"pebi",@"PechaKucha",@"pecha kucha",@"PECR",@"Peer review",@"Peer-to-peer",@"Peer-to-peer computing",
+        @"peer-to-peer network",@"P2P network",@"peering",@"Pel",@"Peltier effect",@"pen test",@"penetration testing",@"penguin",@"Pentium",@"Pentium 3",
+        @"Pentium 4",@"Pentium 4",@"P4",@"PeopleSoft",@"Peppermint",@"Pepys' weblog",@"per cent symbol",@"per cent symbol",@"per mil symbol",@"percent",
+        @"Percent Change",@"Percent Difference",@"Percent Change Calculator",@"Percent Difference",@"Percent Increase",@"Percent Decrease",@"Percent Symbol",
+        @"perfect RAM",@"performance",@"performance and accountability reporting",@"PAR",@"Performance Management Software",@"Performance Scorecard",
+        @"Performance Testing",@"Perigee",@"Perimeter",@"Peripheral",@"Peripheral Component Interconnect",@"Peripheral Component Interconnect Extended",@"Perl",
+        @"Permanent Data",@"permanent virtual circuit",@"PVC",@"Permeability",@"magnetic permeability",@"Permeability of Free Space",@"a vacuum",
+        @"Permission Marketing",@"permittivity",@"electron permittivity",@"permittivity of free space",@"persistent desktop",@"Personal Access Communication System",
+        @"PACS",@"personal area network",@"PAN",@"Personal Cloud Storage",@"PCS",@"Personal Communication Service",@"Personal Communication Services",
+        @"personal computer",@"PC",@"Personal Computer - Disk Operating System",@"Personal Computer Disk Operating System",
+        @"Personal Computer Memory Card International Association",@"Personal Data Privacy",@"personal digital assistant",@"PDA",@"Personal Drone",
+        @"Personal firewall",@"desktop firewall",@"Personal Handyphone System",@"PHS",@"personal health information",@"PHI",@"personal health record",
+        @"PHR",@"Personal Home Page",@"PHP",@"Personal Identity Verification card",@"PIV card",@"Personal Java",@"Personal Operating Space",@"POS",
+        @"Personal Portal",@"Personal Response System",@"PRS",@"Personal Search Syndication",@"PSS",@"Personal supercomputer",];
     [ITWordStore addObjectsFromArray:PWord];
     
     
