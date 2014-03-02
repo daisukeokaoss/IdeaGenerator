@@ -2283,7 +2283,20 @@
         @"Personal Computer Memory Card International Association",@"Personal Data Privacy",@"personal digital assistant",@"PDA",@"Personal Drone",
         @"Personal firewall",@"desktop firewall",@"Personal Handyphone System",@"PHS",@"personal health information",@"PHI",@"personal health record",
         @"PHR",@"Personal Home Page",@"PHP",@"Personal Identity Verification card",@"PIV card",@"Personal Java",@"Personal Operating Space",@"POS",
-        @"Personal Portal",@"Personal Response System",@"PRS",@"Personal Search Syndication",@"PSS",@"Personal supercomputer",];
+        @"Personal Portal",@"Personal Response System",@"PRS",@"Personal Search Syndication",@"PSS",@"Personal supercomputer",@"personal TV receiver",
+        @"personal video recorder",@"PVR",@"Personal Video Station",@"Personal Virtual Machine",@"Personal VM",@"Personal Web Server",@"PWS",
+        @"Personality Profile",@"Personalization",@"PersonalJava",@"Personally Identifiable Financial Information",@"Personal Identifiable Information",
+        @"PII",@"PERT",@"PERT chart",@"Program Evaluation Review Technique",@"PERT/CPM",@"pervasive computing",@"Ubiquitous computing",@"peta",@"petabit",
+        @"Petabyte",@"Petaflop",@"pF/m",@"PFC",@"Power Factor Correction",@"PGP",@"Ph",@"Phablet",@"Phantom dialing",@"Phantom Page",@"Pharma hack",
+        @"Pharmaceutical detailing",@"Pharming",@"phase",@"Phase Alternating Line",@"PAL",@"Phase change",@"Phase Change Cooling",
+        @"PHase change Liquid EXchange",@"phase change memory",@"phase locked loop",@"phase modulation",@"PM",@"phase shift keying",@"Phase-State Low Electron Drive Memory",
+        @"Phase-Change Cooling",@"vapor cooling",@"Phase-change Liquid EXchange",@"phase-change memory",@"PCM",@"phase-change RAM",@"phase-lock loop",
+        @"phase-locked loop",@"PLL",@"phase-shift keying",@"PSK",@"phase-state low electron drive memory",@"Phased Antenna System",@"Phased rollout",
+        @"Phaser",@"PHDSC",@"PHI",@"phish",@"phisher",@"phishing",@"phishing kit",@"Phishing season",@"Phishing via SMS",@"phlashing",@"PHOLED",
+        @"Phosphorescent organic light-emitting diode",@"Phone number",@"phosphorescent organic light emitting diode",@"Photo CD",@"photo messaging",
+        @"Photoconductivity",@"photolithography",@"Photometric stereo",@"Photon",@"photonic computer",@"photonic inc",@"P-Ink",@"photonic network",
+        @"photonic switching",@"photonics",@"photosensor",@"photovoltaic cell",@"PV cell",@"photovoltaic glass",@"PV glass",@"photovoltaics",@"PHP",
+        @"Hypertext Preprocessor",@"PHP3",];
     [ITWordStore addObjectsFromArray:PWord];
     
     
