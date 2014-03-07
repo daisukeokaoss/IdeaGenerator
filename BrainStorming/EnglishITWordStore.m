@@ -2296,7 +2296,26 @@
         @"Phosphorescent organic light-emitting diode",@"Phone number",@"phosphorescent organic light emitting diode",@"Photo CD",@"photo messaging",
         @"Photoconductivity",@"photolithography",@"Photometric stereo",@"Photon",@"photonic computer",@"photonic inc",@"P-Ink",@"photonic network",
         @"photonic switching",@"photonics",@"photosensor",@"photovoltaic cell",@"PV cell",@"photovoltaic glass",@"PV glass",@"photovoltaics",@"PHP",
-        @"Hypertext Preprocessor",@"PHP3",];
+        @"Hypertext Preprocessor",@"PHP3",@"PHR",@"phreak",@"phreaking",@"PHS",@"PHTML",@"phtml suffix",@"physical address",@"physical block device",
+        @"PBD",@"Physical computer",@"physical layer",@"physical security",@"Physical-to-Virtual",@"P2V",@"Physical unit",@"PU",@"physics tool",@"pi",@"PI",
+        @"PIC",@"PIC microcontrollers",@"Pick",@"PICK chart",@"Possible ,Implement,Challenge and Kill chart",@"pico",@"picocell",@"picofarad per meter",
+        @"pF/m",@"picoliter",@"picosatellite",@"picosecond",@"PICS",@"PictBridge",@"PICTIVE",@"Pictograph",@"picture archiving and communication system",
+        @"PACS",@"picture element",@"pel",@"Picture in picture",@"PIP",@"picture in picture box",@"picture line up generation equipment pattern",
+        @"Picture Messaging",@"Photo messaging",@"picture view",@"Pie Chart",@"pie graph",@"piezoelectricity",@"PIFI",@"piggybacking",@"pigs and chickens",
+        @"PII",@"Pilot Conversion",@"pilot program",@"pilot study",@"PIM",@"PIN",@"PIN lock",@"pin or PIN",@"pin out",@"ping",@"Ping of death",@"ping storm",
+        @"ping strangeness",@"ping sweep",@"ICMP sweep",@"Pink Noise",@"Pinout",@"Pinterest",@"PIO",@"Programmed Input/Output",@"PIP",@"PIP box",@"Picture in Picture box",
+        @"pipe",@"Pipeline Burst Cache",@"pipelining",@"Piracy",@"pirate",@"pirating",@"Pisano",@"PIV card",@"Pivot Table",@"pixel",@"pixelate",@"pixelated",
+        @"pixelation",@"pixels per inch",@"ppi",@"pixie dust",@"pixie dust or antiferromagnetically-coupled",@"pixilated",@"pizza box server",@"pk",
+        @"pk pk",@"pk-pk",@"PKCS",@"PKI",@"public key infrastructure",@"PKUNZIP",@"PKZIP",@"PKZip",@"PL SQL",@"PL/1",@"PL/I",@"PL/S",@"PL/SQL",
+        @"Procedural language extension to SQL",@"Place Shifting",@"Placeshifter",@"Placeshifting",@"Plagiarism",@"plain old telephone service",
+        @"POTS",@"Plaintext",@"Planck's Constant",@"plane(in networking)",@"Planned obsolescence",@"built-in obsolescence",@"planning board",
+        @"Planning Game",@"Planning poker",@"Planogram",@"plasma",@"plasma display",@"plasma TV",@"plastic pin grid array",@"PlateSpin",@"Platform",
+        @"Platform as a Service",@"PaaS",@"Platform for Internet Content Selection",@"PICS",@"Platform for Privacy Preferences",@"Platform for Privacy Preference Project",
+        @"P3P",@"PLATO",@"Programmed Logic for Automated Teaching Operations",@"Playstation",@"PLC",@"PLEDM",@"phase-state low electron drive memory",
+        @"Plenum",@"Pleo",@"Plesiochronous",@"Plexxi",@"PLL",@"PLM",@"PLMN",@"plotter",@"PLSQL",@"plug",@"Plug and Play",@"PnP",@"plug-and-play",@"plug-in",
+        @"PLUGE pattern",@"Picture line-up generation equipment",@"Plus Minus Interesting",@"Plutchik's wheel of emotions",@"Pluton",@"PM",@"PMI retrospective",
+        @"PML",@"PMML",@"Predictive Model Markup Language",@"PMO",@"PMP",@"PMS",@"pNFS",@"Parallel NFS",@"PNG",@"Portable Network Graphics",@"PnP",@"POC",@"Pocket PC",
+        @"pocket personal computer",@"Pod slurping",];
     [ITWordStore addObjectsFromArray:PWord];
     
     
