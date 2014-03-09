@@ -2371,8 +2371,31 @@
         @"Programming language generations",@"Programming Language System",@"Programming Language/System",@"PL/S",@"progressive download",
         @"progressive JPEG",@"progressive scan",@"Project and Portfolio Management",@"Project AppBlast",@"Project Blackbox",@"Project Chainsaw",
         @"project charter",@"PC",@"Project management",@"Project Management Office",@"PMO",@"Project Management Professional",@"PMP",@"Project Metro",
-        @"Project Nao",@"Nao Project",@"project plan",@"Project Planning",@"Project Post-Mortem",@"Project scope",@"Project Tango",];
+        @"Project Nao",@"Nao Project",@"project plan",@"Project Planning",@"Project Post-Mortem",@"Project scope",@"Project Tango",@"ProLiant",@"PROM",
+        @"Promiscuous mode",@"Proof of concept",@"POC",@"prop head",@"Propagation Delay",@"propeller head",@"propellor head",@"proper subset symbol",@"prophead",
+        @"proportion",@"Proportionality",@"Proprietary",@"Proprietary solution",@"Protected Extensible Authentication Protocol",@"protected mode",
+        @"Protecting America's Critical Infrastructures",@"Proteus Effect",@"protocol",@"Protocol analyzer",@"Protocol Independent Multicast",
+        @"Protocol-Independent Multicast",@"PIM",@"Proton",@"prototype",@"prototyping",@"Prototyping Model",@"provision",@"provisioning",@"proximity sensing",
+        @"Proxy",@"proxy hacking",@"proxy server",@"PRS",@"PS/2",@"PS/2 connector",@"PS1",@"PS2",@"PS3",@"pseudo random number generator",@"pseudo wire",
+        @"pseudo-infinite loop",@"pseudo-random number generator",@"PRNG",@"Pseudocode",@"pseudonymous profile",@"pseudowire",@"PSK",@"PSK31",@"PSN",
+        @"PSS",@"PST file",@"PSTN",@"public switched telephone network",@"PTF",@"PTR",@"PTT",@"PU",@"public cloud",@"Public Cloud Storage",@"public data",
+        @"Public domain",@"Public domain software",@"Public Folder",@"Public Health Data Standards Consortium",@"Public Health Data Standards Consortium PHDSC",
+        @"Public Health Information Network",@"Public-key",@"Public key certificate",@"Public key cryptography",@"Public Key Cryptography Standards",
+        @"Public key infrastructure",@"Public land mobile network",@"PLMN",@"Public-private partnership",@"Public relations",@"PR",
+        @"Public Relations Society of America",@"PRSA",@"Public sector",@"Public Switched Telephone Network",@"public-key cryptography",
+        @"Public-Key Cryptography Standards",@"PKCS",@"Public-private partnership",@"PPP",@"PUE",@"pull marketing",@"pulse",@"Pulse-amplitude modulation",
+        @"PAM",@"pulse code modulation",@"PCM",@"pulsing zombie",@"pumpKIN",@"pumpKIN",@"PunchOut",@"pundit",@"PUP",@"Potentially Unwanted Program",
+        @"Puppet",@"Puppet Labs",@"Puppy",@"Puppy Linux",@"pure-play",@"Purple Book",@"Purple Screen of Death",@"purple squirrel",@"push",@"Server-push",
+        @"push advertising",@"Push Notification",@"Push technology",@"Webcasting",@"Push-to-Talk",@"PTT",@"push voice",@"PV cell",@"PVC",@"PVM",@"PVR",@"PVS",
+        @"PW",@"Pwn2Own",@"PWS",@"PXE",@"Preboot Execution Environment",@"Python"];
     [ITWordStore addObjectsFromArray:PWord];
+    NSArray *QWord = @[@"Q signaling",@"QSIG",@"Q.931",@"Q931",@"QA",@"QA/QC",@"QAM",@"Quadrature amplitude modulation",@"QBE",@"QC",@"QDOS",@"86-DOS",@"QFE",@"Qik",@"QIX",
+        @"NASDAQ Information Exchange Protocol",@"QNX",@"QoE",@"QoS",@"Quality of Service",@"QoX",@"QPS",@"QR code",@"quick response code",@"QSA",@"QSIG",@"quad",
+        @"Quad FastEthernet",@"QFE",@"Quad Gate",@"quad tree",@"quad-core processor",@"quadbit",@"nibble",@"Quadrature amplitude modulation",
+        @"quadruple-play network",@"Quagga",@"Qualified Security Assessor",@"QSA",@"quality",@"Quality assurance",@"QA",@"quality control",@"QC",
+        @"Quality function deployment",@"Quality of Experience",@"QoE",@"QoX",@"Quality of Service",@"Quantum",@"Quantum computer",@"Quantum computing",
+        @"quantum cryptography",@"quantum dot",@"Quantum Extended Graphics Array",@"quantum indeterminacy",];
+    [ITWordStore addObjectsFromArray:QWord];
     
     
     return ITWordStore;
