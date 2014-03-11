@@ -2440,7 +2440,12 @@
         @"Redundancy",@"Redundant",@"redundant array of independent disks",@"Redundant Array of Independent Nodes",@"Redundant Array of Inexpensive Disks",
         @"Redundant Array of Inexpensive Nodes",@"Reentrant",@"Refactoring",@"Reference Architecture",@"Reference Data",@"Reference Information Model",@"RIM",
         @"Refresh",@"Refresh rate",@"ReFS",@"refurbish",@"refurbished",@"refurbishing",@"regex",@"Regional Bell Operating Company",@"RBOC",
-        @"Regional BGAN",@"Regional Extension Center",@"REC",@"Regional Health Information Organization",@"RHIO",@"Regional Internet Registry",];
+        @"Regional BGAN",@"Regional Extension Center",@"REC",@"Regional Health Information Organization",@"RHIO",@"Regional Internet Registry",@"RIR",
+        @"register",@"Register of Known Spam Operations",@"ROKSO",@"Registered Health Information Administrator",@"RHIA",@"Registered Health Information Technician",
+        @"RHIT",@"registered port numbers",@"Registered,Admission and Status",@"Registration Authority",@"RA",@"Registration,Admission and Status",@"RAS",
+        @"Registry",@"Registry Key",@"Registry Virtualization",@"Windows Vista",@"Regression Testing",@"Regular Expression",@"Regex",@"Regulation of Investigatory Powers Act",
+        @"RIPA",@"Regulatory compliance",@"Rehome",@"Rehoming",@"REJ",];
+    [ITWordStore addObjectsFromArray:RWord];
     
     
     return ITWordStore;
