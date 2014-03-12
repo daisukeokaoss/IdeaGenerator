@@ -2446,7 +2446,14 @@
         @"Registry",@"Registry Key",@"Registry Virtualization",@"Windows Vista",@"Regression Testing",@"Regular Expression",@"Regex",@"Regulation of Investigatory Powers Act",
         @"RIPA",@"Regulatory compliance",@"Rehome",@"Rehoming",@"REJ",@"relational database",@"relational database management system",@"Relational Online Analytical Processing",
         @"ROLAP",@"relationship marketing",@"Relative ID",@"Relative Identifier",@"RID",@"RELAX Next Generation",@"RELAX NG",@"release",@"release management",
-        @"release plan",];
+        @"release plan",@"Reliability",@"Reliability Availability and Serviceability",@"RAS",@"Reliable Array of Independent Nodes",@"Reliable Array of Inexpensive Nodes",
+        @"reload",@"remailer",@"Remote Access",@"Remote Access Server",@"Remote Access Server Application Program Interface",@"Remote Access Trojan",
+        @"Remote Authentication Dial In User Service",@"Remote Backup",@"Remote Backup Application",@"Remote Clustering",@"Remote Code Execution",@"RCE",
+        @"Remote Data Backup",@"Remote Data Objects",@"RDO",@"Remote Deposit Capture",@"RDC",@"Remote Desktop",@"Remote Desktop Connection Broker",
+        @"Remote Desktop Protocol",@"RDP",@"Remote Desktop Services",@"RDS",@"Remote Direct Memory Access",@"RDMA",@"Remote Display Protocol",@"Remote DMA",
+        @"Remote Function Call",@"RFC",@"Remote Insight Board -- Lights Out Edition",@"Remote Insight Board Lights Out Edition",@"Remote Installation Service",
+        @"RIS",@"Remote Job Entry",@"RJE",@"remote login",@"Remote Method Invocation",@"RMI",@"Remote Network Access Application",@"RNAAPP",
+        @"Remote Network Monitoring",@"Remote patient monitoring",@"RPM",@"Remote Printing",@"Remote Procedure Call"];
     [ITWordStore addObjectsFromArray:RWord];
     
     
