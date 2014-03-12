@@ -2444,7 +2444,9 @@
         @"register",@"Register of Known Spam Operations",@"ROKSO",@"Registered Health Information Administrator",@"RHIA",@"Registered Health Information Technician",
         @"RHIT",@"registered port numbers",@"Registered,Admission and Status",@"Registration Authority",@"RA",@"Registration,Admission and Status",@"RAS",
         @"Registry",@"Registry Key",@"Registry Virtualization",@"Windows Vista",@"Regression Testing",@"Regular Expression",@"Regex",@"Regulation of Investigatory Powers Act",
-        @"RIPA",@"Regulatory compliance",@"Rehome",@"Rehoming",@"REJ",];
+        @"RIPA",@"Regulatory compliance",@"Rehome",@"Rehoming",@"REJ",@"relational database",@"relational database management system",@"Relational Online Analytical Processing",
+        @"ROLAP",@"relationship marketing",@"Relative ID",@"Relative Identifier",@"RID",@"RELAX Next Generation",@"RELAX NG",@"release",@"release management",
+        @"release plan",];
     [ITWordStore addObjectsFromArray:RWord];
     
     
