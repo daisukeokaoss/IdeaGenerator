@@ -2453,7 +2453,17 @@
         @"Remote Desktop Protocol",@"RDP",@"Remote Desktop Services",@"RDS",@"Remote Direct Memory Access",@"RDMA",@"Remote Display Protocol",@"Remote DMA",
         @"Remote Function Call",@"RFC",@"Remote Insight Board -- Lights Out Edition",@"Remote Insight Board Lights Out Edition",@"Remote Installation Service",
         @"RIS",@"Remote Job Entry",@"RJE",@"remote login",@"Remote Method Invocation",@"RMI",@"Remote Network Access Application",@"RNAAPP",
-        @"Remote Network Monitoring",@"Remote patient monitoring",@"RPM",@"Remote Printing",@"Remote Procedure Call"];
+        @"Remote Network Monitoring",@"Remote patient monitoring",@"RPM",@"Remote Printing",@"Remote Procedure Call",@"RPC",@"Remote Replication",
+        @"Remote Storage Replication",@"Remote Wake-Up",@"Remote Wakeup",@"RWU",@"Remote Wipe",@"Remote-Control Software",@"RemoteFX",@"Remoting",
+        @"PowerShell Remoting",@"Removable Media",@"Render",@"Rendering",@"Rendezvous",@"Redundant Array of Independent Disks",@"Renewable energy",@"Reorganization",
+        @"Reparse point",@"Repeat Unique user",@"Repeatable process",@"Repeater",@"Replenishment",@"Replicate",@"Replication",@"Replicator",
+        @"Report on Compliance",@"ROC",@"Report Program Generator",@"RPG",@"Repository",@"Representational state transfer",@"Reprographics",
+        @"Reputation Management",@"Request for Comments",@"RFC",@"Request for Offer",@"RFO",@"Request for Proposal",@"RFP",@"Request for quotation",
+        @"RFQ",@"Requirement Analysis",@"Requirement Engineering",@"Requirements Creep",@"Requirements Stability Index",@"RSI",@"Rescator",
+        @"Rescoring",@"Research Starting Places",@"Reseller",@"Reseller Hosting",@"Reserve Bank of India",@"RBI",@"Reshoring",@"Residential Construction Software",
+        @"Resilient File System",@"ReFS",@"Resilient Packet Ring",@"RPR",@"Resistance",@"Resistive RAM",@"RRAM",@"Resistor",@"Resolution",@"Resonance Charging",
+        @"Resource Access Control Facility",@"RACF",@"Resource Description Framework",@"RDF",@"Resource Reservation Protocol",@"Resource-Oriented Architecture",
+        @"ROA",@"Response Time",@"Responsibility",@"Responsive Design",];
     [ITWordStore addObjectsFromArray:RWord];
     
     
