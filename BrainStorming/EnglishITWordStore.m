@@ -2463,7 +2463,23 @@
         @"Rescoring",@"Research Starting Places",@"Reseller",@"Reseller Hosting",@"Reserve Bank of India",@"RBI",@"Reshoring",@"Residential Construction Software",
         @"Resilient File System",@"ReFS",@"Resilient Packet Ring",@"RPR",@"Resistance",@"Resistive RAM",@"RRAM",@"Resistor",@"Resolution",@"Resonance Charging",
         @"Resource Access Control Facility",@"RACF",@"Resource Description Framework",@"RDF",@"Resource Reservation Protocol",@"Resource-Oriented Architecture",
-        @"ROA",@"Response Time",@"Responsibility",@"Responsive Design",];
+        @"ROA",@"Response Time",@"Responsibility",@"Responsive Design",@"REST",@"Representational state transfer",@"Restore",@"Restore Point",
+        @"Restriction of Hazardous Substances Directive",@"Resultant Set of Policy",@"Results Only Work Environment",@"Results-Only Work Environment",
+        @"ROWE",@"Retargeting",@"Retractable email",@"Return Merchandise Authorization",@"RMA",@"Return on Investment",@"Return on Marketing Investment",
+        @"ROMI",@"Return To Zero",@"Return-To-Zero",@"Retweet",@"RT",@"Reuse-Oriented Development",@"Reuse-Oriented Model",@"Reverb",@"Reverberation",
+        @"Reverse Address Resolution Protocol",@"RARP",@"Reverse DNS",@"rDNS",@"Reverse Electrovibration",@"Virtual Touch",@"Reverse Engineering",
+        @"Reverse Image Search",@"Reverse Proxy Server",@"Reverse Telnet",@"direct Telnet",@"rewritable DVD",@"Rewritable CD",@"Rexx",@"RF",@"RFC",@"RFID",
+        @"Radio Frequency Identification",@"RFID hacking",@"RFID tagging",@"RFID virus",@"RFM",@"RFM analysis",@"recency,frequency,monetary",@"RFP",
+        @"RFQ",@"RFR",@"RGB",@"red,green, and blue",@"RHCVA",@"Red Hat Certified Virtualization Administrator",@"RHEL",@"Red Hat Enterprise Virtualization",
+        @"RHIA",@"RHIO",@"RHIT",@"RIA",@"RIAA",@"Recording Industry Association of America",@"RIBLOE",@"Rich Client",@"Rich Client Platform",@"RCP",
+        @"Rich Internet Application",@"RIA",@"Rich Media",@"rich presence technology",@"Rich Site Summary",@"Rich Text Format",@"RTF",@"RickRoll",@"RID",
+        @"Ridge",@"Right of use",@"Rights",@"Rights to light",@"RightSourcing",@"Rijndael",@"RIM",@"RIMM",@"Ring",@"Ring back",@"ring network",
+        @"Ring Tone",@"Ringback",@"ringing tone",@"Ringtone",@"RIP",@"RIPA",@"Ripping",@"Digital Extraction",@"RIR",@"RIS",@"RISC",@"Reduced Instruction Set Computer",
+        @"Risk Analysis",@"Risk Appetite",@"Risk Assessment",@"Risk Assessment Framework",@"RAF",@"Risk Avoidance",@"Risk Intelligence",@"RQ",
+        @"Risk Management",@"Risk Management Software",@"Risk Map",@"Risk Profile",@"Risk-Based Authentication",@"RBA",@"Riven",@"Rivest-Shamir-Adleman",@"RJ",
+        @"RJ-11",@"RJ-14",@"RJ-45",@"RJ-XX",@"RJE",@"rlogin",@"remote login",@"RMA",@"RMI",@"RMON",@"Remote Network Monitoring",@"rms",@"RNAAPP",@"Rnext",
+        @"RNIS",@"Reseau Numerique a Integration de Services",@"ROADM",@"Reconfigurable optical add-drop multiplexer",@"Roam",@"Roaming",@"Roaming Service",
+        @"Robocall",@"Robokoneko",@"Robot Kitten",@"Robot",@"insect robot",@"autonomous robot",@"robot blimp",];
     [ITWordStore addObjectsFromArray:RWord];
     
     
