@@ -324,7 +324,7 @@
         @"business capability",@"business case",@"Business case analysis and a business case guide",
         @"Business Configuration Set",@"BC Set",@"business continuance",@"business continuity",
         @"business continuity action plan",@"Business Continuity and Disaster Recovery",
-        @"BCDR",@"business continuity management",@"BCM",@"business continuity plan"
+        @"BCDR",@"business continuity management",@"BCM",@"business continuity plan",
         @"business continuity plan audit",@"business continuity software",@"business cycle",
         @"business event management",@"Business Explorer",@"business impact analysis",@"BIA",
         @"business information center",@"BIC",@"Business Information Warehouse",@"business integration",
@@ -2479,7 +2479,13 @@
         @"Risk Management",@"Risk Management Software",@"Risk Map",@"Risk Profile",@"Risk-Based Authentication",@"RBA",@"Riven",@"Rivest-Shamir-Adleman",@"RJ",
         @"RJ-11",@"RJ-14",@"RJ-45",@"RJ-XX",@"RJE",@"rlogin",@"remote login",@"RMA",@"RMI",@"RMON",@"Remote Network Monitoring",@"rms",@"RNAAPP",@"Rnext",
         @"RNIS",@"Reseau Numerique a Integration de Services",@"ROADM",@"Reconfigurable optical add-drop multiplexer",@"Roam",@"Roaming",@"Roaming Service",
-        @"Robocall",@"Robokoneko",@"Robot Kitten",@"Robot",@"insect robot",@"autonomous robot",@"robot blimp",];
+        @"Robocall",@"Robokoneko",@"Robot Kitten",@"Robot",@"insect robot",@"autonomous robot",@"robot blimp",@"Robot Ethics Charter",@"robot kitten",
+        @"Robot Land",@"robotic dirigible",@"robotic personality",@"Robotic Vacuum",@"robotics",@"Robson",@"robust",@"ROC",@"Rock Phish",
+        @"rocker switch",@"Rocket eBook",@"ROD",@"RODC",@"read-only domain controller",@"Roentgen",@"rogue",@"RoHS",@"RoHS Directive",@"ROI",
+        @"return on investment",@"ROKSO",@"ROLAP",@"role based access control",@"Role Mining",@"Role Playing Game",@"role sharing",
+        @"role-based access control",@"RBAC",@"role-playing game",@"RPG",@"Roll Back",@"rollback",@"rolling forecast",@"rollout",@"rollover",
+        @"rollover ad",@"Rollyo",@"ROM",@"ROM emulation",@"ROMI",@"Roomba",@"Robotic Vacuum",@"Root Directory",@"Root Mean Square",@"Root Partition",
+        @"Root Server System",@"root-mean-square",@"RMS",];
     [ITWordStore addObjectsFromArray:RWord];
     
     
