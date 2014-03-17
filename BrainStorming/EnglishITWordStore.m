@@ -2485,7 +2485,14 @@
         @"return on investment",@"ROKSO",@"ROLAP",@"role based access control",@"Role Mining",@"Role Playing Game",@"role sharing",
         @"role-based access control",@"RBAC",@"role-playing game",@"RPG",@"Roll Back",@"rollback",@"rolling forecast",@"rollout",@"rollover",
         @"rollover ad",@"Rollyo",@"ROM",@"ROM emulation",@"ROMI",@"Roomba",@"Robotic Vacuum",@"Root Directory",@"Root Mean Square",@"Root Partition",
-        @"Root Server System",@"root-mean-square",@"RMS",];
+        @"Root Server System",@"root-mean-square",@"RMS",@"rootkit",@"rootkits",@"Roots of Trust",@"RoT",@"RoR",@"Rosetta",@"RosettaNet",@"ROT-13",
+        @"Rotational Acceleration",@"Rotational Velocity",@"ROTFL",@"Rotoscoping",@"Round Robin",@"round trip time",@"Round-trip delay",@"round-trip time",
+        @"RTT",@"rounding error",@"RoundTable",@"roundtripping",@"Route Aggregation",@"Route Poisoning",@"Route Summarization",@"Router",@"routine",
+        @"routing",@"Routing and Special Handling",@"Routing Information Protocol",@"RIP",@"routing switch",@"Routing table",@"roving analysis port",@"row",
+        @"ROWE",@"RPC",@"RPC over HTTP",@"RPG",@"RPM",@"RPM Package Manager",@"Red-hat Package Manager",@"RPO",@"RPR",@"RPT",@"RRAM",@"RS Means",
+        @"RS-232C",@"RSA algorithm",@"Rivest-Shamir-Adleman",@"RSAT",@"Microsoft Remote Server Administration Tools",@"RSI",@"RSNA",@"RSoP",
+        @"Resultant Set of Policy",@"RSS",@"RSS feed",@"RSS Reader",@"RSVP",@"Resource Reservation Protocol",@"rsync",@"RT",@"RTA",@"RTC",@"RTCD",
+        @"RTD",@"RTF",@"RTLS",@"RTO",@"RTOS",@"RTP",@"RTSP",@"RTT",@"Rubric",];
     [ITWordStore addObjectsFromArray:RWord];
     
     
