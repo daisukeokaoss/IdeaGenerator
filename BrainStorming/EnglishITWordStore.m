@@ -2507,7 +2507,18 @@
         @"SAP XI",@"SAP Fiori",@"SAP HANA",@"SAP HANA Enterprise Cloud",@"SAP HANA One",@"SAP High Performance Analytic Appliance",
         @"SAP High-Performance Analytic Appliance",@"SAP Integration Adapter",@"SAP Integration Repository",@"SAP Integration Server",@"SAP JAM",
         @"SAP Learning Guides",@"SAP Lumira",@"SAP Quizzes",@"SAP Solution Manager",@"SAP User Conference",@"SAP XI",@"SAPI",@"SAPPHIRE",@"SAP User Conference",
-        @"SAR",@"Sarbanes-Oxley",@"Sarbanes Oxley Act",];
+        @"SAR",@"Sarbanes-Oxley",@"Sarbanes Oxley Act",@"Sarbanes Oxley Act Section 404",@"Sarbanes-Oxley",@"Sarbanes-Oxley Act",@"SOX",
+        @"Sarbanes-Oxley Act Section 404",@"SAS",@"SAS 70",@"Statement on Auditing Standards No. 70",@"SASID",@"SATA",@"SATA 2",@"SATA Ⅱ",
+        @"SATA controller",@"SATA Ⅱ",@"satellite",@"Transmission",@"Satellite Digital Audio Radio Service",@"satellite Internet Connection",
+        @"satellite news gathering",@"SNG",@"Satellite Radio",@"Satellite Digital Audio Radio Service",@"satellite return Internet Connection",
+        @"Saturation",@"saved state",@"SAX",@"Simple API for XML",@"SB 1386",@"SB-1386",@"SBC",@"SBIR contract",@"SBR",@"SC sustainability",@"SCA",
+        @"SCADA",@"supervisory control and data acquisition",@"Scalability",@"Scalable",@"scalable font",@"Scalable Processor Architecture",
+        @"Scalable Vector Graphics",@"SVG",@"scalable video coding",@"SVC",@"scalar",@"Scalar Product",@"Scale-Out Storage",@"Scam-baiting",
+        @"scan code set",@"scan converter",@"scan set",@"scan code set",@"ScanDisk",@"scannable resume",@"scanner",@"scanner-friendly resume",
+        @"scanning tunneling microscope",@"STM",@"Scareware",@"Scarlet Book",@"SCART connector",@"Scatter plot",@"SCCP",@"SCE",@"SCEM",@"Supply Chain Event Management",
+        @"schema",@"Shemata",@"Schrodinger's cat",@"SCI",@"Scientific Notation",@"Power-of-10 notation",@"SCL",@"SCM",@"Scooba",@"Scooter",@"Scope Creep",
+        @"SCORM",@"SCP",@"Scraper site",@"screaming cell phone",@"Screen",@"Screen Capture",@"Screen Name",@"Screen Order",@"Screen Pop",@"Screen Printing",
+        @"Serigraphy",@"screen saver",@"Screen Scraping",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
