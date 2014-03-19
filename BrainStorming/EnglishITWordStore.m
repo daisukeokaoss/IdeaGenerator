@@ -2492,8 +2492,23 @@
         @"ROWE",@"RPC",@"RPC over HTTP",@"RPG",@"RPM",@"RPM Package Manager",@"Red-hat Package Manager",@"RPO",@"RPR",@"RPT",@"RRAM",@"RS Means",
         @"RS-232C",@"RSA algorithm",@"Rivest-Shamir-Adleman",@"RSAT",@"Microsoft Remote Server Administration Tools",@"RSI",@"RSNA",@"RSoP",
         @"Resultant Set of Policy",@"RSS",@"RSS feed",@"RSS Reader",@"RSVP",@"Resource Reservation Protocol",@"rsync",@"RT",@"RTA",@"RTC",@"RTCD",
-        @"RTD",@"RTF",@"RTLS",@"RTO",@"RTOS",@"RTP",@"RTSP",@"RTT",@"Rubric",];
+        @"RTD",@"RTF",@"RTLS",@"RTO",@"RTOS",@"RTP",@"RTSP",@"RTT",@"Rubric",@"Ruby",@"Ruby on Rails",@"RoR",@"Rails",@"rugged IT",@"rule base",@"run book",
+        @"Run commands for XP and Vista",@"runbook",@"Running Disparity",@"RD",@"runt",@"Runtime",@"RUP",@"RWU",@"RxNorm",@"RZ",@"return-to-zero",];
     [ITWordStore addObjectsFromArray:RWord];
+    NSArray *SWord = @[@"s",@"S HTTP",@"S interface",@"S&OP",@"S-HTTP",@"Secure HTTP",@"S-Video",@"Super-Video",@"Y/C Video",@"Component Video",@"S.877",
+        @"S.2691",@"S.773",@"S.M.A.R.T",@"S/390",@"S/MIME",@"Secure Multipurpose Internet Mail Extensions",@"S/N",@"S/PDIF",@"Sony/Philips Digital Interface",
+        @"S4L",@"S773",@"SA",@"SAA",@"Systems Application Architecture",@"SaaS",@"SaaS BI",@"SaaS ERP",@"software-as-a-service ERP hosting",@"SaaS on demand",
+        @"saas paas iaas",@"SaaSgrid",@"Sable",@"SACD",@"Safari",@"Safe Harbor",@"Safe Mode",@"SafeSquid",@"SafeWeb",@"Sage CRM",@"Sage Timberline Office",
+        @"sales and operations planning",@"S&OP",@"Sales Certification",@"sales cycle",@"sales force automation",@"SFA",@"sales force automation software",
+        @"sales performance incentive fund",@"Sales Performance Management",@"SPM",@"Salesforce AppExchange",@"Salesforce Work.com",@"Salesforce.com",@"salt",
+        @"SAM",@"Samba",@"Same Origin Policy",@"SOP",@"Same Time",@"Sametime",@"SAML",@"Security Assertion Markup Language",@"sample rate",
+        @"Samsung for Enterprise",@"SAFE",@"Samsung Galaxy",@"Samsung Galaxy Note",@"Samsung GN",@"Samsung Tizen",@"SAN",@"SAN File System",@"SAN island",
+        @"SAN routing",@"SAN-in-a-box",@"sandbox",@"Santa Claus rally",@"SAP",@"SAP BusinessObjects BI",@"SAP BW",@"SAP Exchange Infrastructure",
+        @"SAP XI",@"SAP Fiori",@"SAP HANA",@"SAP HANA Enterprise Cloud",@"SAP HANA One",@"SAP High Performance Analytic Appliance",
+        @"SAP High-Performance Analytic Appliance",@"SAP Integration Adapter",@"SAP Integration Repository",@"SAP Integration Server",@"SAP JAM",
+        @"SAP Learning Guides",@"SAP Lumira",@"SAP Quizzes",@"SAP Solution Manager",@"SAP User Conference",@"SAP XI",@"SAPI",@"SAPPHIRE",@"SAP User Conference",
+        @"SAR",@"Sarbanes-Oxley",@"Sarbanes Oxley Act",];
+    [ITWordStore addObjectsFromArray:SWord];
     
     
     return ITWordStore;
