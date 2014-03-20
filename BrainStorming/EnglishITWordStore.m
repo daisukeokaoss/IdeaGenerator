@@ -2518,7 +2518,29 @@
         @"scanning tunneling microscope",@"STM",@"Scareware",@"Scarlet Book",@"SCART connector",@"Scatter plot",@"SCCP",@"SCE",@"SCEM",@"Supply Chain Event Management",
         @"schema",@"Shemata",@"Schrodinger's cat",@"SCI",@"Scientific Notation",@"Power-of-10 notation",@"SCL",@"SCM",@"Scooba",@"Scooter",@"Scope Creep",
         @"SCORM",@"SCP",@"Scraper site",@"screaming cell phone",@"Screen",@"Screen Capture",@"Screen Name",@"Screen Order",@"Screen Pop",@"Screen Printing",
-        @"Serigraphy",@"screen saver",@"Screen Scraping",];
+        @"Serigraphy",@"screen saver",@"Screen Scraping",@"screen shot",@"Screen Capture",@"screencast",@"screened subnet",@"triple-homed firewall",
+        @"script",@"Script kiddie",@"Script kiddy",@"script kiddile",@"Scripting language",@"scrub",@"scrubbing",@"Scrum",@"scrum master",@"SCSA",@"SCSI",
+        @"Small Computer System Interface",@"SCSI controller",@"SCSI Express",@"SCSIe",@"SCTP",@"Stream Control Transmission Protocol",@"scumware",
+        @"scuzzy",@"SCV",@"SD",@"SD card",@"SD2",@"Sound Designer Ⅱ",@"SDⅡ",@"SDARS",@"SDB",@"SDDL",@"SDH",@"Synchronous Digital Hierarchy",@"SDI",@"SDII",
+        @"SDK",@"SDL",@"Specification and Description Language",@"SDLC",@"Synchronous Data Link Control",@"SDLC model",@"SDMA",@"SDN application",
+        @"software-defined networking applications",@"SDN controller",@"software-defined networking controller",@"SDN overlay",@"software defined networking overlay",
+        @"SDO",@"SDP",@"Session Description Protocol",@"SDR",@"SDRAM",@"synchronous DRAM",@"SDTV",@"SDWT",@"Sea change",@"Sealed Box computer",
+        @"seamless interface",@"search engine",@"Search Engine Cheat Sheet",@"Search Engine Hacking",@"Search Engine Optimization",@"SEO",
+        @"Search engine results page",@"SERP",@"Search for Extraterrestrial Intelligence",@"SETI",@"Search-and-Replace",@"Search-Based Applications",
+        @"SBAs",@"Searching",@"seat",@"Seat Management",@"SEC",@"sec",@"SEC Form 10-K",@"SEC Form 10-Q",@"SECAM",@"Seclore Technology",@"Seclore",
+        @"Second",@"second generation RISC",@"Second-level domain",@"Second Life",@"Second-Hand",@"Second-level domain",@"SLD",@"secondary storage",
+        @"Secret Key",@"Secret Key Algorithm",@"Symmetric Algorithm",@"Section 508",@"Sector",@"Secure Digital card",@"SD card",
+        @"Secure Digital Extended Capacity card",@"SDXC",@"Secure Electronic Transaction",@"SET",@"Secure File Transfer Protocol",@"SSH File Transfer Protocol",
+        @"Secure HTTP",@"Secure Multipurpose Internet Mail Extensions",@"Secure Real-Time Transport Protocol",@"Secure RTP",@"Secure Shell",@"SSH",
+        @"Secure Shell Charter",@"SSH Charter",@"Secure Socket Shell",@"Secure Sockets Layer",@"SSL",@"Secure Sockets Layer Virtual Private Network",
+        @"Securing Knowledge Innovation and Leadership Act",@"Securities and Exchange Commission",@"SEC",@"Security",@"Security Accounts Manager",@"SAM",
+        @"Security as a Service",@"SaaS",@"Security Assertion Markup Language",@"security audit",@"Security Awareness Training",@"Security Certification",
+        @"security clearance",@"Security definition",@"Security Descriptor Definition Language",@"SDDL",@"Security event",@"Security Incident",
+        @"security ID",@"Security Identifier",@"SID",@"Security information and event management",@"SIEM",@"Security information management",
+        @"SIM",@"Security Learning Guides",@"security policy",@"Security Quizzes",@"security token",@"Authentication Token",@"Security Trust and Assurance Registry",
+        @"STAR",@"SED",@"SED TV",@"surface-conduction electron-emitter display",@"Seebeck effect",@"SeeBeyond",@"Seed Capital",@"Segment",
+        @"segmentation",@"Segmentation and Reassembly",@"SAR",@"segmented memory",@"segregation of duties",@"SoD",@"SEI",@"seize",@"Selective Outsourcing",
+        @"Selenium",@"Self checkout",@"self directed work team",@"Self Monitoring Analysis & Reporting Technology",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
