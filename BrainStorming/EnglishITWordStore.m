@@ -2540,7 +2540,21 @@
         @"SIM",@"Security Learning Guides",@"security policy",@"Security Quizzes",@"security token",@"Authentication Token",@"Security Trust and Assurance Registry",
         @"STAR",@"SED",@"SED TV",@"surface-conduction electron-emitter display",@"Seebeck effect",@"SeeBeyond",@"Seed Capital",@"Segment",
         @"segmentation",@"Segmentation and Reassembly",@"SAR",@"segmented memory",@"segregation of duties",@"SoD",@"SEI",@"seize",@"Selective Outsourcing",
-        @"Selenium",@"Self checkout",@"self directed work team",@"Self Monitoring Analysis & Reporting Technology",];
+        @"Selenium",@"Self checkout",@"self directed work team",@"Self Monitoring Analysis & Reporting Technology",@"Self Scanned Amorphous Silicon Integrated Display",
+        @"self scanning checkout",@"self service business intelligence",@"self-assembly",@"self-checkout",@"Self-Destructing Email",@"self-directed work team",
+        @"SDWT",@"self-healing",@"Self-Monitoring Analysis & Reporting Technology",@"Self-replication",@"Self-Scanned Amorphous Silicon Integrated Display",
+        @"self-scanning",@"Self-Scanning Checkout",@"self-checkout",@"self-sending spam",@"self-service business intelligence",@"BI",@"selfie",@"SEM",
+        @"Semantic Web",@"Semantic Web Agreement Group",@"SWAG",@"semantics",@"semaphore",@"semiconductor",@"Semiconductor Fab",@"Senate Judiciary Committee",
+        @"SJC",@"Sender ID",@"Sender pays",@"Sender Permitted From",@"Sender Policy Framework",@"SPF",@"Sendmail",@"SeniorNet",@"Sensex",@"BSE Sensex",
+        @"Sensitive Personal Data",@"Sensor",@"Sensor Competition",@"Sensor Network",@"SEO",@"SEO poisoning",@"search poisoning",
+        @"Sequenced Packet Exchange",@"SPX",@"Sequencer",@"Sequential Consistency",@"Sequential Couleur avec Memoire",@"SECAM",@"Sequential logic",
+        @"SerDes",@"Serializer/Deserializer",@"Serendipity",@"Serial",@"Serial Advanced Technology Attachment",@"Serial ATA",
+        @"Serial Advanced Technology Attachment",@"Serial Attached SCSI",@"Serial Communications Interface",@"SCI",@"Serial Digital Interface",
+        @"SDI",@"Serial Line Internet Protocol",@"SLIP",@"Serial Peripheral Interface",@"SPI",@"serial port server",@"Serial presence detect",@"SPD",
+        @"Serial Server",@"Serial Storage Architecture",@"SSA",@"Serial-Attached SCSI",@"SAS",@"serial-attached storage",@"serializer",@"Serializer/Deserializer",
+        @"serigraphy",@"Serious Organized Crime Agency",@"SOCA",@"Serious Reportable Event",@"SRE",@"Servant leadership",@"server",@"Server Accelerator Card",
+        @"SSL card",@"server blade",@"Server Consolidation",@"Server Core",@"Server Farm",@"Web farm",@"Web server farm",@"server hardware degradation",
+        @"Server Message Block Protocol",@"SMB protocol",@"Server Push",@"Server Refresh Cycle",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
