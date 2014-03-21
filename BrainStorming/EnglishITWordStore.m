@@ -2569,7 +2569,16 @@
         @"SEWP IV",@"Sexting",@"SFA",@"SFF",@"SFP",@"SFS",@"SFT III",@"SFX",@"SGF",@"SGFXML",@"SGI",@"Silicon Graphics",@"SGML",
         @"Standard Generalized Markup Language",@"SGRAM",@"Shadow IT",@"Shadow Information Technology",@"Shadow Password File",@"shadow RAM",
         @"Shamoon",@"Shannon's Law",@"Claude Shannon",@"Shape-shifting ChemBot",@"liquid robot",@"Chemical robots",@"Sharding",
-        @"Shareable Content Object Reference Model",@"SCORM",@"Shared Assessments Program",@"shared hosting",@"Shared Key Authentication"];
+        @"Shareable Content Object Reference Model",@"SCORM",@"Shared Assessments Program",@"shared hosting",@"Shared Key Authentication",
+        @"SKA",@"Shared Memory",@"Shared Nothing Live Migration",@"Shared SAS",@"Shared Services",@"Shared source",@"Shared Storage",@"SharePoint",
+        @"SharePoint 2013 Design Manager Snippet",@"SharePoint Administrator",@"SharePoint farm",@"shareware",@"Sharing economy",@"shebang",
+        @"sheep",@"Sheep Dipping",@"sheepdip",@"footbath",@"sheepdip computer",@"sheet-fed offset printing",@"shelfware",@"shell",@"shell command injection",
+        @"shell script",@"Shielded Twisted Pair",@"Shift Register",@"Shimmer",@"Shockwave",@"shoeshining or backhitching",@"Shoppable Video",
+        @"shopping cart",@"Shopping Cart Software",@"Short Message",@"Short Message Service",@"SMS",@"Short message service center",@"SMSC",
+        @"short messaging",@"Short Messaging Service Spam",@"Short Stroking",@"shortcut",@"Shortest Path Bridging",@"Shoshkele",@"Shotgun debugging",
+        @"Shoulder Surfing",@"shovelware",@"Show Control",@"showrooming",@"shrink wrap license",@"SHTML",@"Shuffle Mode",@"SI",@"Si",@"SIBR",@"SID",
+        @"sideband",@"Sideloading",@"Siebel",@"Siebel Systems",@"Siemens",@"SIG",@"Special Interest Groups",@"Signal",@"Signal Computing System Architecture",
+        @"SCSA",@"Signal-to-Noise ratio",@"S/N",@"SNR",@"signaling",@"Signaling System 7",@"SS7",@"Signaling Transport",@"Signaling Connection Control Part",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
