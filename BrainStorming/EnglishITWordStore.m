@@ -2554,7 +2554,22 @@
         @"Serial Server",@"Serial Storage Architecture",@"SSA",@"Serial-Attached SCSI",@"SAS",@"serial-attached storage",@"serializer",@"Serializer/Deserializer",
         @"serigraphy",@"Serious Organized Crime Agency",@"SOCA",@"Serious Reportable Event",@"SRE",@"Servant leadership",@"server",@"Server Accelerator Card",
         @"SSL card",@"server blade",@"Server Consolidation",@"Server Core",@"Server Farm",@"Web farm",@"Web server farm",@"server hardware degradation",
-        @"Server Message Block Protocol",@"SMB protocol",@"Server Push",@"Server Refresh Cycle",];
+        @"Server Message Block Protocol",@"SMB protocol",@"Server Push",@"Server Refresh Cycle",@"Server Side Include",@"Server Space Provider",
+        @"Server Sprawl",@"Server Stack",@"Server Virtualization",@"Server-Based Computing",@"Server-Based SSD",@"Server-Push",@"Server-Side Flash",
+        @"Server-Side Include",@"SSI",@"serverless backup",@"servers",@"Service Assurance",@"Service Assurance",@"SA",@"Service Component Architecture",
+        @"service contact port numbers",@"Service Data Objects",@"SDO",@"Service Desk",@"Service Integration Maturity Model",@"SIMM",
+        @"Service level",@"service level agreement",@"Service Location Protocol",@"SLP",@"Service Organization Control 1",@"Service Organization Control 2",
+        @"Service Organization Control 3",@"Service Oriented Architecture",@"Service Oriented Integration",@"Service Oriented Management",@"Service Pack",
+        @"Service Profile Identifier",@"Service Set Identifier",@"SSID",@"Service-Component Architecture",@"SCA",@"service-level agreement",
+        @"SLA",@"service-level management",@"service-oriented architecture",@"SOA",@"Service-Oriented Integration",@"SOI",@"Service-Oriented Management",
+        @"SOM",@"Services Provisioning Markup Language",@"Servlet",@"Session",@"Session Border Controller",@"SBC",@"Session Cookie",
+        @"Session Description Protocol",@"Session hijacking",@"TCP session hijacking",@"Session ID",@"Session Initiation Protocol",@"SIP",
+        @"Session Initiation Protocol trunking",@"Session Key",@"Session Layer",@"port layer",@"Session Prediction",@"Credential/Session Prediction",
+        @"Session Replay",@"Set",@"SET",@"Set Theory",@"set-top box",@"SETI",@"seven wastes",@"Seven-Segment Display",@"Severance Agreement",@"Severance Package",
+        @"SEWP IV",@"Sexting",@"SFA",@"SFF",@"SFP",@"SFS",@"SFT III",@"SFX",@"SGF",@"SGFXML",@"SGI",@"Silicon Graphics",@"SGML",
+        @"Standard Generalized Markup Language",@"SGRAM",@"Shadow IT",@"Shadow Information Technology",@"Shadow Password File",@"shadow RAM",
+        @"Shamoon",@"Shannon's Law",@"Claude Shannon",@"Shape-shifting ChemBot",@"liquid robot",@"Chemical robots",@"Sharding",
+        @"Shareable Content Object Reference Model",@"SCORM",@"Shared Assessments Program",@"shared hosting",@"Shared Key Authentication"];
     [ITWordStore addObjectsFromArray:SWord];
     
     
