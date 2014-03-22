@@ -2578,7 +2578,27 @@
         @"short messaging",@"Short Messaging Service Spam",@"Short Stroking",@"shortcut",@"Shortest Path Bridging",@"Shoshkele",@"Shotgun debugging",
         @"Shoulder Surfing",@"shovelware",@"Show Control",@"showrooming",@"shrink wrap license",@"SHTML",@"Shuffle Mode",@"SI",@"Si",@"SIBR",@"SID",
         @"sideband",@"Sideloading",@"Siebel",@"Siebel Systems",@"Siemens",@"SIG",@"Special Interest Groups",@"Signal",@"Signal Computing System Architecture",
-        @"SCSA",@"Signal-to-Noise ratio",@"S/N",@"SNR",@"signaling",@"Signaling System 7",@"SS7",@"Signaling Transport",@"Signaling Connection Control Part",];
+        @"SCSA",@"Signal-to-Noise ratio",@"S/N",@"SNR",@"signaling",@"Signaling System 7",@"SS7",@"Signaling Transport",@"Signaling Connection Control Part",
+        @"SCCP",@"Signature Analysis",@"Signature file",@"significant figures",@"SIGTRAN",@"Signaling Transport",@"Silence Machine",
+        @"Electronic Controlled Acoustic Shadow System",@"Silence suppression",@"Silent Attrition",@"Silent Monitoring",@"Silicon",@"Si",
+        @"Silicon Alley",@"silicon cockroach",@"Silicon Graphics",@"Silicon on Insulator",@"Silicon Photonics",@"Silicon Valley",@"Silicon-on-Insulator",
+        @"SOI",@"Silverlight",@"SIM",@"SIM card",@"SIMD",@"Simian Army",@"SIMM",@"single In-Line Memory Module",@"SIMO",@"Single Input,Multiple Output",
+        @"SIMPLE",@"SIP for Instant Messaging and Presence Leveraging Extensions",@"Simple API for XML",@"Simple Inexpensive Mobile Computer",
+        @"Simple Mail Transfer Protocol",@"Simple Network Management Protocol",@"SNMP",@"Simple Object Access Protocol",@"Simple Traversal of UDP through NAT",
+        @"Simplex",@"Simplicity",@"Simputer",@"Simple Inexpensive Mobile Computer",@"Simula",@"Simulation language",@"Simultaneous peripheral operations online",
+        @"Sina Weibo",@"sine wave",@"Single Carrier Radio Transmission Technology",@"single electron memory",@"single factor authentication",
+        @"single image random dot stereogram",@"Single In Line Memory Module",@"Single Input Multiple Output",@"Single Input Single Output",
+        @"Single Instance Storage",@"Single Instruction Multiple Data",@"Single Instruction Multiple Data",@"SIMD",@"single level cell flash",
+        @"SLC flash",@"Single Mode Fiber",@"Single Point of Failure",@"SPOF",@"Single Root I/O Virtualization",@"SR-IOV",@"Single Sign On",
+        @"Single Sign-On",@"SSO",@"Single Stream 802.11n",@"Single System Image",@"Single Unique User",@"Single UNIX Specification",
+        @"Single-Carrier Radio Transmission Technology",@"Single-Electron Memory",@"SEM",@"Single-Factor Authentication",@"SFA",@"single-image random-dot stereogram",
+        @"SIRDS",@"Single-Serving Site",@"Single-Sourcing",@"Single-System Image",@"SSI",@"Single-Tenancy",@"Singlet - Words that should be in the dictionary",
+        @"Singleton",@"Singularity",@"SIP",@"SIP Authentication",@"SIP for Instant Messaging and Presence Leveraging Extensions",@"SIP trunking",
+        @"Session Initiation Protocol trunking",@"SIPOC diagram",@"suppliers,input,process,output,customers",@"SIRDS",@"Siri",@"SISO",
+        @"Single Input, Single Output",@"site",@"Site Map",@"Site Scraper",@"Sitelet",@"SiteSweeper",@"Situation Normal All Fucked Up",
+        @"Six Degrees of Separation",@"Six Sigma",@"Six Thinking Hats Retrospective",@"SKA",@"skeuomorphism",@"Skewness",@"SKIL Bill",
+        @"Securing Knowledge,Innovation and Leadership Act",@"skill based routing",@"SBR",@"skin",@"Skin effect",@"Skinny Client Control Protocol",
+        @"SCCP",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
