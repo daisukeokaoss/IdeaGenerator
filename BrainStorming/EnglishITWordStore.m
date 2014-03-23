@@ -2598,7 +2598,24 @@
         @"Single Input, Single Output",@"site",@"Site Map",@"Site Scraper",@"Sitelet",@"SiteSweeper",@"Situation Normal All Fucked Up",
         @"Six Degrees of Separation",@"Six Sigma",@"Six Thinking Hats Retrospective",@"SKA",@"skeuomorphism",@"Skewness",@"SKIL Bill",
         @"Securing Knowledge,Innovation and Leadership Act",@"skill based routing",@"SBR",@"skin",@"Skin effect",@"Skinny Client Control Protocol",
-        @"SCCP",];
+        @"SCCP",@"skinny Linux",@"Austrumi Linux",@"SKU",@"Stockkeeping unit",@"Skunk Works",@"Skunkworks",@"Skyzzy",@"Skype",@"SkypeOut",@"Skyscraper",
+        @"SLA",@"Slackware",@"slag code",@"slamming",@"SlapOS",@"Slashdot",@"Slashdot Effect",@"Slave",@"SLC flash",@"SLD",@"Sleep mode",@"Slice and Dice",
+        @"sliding windows",@"Windowing",@"Slingbox",@"SLIP",@"slivercasting",@"narrocasting",@"Slot",@"expansion slot",@"Slot 1",@"Slot time",
+        @"Slot Scan Television",@"Slow-Scan television",@"SSTV",@"slowness movement",@"SLP",@"slurping",@"small and medium sized business",
+        @"small and medium-size business",@"Small and Midsized Business",@"Small Business Extensible Markup Language",@"Small Businness Innovation Research contact",
+        @"Small Computer System Interface",@"SCSI",@"Small Disadvantaged Business",@"SDB",@"Small form factor",@"SFF",@"Small form factor pluggable",
+        @"Small form-factor pluggable",@"SFP",@"Small Medium Business",@"Small Midsize Business",@"Small Office/Home Office",@"SOHO",@"Small Particle Reagent",
+        @"small to medium enterprise",@"SME",@"small-unit metric system",@"Small World",@"Small World Problem",@"Centimeter-gram-second",@"Smalltalk",
+        @"SMART",@"SMART goals",@"Smart antenna",@"Smart Appliance",@"smart building",@"Smart card",@"Smart Display",@"Smartdust",@"Smart-Frame",
+        @"Smart grid",@"Smart Grid Glossary",@"Smart Grid Sensor",@"Smart Grid Technology Overview",@"Smart Home",@"Smart home or building",
+        @"Smart label",@"smart matter",@"Smart meter",@"smart meter hack",@"Smart Paging",@"Smart Phone",@"Smart Process Applications",@"Smart Process Apps",
+        @"Smart Radio",@"Smart tag",@"Smart Tags",@"Smart TV",@"Smart Watch",@"smart wristwatch",@"SmartBoard",@"SmartDownload",@"SmartMedia",
+        @"SmartMedia card",@"Smartphone",@"SMB",@"small and medium-sized business",@"SMB 3.0",@"Server Message Block 3.0",@"SMB protocol",
+        @"Subclient",@"SMBXML",@"Small Business Extensible Markup Language",@"SMDS",@"Switched Multimegabit Data Service",@"SME",@"SMF",
+        @"Standard MIDI File",@"SMI-S",@"Storage Management Initiative Specification",@"SMIL",@"Synchronized Multimedia Integration Language",
+        @"smiley",@"SMIME",@"SMiShing",@"SMS phishing",@"SMM",@"Smoke testing",@"SMP",@"symmetric multiprocessing",@"SMPTE",@"Society of Motion Picture and Television Engineers",
+        @"SMR",@"SMS",@"sms",@"SMS Gateway",@"SMS Phishing",@"SMS spam",@"cell phone spam",@"Short message sending",@"SMSC",@"SMTP",@"Simple Mail Transfer Protocol",
+        @"Smurf",@"Smurf Attack",@"Smurfing",@"SNA",@"SNAFU",@"situation normal,all f***ed up",@"Snail mail",@"Snake Oil",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
