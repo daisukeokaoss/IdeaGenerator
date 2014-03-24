@@ -2615,7 +2615,18 @@
         @"Standard MIDI File",@"SMI-S",@"Storage Management Initiative Specification",@"SMIL",@"Synchronized Multimedia Integration Language",
         @"smiley",@"SMIME",@"SMiShing",@"SMS phishing",@"SMM",@"Smoke testing",@"SMP",@"symmetric multiprocessing",@"SMPTE",@"Society of Motion Picture and Television Engineers",
         @"SMR",@"SMS",@"sms",@"SMS Gateway",@"SMS Phishing",@"SMS spam",@"cell phone spam",@"Short message sending",@"SMSC",@"SMTP",@"Simple Mail Transfer Protocol",
-        @"Smurf",@"Smurf Attack",@"Smurfing",@"SNA",@"SNAFU",@"situation normal,all f***ed up",@"Snail mail",@"Snake Oil",];
+        @"Smurf",@"Smurf Attack",@"Smurfing",@"SNA",@"SNAFU",@"situation normal,all f***ed up",@"Snail mail",@"Snake Oil",@"snap-in",@"Snapchat",@"SnapLogic",
+        @"Snarf Attack",@"Sneakernet",@"SNG",@"SNIA Solid State Storage Initiative",@"SSSI",@"sniff subrating",@"Sniffer",@"Sniffer Keystroke Logger",@"Sniglet",
+        @"sniper-sniffing robot",@"SNMP",@"SNOMED CT",@"snoop server",@"snooping",@"snoopware",@"Snort",@"SnortSnarf",@"Snowflake schema",@"Snowflaking",
+        @"Snowflake schema",@"SNR",@"SOA",@"SOA governance",@"SOA networking",@"SOA Record",@"SOA registry",@"SOA repository",@"SOAP",
+        @"Simple Object Access Protocol",@"SOAP Fault",@"Soap Opera Effect",@"motion interpolation",@"sobriety cell phone",@"SOC",@"SoC",
+        @"Soc 1",@"Service Organization Control 1",@"SOC 2",@"Service Organization Control 2",@"SOC 3",@"Service Organization Control 3",@"SoC Test",
+        @"SoC testing",@"system-on-a-chip testing",@"SOCA",@"Social Bookmarking",@"Social BPM",@"Business Process Management",@"Social Business Process Management",
+        @"Social Coding",@"Social Collaboration",@"Social Computing",@"Social CRM",@"Social Curation",@"Social Engineering",@"Social Entrepreneur",
+        @"Social graph",@"Social Media",@"Social Media Analytics",@"Social Media Cheat Sheet",@"Social Media Influence",@"Social Media Listening",
+        @"Social Media Management Software",@"SMMS",@"Social Media Manager",@"Social Media Marketing",@"SMM",@"Social Media Policy",@"Social Network",
+        @"Social Networking",@"Social Recruiting",@"Social Search",@"social search engine",@"Social shopping",@"Social Sourcing",@"social spreadsheet",
+        @"Social Task Management",@"socialbot",@"Socialcast",@"Society for the Worldwide Interbank Financial Telecommunication",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
