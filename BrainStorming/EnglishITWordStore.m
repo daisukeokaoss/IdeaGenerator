@@ -2626,7 +2626,13 @@
         @"Social graph",@"Social Media",@"Social Media Analytics",@"Social Media Cheat Sheet",@"Social Media Influence",@"Social Media Listening",
         @"Social Media Management Software",@"SMMS",@"Social Media Manager",@"Social Media Marketing",@"SMM",@"Social Media Policy",@"Social Network",
         @"Social Networking",@"Social Recruiting",@"Social Search",@"social search engine",@"Social shopping",@"Social Sourcing",@"social spreadsheet",
-        @"Social Task Management",@"socialbot",@"Socialcast",@"Society for the Worldwide Interbank Financial Telecommunication",];
+        @"Social Task Management",@"socialbot",@"Socialcast",@"Society for the Worldwide Interbank Financial Telecommunication",
+        @"Society of Heating , Refrigerating, and Air Conditioning",@"Society of Motion Picture and Television Engineers",@"sock puppet",
+        @"Sock Puppet Marketing",@"Socket 370",@"Socket 7",@"Sockets",@"socks",@"Soft Bounce",@"Soft Copy",@"Soft Handoff",@"soft keyboard",@"Onscreen Keyboard",
+        @"software keyboard",@"Softphone",@"soft reset",@"Soft skills",@"Soft Zoning",@"softcooling",@"Software Cooling",@"softcopy",@"softlifting",
+        @"Softphone",@"soft client telephone",@"SoftSwitch",@"Software",@"software agent",@"Software as a Service",@"Software as a Service",@"SaaS",
+        @"Software as a Service BI",@"SaaS BI",@"software as a service ERP hosting",@"Software bug",@"software clustering",@"software cooling",
+        @"Software-Defined Radio",@"Software Developer's Kit",@"SDK",@"Software Development Life Cycle",@"Software Engineering Institute",@"SEI",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
