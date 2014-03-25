@@ -2649,7 +2649,13 @@
         @"SPAC",@"space",@"spacer GIF",@"spaghetti code",@"spaghetti diagram",@"spam",@"Spam blog",@"Spam Cocktail",@"anti-spam cocktail",
         @"Spam Confidence Level",@"SCL",@"Spam Filter",@"spam for life",@"S4L",@"Spam Kit",@"Spam over Internet Telephony",@"spam ping",
         @"spam trap",@"spamblock",@"Spambot",@"Spamdexing",@"Spamhaus",@"Spamhaus Project",@"Spanning Tree Protocol",@"STP",@"SPARC",
-        @"Scalable Processor Architecture",@"SPARC",@"Sparkle",@"Sparkline",@"Sparsity and Density",@"Spatial Data",@"spatial division multiple access",];
+        @"Scalable Processor Architecture",@"SPARC",@"Sparkle",@"Sparkline",@"Sparsity and Density",@"Spatial Data",@"spatial division multiple access",
+        @"SDMA",@"SPD",@"SPDIF",@"Spear Phishing",@"spearphishing",@"SPEC",@"Special Effects",@"Special Interest Group",@"Special Interest Groups",
+        @"Special Purpose Acquisition Company",@"SPAC",@"Cloud Computing",@"Specialized Mobile Radio",@"SMR",@"Specific Biometric Techniques",
+        @"Specific Gravity",@"Specific Volume",@"Specification and Description Language",@"Specification of a sequence of flow objects",@"Spectrum",
+        @"Spectrum Analyzer",@"Spectrum Efficiency",@"speculation",@"Speculative Loading",@"speech analytics",@"Speech Application Programming Interface",
+        @"SAPI",@"Speech Recognition",@"Speech Synthesis",@"Speed of Gravity",@"Speed of Light",@"Speed of Sound",@"Spend analysis",@"Spend management",
+        @"SPF",@"SPI",@"SPI model",@"SaaS",@"PaaS",@"IaaS",@"SPICE",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
