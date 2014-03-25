@@ -2632,7 +2632,24 @@
         @"software keyboard",@"Softphone",@"soft reset",@"Soft skills",@"Soft Zoning",@"softcooling",@"Software Cooling",@"softcopy",@"softlifting",
         @"Softphone",@"soft client telephone",@"SoftSwitch",@"Software",@"software agent",@"Software as a Service",@"Software as a Service",@"SaaS",
         @"Software as a Service BI",@"SaaS BI",@"software as a service ERP hosting",@"Software bug",@"software clustering",@"software cooling",
-        @"Software-Defined Radio",@"Software Developer's Kit",@"SDK",@"Software Development Life Cycle",@"Software Engineering Institute",@"SEI",];
+        @"Software-Defined Radio",@"Software Developer's Kit",@"SDK",@"Software Development Life Cycle",@"Software Engineering Institute",@"SEI",
+        @"software keyboard",@"Software license",@"Software package",@"software piracy",@"Software Process Improvement and Capability Determination",
+        @"Software Requirement Specification",@"SRS",@"Software Security",@"Software Telephone",@"Software Testing",@"Software Update Services",
+        @"software-as-a-service ERP hosting",@"Software-Defined Data Center",@"SDDC",@"Software-Defined Networking",@"SDN",@"Software-Defined Networking Monitoring Application",
+        @"Software-Defined Radio",@"SDR",@"Software-defined storage",@"SOHO",@"SOI",@"solar fade",@"Sun Interference",@"Solar power",@"solar-powered laptop",
+        @"Solaris",@"SOLED",@"Stacked Organic Light-Emitting Device",@"Solenoid",@"Solid",@"solid angular measure",@"solid oxide fuel cell",@"SOFC",
+        @"Solid state drive",@"solid state drive capacity",@"solid state drive RAID",@"solid state drive purge",@"Solid state lighting",@"Solid State Module",
+        @"SSM",@"solid state storage garbage collection",@"solid state storage auto-tiering",@"Solid State Storage Performance Test Specification",
+        @"solid state storage technologies comparison",@"Solid-state",@"Solid-state drive",@"SSD",@"Solid-State Lighting",@"SSL",@"Solid-State Storage",
+        @"solid-state storage UBER",@"solid state disk",@"Soliton",@"SoLoMo",@"social,local and mobile",@"Solution",@"Solution Provider",
+        @"Solution Stack",@"SOM",@"SoMoClo",@"Social, mobile and cloud",@"Sonar",@"sound navigation and ranging",@"SONET",@"Sony/Philips Digital Interface",
+        @"S/PDIF",@"SOP",@"SOPA and PIPA",@"SOS",@"sosofa",@"Sound Beam",@"Sound card",@"sound designer 2",@"Sound Designer II",@"Sound navigation and ranging",
+        @"Sound Wave",@"Source code",@"Source Code Analysis",@"Source Data",@"source deduplication",@"source quench",@"Source Quench Introduced Delay",
+        @"SQuID",@"Source Route Transparent bridging",@"Southbridge",@"SOW",@"SOX",@"SOX Section 404",@"Sarbanes-Oxley Act Section 404",@"SP",
+        @"SPAC",@"space",@"spacer GIF",@"spaghetti code",@"spaghetti diagram",@"spam",@"Spam blog",@"Spam Cocktail",@"anti-spam cocktail",
+        @"Spam Confidence Level",@"SCL",@"Spam Filter",@"spam for life",@"S4L",@"Spam Kit",@"Spam over Internet Telephony",@"spam ping",
+        @"spam trap",@"spamblock",@"Spambot",@"Spamdexing",@"Spamhaus",@"Spamhaus Project",@"Spanning Tree Protocol",@"STP",@"SPARC",
+        @"Scalable Processor Architecture",@"SPARC",@"Sparkle",@"Sparkline",@"Sparsity and Density",@"Spatial Data",@"spatial division multiple access",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
