@@ -2655,7 +2655,12 @@
         @"Specific Gravity",@"Specific Volume",@"Specification and Description Language",@"Specification of a sequence of flow objects",@"Spectrum",
         @"Spectrum Analyzer",@"Spectrum Efficiency",@"speculation",@"Speculative Loading",@"speech analytics",@"Speech Application Programming Interface",
         @"SAPI",@"Speech Recognition",@"Speech Synthesis",@"Speed of Gravity",@"Speed of Light",@"Speed of Sound",@"Spend analysis",@"Spend management",
-        @"SPF",@"SPI",@"SPI model",@"SaaS",@"PaaS",@"IaaS",@"SPICE",];
+        @"SPF",@"SPI",@"SPI model",@"SaaS",@"PaaS",@"IaaS",@"SPICE",@"SPID",@"Service Profile Identifier",@"spider",@"SPIF",@"Sales Performance Incentive Fund",
+        @"spike",@"spim",@"Instant Messaging Spam",@"spin",@"sping",@"spam ping",@"spintronics",@"Spiral lifecycle model",@"spiral model",@"spiral lifecycle model",
+        @"SPIT",@"Spam Over Internet Telephony",@"Splash Ad",@"Splash Page",@"splash screen",@"Splashtop",@"Splay tree",@"spline",@"split",@"split",
+        @"Split-brain syndrome",@"split horizon",@"split-mirror snaphot",@"SplitRX Mode",@"splitter",@"splitterless",@"splog",@"Spam blog",@"splogger",@"SPML",
+        @"Services Provisioning Markup Language",@"spod",@"SPOF",@"Spoken Text Markup Language",@"STML",@"spoliation",@"spontaneous area network",
+        @"spoof",@"spoofing",@"spool",@"Simultaneous Peripheral Operations Online",@"SPR",@"spread spectrum",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
