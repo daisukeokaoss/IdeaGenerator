@@ -2660,7 +2660,21 @@
         @"SPIT",@"Spam Over Internet Telephony",@"Splash Ad",@"Splash Page",@"splash screen",@"Splashtop",@"Splay tree",@"spline",@"split",@"split",
         @"Split-brain syndrome",@"split horizon",@"split-mirror snaphot",@"SplitRX Mode",@"splitter",@"splitterless",@"splog",@"Spam blog",@"splogger",@"SPML",
         @"Services Provisioning Markup Language",@"spod",@"SPOF",@"Spoken Text Markup Language",@"STML",@"spoliation",@"spontaneous area network",
-        @"spoof",@"spoofing",@"spool",@"Simultaneous Peripheral Operations Online",@"SPR",@"spread spectrum",];
+        @"spoof",@"spoofing",@"spool",@"Simultaneous Peripheral Operations Online",@"SPR",@"spread spectrum",@"spreadmart",@"spreadsheet data mart",
+        @"Spreadsheet Controls",@"sprint",@"sprite",@"SPX",@"Spybot",@"spyware",@"SQL",@"Structured Query Language",@"SQL Azure",@"SQL Injection",
+        @"SQL Server",@"SQL Server 2012",@"SQL-Ledger",@"SQLJ",@"SQLJ Java",@"SQPSK",@"Square",@"Square Register",@"Square Wallet",@"square foot",
+        @"square meter",@"meter squared",@"Square Root Symbol",@"Squeak",@"SQUID",@"Squid Proxy Server",@"SRAM",@"Static Random Access Memory",@"SRE",
+        @"SRI International",@"SRI",@"SRM",@"SRS",@"SRT bridging",@"SRTP",@"Secure Real-Time Transport Protocol",@"SS7",@"SSA",@"SSADM",
+        @"Structured Systems Analysis & Design Method",@"SSAE 16",@"ssd",@"SSD",@"SSD capacity",@"SSD Form Factor",@"SSD overprovisioning",@"SSD purge",
+        @"solid state drive purge",@"SSD RAID",@"SSH",@"SSH Charter",@"SSI",@"SSI injection",@"SSID",@"SSL",@"SSL card",@"SSL Checker",@"secure socket layer checker",
+        @"SSL VPN",@"Secure Sockets Layer virtual private network",@"SSM",@"SSO",@"SSP",@"SSS",@"SSS garbage collection",@"SSS PTS",@"SSSI",@"SST",
+        @"SST virus",@"SSTV",@"Stack",@"Stack Overflow",@"stack pointer",@"stack smashing",@"stackable hub",@"stacked organic light emitting device",
+        @"stacked ranking",@"stackloader",@"Staggered quadrature phase shift keying",@"stale data",@"stamped e-mail",@"Stamped Email",
+        @"stamped multisession CD standard",@"stand alone solid state storage",@"stand up",@"stand-alone solid state storage",@"SSS",@"Stand-up",
+        @"standalone dump",@"standard definition television",@"SDTV",@"Standard Generalized Markup Language",@"Standard Industrial Classification Code",
+        @"Standard MIDI File",@"SMF",@"Standard Performance Evaluation Corporation",@"SPEC",@"Standard Temperature and Pressure",@"STP",@"Standardization",
+        @"Standards organization",@"Standby",@"Standby Power",@"standing-wave ratio",@"SWR",@"VWSR",@"IWSA",@"Stanford Bunny",@"Stanford Bunny: Linear elastic model",
+        @"Stanford Bunny:Neohookean Elastic Model",@"STAR",@"Star network",@"Star processor",@"Star schema",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
