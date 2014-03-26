@@ -2674,7 +2674,8 @@
         @"standalone dump",@"standard definition television",@"SDTV",@"Standard Generalized Markup Language",@"Standard Industrial Classification Code",
         @"Standard MIDI File",@"SMF",@"Standard Performance Evaluation Corporation",@"SPEC",@"Standard Temperature and Pressure",@"STP",@"Standardization",
         @"Standards organization",@"Standby",@"Standby Power",@"standing-wave ratio",@"SWR",@"VWSR",@"IWSA",@"Stanford Bunny",@"Stanford Bunny: Linear elastic model",
-        @"Stanford Bunny:Neohookean Elastic Model",@"STAR",@"Star network",@"Star processor",@"Star schema",];
+        @"Stanford Bunny:Neohookean Elastic Model",@"STAR",@"Star network",@"Star processor",@"Star schema",@"StarBand",@"StarOffice",
+        @"start of authority record",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
