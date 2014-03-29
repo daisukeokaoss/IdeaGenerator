@@ -2711,7 +2711,14 @@
         @"Supply Chain Visibility",@"SCV",@"Support",@"Support Level",@"Surd",@"Surf",@"Surface",@"Microsoft Surface Tablet",@"surface conduction electron emitter display",
         @"Surface printing",@"Surface-conduction electron-emitter display",@"Surge protector",@"Surge Suppressor",@"Surge protector",@"Susceptance",
         @"SuSE",@"Suspicious Activity Report",@"SAR",@"Sustainability Risk Management",@"SRM",@"Sustaining Technology",@"SVC",@"SVG",@"SVGA",@"SVVP",
-        @"Server Virtualization Validation Program",];
+        @"Server Virtualization Validation Program",@"SWAG",@"swamp cooling",@"SWAN",@"State Wide Area Network",@"Structured Wireless-Aware Network",
+        @"swap file",@"swap space",@"pagefile",@"Swap Space",@"SWIFT",@"Society for the Worldwide Interbank Financial Telecommunication",
+        @"SWIFT FIN message",@"Swing",@"swirl",@"SWiSH",@"switch",@"switch-on-a-chip",@"SOC",@"Switched Multimegabit Data Service",@"Switched Virtual Circuit",
+        @"SVC",@"switching fabric",@"SWOT analysis",@"Strength,Weaknesses ,Opportunities and Threats analysis",@"SWR",@"Sybase",@"Symantec Backup Exec",
+        @"Symantec NetBackup",@"Symantec PartnerNet",@"Symantec.cloud Service Provider Program",@"Symbology",@"symetric key",@"Symmetric Algorithm",
+        @"Symmetric Communication",@"Symmetric Multi-Processing",@"Symmetric Multi Processing",@"Symmetric multiprocessing",@"SYN flooding",
+        @"SYN scanning",@"sync-and-stabilize",@"sync-and-stabilize",@"SynchBurst SRAM",@"SynchML",@"synchronicity",@"synchronize-and-stabilize",
+        @"sync-and-stabilize",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
