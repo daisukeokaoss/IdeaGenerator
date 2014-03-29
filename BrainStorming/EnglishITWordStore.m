@@ -2698,7 +2698,20 @@
         @"Streaming Media Receiver",@"Streaming Sound",@"Streaming Video",@"Streamlined Sales Tax",@"Stress Testing",@"Stretchable Silicon",
         @"String",@"String theory",@"Strobe",@"Strong Password",@"Strongly-typed",@"Structured Graph Format",@"SGF",@"Structured programming",
         @"Modular Programming",@"Structured Query Language",@"Structured Systems Analysis & Design Method",@"Structured Wireless Aware Network",
-        @"Structured Wireless-Aware Network",];
+        @"Structured Wireless-Aware Network",@"Strunk's rules",@"stub",@"Stuff I've Seen",@"STUN",@"Simple Traversal of UDP through NAT",@"Stuxnet",
+        @"style sheet",@"Stylus",@"sub-release",@"subcarrier",@"subcontract",@"subnet",@"subnetworking",@"subnet mask",@"Subnetwork",@"subpoena",
+        @"subscriber identity module",@"subset symbol",@"subsidiary",@"substrate",@"Subversion",@"SuccessFactors",@"Succession planning",@"sudo",
+        @"superuser do",@"suffix",@"Suger",@"suite",@"sum",@"summation",@"Sun",@"Sun Interference",@"Sun Microsystems",@"Sun ONE",@"Sun Open Net Environment",
+        @"sunk cost",@"SC",@"sunk cost effect",@"SunOS",@"sunsetting",@"Super Audio CD",@"SACD",@"Super DMCA",@"Super Video",@"Supercomputer",
+        @"Supercomputer Center",@"Superconducting Quantum Interference Device",@"Superconductivity",@"Superconductor",@"SuperDLT",@"Superdome",
+        @"Superheterodyne",@"Supernet",@"Supernetting",@"Classless Inter-Domain Routing",@"Superposition",@"Superscalar",@"SuperSpeed USB",
+        @"superstitial",@"Superstring theory",@"Superuser",@"superuser do",@"Supervisor Call",@"SVC",@"Supervisory Control And Data Acquisition",
+        @"SuperZap",@"Supplier Exchange",@"Supplier Relationship Management",@"SRM",@"Supply Chain",@"SC",@"Supply Chain Execution",@"SCE",
+        @"Supply Chain Management",@"SCM",@"Supply Chain Operations Reference",@"SCOR",@"Supply Chain Planning",@"SCP",@"Supply Chain Sustainability",
+        @"Supply Chain Visibility",@"SCV",@"Support",@"Support Level",@"Surd",@"Surf",@"Surface",@"Microsoft Surface Tablet",@"surface conduction electron emitter display",
+        @"Surface printing",@"Surface-conduction electron-emitter display",@"Surge protector",@"Surge Suppressor",@"Surge protector",@"Susceptance",
+        @"SuSE",@"Suspicious Activity Report",@"SAR",@"Sustainability Risk Management",@"SRM",@"Sustaining Technology",@"SVC",@"SVG",@"SVGA",@"SVVP",
+        @"Server Virtualization Validation Program",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
