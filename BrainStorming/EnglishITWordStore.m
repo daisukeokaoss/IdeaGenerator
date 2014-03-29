@@ -2675,7 +2675,30 @@
         @"Standard MIDI File",@"SMF",@"Standard Performance Evaluation Corporation",@"SPEC",@"Standard Temperature and Pressure",@"STP",@"Standardization",
         @"Standards organization",@"Standby",@"Standby Power",@"standing-wave ratio",@"SWR",@"VWSR",@"IWSA",@"Stanford Bunny",@"Stanford Bunny: Linear elastic model",
         @"Stanford Bunny:Neohookean Elastic Model",@"STAR",@"Star network",@"Star processor",@"Star schema",@"StarBand",@"StarOffice",
-        @"start of authority record",];
+        @"start of authority record",@"startup",@"Stash hunt",@"Stat W",@"statA",@"statampere",@"A-esu",@"statC",@"Statcoulomb",@"statC",@"State Bank of India",
+        @"SBI",@"State Diagram",@"State Machine Diagram",@"State Wide Area Network",@"Statechart Diagram",@"stateful inspection",@"Stateless",@"Stateless App",
+        @"Statement of Work",@"SOW",@"Statement on Auditing Standards 70",@"Statement on Auditing Standards No. 70",@"statF",@"Statfarad",@"statH",
+        @"Stathenry",@"Static",@"Static Analysis",@"Static Code Analysis",@"Static IP Address",@"Dynamic IP Address",@"static jitter buffer",
+        @"Static Random Access Memory",@"Static Scoping",@"Static Testing",@"Static Verification",@"Statistical Analysis",@"statistical mean",
+        @"Statistical Mean,Median,Mode, and Range",@"Statistical Time Division Multiplexing",@"statohm",@"stat W",@"statS",@"statsiemens",@"Status Code",
+        @"statutory reporting",@"statV",@"statvolt",@"statW",@"statwatt",@"STDM",@"statistical time division multiplexing",@"Steady State",@"stealth",@"stealth virus",
+        @"Steering committee",@"Stefan-Boltzmann constant",@"Steganographic",@"Steganography",@"STEM",@"Science,Technology,Engineering and Mathematics",
+        @"Stepless Frequency Control",@"SFS",@"Stepper",@"Stepper Motor",@"Stepping",@"Steradian",@"Stereolithography",@"Stereoscopic Imaging",@"Stereoscopy",
+        @"Stereoscopic Imaging",@"Stickiness",@"STM",@"STML",@"Stochastic",@"Stochastic optimization",@"stock keeping unit",@"STONITH",
+        @"Shoot The Other Node In The Head",@"Stop List",@"Stop Online Piracy Act(SOPA)",@"PIPA",@"stop word",@"Stop Words",@"Storage",
+        @"Storage Area Management",@"SAM",@"Storage Area Network",@"SAN",@"Storage as a Service",@"SaaS",@"Storage at the Edge",@"Storage Capacity Planning",
+        @"Storage Card",@"Storage Consolidation",@"Storage Container",@"Storage Convergence",@"Storage Distance Extension",
+        @"Storage Distributed Resource Scheduler",@"DRS",@"Storage Encryption",@"Storage Filter",@"Storage Hypervisor",@"Storage Learning Guides",
+        @"Storage Management",@"Storage Management Initiative Specification",@"Storage Media",@"storage medium",@"storage network",
+        @"Storage Networking Industry Association",@"storage provisioning",@"Storage Replication Service",@"Storage Resource Management",@"SRM",
+        @"Storage Robot",@"Storage Security",@"Storage Service Provider",@"SSP",@"Storage Snapshot",@"Storage Stack",@"Storage Tunneling",@"storage utilization",
+        @"Storage Virtualization",@"Storage vMotion",@"storage zoning",@"story",@"story point",@"story points",@"Storyboard",@"Stove-Piped Development",
+        @"STP",@"Strange Matter",@"Strategic Management",@"Strategic Planning",@"Strategic Sourcing",@"Stratellite",@"Straw Man",@"Stream Cipher",
+        @"Stream Control Transmission Protocol",@"Stream Recorder",@"Stream Ripper",@"Streaming",@"streaming application",@"Streaming Media",
+        @"Streaming Media Receiver",@"Streaming Sound",@"Streaming Video",@"Streamlined Sales Tax",@"Stress Testing",@"Stretchable Silicon",
+        @"String",@"String theory",@"Strobe",@"Strong Password",@"Strongly-typed",@"Structured Graph Format",@"SGF",@"Structured programming",
+        @"Modular Programming",@"Structured Query Language",@"Structured Systems Analysis & Design Method",@"Structured Wireless Aware Network",
+        @"Structured Wireless-Aware Network",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
