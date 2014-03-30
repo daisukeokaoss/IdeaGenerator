@@ -2726,8 +2726,17 @@
         @"System Performance Evaluation Cooperative",@"System Restore",@"System software",@"System tray",@"System V",@"System 5",@"System-on-a-Chip",
         @"SoC",@"System-on-a-chip testing",@"Systematized Nomenclature of Medicine",@"System administrator",@"Systems Application Architecture",
         @"Systems Development Life Cycle",@"SDLC",@"Systems Development Life Cycle Model",@"Systems Development Lifecycle",@"System Integrator",@"SI",
-        @"System Management",@"Systems Network Architecture",];
+        @"System Management",@"Systems Network Architecture",@"SNA",@"Systems thinking",@"Systems,Application and Products in Data Processing"];
     [ITWordStore addObjectsFromArray:SWord];
+    NSArray *TWord = @[@"TCAM",@"Tenary Content-Addressable Memory",@"T",@"T 1",@"T interface",@"T Model",@"T Rex",@"T SQL",@"T-1",@"T-carrier system",
+        @"T-Rex",@"T-SQL",@"Transact-SQL",@"T1",@"T-1",@"T3",@"T9",@"TA",@"TaaS",@"tabbed browsing",@"Tabbed Document Interface",@"Table",
+        @"Table of Physical Constants",@"Table of Physical Units",@"Table Space",@"tablespace",@"tablet",@"Tablet computer",@"tablet PC",@"TACACS",
+        @"Terminal Access Controller Access Control System",@"TACACS+",@"tag",@"Tag Image File Format",@"tagging",@"tags",@"take off",@"talent management software",
+        @"TM Software",@"talent pipeline",@"Taleo",@"talk time",@"talkback",@"talker",@"Talking Translator",@"Talking Trojan",@"Tamagotchi",
+        @"tap",@"tape",@"Tape ARchive",@"Tape Backup",@"Tape drive",@"tape library",@"TAPI",@"Telephony Application Program Interface",@"tar",
+        @"Tape ARchive",@"tar archive",@"tarball",@"Tarchitecture",@"Target Deduplication",@"targeted attack",@"Tarpitting",@"task",@"task bar",
+        @"taskbar",@"Tata Consultancy Services",];
+    [ITWordStore addObjectsFromArray:TWord];
     
     
     return ITWordStore;
