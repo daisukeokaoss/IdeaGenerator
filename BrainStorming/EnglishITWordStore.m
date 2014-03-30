@@ -2718,7 +2718,15 @@
         @"Symantec NetBackup",@"Symantec PartnerNet",@"Symantec.cloud Service Provider Program",@"Symbology",@"symetric key",@"Symmetric Algorithm",
         @"Symmetric Communication",@"Symmetric Multi-Processing",@"Symmetric Multi Processing",@"Symmetric multiprocessing",@"SYN flooding",
         @"SYN scanning",@"sync-and-stabilize",@"sync-and-stabilize",@"SynchBurst SRAM",@"SynchML",@"synchronicity",@"synchronize-and-stabilize",
-        @"sync-and-stabilize",];
+        @"sync-and-stabilize",@"Synchronized Multimedia Integration Language",@"synchronous",@"Synchronous Data Link Control",@"Synchronous Digital Hierarchy",
+        @"synchronous DRAM",@"Synchronous Graphics RAM",@"Synchronous Graphics RAM",@"SGRAM",@"Synchronous Groupware",@"Synchronous Optical Network",
+        @"SONET",@"Synchronous Replication",@"SyncLink",@"Synclink Dynamic RAM",@"syndication",@"Synergy",@"syntax",@"synthetic backup",@"Synthetic Identity Theft",
+        @"sysadmin",@"Sysop",@"Sysplex",@"sysplex and Parallel Sysplex",@"system",@"System 5",@"System administrator",@"System Checkpoint",@"System Monitor",
+        @"System of record",@"SOR",@"System of Systems",@"SoS",@"System-on-a-chip",@"system-on-a-chip testing",@"system operator",@"SysOp",
+        @"System Performance Evaluation Cooperative",@"System Restore",@"System software",@"System tray",@"System V",@"System 5",@"System-on-a-Chip",
+        @"SoC",@"System-on-a-chip testing",@"Systematized Nomenclature of Medicine",@"System administrator",@"Systems Application Architecture",
+        @"Systems Development Life Cycle",@"SDLC",@"Systems Development Life Cycle Model",@"Systems Development Lifecycle",@"System Integrator",@"SI",
+        @"System Management",@"Systems Network Architecture",];
     [ITWordStore addObjectsFromArray:SWord];
     
     
