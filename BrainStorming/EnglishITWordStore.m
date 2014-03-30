@@ -2735,7 +2735,20 @@
         @"TM Software",@"talent pipeline",@"Taleo",@"talk time",@"talkback",@"talker",@"Talking Translator",@"Talking Trojan",@"Tamagotchi",
         @"tap",@"tape",@"Tape ARchive",@"Tape Backup",@"Tape drive",@"tape library",@"TAPI",@"Telephony Application Program Interface",@"tar",
         @"Tape ARchive",@"tar archive",@"tarball",@"Tarchitecture",@"Target Deduplication",@"targeted attack",@"Tarpitting",@"task",@"task bar",
-        @"taskbar",@"Tata Consultancy Services",];
+        @"taskbar",@"Tata Consultancy Services",@"TCS",@"taxonomy",@"Taxpayer Identification Number",@"TB",@"TCB",@"TCG",@"Tcl",@"Tcl Tk",@"Tcl/Tk",
+        @"Tool Command Language",@"TCO",@"Total Cost of Ownership",@"TCP",@"Transmission Control Protocol",@"TCP IP",@"TCP offload engine",
+        @"TCP port number",@"TCP session hijacking",@"TCP Wrapper",@"TCP/IP",@"Transmission Control Protocol/Internet Protocol",@"TCP/IP accelerator network interface card",
+        @"TCP/IP offload engine",@"TOE",@"tcpdump",@"TCPIP",@"TCPMAN",@"TCPView",@"TD SCDMA",@"TD-SCDMA",@"TDD",@"TDI",@"TDL-4",@"TDSS",@"Alureon",
+        @"TDM",@"TDMA",@"Time Division Multiple Access",@"TDSS",@"teach box",@"team based approach",@"Team Collaboration",@"Team-Based Approach",@"tebi",
+        @"Tech Secondary Market",@"Tech Support Phone Scam",@"Technical debt",@"Technical Office Protocol",@"TOP",@"techno-fiend",@"Technobabble",
+        @"TechStat Accountability Sessions",@"TechTarget Featured Topics",@"TechTarget Porfolio of Web Sites",@"Ted Codd",@"teen buzz",@"Teergrube",
+        @"telco",@"Telephone company",@"Telecenter",@"telecentre",@"telechir",@"Telecine",@"telecom carrier",@"telecom cloud provider",
+        @"Telecom Regulatory Authority of India",@"TRAI",@"Telecommunication Standardization Sector",@"telecommunications",@"Telecommunications Act of 1996",
+        @"Telecommunications Display Device",@"TDD",@"Telecommunications Management Network",@"telecommute",@"telecommuter",@"telecommuting",@"teleconference",
+        @"teledactyl",@"telegram",@"Telegraph",@"Telehealth",@"Telematics",@"Telemedicine",@"Telemetrics",@"telemetry",@"teleoperation",@"Telerobotics",
+        @"telepathology",@"Telephone company",@"telephone jacks",@"Telephone Network Standards",@"Telephony",@"Telephony Application Program Interface",@"TAPI",
+        @"teleportation",@"telepresence",@"Telepresence Robot",@"telepresence room",@"Telerobotics",@"Telestroke",@"Telestroke services",
+        @"Teletraffic engineering",@"Teletypewriter",@"TTY",@"Television over IP",@"Telework",];
     [ITWordStore addObjectsFromArray:TWord];
     
     
