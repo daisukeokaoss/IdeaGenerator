@@ -2748,7 +2748,18 @@
         @"teledactyl",@"telegram",@"Telegraph",@"Telehealth",@"Telematics",@"Telemedicine",@"Telemetrics",@"telemetry",@"teleoperation",@"Telerobotics",
         @"telepathology",@"Telephone company",@"telephone jacks",@"Telephone Network Standards",@"Telephony",@"Telephony Application Program Interface",@"TAPI",
         @"teleportation",@"telepresence",@"Telepresence Robot",@"telepresence room",@"Telerobotics",@"Telestroke",@"Telestroke services",
-        @"Teletraffic engineering",@"Teletypewriter",@"TTY",@"Television over IP",@"Telework",];
+        @"Teletraffic engineering",@"Teletypewriter",@"TTY",@"Television over IP",@"Telework",@"Telnet",@"temperature",@"T",@"Standard Temperature and Pressure",
+        @"Tempest",@"Tempest Shielding",@"template",@"Temporal Key Integrity Protocol",@"Terabit",@"Terabyte",@"TB",@"teraflop",@"terahertz",
+        @"THz",@"Teraplex",@"Teraplex Integration Center",@"terbo",@"terminal",@"Terminal Access Controller Access Control System",@"Terminal Adapter",
+        @"TA",@"Terminal Emulation",@"Terminal Proxy Server",@"TPS",@"Terminal Server",@"Terminal Server Product",@"Terminal Services",
+        @"Terminate and Stay Resident",@"TSR",@"Terrestrial Trunked Radio",@"Tesla",@"Tessellation",@"Test Driven Development",@"Test-Driven Design",
+        @"Test-Driven Development",@"TDD",@"testing",@"Testing-as-a-Service",@"Testing as a Service",@"TaaS",@"Testing your Bandwidth",@"tethering",
+        @"TETRA",@"Terrestrial Trunked Radio",@"texel",@"texture element",@"text",@"text editor",@"Text messaging",@"Text mining",@"Text analysis",
+        @"Text on Nine Keys",@"T9",@"Text Online",@"text reader",@"text telephone",@"Text-to-Speech",@"Text to Speech",@"TTS",@"texting",@"Text messaging",
+        @"Wireless Messaging",@"texture element",@"Texture mapping",@"texture sensing",@"TFT",@"TFTP",@"TGT",@"thang",@"the",@"The Big Murkowski",
+        @"The Computer Fraud and Abuse Act",@"The Green Grid",@"The Hitchhiker's Guide to the Galaxy",@"the Indian Computer Emergency Response Team",
+        @"The Open Group",@"The Open Group Architecture Framework",@"TOGAF",@"The Real-Time Operating System Nucleus",@"The Remote Insight Board -- Lights Out Edition",
+        @"The Vault of Tech Terror",@"Theory of Constraints",];
     [ITWordStore addObjectsFromArray:TWord];
     
     
