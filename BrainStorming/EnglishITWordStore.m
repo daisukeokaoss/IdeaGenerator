@@ -2764,7 +2764,12 @@
         @"Thermoelectric cooling",@"Thermographic Printing",@"Thermography",@"Thick Client",@"Thick Provisioning Eager Zeroed",@"thick provision lazy zeroed",
         @"Thicknet",@"Thickwire",@"Thin client",@"Lean client",@"Thin-Film Transistor",@"Thin provisioning",@"TP",@"thin server",@"thin-film disk",
         @"Thin-film transistor",@"TFT",@"ThinApp AppLink",@"Thing",@"in The Internet of Things",@"thingbot",@"Thinnet",@"Thinwire",
-        @"third generation of mobile telephony",];
+        @"third generation of mobile telephony",@"third party logistics",@"Third Party Relay",@"Third-Party Logistics",@"thought recognition",
+        @"Thousands of Lines of Code",@"Thrashing",@"thread",@"thread-safe",@"Threat Management",@"Threat Modeling",@"three dimensions",
+        @"Three finger salute",@"Three Laws of Robotics",@"Isaac Asimov",@"three-dimensional",@"throttled data transfer",@"throughput",
+        @"thumb drive",@"ThumbDrive",@"Thumbing",@"thumbnail",@"Thunderbolt",@"thunk",@"Thyristor",@"THz",@"TIA",@"TIA-942",@"Tibco",@"TiBook",
+        @"TIC",@"Ticket-Granting Ticket",@"Tidal Power",@"tier",@"tier 0",@"Tier 1 Storage",@"Tier 1 Vendor",@"Tier 2 Vendor",@"tiered storage",
+        @"TIFF",@"Tag Image File Format",@"Tiger",@"tiger team",@"tilda",@"tilde",@"Tilded platform",@"Tim Berners-Lee",];
     [ITWordStore addObjectsFromArray:TWord];
     
     
