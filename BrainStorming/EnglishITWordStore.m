@@ -2759,7 +2759,12 @@
         @"Wireless Messaging",@"texture element",@"Texture mapping",@"texture sensing",@"TFT",@"TFTP",@"TGT",@"thang",@"the",@"The Big Murkowski",
         @"The Computer Fraud and Abuse Act",@"The Green Grid",@"The Hitchhiker's Guide to the Galaxy",@"the Indian Computer Emergency Response Team",
         @"The Open Group",@"The Open Group Architecture Framework",@"TOGAF",@"The Real-Time Operating System Nucleus",@"The Remote Insight Board -- Lights Out Edition",
-        @"The Vault of Tech Terror",@"Theory of Constraints",];
+        @"The Vault of Tech Terror",@"Theory of Constraints",@"TOC",@"Theory of Everything",@"Theory of Relativity",@"Thermal Compound",@"Thermal grease",
+        @"Thermal Paste",@"Thermal Compound",@"Thermal imaging",@"Thermal ink transfer printing",@"Thermal Paste",@"Thermal Printing",@"thermal transfer printer",
+        @"Thermoelectric cooling",@"Thermographic Printing",@"Thermography",@"Thick Client",@"Thick Provisioning Eager Zeroed",@"thick provision lazy zeroed",
+        @"Thicknet",@"Thickwire",@"Thin client",@"Lean client",@"Thin-Film Transistor",@"Thin provisioning",@"TP",@"thin server",@"thin-film disk",
+        @"Thin-film transistor",@"TFT",@"ThinApp AppLink",@"Thing",@"in The Internet of Things",@"thingbot",@"Thinnet",@"Thinwire",
+        @"third generation of mobile telephony",];
     [ITWordStore addObjectsFromArray:TWord];
     
     
