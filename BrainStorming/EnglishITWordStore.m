@@ -2769,7 +2769,8 @@
         @"Three finger salute",@"Three Laws of Robotics",@"Isaac Asimov",@"three-dimensional",@"throttled data transfer",@"throughput",
         @"thumb drive",@"ThumbDrive",@"Thumbing",@"thumbnail",@"Thunderbolt",@"thunk",@"Thyristor",@"THz",@"TIA",@"TIA-942",@"Tibco",@"TiBook",
         @"TIC",@"Ticket-Granting Ticket",@"Tidal Power",@"tier",@"tier 0",@"Tier 1 Storage",@"Tier 1 Vendor",@"Tier 2 Vendor",@"tiered storage",
-        @"TIFF",@"Tag Image File Format",@"Tiger",@"tiger team",@"tilda",@"tilde",@"Tilded platform",@"Tim Berners-Lee",];
+        @"TIFF",@"Tag Image File Format",@"Tiger",@"tiger team",@"tilda",@"tilde",@"Tilded platform",@"Tim Berners-Lee",@"time",@"Time and Attendance Software",
+        @"time bank",@"time box",@"Time Division Multiple Access",@"Time Division Multiplexing",@"Time Division Synchronous Code Division Multiple Access",];
     [ITWordStore addObjectsFromArray:TWord];
     
     
