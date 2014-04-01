@@ -2770,7 +2770,29 @@
         @"thumb drive",@"ThumbDrive",@"Thumbing",@"thumbnail",@"Thunderbolt",@"thunk",@"Thyristor",@"THz",@"TIA",@"TIA-942",@"Tibco",@"TiBook",
         @"TIC",@"Ticket-Granting Ticket",@"Tidal Power",@"tier",@"tier 0",@"Tier 1 Storage",@"Tier 1 Vendor",@"Tier 2 Vendor",@"tiered storage",
         @"TIFF",@"Tag Image File Format",@"Tiger",@"tiger team",@"tilda",@"tilde",@"Tilded platform",@"Tim Berners-Lee",@"time",@"Time and Attendance Software",
-        @"time bank",@"time box",@"Time Division Multiple Access",@"Time Division Multiplexing",@"Time Division Synchronous Code Division Multiple Access",];
+        @"time bank",@"time box",@"Time Division Multiple Access",@"Time Division Multiplexing",@"Time Division Synchronous Code Division Multiple Access",
+        @"Time-Series Chart",@"Time shifting",@"Time stamp",@"time to live",@"time to value",@"TtV",@"Time Zone Registry",@"Time-Based One-Time Password Algorithm",
+        @"TOTP",@"time-box",@"time-division multiplexing",@"TDM",@"time-to-live",@"TTL",@"timebox",@"timeline",@"Internet Timeline",
+        @"History of the Internet",@"timeshifting",@"timestamp",@"TIN number",@"Taxpayer Identification Number",@"Tin Whiskers",@"tipping point",
+        @"Titanium",@"TiBook",@"TiVo",@"Tivoli",@"Tk",@"TKIP",@"Temporal Key Integrity Protocol",@"TLC flash",@"triple level cell flash",@"TLD",
+        @"TLS",@"TLS VPN",@"TM",@"TMN",@"Telecommunications Management Network",@"tModel",@"TMQL",@"TMS",@"TN display",@"TNIC",@"TO-DDI",@"TOC",
+        @"TOE",@"TOGAF",@"token",@"Token Ring",@"Tokenization",@"TOLED",@"transparent organic light-emitting device",@"Tomcat",@"tool bar",
+        @"Tool Command Language",@"Tcl",@"Tool Kit",@"Tk",@"Toolbar",@"toothing",@"Bluetoothing",@"TOP",@"Top 10 Spyware Threats",@"top level domain",
+        @"Top Searches of 2008",@"Top terms in 2006",@"top-level domain",@"TLD",@"Topic Map",@"ISO/IEC Standard 13250:2000",@"Topic Map Query Language",
+        @"TMQL",@"TopSite",@"TOR Browser",@"Toroid",@"Torture Test",@"Linus Torvalds",@"Toslink",@"Toslink Connector",@"Toslink plug",@"Total Cost of Ownership",
+        @"Total Information Awareness",@"TIA",@"Total Quality Management",@"TQM",@"touch pad",@"touchpad",@"TouchPad",@"Tower of Hanoi backups",@"tower server",
+        @"TP",@"TP0",@"TP0 TP4",@"TP0-TP4",@"TP1",@"TP2",@"TP3",@"TP4",@"TPC",@"TPM",@"TPS",@"TQM",@"trace route",@"traceroute",@"trace back",@"Track Point",
+        @"TrackBack",@"Trackball",@"Tracking Software",@"TrackPoint",@"Pointing Stick",@"Traffic Engineering",@"Traffic Management",@"Traffic shaping",
+        @"Packet Shaping",@"Tragedy of the Commons",@"Transact-SQL",@"Transact-SQL",@"trasaction",@"Transaction Monitoring",@"Business Transaction Management",
+        @"Transaction Processing Performance Council",@"TPC",@"Transaction Server",@"Viper",@"Transaction data",@"Transaction Email",@"transactional marketing",
+        @"Transactions for UNIX Enhanced for Distributed Operations",@"transceiver",@"Transcendental number",@"Transcoding",@"transconductance",
+        @"transcription error",@"transducer",@"transient cookie",@"session cookie",@"transistor",@"transistor to transistor logic",
+        @"Transistor-to-Transistor Logic",@"TTL",@"transit",@"transition ad",@"transitive trust",@"Transmeta",@"Transmission Control Protocol",
+        @"Transmission Control Protocol Internet Protocol",@"Transparent",@"Transparent addressing",@"Transparent Computing",@"Transparent GIF",
+        @"Transparent Interconnection of Lots of Links",@"transparent organic light emitting device",@"transparent organic light-emitting device",
+        @"Transparent Page Sharing",@"transparent semiconductor",@"Transponder",@"Transport Layer",@"Transport Layer Protocols",@"Transport Layer Security",
+        @"TLS",@"transport protocols",@"transport protocols 0 to 4",@"Transport Services Access Point",@"TSAP",@"Transportation Management System",
+        @"TMS",@"trap",@"trap door",@"trapdoor",@"Travan",];
     [ITWordStore addObjectsFromArray:TWord];
     
     
