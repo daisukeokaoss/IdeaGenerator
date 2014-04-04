@@ -2792,8 +2792,26 @@
         @"Transparent Interconnection of Lots of Links",@"transparent organic light emitting device",@"transparent organic light-emitting device",
         @"Transparent Page Sharing",@"transparent semiconductor",@"Transponder",@"Transport Layer",@"Transport Layer Protocols",@"Transport Layer Security",
         @"TLS",@"transport protocols",@"transport protocols 0 to 4",@"Transport Services Access Point",@"TSAP",@"Transportation Management System",
-        @"TMS",@"trap",@"trap door",@"trapdoor",@"Travan",];
+        @"TMS",@"trap",@"trap door",@"trapdoor",@"Travan",@"travel and expense software",@"T & E software",@"traveling wave tube",@"traveling-wave tube",
+        @"TWT",@"Traversal Using Relay NAT",@"TURN",@"treadmill desk",@"Treasury management",@"TreeMap",@"Tree Network",@"Tree structure",@"Trema",
+        @"triangulation",@"trigger",@"trigraph",@"TRILL",@"TRIM",@"trinary",@"trip unit",@"circuit breaker",@"triple bottom line",@"3BL",
+        @"triple-homed firewall",@"triple-play network",@"Triplecast",@"Triplewhack",@"Trivial File Transfer Protocol",@"TFTP",@"Trojan",@"Trojan horse",
+        @"troll",@"TRON",@"The Real-Time Operating System Nucleus",@"tropical year",@"Tropo",@"tropospheric propagation",@"trouble report",
+        @"trouble ticket",@"Tru2way",@"true color",@"True HD",@"true HDTV",@"true multitasking",@"True Power",@"TrueType",@"TrueView ad",@"truncate",
+        @"Trunk",@"Trunking",@"Trusted Cloud Initiative",@"Trusted Computing",@"Trusted computing base",@"TCB",@"Trusted Computing Group",@"TCG",
+        @"Trusted Internet Connections",@"TIC",@"trusted PC",@"Trusted Platform Module",@"TPM",@"Truth table",@"TSAP",@"TSQL",@"TSR",@"Tsunami UDP",
+        @"TTL",@"TTS",@"TTY",@"tty command",@"tumblelog",@"Tumblr",@"tunnel",@"tunnel injection",@"tunnel release",@"Port forwarding",@"Tuple",
+        @"Turbine",@"Turing Test",@"TURN",@"Turkey",@"Turkey cloud",@"turnkey solution provider",@"Turnover",@"Turtle Firewall",@"Tux",@"Tuxedo",
+        @"Transaction for UNIX",@"TV operating system",@"TV/IP",@"TWAIN",@"tweak",@"Tweak Freak",@"tweaker",@"TweakUI",@"tweet",@"Tweet Jam",@"TweetChat",
+        @"twentieth of a point",@"twin spindle system",@"twin-spindle system",@"twinaxial cable",@"twip",@"twentieth of a point",@"twips",
+        @"Twisted Nematic Display",@"TN display",@"Twisted pair",@"Twitter",@"Twitterbot",@"two dimensional barcode",@"two-spindle system",
+        @"two-dimensional barcode",@"Two-factor authentication",@"Two-spindle system",@"twin-spindle system",@"Two-Tier ERP",@"two-tiered Internet",
+        @"two-way authentication",@"two-way pager",@"two-way server",@"Twofish",@"TWT",@"type",@"Type 2 hypervisor",@"hosted hypervisor",
+        @"type 1 error",@"type Ⅱ error",@"typeface",@"typeprint analysis",@"Typosquatting"];
     [ITWordStore addObjectsFromArray:TWord];
+    NSArray *UWord = @[@"U",@"U interface",@"U.K. Data Protection Act 1998",@"DPA 1998",@"U.S. Department of Homeland Security",@"DHS",
+        @"U.S. Navy purchasing abbreviations and acronyms",@"UART",@"Universal Asynchronous Receiver/Transmitter",@"UAT",];
+    [ITWordStore addObjectsFromArray:UWord];
     
     
     return ITWordStore;
