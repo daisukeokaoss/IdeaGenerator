@@ -2810,7 +2810,12 @@
         @"type 1 error",@"type Ⅱ error",@"typeface",@"typeprint analysis",@"Typosquatting"];
     [ITWordStore addObjectsFromArray:TWord];
     NSArray *UWord = @[@"U",@"U interface",@"U.K. Data Protection Act 1998",@"DPA 1998",@"U.S. Department of Homeland Security",@"DHS",
-        @"U.S. Navy purchasing abbreviations and acronyms",@"UART",@"Universal Asynchronous Receiver/Transmitter",@"UAT",];
+        @"U.S. Navy purchasing abbreviations and acronyms",@"UART",@"Universal Asynchronous Receiver/Transmitter",@"UAT",@"UBE",@"Unsolicited Bulk Email",
+        @"uber geek",@"Ubiquitous Computing",@"ubiquitous robotics",@"UBL",@"Ubuntu",@"Ubuntu 8.04 LTS Server Edition",@"UC",@"UCaaS",
+        @"Unified Communications as a Service",@"UCCnet",@"UCE",@"unsolicited commercial email",@"UCM",@"UCS",@"UDA",@"UDDI",
+        @"Universal Description ,Discovery and Integration",@"UDF",@"UDMA",@"UDO",@"Ultra Density Optical",@"UDP",@"User Datagram Protocol",
+        @"UEFI",@"UHDV",@"Ultra High Definition Video",@"UHF",@"Ultrahigh Frequency",@"UI",@"UI redressing",@"UIA",@"UIML",@"User Interface Markup Language",
+        @"UK Data Protection Act 1998",@"UK Government Connect Secure Extranet",@"GCSX",@"UK Identity Cards Act",];
     [ITWordStore addObjectsFromArray:UWord];
     
     
