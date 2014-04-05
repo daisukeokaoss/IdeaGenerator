@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */; };
 		C91909CB17618A1C009ACF8D /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C91909CA17618A1C009ACF8D /* SearchViewController.m */; };
+		C91E8AF318EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */; };
 		C927772917DA0EC400996623 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C927772817DA0EC400996623 /* iAd.framework */; };
 		C92C07311784FC65002F2AA1 /* BiologicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */; };
 		C930E64B180EAD8900745C19 /* WorldHistoryWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */; };
@@ -64,6 +65,8 @@
 		C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhysicalWordStore.m; sourceTree = "<group>"; };
 		C91909C917618A1C009ACF8D /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
 		C91909CA17618A1C009ACF8D /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		C91E8AF118EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Gendaiyougonokisotisiki2014JapaneseWordStore.h; path = ../Gendaiyougonokisotisiki2014JapaneseWordStore.h; sourceTree = "<group>"; };
+		C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Gendaiyougonokisotisiki2014JapaneseWordStore.m; path = ../Gendaiyougonokisotisiki2014JapaneseWordStore.m; sourceTree = "<group>"; };
 		C927772817DA0EC400996623 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
 		C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BiologicalWordStore.h; sourceTree = "<group>"; };
 		C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BiologicalWordStore.m; sourceTree = "<group>"; };
@@ -261,6 +264,8 @@
 		C996D0DB1756212C00F8831E /* WordSelection */ = {
 			isa = PBXGroup;
 			children = (
+				C91E8AF118EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.h */,
+				C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */,
 				C9ED108F1756369E00DA197E /* ModeanSocialWord.h */,
 				C9ED10901756369E00DA197E /* ModeanSocialWord.m */,
 				C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */,
@@ -389,6 +394,7 @@
 				C9A06DD21879B5AB00F2E654 /* EnglishITWordStore.m in Sources */,
 				C994950716D9B405007FDD3A /* GeneralWordStore.m in Sources */,
 				C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */,
+				C91E8AF318EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m in Sources */,
 				C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */,
 				C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */,
 				C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */,
