@@ -2843,7 +2843,12 @@
         @"Uptime Institute, Inc",@"Urban legend",@"URI",@"Uniform Resource Identifier",@"URL",@"Uniform Resource Locator",@"URL manipulation",
         @"URL Rewriting",@"URL poisoning",@"Location Poisoning",@"URL Rewriting",@"URL Shortener",@"URL shortening",@"URL-minder",@"URN",@"Uniform Resource Name",
         @"US Department of Commerce purchasing abbreviations",@"USA Contributors",@"USA Patriot Act",@"Usability",@"USAPA",@"Universal Synchronous/Asynchronous Receiver Transmitter",
-        @"USB",@"Universal Serial Bus",];
+        @"USB",@"Universal Serial Bus",@"USB 3.0",@"Superspeed USB",@"USB 3",@"USB 3.0",@"USB drive",@"Use case",@"use case diagram",@"Usenet",
+        @"User Acceptance Testing",@"UAT",@"user account provisioning",@"User Diagram Protocol",@"user engagement",@"User environment virtualization",
+        @"UE virtualization",@"User exit",@"user group",@"User Input Device",@"user installed application",@"UIA",@"user interface",@"UI",
+        @"User Interface Markup Language",@"User Interface Redressing",@"User Principal Name",@"UPN",@"User Profile",@"User Script",@"User self-provisioning",
+        @"user session",@"User story",@"User-generated content",@"UGC",@"User-Interface Redressing",@"USGCB",@"United States Government Configuration Baseline",
+        @"USSD",@"Unstructured Supplementary Service Data",@"Ustream",@"UTC",@"UTF 16",@"UTF-16"];
     [ITWordStore addObjectsFromArray:UWord];
     
     
