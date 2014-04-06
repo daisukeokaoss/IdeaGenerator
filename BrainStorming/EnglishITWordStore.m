@@ -2868,7 +2868,14 @@
         @"VersaModular Eurocard bus",@"Versioned Object Base",@"VOB",@"versioning",@"Vertical blanking interval",@"VBI",@"Vertical-cavity surface emitting laser",
         @"VCSEL",@"Vertical Interval Time Code",@"VITC",@"Vertical line",@"vertical slash",@"upright slash",@"vertical market",@"vertical portal",@"VORTAL",
         @"Vertical SaaS",@"Vertical Software as a Service",@"Vertical Scalability",@"vertical slash",@"vertical solutions provider",@"VSP",@"very high frequency",
-        @"very high speed Backbone Network Service",@"Very Large Database",@"VLDB",@"Very Large Scale Integration",];
+        @"very high speed Backbone Network Service",@"Very Large Database",@"VLDB",@"Very Large Scale Integration",@"VLSI",@"Very-large-scale integration",
+        @"Very long instruction word",@"Very Small Aperture Terminal",@"VESA",@"VESA Local Bus",@"VESA VL bus",@"vestigial sideband",@"VSB",
+        @"VFAT",@"VGA",@"VGA card",@"VHD",@"VHDCI",@"Very-High-Density Cable Interconnect",@"VHDX",@"Hyper-V virtual hard disk",@"VHE",@"VHF",
+        @"Very high frequency",@"VHS",@"Video Home System",@"vi",@"Vi improved",@"VI3",@"VidBlog",@"video adapter",@"Video blog",@"Video board",
+        @"Video Card",@"Video CD",@"video compact disc",@"Video Conferencing",@"video display terminal",@"video display unit",@"VDU",@"video e-mail",
+        @"Video Glossary",@"Video Home System",@"video interview",@"Video on demand",@"VoD",@"video or visual display terminal",@"Video Privacy Protection Act of 1988",
+        @"Video RAM",@"VRAM",@"Video Resume",@"Video Streaming Service",@"Video Telephony",@"Robotic Despair",@"Web 2.0 Explained",@"Videocassette recorder",
+        @"Videocasette recorder",@"Videoconference",@"Video conferencing",@"videophone",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
