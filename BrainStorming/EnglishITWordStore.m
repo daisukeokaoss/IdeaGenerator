@@ -2848,8 +2848,28 @@
         @"UE virtualization",@"User exit",@"user group",@"User Input Device",@"user installed application",@"UIA",@"user interface",@"UI",
         @"User Interface Markup Language",@"User Interface Redressing",@"User Principal Name",@"UPN",@"User Profile",@"User Script",@"User self-provisioning",
         @"user session",@"User story",@"User-generated content",@"UGC",@"User-Interface Redressing",@"USGCB",@"United States Government Configuration Baseline",
-        @"USSD",@"Unstructured Supplementary Service Data",@"Ustream",@"UTC",@"UTF 16",@"UTF-16"];
+        @"USSD",@"Unstructured Supplementary Service Data",@"Ustream",@"UTC",@"UTF 16",@"UTF-16",@"16-bit Unicode Transformation Format",@"utility",
+        @"Utility computing",@"utility strorage",@"UTM",@"UTP",@"UUCP",@"UNIX-to-UNIX Copy Protocol",@"uudecode",@"Uuencode",@"Uudecode",@"UUID",@"Universal Unique Identifier",
+        @"UWB",@"UXGA",@"Ultra Extended Graphics Array"];
     [ITWordStore addObjectsFromArray:UWord];
+    NSArray *VWord = @[@"V Model",@"v-commerce",@"V-Model",@"Vee-Model",@"V-REP",@"V.22",@"V.22bis",@"V.32",@"V.32bis",@"V.32terbo",@"V.34",@"V.34bis",@"V.35",@"V.42",
+        @"V.90",@"V.xx",@"V/m",@"V2P",@"V2V",@"VA",@"VAAI",@"Vacuum tube",@"VT",@"electron tube",@"valve",@"VAD",@"validator",@"validity period",@"value added network",
+        @"value added reseller",@"Value Analysis",@"value chain",@"value proposition",@"VP",@"Value stream mapping",@"Value-Added Network",@"VAN",
+        @"Value-added reseller",@"valve",@"vam",@"VAMP",@"Vampire Tap",@"VAN",@"Van Eck Phreaking",@"Vandal",@"vanilla",@"Vannevar Bush",@"vapor cooling",
+        @"vaporware",@"VAR",@"value-added reseller",@"VAR agreement",@"Value-Added Reseller Agreement",@"VAR-to-VAR",@"variable",@"variable-length subnet mask",
+        @"Variable Manipulation",@"variable-length subnet mask",@"VLSM",@"Varicode",@"VASA",@"Vascular ID",@"VAX",@"Virtual Address eXtension",@"VB",
+        @"VB .NET",@"VB NET",@"VB.NET",@"VBI",@"VBN",@"VBNET",@"vBNS",@"Very high-speed Backbone Network Service",@"VBR",@"VBS.SST",@"VBScript",@"VC",
+        @"vCalender",@"vCard",@"VCB proxy",@"VMware Consolidated Backup proxy",@"VCD",@"Video CD",@"video compact disc",@"VCDX",@"VMWare Certified Design Expert",
+        @"vCom",@"vCommerce",@"VCR",@"videocassette recorder",@"VCSEL",@"VDA",@"Virtual Desktop Access",@"VDD",@"VDI",@"VDI boot storm",@"VDS",@"VDT",
+        @"video display terminal",@"Visual Display Terminal",@"VDU",@"Vector",@"vector graphics",@"vector graphics rendering",@"VML",@"Vector Markup Language",
+        @"VML",@"Vectored Interrupt",@"Vectorized",@"Vee Model",@"Vee-Model",@"Veepers",@"velocity",@"vendor",@"Vendor Independent Messaging",@"VIM",
+        @"vendor lock-in",@"Vendor Managed Inventory",@"Vendor Management Office",@"VMO",@"Vendor Neutral",@"Vendor Risk Management",@"VRM",
+        @"vendor-managed inventory",@"VMI",@"Venice Project",@"Venn diagram",@"venture capital",@"VC",@"Verbose Logging",@"VeriChip",@"Veronica",
+        @"VersaModular Eurocard bus",@"Versioned Object Base",@"VOB",@"versioning",@"Vertical blanking interval",@"VBI",@"Vertical-cavity surface emitting laser",
+        @"VCSEL",@"Vertical Interval Time Code",@"VITC",@"Vertical line",@"vertical slash",@"upright slash",@"vertical market",@"vertical portal",@"VORTAL",
+        @"Vertical SaaS",@"Vertical Software as a Service",@"Vertical Scalability",@"vertical slash",@"vertical solutions provider",@"VSP",@"very high frequency",
+        @"very high speed Backbone Network Service",@"Very Large Database",@"VLDB",@"Very Large Scale Integration",];
+    [ITWordStore addObjectsFromArray:VWord];
     
     
     return ITWordStore;
