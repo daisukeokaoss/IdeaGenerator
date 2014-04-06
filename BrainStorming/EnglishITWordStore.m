@@ -2875,7 +2875,8 @@
         @"Video Card",@"Video CD",@"video compact disc",@"Video Conferencing",@"video display terminal",@"video display unit",@"VDU",@"video e-mail",
         @"Video Glossary",@"Video Home System",@"video interview",@"Video on demand",@"VoD",@"video or visual display terminal",@"Video Privacy Protection Act of 1988",
         @"Video RAM",@"VRAM",@"Video Resume",@"Video Streaming Service",@"Video Telephony",@"Robotic Despair",@"Web 2.0 Explained",@"Videocassette recorder",
-        @"Videocasette recorder",@"Videoconference",@"Video conferencing",@"videophone",];
+        @"Videocasette recorder",@"Videoconference",@"Video conferencing",@"videophone",@"view",@"VIM",@"Vim",@"Vi improved",@"VIM specification",@"Vimeo",
+        @"Vine",@"Vine app",@"Viper",@"Viral marketing",@"Virtual",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
