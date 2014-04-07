@@ -2901,7 +2901,12 @@
         @"VK",@"VKontakte",@"VLAN",@"VLAN hopping",@"virtual local area network hopping",@"VLDB",@"VLE",@"VLER",@"VLIW",@"Very Long Instruction Word",
         @"vlog",@"video log",@"vlogging",@"VLSI",@"VLSM",@"VM",@"Virtual Machine",@"VM stall",@"VMDK file",@"Virtual Machine Disk File",@"VMEbus",
         @"VersaModular Eurocard bus",@"VMI",@"VMkernel",@"VML",@"VMM",@"VMO",@"VMS",@"Virtual Memory System",@"VMUG",@"VMWare User Group",
-        @"VMWare",@"VMWare backup",@"VMWare Capacity Planner",@"VCP",];
+        @"VMWare",@"VMWare backup",@"VMWare Capacity Planner",@"VCP",@"VMware Compatibility Guide",@"VMware Converter",@"VMware CTK file",@"VMware DRS",
+        @"Distributed Resource Scheduler",@"VMWare ESXi",@"VMWare EVC",@"VMWare Enhanced vMotion compatibility",@"VMware fling",@"VMware HA",
+        @"VMware High Availability",@"VMware Horizon Application Manager",@"VMware Horizon Mirage",@"VMware Horizon Mobile",@"VMware Horizon Suite",@"VMware Horizon View",
+        @"VMware Horizon Workspace",@"VMware host profile",@"VMware Identity Appliance",@"VMware Infrastructure 3",@"VI3",@"VMware Lab Manager",
+        @"VMware memory overcommit",@"VMware NIC teaming",@"VMware NSX",@"VMware Orchestrator",@"VMware OVF Tool",@"VMware Open Virtualization Format Tool",
+        @"VMware Partner Network",@"VMware Project AppShift",@"VMware Project NEE",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
