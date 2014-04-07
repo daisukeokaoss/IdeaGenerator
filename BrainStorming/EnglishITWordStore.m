@@ -2898,7 +2898,10 @@
         @"VBN",@"Visor",@"VISP",@"Vista",@"VistA EHR",@"Visual Analytics",@"Visual Basic",@"VB",@"Visual Basic .NET",@"Visual Computing",
         @"visual display",@"Visual Display Terminal",@"Visual ForPro",@"Visual InterDev",@"Visual J#",@"Visual Studio .NET",@"Visual Studio Express",
         @"VSE",@"Visual Studio Team System",@"VSTS",@"Visual Studio Tools for Office",@"visualization",@"Vital Product Data",@"VITC",@"Vitria",@"vixel",
-        @"VK",@"VKontakte",@"VLAN",@"VLAN hopping",];
+        @"VK",@"VKontakte",@"VLAN",@"VLAN hopping",@"virtual local area network hopping",@"VLDB",@"VLE",@"VLER",@"VLIW",@"Very Long Instruction Word",
+        @"vlog",@"video log",@"vlogging",@"VLSI",@"VLSM",@"VM",@"Virtual Machine",@"VM stall",@"VMDK file",@"Virtual Machine Disk File",@"VMEbus",
+        @"VersaModular Eurocard bus",@"VMI",@"VMkernel",@"VML",@"VMM",@"VMO",@"VMS",@"Virtual Memory System",@"VMUG",@"VMWare User Group",
+        @"VMWare",@"VMWare backup",@"VMWare Capacity Planner",@"VCP",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
