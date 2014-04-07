@@ -2886,7 +2886,19 @@
         @"Virtual machine escape",@"Virtual Machine File System",@"Virtual Machine lifecycle management",@"VMLM",@"virtual machine monitor",@"VMM",
         @"Virtual Machine Snapshot",@"Virtual Memory",@"Virtual Memory System",@"Virtual microscopy",@"virtual NAS",@"Virtual Network Adapter",
         @"Virtual Network Computing",@"VNC",@"Virtual Networking",@"virtual organization",@"Virtual Patching",@"Virtual PC",@"Virtual Phone Number",
-        @"Virtual Private Cloud",@"Virtual Private Database",];
+        @"Virtual Private Cloud",@"Virtual Private Database",@"Virtual Private LAN Service",@"VPLS",@"Virtual Private Network",@"VPN",@"Virtual Private Network Appliance",
+        @"Virtual Private Server",@"VPS",@"Virtual Dedicated Server",@"Virtual Provisioning",@"virtual reality",@"Virtual Reality Modeling Language",@"virtual rep",
+        @"Virtual Router Redundancy Protocol",@"Virtual Routing and Forwarding",@"VRF",@"virtual SAN Appliance",@"VSA",@"Virtual Server",@"Virtual Server Backup",
+        @"Virtual Storage",@"Virtual Storage Access Method",@"Virtual Storage Appliance",@"VSA",@"virtual storage area network",@"VSAN",@"Virtual Storage Portal",
+        @"VSP",@"Virtual Switch",@"virtual symmetric multiprocessing",@"virtual systems management",@"VSM",@"Virtual tape",@"virtual tape system",
+        @"Virtual Telecommunications Access Method",@"Virtual to Physical",@"V2P",@"Virtual to Virtual",@"V2V",@"Virtual Trade Shows",@"VirtualCenter",
+        @"Virtualisation",@"Virtualization",@"Virtualization 101",@"Virtualization Learning Guides",@"Virtualization Manager",@"virtualization sprawl",
+        @"virtual server sprawl",@"Virtualization Stack",@"Virtualization Technology",@"Virtuozzo",@"virus",@"Virus hoax",@"Virus kit",@"Virus Throttling",
+        @"virus-assembled battery",@"Viseme",@"vishing",@"VoIP phishing",@"VisiCalc",@"Vision Statement",@"visit",@"visitor-based networking",
+        @"VBN",@"Visor",@"VISP",@"Vista",@"VistA EHR",@"Visual Analytics",@"Visual Basic",@"VB",@"Visual Basic .NET",@"Visual Computing",
+        @"visual display",@"Visual Display Terminal",@"Visual ForPro",@"Visual InterDev",@"Visual J#",@"Visual Studio .NET",@"Visual Studio Express",
+        @"VSE",@"Visual Studio Team System",@"VSTS",@"Visual Studio Tools for Office",@"visualization",@"Vital Product Data",@"VITC",@"Vitria",@"vixel",
+        @"VK",@"VKontakte",@"VLAN",@"VLAN hopping",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
