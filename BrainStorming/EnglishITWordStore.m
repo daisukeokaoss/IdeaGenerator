@@ -2876,7 +2876,17 @@
         @"Video Glossary",@"Video Home System",@"video interview",@"Video on demand",@"VoD",@"video or visual display terminal",@"Video Privacy Protection Act of 1988",
         @"Video RAM",@"VRAM",@"Video Resume",@"Video Streaming Service",@"Video Telephony",@"Robotic Despair",@"Web 2.0 Explained",@"Videocassette recorder",
         @"Videocasette recorder",@"Videoconference",@"Video conferencing",@"videophone",@"view",@"VIM",@"Vim",@"Vi improved",@"VIM specification",@"Vimeo",
-        @"Vine",@"Vine app",@"Viper",@"Viral marketing",@"Virtual",];
+        @"Vine",@"Vine app",@"Viper",@"Viral marketing",@"Virtual",@"virtual database",@"Virtual Dedicated Graphics Acceleration",@"vDGA",@"Virtual Dedicated Server",
+        @"Virtual Desktop",@"Virtual Desktop Infrastructure",@"VDI",@"Virtual Desktop Manager",@"Virtual Desktop Pool",@"Virtual Device Driver",
+        @"virtual disk",@"RAM drive",@"Virtual Earth",@"Virtual File Allocation Table",@"VFAT",@"Virtual File System",@"VFS",@"Virtual firewall",
+        @"Virtual Floppy Disk",@"virtual GPU",@"vGPU",@"Virtual Hard Disk",@"VHD",@"Virtual Home Environment",@"VHE",@"Virtual Honeynet",@"Virtual hosting",
+        @"Virtual Human",@"Virtual Instrument file",@"Virtual Internet Service Provider",@"Virtual ISP",@"Virtual Internet Service Provider",
+        @"virtual keyboard",@"virtual kill switch",@"virtual LAN",@"VLAN",@"Virtual learning environment",@"VLE",@"Virtual Lifetime Electronic Record",
+        @"VLED",@"Virtual Local Area Network",@"Virtual Local Area Network Hopping",@"virtual LUN",@"thin LUN",@"virtual machine",@"VM",@"Virtual Machine Configuration",
+        @"Virtual machine escape",@"Virtual Machine File System",@"Virtual Machine lifecycle management",@"VMLM",@"virtual machine monitor",@"VMM",
+        @"Virtual Machine Snapshot",@"Virtual Memory",@"Virtual Memory System",@"Virtual microscopy",@"virtual NAS",@"Virtual Network Adapter",
+        @"Virtual Network Computing",@"VNC",@"Virtual Networking",@"virtual organization",@"Virtual Patching",@"Virtual PC",@"Virtual Phone Number",
+        @"Virtual Private Cloud",@"Virtual Private Database",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
