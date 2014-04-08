@@ -2906,7 +2906,18 @@
         @"VMware High Availability",@"VMware Horizon Application Manager",@"VMware Horizon Mirage",@"VMware Horizon Mobile",@"VMware Horizon Suite",@"VMware Horizon View",
         @"VMware Horizon Workspace",@"VMware host profile",@"VMware Identity Appliance",@"VMware Infrastructure 3",@"VI3",@"VMware Lab Manager",
         @"VMware memory overcommit",@"VMware NIC teaming",@"VMware NSX",@"VMware Orchestrator",@"VMware OVF Tool",@"VMware Open Virtualization Format Tool",
-        @"VMware Partner Network",@"VMware Project AppShift",@"VMware Project NEE",];
+        @"VMware Partner Network",@"VMware Project AppShift",@"VMware Project NEE",@"VMware resource pool",@"VMware Server",@"VMware Service Provider Program",
+        @"VSPP",@"VMware snapshot",@"VMware Template",@"VMware ThinApp",@"VMware Tools",@"VMware Unity Touch",@"VMware Update Manager",@"VMware vApp",
+        @"VMware vCAT",@"VMware vCloud Architecture Toolkit",@"VMware vCenter Chargeback Manager",@"VMware vCenter Log Insight",@"VMware vCenter Mobile Access",
+        @"VMware vCMA",@"VMware vCenter Multi-Hypervisor Manager",@"MHM",@"VMware vCenter Operations Management Suite",@"VMware vCenter Server Heartbeat",
+        @"vCSHB",@"VMware vCenter Server Linked Mode",@"VMware vCloud Automation Center",@"vCAC",@"VMware vExpert",@"VMware vFabric Hyperic",@"VMware vFRC",
+        @"VMware vSphere Flash Read Cache",@"VMware Virtual Machine File System",@"VMware Virtual SMP",@"Symmetric Multi-Processing",@"VMware VirtualCenter",
+        @"VMware vLockstep",@"VMware VMCI",@"VMware Virtual Machine Communication Interface",@"VMware VMFS",@"Virtual Machine File System",@"VMware vSAN",
+        @"VMware Virtual SAN",@"VMware vShield",@"VMware vSphere App HA",@"VMware vSphere Data Protection Advanced",@"VMware vSphere Metro Storage Cluster",
+        @"VMware vMSC",@"VMware vSphere PowerCLI",@"VMware vSphere Site Recovery Manager",@"VMware vSphere Web Client plug-in",@"VMware Workstation",
+        @"VMworld",@"VNC",@"vNUMA",@"virtual NUMA",@"VOB",@"vocoder",@"VoD",@"voice activated e-mail",@"voice activation detection",@"VAD",
+        @"voice authentication",@"Voice Commerce",@"vCommerce",@"Voice Dial",@"voice-enabled e-mail",@"Voice ID",@"Voice Authentication",@"Voice Identification",
+        @"voice logger",@"Voice Markup Language",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
