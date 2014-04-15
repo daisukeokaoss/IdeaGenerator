@@ -2917,7 +2917,19 @@
         @"VMware vMSC",@"VMware vSphere PowerCLI",@"VMware vSphere Site Recovery Manager",@"VMware vSphere Web Client plug-in",@"VMware Workstation",
         @"VMworld",@"VNC",@"vNUMA",@"virtual NUMA",@"VOB",@"vocoder",@"VoD",@"voice activated e-mail",@"voice activation detection",@"VAD",
         @"voice authentication",@"Voice Commerce",@"vCommerce",@"Voice Dial",@"voice-enabled e-mail",@"Voice ID",@"Voice Authentication",@"Voice Identification",
-        @"voice logger",@"Voice Markup Language",];
+        @"voice logger",@"Voice Markup Language",@"Voice Morphing",@"Voice of the Customer",@"VOC",@"Voice over Internet Protocol",
+        @"Voice over Internet Protocol caller identification",@"Voice over IP",@"Voice over IP Security Alliance",@"Voice Over Misconfigured Internet Telephones",
+        @"Voice over WLAN",@"Voice phishing",@"Voice Portal",@"Vortal",@"voice recognition",@"Speech recognition",@"Voice Search",@"Voice Spam",
+        @"voice-activated e-mail",@"voice-enabled e-mail",@"Voice-to-Text",@"Voicemail",@"Voicemail Preview",@"Voiceprint",@"VoiceXML",@"VoIP",
+        @"Voice over IP",@"VoIP caller ID",@"VoIP gateway",@"VoIP Learning Guides",@"VoIP phishing",@"VoIP phone",@"VoIP Quizzes",@"VoIP Security Threats",
+        @"VoIP spam",@"VoIP Trunk Gateway",@"VOIPSA",@"Voice over IP Security Alliance",@"volatile",@"Volatile memory",@"Volcker Rule",@"Volt",
+        @"Volt ampere",@"volt per meter",@"V/m",@"volt-ampere",@"VA",@"Voltage",@"Voltage Reference",@"Voltage Regulator Module",@"VRM",@"voltmeter",
+        @"Volume",@"amount of physical bulk",@"Volume Manager",@"Volume Testing",@"Voluntary Botnet",@"Voluntary Severance Package",@"Vomit",
+        @"Von Neumann Bottleneck",@"John von Neumann",@"Vonage",@"Voodoo",@"Vorbis",@"vortal",@"Vouch By Reference",@"VBR",@"VoWi-Fi",@"VoWLAN",
+        @"Voice over WLAN",@"VoWLAN cellular",@"voxel",@"VoxML",@"VPD",@"vital product data",@"VPLS",@"VPD",@"Vital Product Data",@"VPLS",@"VPN",
+        @"VPN Appliance",@"VPN Reconnect",@"VPN routing and forwarding",@"VPS",@"VRAM",@"VRF",@"VRM",@"VRML",@"Virtual Reality Modeling Language",
+        @"VRRP",@"Virtual Router Redundancy Protocol",@"VSA",@"VSAM",@"Virtual Storage Access Method",@"VSAN",@"VSAT",@"Very Small-Aperture Terminal",
+        @"VSB",@"VSE",@"VSM",@"VSMP",@"Virtual Symmetric Multiprocessing",@"VSP",@"vSphere CLI",];
     [ITWordStore addObjectsFromArray:VWord];
     
     
