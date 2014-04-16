@@ -2955,7 +2955,7 @@
         @"Web based training",@"Web beacon",@"Web beaconing",@"Web browser",@"Web bug",@"Web beacon",@"Web Cam",@"Web compression",@"Web Conferencing",
         @"Web content management",@"WCM",@"web development framework",@"WDF",@"Web development freeware and shareware",@"Web enabled refrigerator",@"Web farm",
         @"Web filter",@"Web Filtering",@"Web Gateway",@"Web Hosting",@"Web Site Hosting",@"Web Intermediaries",@"WBI",@"Web Intermediary",@"web methods",
-        @"Web mining",@"Web offset printing",@"Web Page filter",];
+        @"Web mining",@"Web offset printing",@"Web Page filter",@"Web Presence",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
