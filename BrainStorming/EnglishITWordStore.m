@@ -2929,8 +2929,25 @@
         @"Voice over WLAN",@"VoWLAN cellular",@"voxel",@"VoxML",@"VPD",@"vital product data",@"VPLS",@"VPD",@"Vital Product Data",@"VPLS",@"VPN",
         @"VPN Appliance",@"VPN Reconnect",@"VPN routing and forwarding",@"VPS",@"VRAM",@"VRF",@"VRM",@"VRML",@"Virtual Reality Modeling Language",
         @"VRRP",@"Virtual Router Redundancy Protocol",@"VSA",@"VSAM",@"Virtual Storage Access Method",@"VSAN",@"VSAT",@"Very Small-Aperture Terminal",
-        @"VSB",@"VSE",@"VSM",@"VSMP",@"Virtual Symmetric Multiprocessing",@"VSP",@"vSphere CLI",];
+        @"VSB",@"VSE",@"VSM",@"VSMP",@"Virtual Symmetric Multiprocessing",@"VSP",@"vSphere CLI",@"vCLI",@"vSphere hot add",@"vSphere Replication",
+        @"VSS-based backup",@"VSTO",@"Visual Studio Tools for Office",@"vStorage API",@"vStorage APIs for Multipathing",@"VAMP",@"vStorage APIs for Array Integration",
+        @"VAAI",@"vStorage APIs for Storage Awareness",@"VASA",@"VSTS",@"VT",@"VTAM",@"Virtual Telecommunications Access Method",@"vTax",@"Vulcan nerve pinch",
+        @"vulnerability analysis",@"vulnerability assessment",@"Vulnerability and Patch Management",@"Vulnerability Disclosure",@"Vulnerability Discovery and Remediation",
+        @"Vulnerability Scanner",@"VWSR",@"VXLAN",@"Virtual Extensible LAN",@"VXLAN gateway",@"Virtual Extensible VLAN gateway",@"VxWorks"];
     [ITWordStore addObjectsFromArray:VWord];
+    
+    NSArray *WWord = @[@"w",@"W CDMA",@"W-CDMA",@"Wideband Code-Division Multiple Access",@"W2K",@"Windows 2000",@"W32 Duqu",@"W32 Rjump",@"W32.Duqu",@"W32.Kriz",
+        @"W32.Kriz virus",@"W32/Rjump",@"W3C",@"World Wide Web Consortium",@"W3C log",@"WAAS",@"WAD",@"WAE",@"WAF",@"WAFS",@"WAG",@"WAIS",
+        @"Wide Area Information Servers",@"wait state",@"Wake on LAN",@"walkie talkie",@"wall clock time",@"wall display",@"wall time",
+        @"Real-World Time",@"wall-clock time",@"Walled Garden",@"Wallet",@"Wallet share",@"wallpaper",@"WAN",@"Wide Area Network",@"WAN Acceleration",
+        @"WAN Accelerator",@"WAN clustering",@"geoclustering",@"WAN Interface Card",@"WIC",@"WAN optimization",@"WAN Acceleration",@"WAP",
+        @"Wireless Application Protocol",@"WAPI",@"WLAN Authentication and Privacy Infrastructure",@"war chalking",@"war dialer",@"war dialing",@"war driving",
+        @"Access Point Mapping",@"warchalking",@"war chalking",@"wardriving",@"Warehouse Control System",@"WCS",@"Warehouse Management System",@"WMS",
+        @"wares",@"Warez",@"warm boot",@"Warm Server",@"Warp",@"WASC",@"WASP",@"WaSP",@"Waste Electrical and Electronic Equipment Directive",
+        @"Waste Electrical and Electronic Equipment Regulations",@"waste heat recovery",@"watchdog timer",@"WDT",@"water cooling",@"Water-Scrum-Fall",
+        @"Waterfall model",@"watermark",@"WATS",@"Wide-Area Telephone Service",@"watt",@"watt-hour",@"watt per steradian",@"watt-hour",@"Wh",@"wav",
+        @"wave a dead chicken",@"wave file",@"wave number",];
+    [ITWordStore addObjectsFromArray:WWord];
     
     
     return ITWordStore;
