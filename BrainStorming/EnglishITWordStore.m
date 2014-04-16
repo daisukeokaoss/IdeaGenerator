@@ -2946,7 +2946,16 @@
         @"wares",@"Warez",@"warm boot",@"Warm Server",@"Warp",@"WASC",@"WASP",@"WaSP",@"Waste Electrical and Electronic Equipment Directive",
         @"Waste Electrical and Electronic Equipment Regulations",@"waste heat recovery",@"watchdog timer",@"WDT",@"water cooling",@"Water-Scrum-Fall",
         @"Waterfall model",@"watermark",@"WATS",@"Wide-Area Telephone Service",@"watt",@"watt-hour",@"watt per steradian",@"watt-hour",@"Wh",@"wav",
-        @"wave a dead chicken",@"wave file",@"wave number",];
+        @"wave a dead chicken",@"wave file",@"wave number",@"wave polarization",@"waveform",@"waveguide",@"Wavelength",@"Wavelength division multiplexing",
+        @"wavelength illustration",@"Wavelength Switching",@"Wavelength-division multiplexing",@"WDM",@"wavelet",@"Wavetable",@"waving a dead chicken",@"WAX",
+        @"Wireless Abstract XML",@"Wayback Machine",@"Wbadmin",@"WBEM",@"WBI",@"WBMP",@"WBS",@"WBT",@"WCDMA",@"WCET",@"WCF",@"WCS",@"WDM",@"WDS",@"WDSC",
+        @"WDT",@"weak password",@"wear leveling",@"wearable computer",@"wearable robot",@"Weave",@"Web 2",@"Web 2.0",@"Web 2.0 Suicide",@"Web accelerator",
+        @"Web analytics",@"Web anonymizer",@"Web App",@"Web App Development",@"Web Application",@"Web App",@"Web Application Proxy",@"Web Application Security",
+        @"Web Application Security Consortium",@"WASC",@"Web archives",@"Web-Based Enterprise Management",@"Web based project management software",
+        @"Web based training",@"Web beacon",@"Web beaconing",@"Web browser",@"Web bug",@"Web beacon",@"Web Cam",@"Web compression",@"Web Conferencing",
+        @"Web content management",@"WCM",@"web development framework",@"WDF",@"Web development freeware and shareware",@"Web enabled refrigerator",@"Web farm",
+        @"Web filter",@"Web Filtering",@"Web Gateway",@"Web Hosting",@"Web Site Hosting",@"Web Intermediaries",@"WBI",@"Web Intermediary",@"web methods",
+        @"Web mining",@"Web offset printing",@"Web Page filter",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
