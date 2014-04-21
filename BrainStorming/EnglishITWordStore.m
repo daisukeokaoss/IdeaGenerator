@@ -2958,7 +2958,22 @@
         @"Web mining",@"Web offset printing",@"Web Page filter",@"Web Presence",@"Web Proxy Autodiscovery",@"WPAD",@"Web ring",@"Webring",@"Web Self-Service",
         @"Web server",@"Web server farm",@"Web service",@"Web Service Choreography Interface",@"WSCI",@"Web Services",@"Application services",
         @"Web Services Atomic Transaction",@"Web Services Choreography",@"Web Services Coordination",@"Web Services Description Language",
-        @"WSDL",@"Web Services Interoperability",@"Web Services Interoperability Organization",];
+        @"WSDL",@"Web Services Interoperability",@"Web Services Interoperability Organization",@"Web Services Policy Framework specifications",
+        @"Web Services Secure Conversation Language",@"Web Services Security",@"Web Services Transaction",@"Web Services Transactions",
+        @"Web Services Trust Language",@"WS-Trust",@"Web Services",@"Web site",@"Web Site Hosting",@"Web Site Hosting",@"Web slate",@"Web Solution Platform",
+        @"Distributed interNet Application",@"Web stack",@"Web Standards Project",@"WaSP",@"Web testing",@"Web year",@"Web-based Backup",
+        @"Web-Based Enterprise Management",@"WBEM",@"Web-based malware",@"Web-based training",@"e-learning",@"Web-Braille",@"Web-enabled refrigerator",
+        @"webby",@"webcam",@"Webcast",@"Webcasting",@"WebDAV",@"World Wide Web Distributed Authoring and Versioning",@"WebHosting",@"Webification",@"Webify",
+        @"webinar",@"Webisode",@"WebLog",@"WebLogic",@"Webmaster",@"WebMethods",@"WebNFS",@"WebOps",@"Web Operations",@"webOS",@"Webring",@"WebRTC",
+        @"Web Real-Time Communications",@"Website",@"website",@"WebSphere",@"WebSphere Development Studio Client",@"WDSC",@"Websphere MQ",@"Webtone",
+        @"WebTV",@"wedge",@"Weebly",@"Weebly for Education",@"WEEE",@"WEEE Directive",@"Waste Electrical and Electronic Equipment",@"weenie",@"weight",
+        @"w",@"Weighted Fair Queuing",@"WFQ",@"weights and measures",@"well-known port numbers",@"WEP",@"Werner Heisenberg",@"WetPC",@"WF",@"WfM",
+        @"WFM software",@"WFO software",@"WFQ",@"WFS",@"WGA",@"WGate",@"Web Gateway",@"Wh",@"whack-a-mole",@"whaling",@"What do you know about the iPhone 3G",
+        @"What is Spyware",@"What is the difference between LCD and LED TVs?",@"What is the difference between PDL and PDF?",@"what you see is what you get",
+        @"what you see is what you print",@"What's Your Bus Number?",@"WhatsApp",@"WHATWG",@"Web Hypertext Application Technology Working Group",
+        @"Whip antenna",@"whistleblower",@"Whistleblower Protection Act",@"Whistler",@"White Balance",@"White Book",@"White box testing",@"white hat",
+        @"White Hat SEO",@"white label cloud service",@"white list",@"White noise",@"White paper",@"white-space",@"white space device",@"WSD",
+        @"whiteboard",@"Whitelist",@"Who was the inventor of xerography?",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
