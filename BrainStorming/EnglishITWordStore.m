@@ -2973,7 +2973,12 @@
         @"what you see is what you print",@"What's Your Bus Number?",@"WhatsApp",@"WHATWG",@"Web Hypertext Application Technology Working Group",
         @"Whip antenna",@"whistleblower",@"Whistleblower Protection Act",@"Whistler",@"White Balance",@"White Book",@"White box testing",@"white hat",
         @"White Hat SEO",@"white label cloud service",@"white list",@"White noise",@"White paper",@"white-space",@"white space device",@"WSD",
-        @"whiteboard",@"Whitelist",@"Who was the inventor of xerography?",];
+        @"whiteboard",@"Whitelist",@"Who was the inventor of xerography?",@"Whole Number",@"Whole Team Approach",@"team-based approach",
+        @"wholesaler",@"WHQL",@"Why spyware isn't just a home-user problem",@"Wi-Fi",@"Wi Fi Multimedia",@"Wi Fi Protected Access",@"Wi Fi range extender",
+        @"Wi-Fi",@"Wireless Fidelity",@"Wi-Fi cell phone",@"cellular-Internet phone",@"Wi-Fi Direct",@"Wi-Fi finder",@"Wi-Fi signal finder",@"wi-fi mesh",
+        @"Wi-Fi MultiMedia",@"WMM",@"Wi-Fi Protected Access",@"WPA",@"Wi-Fi range extender",@"Range Expander",@"Wi-Fi VoIP",@"Wi-Max",@"WiBB",@"Wibree",
+        @"Baby Bluetooth",@"WIC",@"Wide Area Application Services",@"WAAS",@"Wide Area Ethernet",@"WAE",@"Wide Area File Services",@"Wide Area Information Servers",
+        @"Wide-Area Network",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
