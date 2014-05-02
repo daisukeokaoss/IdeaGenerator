@@ -2978,7 +2978,12 @@
         @"Wi-Fi",@"Wireless Fidelity",@"Wi-Fi cell phone",@"cellular-Internet phone",@"Wi-Fi Direct",@"Wi-Fi finder",@"Wi-Fi signal finder",@"wi-fi mesh",
         @"Wi-Fi MultiMedia",@"WMM",@"Wi-Fi Protected Access",@"WPA",@"Wi-Fi range extender",@"Range Expander",@"Wi-Fi VoIP",@"Wi-Max",@"WiBB",@"Wibree",
         @"Baby Bluetooth",@"WIC",@"Wide Area Application Services",@"WAAS",@"Wide Area Ethernet",@"WAE",@"Wide Area File Services",@"Wide Area Information Servers",
-        @"Wide-Area Network",];
+        @"Wide-Area Network",@"Wide Area Telephone Service",@"Wide-Area File Services",@"WAFS",@"Wide-Area Information Servers",@"wide-area telephone service",
+        @"Wideband",@"wideband CDMA",@"Wideband Code Division Multiple Access",@"Wideband Code-Division Multiple Access",@"Wideband Integrated Digital Enhanced Network",
+        @"WiDEN",@"Wideband Integrated Digital Enhanced Network",@"widget",@"Wiegand",@"Wien's constant",@"WiFi",@"wifi blimp",@"wifi cell phone",@"WiFi Finder",
+        @"wifi Locator",@"WiFi mesh",@"wifi phone",@"WiFi seeker",@"WiFi Signal Finder",@"wiki",@"WikiLeaks",@"wikinomics",@"Wikipedia",@"WikiScanner",
+        @"Wildcard Certificate",@"wildcard character",@"Wildcard mask",@"Willamette",@"WiMAX",@"Worldwide Interoperability for Microwave Access",@"WIMP",
+        @"Win32s",@"Win9x",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
