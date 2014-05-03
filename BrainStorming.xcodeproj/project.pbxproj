@@ -14,6 +14,7 @@
 		C92C07311784FC65002F2AA1 /* BiologicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */; };
 		C930E64B180EAD8900745C19 /* WorldHistoryWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */; };
 		C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */; };
+		C95CB57A1914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m in Sources */ = {isa = PBXBuildFile; fileRef = C95CB5791914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m */; };
 		C95EDD41181E2638004489CC /* EnglishChemicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */; };
 		C9698D11174D2B5B007B7392 /* ElementaryWord1.m in Sources */ = {isa = PBXBuildFile; fileRef = C9698D10174D2B5B007B7392 /* ElementaryWord1.m */; };
 		C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */ = {isa = PBXBuildFile; fileRef = C96B083A16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m */; };
@@ -74,6 +75,8 @@
 		C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorldHistoryWordStore.m; sourceTree = "<group>"; };
 		C94C8DA116E7672900139C04 /* BrainStormingThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrainStormingThirdViewController.h; sourceTree = "<group>"; };
 		C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrainStormingThirdViewController.m; sourceTree = "<group>"; };
+		C95CB5781914C7B500A55F77 /* SteddmanMedicalWordStoreJP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SteddmanMedicalWordStoreJP.h; sourceTree = "<group>"; };
+		C95CB5791914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SteddmanMedicalWordStoreJP.m; sourceTree = "<group>"; };
 		C95EDD3F181E2638004489CC /* EnglishChemicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishChemicalWordStore.h; sourceTree = "<group>"; };
 		C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishChemicalWordStore.m; sourceTree = "<group>"; };
 		C9698D0F174D2B5B007B7392 /* ElementaryWord1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ElementaryWord1.h; sourceTree = "<group>"; };
@@ -270,6 +273,8 @@
 				C9ED10901756369E00DA197E /* ModeanSocialWord.m */,
 				C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */,
 				C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */,
+				C95CB5781914C7B500A55F77 /* SteddmanMedicalWordStoreJP.h */,
+				C95CB5791914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m */,
 				C998919C1803A2A200E4EAD9 /* OpticalWordStore.h */,
 				C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */,
 				C95EDD3F181E2638004489CC /* EnglishChemicalWordStore.h */,
@@ -405,6 +410,7 @@
 				C9ED10971757663F00DA197E /* InnerDatabaseSearcher.m in Sources */,
 				C9ED109A17576BE400DA197E /* InnerDatabaseSearch.m in Sources */,
 				C91909CB17618A1C009ACF8D /* SearchViewController.m in Sources */,
+				C95CB57A1914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m in Sources */,
 				C9EC50AF17FEF5F4006E2448 /* QBFlatButton.m in Sources */,
 				C9CCBB5A17656A48008EAF98 /* CBTWord.m in Sources */,
 				C930E64B180EAD8900745C19 /* WorldHistoryWordStore.m in Sources */,
