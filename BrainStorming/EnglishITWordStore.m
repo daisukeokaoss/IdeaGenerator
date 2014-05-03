@@ -2983,7 +2983,12 @@
         @"WiDEN",@"Wideband Integrated Digital Enhanced Network",@"widget",@"Wiegand",@"Wien's constant",@"WiFi",@"wifi blimp",@"wifi cell phone",@"WiFi Finder",
         @"wifi Locator",@"WiFi mesh",@"wifi phone",@"WiFi seeker",@"WiFi Signal Finder",@"wiki",@"WikiLeaks",@"wikinomics",@"Wikipedia",@"WikiScanner",
         @"Wildcard Certificate",@"wildcard character",@"Wildcard mask",@"Willamette",@"WiMAX",@"Worldwide Interoperability for Microwave Access",@"WIMP",
-        @"Win32s",@"Win9x",];
+        @"Win32s",@"Win9x",@"WinAMP",@"Windows Audio MPEG Player",@"WinChip",@"WinChip C6",@"Wind farm",@"Wind power",@"Wind turbine",@"WinDirStat",
+        @"Windows Directory Statistics",@"Window",@"Window RAM",@"WRAM",@"Windowing",@"Windowing system",@"Windows",@"Windows 1.0",@"Windows 2.0",@"Windows 2000",
+        @"Windows 3.0",@"Windows 3.1",@"Windows 7",@"Windows 8",@"Windows 95",@"Windows 98",@"Windows 9x",@"Windows as a Service",@"WaaS",@"Windows Audio MPEG Player",
+        @"Windows Azure",@"Windows Azure Backup",@"Windows Azure Fabric Controller",@"FC",@"Windows Azure Hyper-V Recovery Manager",@"Windows Azure Pack",
+        @"Windows CardSpace",@"Windows CE",@"Windows Cheat Sheets",@"Windows Clustering",@"Windows Communication Foundation",@"WCF",@"Windows Deployment Services",
+        @"WDS",@"Windows Directory Statistics",@"Windows Domain Join",@"Windows Embedded",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
