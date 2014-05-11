@@ -2988,7 +2988,16 @@
         @"Windows 3.0",@"Windows 3.1",@"Windows 7",@"Windows 8",@"Windows 95",@"Windows 98",@"Windows 9x",@"Windows as a Service",@"WaaS",@"Windows Audio MPEG Player",
         @"Windows Azure",@"Windows Azure Backup",@"Windows Azure Fabric Controller",@"FC",@"Windows Azure Hyper-V Recovery Manager",@"Windows Azure Pack",
         @"Windows CardSpace",@"Windows CE",@"Windows Cheat Sheets",@"Windows Clustering",@"Windows Communication Foundation",@"WCF",@"Windows Deployment Services",
-        @"WDS",@"Windows Directory Statistics",@"Windows Domain Join",@"Windows Embedded",];
+        @"WDS",@"Windows Directory Statistics",@"Windows Domain Join",@"Windows Embedded",@"Windows Event Log",@"Windows File System",@"WinFS",
+        @"Windows Genuine Advantage",@"WGA",@"Windows Hardware Quality Labs",@"WHQL",@"windows icon mouse and pull down menus",
+        @"windows icons mouse  and pull-down menus",@"Windows icons mouse and pulldown menus",@"Windows Imaging Format",@"WIM",
+        @"Windows Internet Naming Service",@"WINS",@"Windows Intune",@"Windows key",@"Winkey",@"Windows Live SkyDrive",@"Windows Management Instrumentation",
+        @"WMI",@"Windows Management Instrumentation Command line",@"Windows Me",@"Windows Millenium Edition",@"Windows Media Player",@"WMP",
+        @"Windows NT",@"Windows Phone 7",@"Windows Presentation Foundation",@"WPF",@"Windows Process Activation Service",@"WPAS",
+        @"Windows Product Activation",@"WPA",@"Windows Remote Desktop",@"Windows Remote Management",@"WinRM",@"Windows RT",@"Windows Server 2008 R2",
+        @"Windows Server 2012",@"WS 2012",@"Windows Server 8",@"Windows Server Backup",@"Windows Server Failover Clustering",@"WSFC",
+        @"Windows Server Update Services",@"WSUS",@"Windows Sharepoint Services",@"WSS",@"Windows SharePoint Server",@"Windows SharePoint Services",
+        @"Windows Storage Server 2012",@"Windows Storage Spaces",@"Windows Store",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
