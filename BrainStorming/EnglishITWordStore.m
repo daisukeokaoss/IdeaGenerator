@@ -2997,7 +2997,16 @@
         @"Windows Product Activation",@"WPA",@"Windows Remote Desktop",@"Windows Remote Management",@"WinRM",@"Windows RT",@"Windows Server 2008 R2",
         @"Windows Server 2012",@"WS 2012",@"Windows Server 8",@"Windows Server Backup",@"Windows Server Failover Clustering",@"WSFC",
         @"Windows Server Update Services",@"WSUS",@"Windows Sharepoint Services",@"WSS",@"Windows SharePoint Server",@"Windows SharePoint Services",
-        @"Windows Storage Server 2012",@"Windows Storage Spaces",@"Windows Store",];
+        @"Windows Storage Server 2012",@"Windows Storage Spaces",@"Windows Store",@"Windows Sysinternals",@"Windows Thin PC",@"Windows To Go",@"Windows Update Services",
+        @"Windows Workflow Foundation",@"WinWF",@"Windows XP",@"Windows XP end of life",@"Windows XP Key Changer",@"Windows XP Mode",
+        @"windows,icons,mouse, and pull-down menus",@"WIMP",@"Wine",@"Wine is Not an Emulator",@"WinFrame",@"WinFS",@"WinFX",@"WinGate",@"wink",@"Wink Release",
+        @"winner's curse",@"Winnowing",@"WinNuke",@"WinPE",@"Microsoft Windows Preinstallation Environment",@"WinRM",@"WinRT",@"WINS",@"Winsock",
+        @"Winsock 2",@"Wintel",@"WinWF",@"WinZip",@"WIP",@"WIP Limit",@"Wipe",@"Wipro Technologies",@"Wipro Limited",@"wire gauges",@"Wire speed",
+        @"Wired Equivalent Privacy",@"WEP",@"Wired for Management",@"WfM",@"wireless",@"Wireless Abstract XML",@"Wireless Application Protocol",
+        @"wireless application service provider",@"WASP",@"wireless ASP",@"wireless backhaul",@"Wireless Bitmap",@"WBMP",@"Wireless Blanket",
+        @"Wireless Broadband",@"WIBB",@"wireless cable",@"wireless charging",@"Wireless Communications Service",@"WCS",@"wireless distribution system",@"WDS",
+        @"Wireless Energy Transfer",@"wireless fidelity",@"Wireless Gateway",@"wireless inductive charging",@"wireless internet service provider",
+        @"wireless ISP",@"wireless LAN",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
