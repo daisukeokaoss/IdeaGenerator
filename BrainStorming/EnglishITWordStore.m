@@ -3006,7 +3006,22 @@
         @"wireless application service provider",@"WASP",@"wireless ASP",@"wireless backhaul",@"Wireless Bitmap",@"WBMP",@"Wireless Blanket",
         @"Wireless Broadband",@"WIBB",@"wireless cable",@"wireless charging",@"Wireless Communications Service",@"WCS",@"wireless distribution system",@"WDS",
         @"Wireless Energy Transfer",@"wireless fidelity",@"Wireless Gateway",@"wireless inductive charging",@"wireless internet service provider",
-        @"wireless ISP",@"wireless LAN",];
+        @"wireless ISP",@"wireless LAN",@"Wireless Local Area Network",@"Wireless LAN Routers",@"wireless local area network",@"Wireless Local Area Network Routers",
+        @"Wireless Local Number Portability",@"Wireless Markup Language",@"WML",@"Wireless Medical Telemetry Service",@"Wireless Medical Telemetry Service",
+        @"WMTS",@"Wireless mesh network",@"WMN",@"Wireless Mesh Networking",@"Wireless Messaging",@"Wireless Number Portability",@"Wireless Personal Area Network",
+        @"Wireless Point of Sale",@"Wireless POS",@"WPOS",@"Wireless Power Platform",@"Wireless Radio Charging",@"Wireless Resonant Charging",
+        @"Wireless Router",@"Wireless Service Provider",@"WSP",@"Wireless Substitution",@"Wireless Transport Layer Security",@"WTLS",@"wireless USB",
+        @"WUSB",@"wireless VoIP",@"wireless WAN",@"Wireless Wide Area Network",@"wireless Web",@"Wireless Wide Area Network",@"Wireless",@"Wireless MAN",
+        @"wireline-to-wireless number portability",@"Wireshark",@"wiretap Trojan",@"wiretapping",@"Wirth's Law",@"WISP",@"wizard",@"WLAN",
+        @"WLAN Authentication and Privacy Infrastructure",@"WLPN",@"WMI",@"WML",@"WMM",@"WMN",@"WMP",@"WMS",@"WMTS",@"WNS Global Services",@"WNS Holdings",
+        @"wolf",@"Wolfram Alpha",@"word",@"word processor",@"WordPress",@"Words-to-Go",@"Words-to-Go:Voice over IP",@"work",@"Work Breakdown Structure",
+        @"WBS",@"Work Folders",@"Windows Server 2012 R2",@"work in progress",@"WIP",@"work load",@"workaround",@"Workday",@"Workflow",@"Workforce Analytics",
+        @"workforce management",@"Workforce Management Software",@"Workforce Optimization Software",@"Workforce Planning",@"Working Draft",
+        @"Draft Document",@"workload",@"Workplace",@"user interface",@"Workplace Join",@"Workstation",@"Would Wide Name",@"WWN",@"World Wide Web",@"WWW",
+        @"World Wide Web Consortium",@"World Wide Web Distributed Authoring and Versioning",@"World's Most Ethical",@"WME",@"Worldwide Contributors",
+        @"Worldwide Interoperability for Microwave Access",@"worm",@"WORM",@"write once,read many",@"Worst case execution time",@"Worst-case execution time",
+        @"WCET",@"WPA",@"WPAD",@"WPAN",@"Wireless Personal Area Network",@"WPF",@"WPOS",@"WRAM",@"Window RAM",@"wrap plug",@"wrapper",@"writable DVD",
+        @"Write Amplification",@"Write Amplification Factor",@"WAF",@"write back",];
     [ITWordStore addObjectsFromArray:WWord];
     
     
