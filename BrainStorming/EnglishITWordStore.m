@@ -3021,8 +3021,21 @@
         @"World Wide Web Consortium",@"World Wide Web Distributed Authoring and Versioning",@"World's Most Ethical",@"WME",@"Worldwide Contributors",
         @"Worldwide Interoperability for Microwave Access",@"worm",@"WORM",@"write once,read many",@"Worst case execution time",@"Worst-case execution time",
         @"WCET",@"WPA",@"WPAD",@"WPAN",@"Wireless Personal Area Network",@"WPF",@"WPOS",@"WRAM",@"Window RAM",@"wrap plug",@"wrapper",@"writable DVD",
-        @"Write Amplification",@"Write Amplification Factor",@"WAF",@"write back",];
+        @"Write Amplification",@"Write Amplification Factor",@"WAF",@"write back",@"write cycle",@"write endurance",@"Write Once Read Many",
+        @"write once,read many",@"Write once ,run anywhere",@"WORA",@"write through",@"write-only code",@"Writing Tablet",@"WS-AtomicTransaction",@"WS AT",
+        @"WS Coordination",@"WS-1 Organization",@"WS Policy",@"WS-SecureConversation",@"WS-Security",@"WS Trust",@"WS-AT",@"WS-AtomicTransaction",
+        @"WS-Coordination",@"Web Services Coordination",@"WS-I",@"WS-I Organization",@"Web Services Interoperability",@"WS-Policy",@"Web Service Policy Framework",
+        @"WS-SecureConversation",@"WS-Security",@"Web Service Security",@"WS-Transaction",@"WS-Trust",@"WSCI",@"WSD",@"WSDL",@"wsname",@"WSP",@"WSS",
+        @"WSTx",@"Web Service Transaction",@"WSUS",@"WTLS",@"WTS",@"WUE",@"Water Usage Effectiveness",@"WUS",@"WUSB",@"WWN",@"WWW",@"WXGA",@"WYSIWYG",
+        @"what you see is what you get",@"WYSIWYP",@"what you see is what you print"];
     [ITWordStore addObjectsFromArray:WWord];
+    NSArray *XWord = @[@"X",@"x and y coordinates",@"x-coordinate",@"X dimension",@"X-engineering",@"X server",@"X Terminal",@"X Window System",@"XWindows",@"X#",
+        @"X-Box",@"X-Engineering",@"Cross Engineering",@"X-modem",@"X-off",@"X-on",@"X-ray body scanning",@"X.25",@"X.400",@"X.500",@"X.509 certificate",
+        @"X11 license",@"x2",@"x86",@"x86-64",@"X9",@"ASC X9",@"XaaS",@"Anything as a service",@"XACL",@"XACML",
+        @"Extensible Access Control Markup Language",@"Xactly Corporation",@"Xalan",@"eXtensible Access Method",@"XAM",@"XAML",
+        @"Extensible Application Markup Language",@"Xanadu",@"XBRL",@"Extensible Business Reporting Language",@"XCCDF",@"Extensible Configuration Checklist Description Format",
+        @"XDMA",];
+    [ITWordStore addObjectsFromArray:XWord];
     
     
     return ITWordStore;
