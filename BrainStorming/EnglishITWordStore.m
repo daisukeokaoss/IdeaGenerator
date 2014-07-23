@@ -3034,7 +3034,15 @@
         @"X11 license",@"x2",@"x86",@"x86-64",@"X9",@"ASC X9",@"XaaS",@"Anything as a service",@"XACL",@"XACML",
         @"Extensible Access Control Markup Language",@"Xactly Corporation",@"Xalan",@"eXtensible Access Method",@"XAM",@"XAML",
         @"Extensible Application Markup Language",@"Xanadu",@"XBRL",@"Extensible Business Reporting Language",@"XCCDF",@"Extensible Configuration Checklist Description Format",
-        @"XDMA",];
+        @"XDMA",@"Xing Distributed Media Architecture",@"Xen",@"Xenodochial",@"Xeon",@"Xerces",@"xerography",@"electrophotography",@"Xerox",@"XFDL",
+        @"Extensible Forms Description Language",@"XFS file system",@"XGA",@"XGA 2",@"Extended Graphics Array",@"XGA-2",@"XGA2",@"XHR",@"XHTML",
+        @"Extensible Hypertext Markup Language",@"XHTML Cheatsheet",@"XING",@"Xing Distributed Media Architecture",@"XIPC",@"XJACK",@"XMI",@"XML Metadata Interchange",
+        @"XML",@"Extensible Markup Language",@"XML Bomb",@"XML Core Services",@"XML Information Set",@"XML infoset",@"XML Information Set",@"XML Metadata Interchange",
+        @"XML namespace",@"XML pipeline",@"XML Pointer Language",@"XML Query Language",@"XML Schema Definition",@"XMLHttpRequest",@"XMLNews",@"Xmodem",
+        @"XMPP",@"Extensible Messaging and Presence Protocol",@"XML",@"Extensible MPEG-4 Textual",@"XNA Game Studio",@"XNOR",@"XNS",@"XO",@"Xoff",@"Xon",
+        @"Xon Xoff",@"Xon/Xoff",@"XOR",@"XORP",@"Extensible Open Router Platform",@"XP",@"XP key changer",@"XPath",@"XPath injection",@"XPointer",
+        @"XPRL",@"Extensible Public Relations Language",@"XQL",@"XML Query Language",@"XQuery",@"XrML",@"Extensible Rights Markup Language",@"XSD",
+        @"XML Schema Definition",@"XSL",@"Extensible stylesheet Language",@"XSL Transformations",@"XSLT",@"XSLT",@"xSP",@"XSRF",@"XSS",];
     [ITWordStore addObjectsFromArray:XWord];
     
     
