@@ -3042,8 +3042,27 @@
         @"XMPP",@"Extensible Messaging and Presence Protocol",@"XML",@"Extensible MPEG-4 Textual",@"XNA Game Studio",@"XNOR",@"XNS",@"XO",@"Xoff",@"Xon",
         @"Xon Xoff",@"Xon/Xoff",@"XOR",@"XORP",@"Extensible Open Router Platform",@"XP",@"XP key changer",@"XPath",@"XPath injection",@"XPointer",
         @"XPRL",@"Extensible Public Relations Language",@"XQL",@"XML Query Language",@"XQuery",@"XrML",@"Extensible Rights Markup Language",@"XSD",
-        @"XML Schema Definition",@"XSL",@"Extensible stylesheet Language",@"XSL Transformations",@"XSLT",@"XSLT",@"xSP",@"XSRF",@"XSS",];
+        @"XML Schema Definition",@"XSL",@"Extensible stylesheet Language",@"XSL Transformations",@"XSLT",@"XSLT",@"xSP",@"XSRF",@"XSS",@"XSS hole",
+        @"XST",@"XTACACS",@"Xubuntu",@"XUL",@"Extensible User-Interface Language",@"XWindows",@"XyWrite"];
     [ITWordStore addObjectsFromArray:XWord];
+    NSArray *YWord = @[@"Y",@"y coordinate",@"Y-Modem",@"Y/C Video",@"Y2K",@"year 2000",@"yacc",@"Yet Another Compiler Compiler",@"Yagi antenna",
+        @"Yagi-Uda array",@"Yagi-Uda array",@"Yahoo",@"yak shaving",@"Yammer",@"YANG",@"data modeling language",@"Yard Management System",@"YMS",
+        @"yc video",@"year 2000",@"Yellow Book",@"Yellowdog Updater Modified",@"YUM",@"Ymodem",@"YMS",@"yotta",@"Yottabyte",@"Your PC Graveyards",
+        @"YouTube",@"Yukon",@"YUM"];
+    [ITWordStore addObjectsFromArray:YWord];
+    NSArray *ZWord = @[@"z coordinate",@"Z Object Publishing Environment",@"Z-buffering",@"Z-modem",@"z/OS",@"z/VM",@"z990",@"T-Rex",@"Zabbix",
+        @"Zachman Framework",@"zap",@"zAware",@"Zbot",@"ZBR",@"Zenoss Service Dynamics",@"zenware",@"zero",@"Zero Administration",@"Zero Client",
+        @"zero day",@"Zero Insertion Force socket",@"Zero-Based Thinking",@"ZBT",@"Zero-Day Exploit",@"Zero-Day Vulnerability",@"Zero-TV",@"zettabyte",
+        @"zettaflops",@"Zeus Trojan",@"Zbot",@"ZFS",@"ZIF",@"ZIF socket",@"Zero Insertion Force socket",@"ZigBee",@"Zimbra Collaboration Server",
+        @"Zimmermann Real Time Transport Protocol",@"Zimmermann Real-Time Transport Protocol",@"zinc whiskers",@"zine",@"zip codes",@"Zoning Improvement Plan codes",
+        @"Zip disk",@"Zip drive",@"zipping",@"Zippo",@"Zmodem protocol",@"zoetrope",@"zombie",@"zombie army",@"zone",@"zone file",@"Zone Recording",@"zone-bit recording",
+        @"zone-density recording",@"zoned-bit recording",@"ZBR",@"zoning",@"Zoning Improvement Plan codes",@"zoo",@"Zoomed Video",@"Zoomed Video port",
+        @"Zoopraxiscope",@"Zope",@"Z Object Publishing Environment",@"Zotob",@"zphone",@"ZRTP",@"Zimmermann Real-Time Transport Protocol",@"zsh",@"Zulu",
+        @"Zulu time",@"Zune",@"ZV port",@"Zoomed Video port"];
+    [ITWordStore addObjectsFromArray:ZWord];
+    NSArray *CHARWord = @[@"#!",@"$100 laptop",@"XO",@"$100 personal computer",@"$35 computer",@"%",@".cab",@".ini",@".NET",@".NET 3.0",@"WinFX",@".ogg",
+        @".ost",@".pst",@".shtml",@".Tel",@".vi",@"0",@"0-day",@"1 to 1 marketing",@"10 Gigabit Ethernet",@"10 GbE",@"10 high day busy period",@"10-Gigabit Ethernet",];
+    [ITWordStore addObjectsFromArray:CHARWord];
     
     
     return ITWordStore;
