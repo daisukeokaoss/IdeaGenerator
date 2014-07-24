@@ -3061,7 +3061,22 @@
         @"Zulu time",@"Zune",@"ZV port",@"Zoomed Video port"];
     [ITWordStore addObjectsFromArray:ZWord];
     NSArray *CHARWord = @[@"#!",@"$100 laptop",@"XO",@"$100 personal computer",@"$35 computer",@"%",@".cab",@".ini",@".NET",@".NET 3.0",@"WinFX",@".ogg",
-        @".ost",@".pst",@".shtml",@".Tel",@".vi",@"0",@"0-day",@"1 to 1 marketing",@"10 Gigabit Ethernet",@"10 GbE",@"10 high day busy period",@"10-Gigabit Ethernet",];
+        @".ost",@".pst",@".shtml",@".Tel",@".vi",@"0",@"0-day",@"1 to 1 marketing",@"10 Gigabit Ethernet",@"10 GbE",@"10 high day busy period",@"10-Gigabit Ethernet",
+        @"10HD busy period",@"100 dollar laptop",@"100 Gigabit Ethernet",@"100 Gigabit Ethernet",@"100 laptop",@"1000BASE-T",@"100BASE-T",@"100GbE",
+        @"1080p",@"10BASE-2",@"10BASE-36",@"10BASE-5",@"10BASE-F",@"10BASE-T",@"10BASE2",@"10BASE36",@"10BASE5",@"10BASEF",@"10BASET",@"10g",
+        @"10GBASE T",@"10HD busy period",@"1170",@"UNIX 98",@"11th dimension",@"121",@"one-to-one",@"1284.4",@"12X",@"136 browser colors with names",
+        @"1394",@"14000",@"14001",@"16 bit Unicode Transformation Format",@"16-bit grayscale",@"1:1 marketing",@"1GL",@"1NF",@"1X",@"1x Evolution Data Optimized",
+        @"1x Evolution-Data Optimized",@"1xRTT",@"Single-Carrier Radio Transmission Technology",@"2-tier Internet",@"2.5G",@"2000 year old computer",
+        @"2000-year-old computer",@"2001",@"2002/95/EC",@"216-color browser-safe palette",@"24 Hours a Day",@"24/7",@"24X",@"24x7",@"24 hours a day,7 days a week",
+        @"2600",@"2D barcode",@"two-dimensional barcode",@"2GL",@"2NF",@"2X",@"3-D chip",@"3-D",@"three dimensions",@"three-dimensional",@"3-D browser",
+        @"3-D chip",@"3D chip",@"3-D printing",@"additive manufacturing",@"3-D scanner",@"3-D TV",@"3-tier application",@"3000",@"32-bit IP address",
+        @"32-bit IP addressing",@"3270",@"Information Display System",@"3BL",@"3D",@"3D chip",@"3D NAND flash",@"3D tradeshow",@"3D Virtual Tradeshow",
+        @"3D web browser",@"3G",@"third generation of  mobile telephony",@"3G card",@"3GL",@"3NF",@"3PL",@"Third-party logistics",@"3Vs",@"volume, variety and velocity",
+        @"4D human atlas",@"4-D printing",@"four-dimensional printing",@"4-G",@"40 Gigabit Ethernet",@"40GbE",@"404",@"Status Code",@"404 error page",
+        @"42",@"h2g2",@"Meaning of life",@"4G",@"fourth-generation wireless",@"4GL",@"4X",@"5 terms you need to know before you employ VoIP",@"5 Whys",
+        @"50X",@"5GL",@"6 Sigma",@"64-bit",@"64-bit processor",@"6to4",@"7 days a week",@"70-20-10",@"70-20-10 rule",@"720p",@"8 level vestigial sideband",
+        @"8VSB",@"8-bit grayscale",@"8-level vestigial sideband",@"8-track tape",@"8-VSB",@"8-level vestigial sideband",@"80",@"802.11",
+        @"802.11 Networking Handbook",@"802.11 Fast Guide",@"802.11a",@"802.11ac",@"Gigabit Wi-Fi",];
     [ITWordStore addObjectsFromArray:CHARWord];
     
     
