@@ -27,7 +27,19 @@
         @"Agricultural Marketing Service",@"AMS",@"Agricultural Quarantine Inspection",@"AQI",@"Agricultural Research Service",@"ARS",
         @"Agricultural Stabilization and Conservation Service",@"ASCS",@"Agricultural Trade Development and Assistance Act of 1954",@"Agricultural diversification",
         @"Agricultural Trade Office",@"Agriculture and Consumer Protection Act of 1973",@"Agriculture and Food Act of 1981",
-        @"Agriculture in Concert with the Environment",@"ACE",@"Alar",@"Alcohol",];
+        @"Agriculture in Concert with the Environment",@"ACE",@"Alar",@"Alcohol",@"Allotment",@"Allowable sales quantity",@"ASQ",@"Alternative Agriculture",
+        @"Alternative Fuels",@"Ammonia",@"And traceback",@"Andean Common Market",@"ANCOM",@"Andean Group",@"Animal Damage Control Program",@"Animal Welfare Act",
+        @"Animal and Plant Health Inspection Service",@"APHIS",@"Animal Drugs",@"Animal Protein",@"Animal unit",@"Antemortem",@"Antidumping duty",
+        @"Appraised stumpage price",@"appraised rate",@"Aquaculture",@"Aquifer",@"Area yield options contract",@"Arid",@"AsiaPacific Economic Cooperation forum",
+        @"APEC",@"Assessment",@"B&I",@"BACT",@"BAT",@"BC",@"BCS",@"BCT",@"BFP",@"BFW",@"BGH",@"BLM",@"BLS",@"BMP",@"BOD",@"BOR",@"BPI",@"BPJ",@"BPT",@"BSE",
+        @"BST",@"Balance of payments",@"Balance of trade",@"Bankhead-Jones Farm Tenant Act of 1937",@"Banks for Cooperatives",@"BC",@"Bargaining Association",
+        @"Barter",@"Base acreage",@"Base period price",@"base property",@"Base rate",@"Basic commodities",@"basic formula price",@"BFP",@"Basing point",@"Basis",
+        @"Basis Risk",@"Bbf",@"Beef Price Index",@"Cattle Price Index",@"BPI",@"Below-Cost timber sale",@"Best Management Practices",@"BMP",@"Bid",
+        @"Bilateral Trade Agreement",@"Bioaccumulation",@"Biodiversity",@"biological diversity",@"Biological control",@"Biologics",@"Biomagnification",
+        @"biological magnification",@"Biomass",@"Biopesticide",@"Blair House Agreement",@"Blend price",@"Blended Credit",@"Blending",@"Brand foot",
+        @"Boll weevil",@"Bonus commodities",@"Botanical pesticides",@"Bottom",@"Bound tariff rate",@"Bovine Growth Hormone",@"BGH",@"Bovine tuberculosis",
+        @"Boxed beef",@"Breastfeeding promotion",@"Broadcast application",@"Broiler",@"Brucellosis",@"Bt",@"Bu.",@"Buffer Strips",@"Bulgur",@"Bulk carrier",
+        @"Bulk commodities",@"Bureau of Land Management",@"Bureau of Reclamation",@"Burley tobacco",@"Bushel",];
     [AgricultureWord addObjectsFromArray:Word];
     
     return AgricultureWord;
