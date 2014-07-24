@@ -14,7 +14,20 @@
 {
     NSMutableArray *AgricultureWord = [[NSMutableArray alloc] init];
     
-    NSArray *Word = @[@"BOD",@"DLT",@"GIPSA",@"IGA"];
+    NSArray *Word = @[@"BOD",@"DLT",@"GIPSA",@"IGA",@"MOA",@"NAAQS",@"NAS",@"NNRCF",@"NRI",@"OECD",@"RHS",@"RUS",@"SPS",@"measures and agreements",@"UNCTAD",@"bST",
+        @"cornhog ratio",@"Crop Year",@"AARCC",@"ABA",@"AC",@"ACA",@"ACE",@"ACP",@"ACPA",@"ACR",@"ACS",@"ACSH",@"ACTPN",@"AD",@"ADA",@"ADC",@"ADI",@"AFBF",@"AFDO",
+        @"AFFI",@"AFIA",@"AFT",@"AHI",@"AID",@"AIF",@"AMI",@"AMS",@"AMTA",@"ANCOM",@"ANPR",@"APA",@"APEC",@"APHA",@"APHIS",@"APWA",@"AQI",@"ARI",@"ARP",@"ARS",
+        @"ASA",@"ASAE",@"ASEAN",@"ASFSA",@"ASIA",@"ASQ",@"Abandoned wells",@"Acid deposition",@"Acid Rain",@"Packers and Stockyards Act of 1921",@"Acquired land",
+        @"Acreage Reduction Program",@"ARP",@"Acreage Allotment",@"acreage base",@"base acres",@"Acefoot",@"Act of 1988",@"Action Levels",@"Active ingredient",
+        @"Actuarially Sound",@"Acute toxicity",@"Ad valorem duty",@"Adjusted world price",@"Administrative Procedure Act",@"Adulterated food",
+        @"Advance deficiency payments",@"Agency for International Development",@"AID",@"USAID",@"Aggregate measure of support",@"AMS",@"Agribusiness",
+        @"Agricultural Act of 1949",@"Agricultural Act of 1954",@"Agricultural Act of 1956",@"Agricultural Act of 1970",@"Agricultural Adjustment Act of 1933",
+        @"Agricultural Adjustment Act Amendment of 1935",@"Agricultural Adjustment Act of 1938",@"Agricultural Attache,Counselor, or Trade Officer",
+        @"Agricultural Conservation Program",@"ACP",@"Agricultural Market Transition Act",@"AMTA",@"Agricultural Marketing Agreement Act of 1937",
+        @"Agricultural Marketing Service",@"AMS",@"Agricultural Quarantine Inspection",@"AQI",@"Agricultural Research Service",@"ARS",
+        @"Agricultural Stabilization and Conservation Service",@"ASCS",@"Agricultural Trade Development and Assistance Act of 1954",@"Agricultural diversification",
+        @"Agricultural Trade Office",@"Agriculture and Consumer Protection Act of 1973",@"Agriculture and Food Act of 1981",
+        @"Agriculture in Concert with the Environment",@"ACE",@"Alar",@"Alcohol",];
     [AgricultureWord addObjectsFromArray:Word];
     
     return AgricultureWord;
