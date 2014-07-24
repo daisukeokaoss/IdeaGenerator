@@ -3076,7 +3076,7 @@
         @"42",@"h2g2",@"Meaning of life",@"4G",@"fourth-generation wireless",@"4GL",@"4X",@"5 terms you need to know before you employ VoIP",@"5 Whys",
         @"50X",@"5GL",@"6 Sigma",@"64-bit",@"64-bit processor",@"6to4",@"7 days a week",@"70-20-10",@"70-20-10 rule",@"720p",@"8 level vestigial sideband",
         @"8VSB",@"8-bit grayscale",@"8-level vestigial sideband",@"8-track tape",@"8-VSB",@"8-level vestigial sideband",@"80",@"802.11",
-        @"802.11 Networking Handbook",@"802.11 Fast Guide",@"802.11a",@"802.11ac",@"Gigabit Wi-Fi",];
+        @"802.11 Networking Handbook",@"802.11 Fast Guide",@"802.11a",@"802.11ac",@"Gigabit Wi-Fi",@"802.11ad",@"802.11b",@"802.11d",@"802.11e",];
     [ITWordStore addObjectsFromArray:CHARWord];
     
     
