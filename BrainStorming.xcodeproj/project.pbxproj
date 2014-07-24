@@ -13,6 +13,7 @@
 		C927772917DA0EC400996623 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C927772817DA0EC400996623 /* iAd.framework */; };
 		C92C07311784FC65002F2AA1 /* BiologicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */; };
 		C930E64B180EAD8900745C19 /* WorldHistoryWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */; };
+		C94C26F419810E4B0065ACE8 /* EnglishAgricultureDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C26F319810E4B0065ACE8 /* EnglishAgricultureDictionary.m */; };
 		C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */; };
 		C95CB57A1914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m in Sources */ = {isa = PBXBuildFile; fileRef = C95CB5791914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m */; };
 		C95EDD41181E2638004489CC /* EnglishChemicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */; };
@@ -73,6 +74,8 @@
 		C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BiologicalWordStore.m; sourceTree = "<group>"; };
 		C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorldHistoryWordStore.h; sourceTree = "<group>"; };
 		C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorldHistoryWordStore.m; sourceTree = "<group>"; };
+		C94C26F219810E4B0065ACE8 /* EnglishAgricultureDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishAgricultureDictionary.h; sourceTree = "<group>"; };
+		C94C26F319810E4B0065ACE8 /* EnglishAgricultureDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishAgricultureDictionary.m; sourceTree = "<group>"; };
 		C94C8DA116E7672900139C04 /* BrainStormingThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrainStormingThirdViewController.h; sourceTree = "<group>"; };
 		C94C8DA216E7672900139C04 /* BrainStormingThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrainStormingThirdViewController.m; sourceTree = "<group>"; };
 		C95CB5781914C7B500A55F77 /* SteddmanMedicalWordStoreJP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SteddmanMedicalWordStoreJP.h; sourceTree = "<group>"; };
@@ -283,6 +286,8 @@
 				C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */,
 				C9A06DD01879B5AB00F2E654 /* EnglishITWordStore.h */,
 				C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */,
+				C94C26F219810E4B0065ACE8 /* EnglishAgricultureDictionary.h */,
+				C94C26F319810E4B0065ACE8 /* EnglishAgricultureDictionary.m */,
 				C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */,
 				C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */,
 				C994950516D9B404007FDD3A /* GeneralWordStore.h */,
@@ -394,6 +399,7 @@
 				C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */,
 				C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */,
 				C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */,
+				C94C26F419810E4B0065ACE8 /* EnglishAgricultureDictionary.m in Sources */,
 				C994950116D9B33E007FDD3A /* WordStore.m in Sources */,
 				C994950416D9B3C6007FDD3A /* ITWordStore.m in Sources */,
 				C9A06DD21879B5AB00F2E654 /* EnglishITWordStore.m in Sources */,
