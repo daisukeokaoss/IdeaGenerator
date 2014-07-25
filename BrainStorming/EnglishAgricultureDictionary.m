@@ -47,7 +47,25 @@
         @"Delaney Clause",@"Delayed Pricing",@"Delivery",@"Delivery month",@"Delivery point",@"Department of Agriculture",@"USDA",
         @"Department of Agriculture Reorganization Act of 1994",@"Dermal Toxicity",@"Desiccant",@"Designated uses of water",@"Desired future conditions",
         @"Desired Plant Community",@"Development easement",@"Diethylstilbestrol",@"DES",@"Dioxin",@"Direct Export Credit",@"Direct payments",
-        @"Discharge",@"Dispute Settlement Body",@"DSB"];
+        @"Discharge",@"Dispute Settlement Body",@"DSB",@"DTP",@"Dacthal",@"DCPA",@"Dairy Diversion Program",@"Dairy Export Incentive Program",@"DEIP",
+        @"Dairy Price Support Program",@"Dairy Promotion Program",@"Dairy Termination Program",@"Dairy and Tobacco Adjustment Act of 1983",@"Data callin",
+        @"Debtasset ratio",@"Decoupling",@"deferred pricing",@"Deficiency payments",@"Defoliant",@"Delaney Clause",@"Delayed pricing",@"delivery",
+        @"Delivery month",@"Delivery point",@"Department of Agriculture",@"USDA",@"Department of Agriculture Reorganization Act of 1994",
+        @"Dermal Toxicity",@"Desiccant",@"Designated uses of water",@"Desired future conditions",@"Desired Plant Community",@"Development easement",
+        @"Diethylstibestrol",@"DES",@"Dioxin",@"Direct Export Credit",@"Direct payments",@"Disaster payments",@"Discharge",@"Dispute Settlement Body",@"DSB",
+        @"Dissolved Oxygen",@"DO",@"Distance Learning and Telemedicine Grant and Loan Program",@"Diversion Payments",@"Dockage",@"Doctrine of prior appropriation",
+        @"Domestic farm labor",@"Double cropping",@"Downer",@"downed animals",@"Drainage",@"Drainage basin",@"Drainage Wells",@"Dryland farming",@"Dumping",
+        @"Durum Wheat",@"import duty",@"Economics Advisory Board",@"Effect",@"Encephalopathy",@"BSE",@"Equivalent",@"PSE",@"GAP",@"GATT",@"GDP",@"GIPSA",
+        @"GIS",@"GMA",@"GMP",@"GPCP",@"GPRA",@"GPS",@"GRAS",@"GSM",@"GSM 102/103",@"GSP",@"Gas chromatograph",@"mass spectrometer",@"gasohol",
+        @"General Agreement on Tariffs and Trade",@"GATT",@"General Sales Manager",@"GSM",@"Generalized System of Preferences",@"GSP",
+        @"Generic Advertising and promotion",@"Generic certificate",@"Genome",@"Germicide",@"Gleaning",@"Good Samaritan Act of 1996",
+        @"Good Manufacturing Practices",@"GMPs",@"Good samaritan law",@"Grade A Pasteurized Milk Ordinance",@"Grade A milk",@"Grades and standards",
+        @"Grading Certificates",@"Grain Standards Act of 1916",@"Grain reserve",@"Grains Trade Convention",@"GTC",@"Granger-Thye Act of 1950",
+        @"Grassed waterway",@"Grazing Lands Conservation Initiative",@"GLCI",@"Grazing district",@"Grazing fee",@"Grazing permit",@"Grazing License",
+        @"Grazing Lease",@"Grazing preference",@"Grazing Privilege",@"Great Plains Conservation Program",@"GPCP",@"Gross Domestic Product",@"GDP",
+        @"Gross farm income",@"Groundwater",@"Growing season",@"Guaranteed export credit",@"Gully erosion",@"HACCP",@"HAZMAT",@"HCP",@"HEL",@"HHS",
+        @"HSI",@"HSUS",@"HTS",@"HVP",@"Habitat",@"Habitat Conservation Plans",@"HCPs",@"Handler",@"Harmonization",@"Harmonized System",@"Harvested Acres",
+        @"Hatch Act of 1887",@"Haying and grazing rules",];
     [AgricultureWord addObjectsFromArray:CWord];
     
     return AgricultureWord;
