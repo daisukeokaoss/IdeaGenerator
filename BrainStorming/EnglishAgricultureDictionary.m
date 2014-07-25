@@ -39,8 +39,15 @@
         @"biological magnification",@"Biomass",@"Biopesticide",@"Blair House Agreement",@"Blend price",@"Blended Credit",@"Blending",@"Brand foot",
         @"Boll weevil",@"Bonus commodities",@"Botanical pesticides",@"Bottom",@"Bound tariff rate",@"Bovine Growth Hormone",@"BGH",@"Bovine tuberculosis",
         @"Boxed beef",@"Breastfeeding promotion",@"Broadcast application",@"Broiler",@"Brucellosis",@"Bt",@"Bu.",@"Buffer Strips",@"Bulgur",@"Bulk carrier",
-        @"Bulk commodities",@"Bureau of Land Management",@"Bureau of Reclamation",@"Burley tobacco",@"Bushel",];
+        @"Bulk commodities",@"Bureau of Land Management",@"Bureau of Reclamation",@"Burley tobacco",@"Bushel",@"Business incubator",@"Bypass Flow"];
     [AgricultureWord addObjectsFromArray:Word];
+    NSArray *CWord = @[@"CAA",@"CACFP",@"CAFO",@"Corporation",@"AARCC",@"DC",@"DDT",@"DEIP",@"DES",@"DNA",@"DO",@"DPSP",@"DRES",@"DSB",@"DTP",@"Dacthal",@"DCPA",
+        @"Dairy Diversion Program",@"Dairy Export Incentive Program",@"DEIP",@"Dairy Price Support Program",@"Dairy Promotion Program",@"Dairy Termination Program",
+        @"Dairy and Tobacco Adjustment Act of 1983",@"Data callin",@"Debt/asset ratio",@"Decoupling",@"Deferred Pricing",@"Deficiency Payments",@"Defoliant",
+        @"Delaney Clause",@"Delayed Pricing",@"Delivery",@"Delivery month",@"Delivery point",@"Department of Agriculture",@"USDA",
+        @"Department of Agriculture Reorganization Act of 1994",@"Dermal Toxicity",@"Desiccant",@"Designated uses of water",@"Desired future conditions",
+        @"Desired Plant Community",@"Development easement",@"Diethylstilbestrol",@"DES",@"Dioxin",@"Direct Export Credit",@"Direct payments",
+        @"Discharge",@"Dispute Settlement Body",@"DSB"];
     
     return AgricultureWord;
 }
