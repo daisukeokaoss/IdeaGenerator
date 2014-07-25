@@ -48,6 +48,7 @@
         @"Department of Agriculture Reorganization Act of 1994",@"Dermal Toxicity",@"Desiccant",@"Designated uses of water",@"Desired future conditions",
         @"Desired Plant Community",@"Development easement",@"Diethylstilbestrol",@"DES",@"Dioxin",@"Direct Export Credit",@"Direct payments",
         @"Discharge",@"Dispute Settlement Body",@"DSB"];
+    [AgricultureWord addObjectsFromArray:CWord];
     
     return AgricultureWord;
 }
