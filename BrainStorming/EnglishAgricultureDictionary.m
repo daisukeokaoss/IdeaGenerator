@@ -88,7 +88,12 @@
         @"Marketing quotas",@"allotment",@"Marketing Spread",@"Maximum Tolerated Dose",@"MTD",@"Mbf",@"McIntire-Stennis Act of 1962",@"Medfly",@"Mega-reg",
         @"Mercado Comun del Sur",@"MERCOSUR",@"Merchant Marine Act of 1920",@"Methane",@"Methanol",@"Methyl bromide",@"Metric ton",
         @"Migratory Bird Treaty Act of 1918",@"Milk equivalent",@"Milk Marketing Orders",@"Milkfeed price ratio",@"Minimal nutritional value",
-        @"Minimum access",@"Minnesota-Wisconsin price",@"MW price",];
+        @"Minimum access",@"Minnesota-Wisconsin price",@"MW price",@"Minor crops",@"Minor oilseeds",@"Wetland Mitigation bank",@"Mmt",
+        @"Model Good Samaritan Food Donation Act",@"Monetization",@"Monoculture",@"Montreal Protocol on Ozone Depleting Substance",@"Morbidity",
+        @"Morrill Act of 1862",@"Morrill Act of 1980",@"Mostfavorednation treatment",@"MFN",@"Mulch",@"Multilateral Agreement",@"Multilateral trade negotiations",
+        @"MTN",@"Multiple basing point",@"Multiple component pricing",@"Multiple use",@"Mutagen",@"Mutual self-help housing",@"NAA",@"NACD",@"NACMCF",
+        @"NACO",@"NAD",@"NADA",@"NAEGA",@"NAFTA",@"NAFV",@"NAHMS",@"NAL",@"NAMP",@"NAP",@"NARC&DC",@"NAS",@"NASCOE",@"NASDA",@"NASS",@"NASULGC",@"NAWD",
+        @"NAWG",];
     
     return AgricultureWord;
 }
