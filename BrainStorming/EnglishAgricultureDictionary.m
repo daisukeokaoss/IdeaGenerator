@@ -102,7 +102,33 @@
         @"National Estuary Program",@"National Forest Management Act of 1976",@"NFMA",@"National Forest System",@"NFS",@"National Marine Fisheries Service",@"NMFS",
         @"National Milk Laboratory Certification Program",@"National Natural Resources Conservation Foundation",@"National Organic Standards Board",
         @"National Partnership Office",@"NPO",@"National Research Council",@"NRC",@"National Research Initiative Competitive Grants Program",
-        @"National Rural Development Council",@"NRDC",];
+        @"National Rural Development Council",@"NRDC",@"National Rural Development Parnetship",@"National Rural Economic Development Institute",@"NREDI",
+        @"National School Lunch Act",@"National Shellfish Sanitation Program",@"NSSP",@"National Wildlife Refuge System",@"NWRS",@"National farm program acreage",
+        @"National Forest",@"National Grasslands",@"National resources inventory",@"NRI",@"Natural Resource Conservation Service",@"NARCS",@"Net cash income",
+        @"Net farm income",@"net income",@"Net pen culture",@"Nitrogen",@"No Net Cost Tobacco Act of 1982",@"No net cost",@"No net loss wetlands policy",
+        @"No observable adverse effect level",@"NOAEL",@"Nonbasic Commodities",@"Noncompetitive imports",@"Non Insured Assistance Program",@"NAP",
+        @"Nonmoney income",@"Nonpoint source pollution",@"Nonprogram crops",@"Nonrecourse Loan",@"Nonrenewable resources",@"Nonroad Emissions",
+        @"Nontariff barriers",@"NTB's",@"Normal Crop Acreage",@"Normal flex acreage",@"Normal Yield",@"North American Free Trade Agreement",@"NAFTA",
+        @"North American Free Trade Agreement Implementation Act",@"North American Waterfowl Management Plan",@"North American Wetlands Conservation Act",
+        @"Northeast Interstate Dairy Compact",@"Northern Europe cotton price",@"NE",@"Noxious weeds",@"Nutrient pollution",@"Nutrition Assistance Programs",
+        @"Nutrition Education and Training Program",@"NET",@"Nutrition guidelines"];
+    [AgricultureWord addObjectsFromArray:JWord];
+    NSArray *OWord = @[@"OBPA",@"OECD",@"OGC",@"OIG",@"OL",@"ORACBA",@"OSHA",@"Ocean Freight differential",@"Ocean ranching",@"Offal",@"Offer versus serve",
+        @"offfarm income",@"nonfarm income",@"Office Of Risk Management",@"Office of the Chief Economist",@"OCE",@"Offset",@"Offsetting compliance",
+        @"Oilseed crops",@"Omnibus Trade and Competitiveness Act of 1988",@"Open position",@"Option contract",@"Option Premium",@"Option Writer",
+        @"Optional flex acreage",@"Options Contracts",@"Oral toxicity",@"Orderly marketing",@"Organic",@"Organic certification",@"Organic farming",
+        @"Organic foods",@"Organization for Economic Development and Cooperation",@"Organoleptic",@"Organophosphates",@"Ozone",@"O3",@"P.L. 480",
+        @"Public Law 480",@"PL-566",@"PACA",@"PBIS",@"PC",@"PCA",@"PCC",@"PDP",@"PETA",@"PFC",@"PILT",@"PIN",@"PLD",@"PMA",@"PMO",@"PPB",@"PPI",
+        @"PPIA",@"PPM",@"PPT",@"PRA",@"PRIA",@"PRN",@"PSA",@"PSE",@"PVO",@"Packer Concentration",@"Paid diversion",@"Paid Lunch",@"Parity Price",
+        @"Parity ratio",@"Particulate Matter",@"Partners for Wildlife",@"Pastureland",@"Pathogen;pathogenic",@"Payment Limitation",@"Payment quantity",
+        @"Payment rate",@"Paymentinkind",@"PIK",@"Payments in lieu of taxes",@"PILT",@"Peace Clause",@"Peanut Price Support Program",@"Percolation",
+        @"Performance Based Inspection System",@"PBIS",@"Perishable Agricultural Commodities Act of 1930",@"Perishable Commodities",@"permanent law",
+        @"Permanent vegetative cover",@"Permitted acreage",@"Persistent pesticides",@"Person",@"Personal Responsibility Work Opportunity Reconciliation Act of 1996",
+        @"Pest",@"Pest resistance management plans",@"PRM",@"Pest scouting",@"Pesticide Data Program",@"PDP",@"Pesticide Recordkeeping Program",
+        @"PRP",@"Phosphorus",@"Plant Variety Protection Act of 1970",@"Plant regulator",@"PlantPesticide",@"Point",@"Point source pollution",@"Policy Act",
+        @"Pollution",@"Pork bellies",@"Posted county  price",@"PCP",@"Postharvest",@"Postmortem Inspection",@"Poultry Products Inspection Act of 1957",
+        @"Poundage quota",@"Poverty guideline",@"Prairie potholes",@"Precision Farming",@"Preharvest",];
+    [AgricultureWord addObjectsFromArray:OWord];
     
     return AgricultureWord;
 }
