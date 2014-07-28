@@ -145,7 +145,11 @@
         @"Rural Electrification Administration",@"Rural Housing Service",@"RHS",@"Rural home loads",@"Rural Home Repair Loans and Grants",
         @"Rural multifamily housing loans",@"Rural Rental Assistance"];
     [AgricultureWord addObjectsFromArray:OWord];
-    NSArray *SWord = @[@"S&D",@"S&PF",@"S.T.O.P.",@"S/U",@"SAB",@"SAC",];
+    NSArray *SWord = @[@"S&D",@"S&PF",@"S.T.O.P.",@"S/U",@"SAB",@"SAC",@"SAES",@"SAF",@"SAP",@"Special and differential treatment",@"State & Private Forestry",
+        @"Safe Tables Our Priority",@"Stock-to-use ratio",@"Science Advisory Board",@"Suspended and Canceled Pesticides",@"State agricultural Experiment Stations",
+        @"Society of American Foresters",@"Scientific Advisory Panel",@"SARE",@"Sustainable Agriculture Research and Extension Program",@"School Breakfast Program",
+        @"SBP",@"State Conservation",@"SCD",@"Soil Conservation District",@"Soil and Water Conservation District",@"SDWA",@"Safe Drinking Water Act",
+        @"SE",@"SEC",];
     [AgricultureWord addObjectsFromArray:SWord];
     
     return AgricultureWord;
