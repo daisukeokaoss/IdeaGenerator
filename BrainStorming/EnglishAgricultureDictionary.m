@@ -143,8 +143,10 @@
         @"Riparian buffer",@"Riparian rights",@"Risk assessment",@"Risk management",@"Riskbenefit analysis",@"Round",@"Ruminant",@"direct Runoff",@"Rural",
         @"Rural Business-Cooperative Service",@"RBS",@"Rural Community Advancement Program",@"RCAP",@"Rural Development Trust Fund",@"Rural Electric Cooperative",
         @"Rural Electrification Administration",@"Rural Housing Service",@"RHS",@"Rural home loads",@"Rural Home Repair Loans and Grants",
-        @"Rural multifamily housing loans",@"Rural Rental Assistance",];
+        @"Rural multifamily housing loans",@"Rural Rental Assistance"];
     [AgricultureWord addObjectsFromArray:OWord];
+    NSArray *SWord = @[@"S&D",@"S&PF",@"S.T.O.P.",@"S/U",@"SAB",@"SAC",];
+    [AgricultureWord addObjectsFromArray:SWord];
     
     return AgricultureWord;
 }
