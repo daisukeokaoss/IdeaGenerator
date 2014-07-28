@@ -127,7 +127,23 @@
         @"Pest",@"Pest resistance management plans",@"PRM",@"Pest scouting",@"Pesticide Data Program",@"PDP",@"Pesticide Recordkeeping Program",
         @"PRP",@"Phosphorus",@"Plant Variety Protection Act of 1970",@"Plant regulator",@"PlantPesticide",@"Point",@"Point source pollution",@"Policy Act",
         @"Pollution",@"Pork bellies",@"Posted county  price",@"PCP",@"Postharvest",@"Postmortem Inspection",@"Poultry Products Inspection Act of 1957",
-        @"Poundage quota",@"Poverty guideline",@"Prairie potholes",@"Precision Farming",@"Preharvest",];
+        @"Poundage quota",@"Poverty guideline",@"Prairie potholes",@"Precision Farming",@"Preharvest",@"Preproductio Expenses",@"Prevented Planting Acreage",
+        @"Price elasticity of demand",@"Price index",@"Price support",@"Prices paid index",@"Prices received index",@"Prior appropriation",
+        @"Prior Converted Wetland",@"Private voluntary organization",@"PVO",@"Production Credit Association",@"PCA",@"production expenses",
+        @"Production flexibility contract",@"Productivity",@"Program crops",@"Program Yield",@"Projected Yield",@"promotion program",@"Prorate",
+        @"Pseudorabies",@"Public Rangelands Improvement Act of 1978",@"PRIA",@"Public elevators",@"Public lands",@"Puerto Rico Block Grant",
+        @"Purchaser road credits",@"QA/QC",@"QR",@"Quantitative restrictions of trade",@"Import Quotas",@"R&D",@"RBS",@"RBCS",@"RC",@"RC&D",@"RCA",
+        @"RCAP",@"RCD",@"RCRA",@"RD",@"RDA",@"RDNA",@"REC",@"REE",@"RFA",@"RHS",@"RIA",@"RMA",@"RMP",@"RPAR",@"RRA",@"RTB",@"RUAP",@"RUP",@"RUS",
+        @"RUSLE",@"Range Betterment Fund",@"Range Improvement Fund",@"Rangeland",@"Ratite",@"Raw agricultural products",@"reclamation",
+        @"Reclamation Act of 1902",@"Reclamation fund",@"Reclamation law",@"Recombinant DNA",@"rDNA",@"Recommended Dietary Allowances",@"RDAs",
+        @"Record of Decision",@"Recourse Loan Program",@"Recycle / reuse",@"Reduced price lunch",@"Reentry interval",@"Referendum",@"Registrant",
+        @"Regulatory Flexibility Act",@"RFA",@"Reinsurance companies",@"Renewable resources",@"Repayment Contract",@"Reregistration",@"Reserve Pool",
+        @"Residual supplier",@"Pesticide resistance",@"Resource Conservation and Development Program",@"RC&D",@"Resource Management Plan",@"RMP",
+        @"Restricted Use pesticides",@"Return flow",@"Revised universal soil loss equation",@"RUSLE",@"Resolving Loan program",@"Rill erosion",@"Riparian",
+        @"Riparian buffer",@"Riparian rights",@"Risk assessment",@"Risk management",@"Riskbenefit analysis",@"Round",@"Ruminant",@"direct Runoff",@"Rural",
+        @"Rural Business-Cooperative Service",@"RBS",@"Rural Community Advancement Program",@"RCAP",@"Rural Development Trust Fund",@"Rural Electric Cooperative",
+        @"Rural Electrification Administration",@"Rural Housing Service",@"RHS",@"Rural home loads",@"Rural Home Repair Loans and Grants",
+        @"Rural multifamily housing loans",@"Rural Rental Assistance",];
     [AgricultureWord addObjectsFromArray:OWord];
     
     return AgricultureWord;
