@@ -194,7 +194,9 @@
         @"Value-added products",@"Value-based pricing",@"Variable import levy",@"Vegetative controls",@"Vertical integration",@"Visegrad countries",
         @"Voluntary  export restraint arrangement",@"VER"];
     [AgricultureWord addObjectsFromArray:VWord];
-    NSArray *WWord = @[@"WAOB",@"World Agricultural Outlook Board",@"WEQ",@"Wind erosion equation",@"WEP",@"United Nations World Food Program",];
+    NSArray *WWord = @[@"WAOB",@"World Agricultural Outlook Board",@"WEQ",@"Wind erosion equation",@"WEP",@"United Nations World Food Program",@"WEPO",
+        @"Watershed and Flood Prevention Operations Program",@"WGA",@"Western Growers Association",@"WHIP",@"Wildlife Habitat Incentive Program",@"WHO",
+        @"World Health Organization",@"WIC",];
     [AgricultureWord addObjectsFromArray:WWord];
     
     return AgricultureWord;
