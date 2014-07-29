@@ -196,7 +196,10 @@
     [AgricultureWord addObjectsFromArray:VWord];
     NSArray *WWord = @[@"WAOB",@"World Agricultural Outlook Board",@"WEQ",@"Wind erosion equation",@"WEP",@"United Nations World Food Program",@"WEPO",
         @"Watershed and Flood Prevention Operations Program",@"WGA",@"Western Growers Association",@"WHIP",@"Wildlife Habitat Incentive Program",@"WHO",
-        @"World Health Organization",@"WIC",];
+        @"World Health Organization",@"WIC",@"WIC Farmers' Market Nutrition Act of 1992",@"WIC Vendors",@"WIC vouchers",@"Coupons",@"WPA",
+        @"Waterfowl Production Areas",@"WPS",@"Worker Protection Standard",@"WQIP",@"Water Quality Incentives Program",@"WRI",@"World Resources Institute",
+        @"WRP",@"Wetland Reserve Program",@"WTO",@"World Trade Organization",@"WWF",@"World Wildlife Fund",@"Warehouse receipt",@"Wash versus trim",
+        @"Waste Treatment Pond",];
     [AgricultureWord addObjectsFromArray:WWord];
     
     return AgricultureWord;
