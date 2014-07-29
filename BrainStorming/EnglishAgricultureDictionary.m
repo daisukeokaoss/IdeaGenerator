@@ -195,6 +195,7 @@
         @"Voluntary  export restraint arrangement",@"VER"];
     [AgricultureWord addObjectsFromArray:VWord];
     NSArray *WWord = @[@"WAOB",@"World Agricultural Outlook Board",@"WEQ",@"Wind erosion equation",@"WEP",@"United Nations World Food Program",];
+    [AgricultureWord addObjectsFromArray:WWord];
     
     return AgricultureWord;
 }
