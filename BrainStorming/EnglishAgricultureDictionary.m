@@ -187,8 +187,14 @@
     NSArray *UWord = @[@"UR",@"Uruguay Round",@"USAHA",@"U.S. Animal Health Association",@"USAID",@"U.S. Agency for International Development",@"USC",@"U.S.Code",
         @"USDA",@"U.S. Department of Agriculture",@"USMEF",@"U.S. Meat Export Federation",@"USTR",@"United States Trade Representative",@"UV",@"UltraViolet",
         @"United States Trade Representative",@"USTR",@"United States Canada Free Trade Agreement Implementation Act",@"Universal Soil Loss Equation",
-        @"Unreasonable Risk",@"Upland cotton",@"Uplands",@"Urban and builtup areas",@"Uruguay Round Agreements Act of 1994",@"URA",@"User Fees",];
+        @"Unreasonable Risk",@"Upland cotton",@"Uplands",@"Urban and builtup areas",@"Uruguay Round Agreements Act of 1994",@"URA",@"User Fees",
+        @"User marketing certificate",@"Usual market requirements",@"UMR",@"Utilization rate"];
     [AgricultureWord addObjectsFromArray:UWord];
+    NSArray *VWord = @[@"VAT",@"Value-Added Tax",@"VER",@"Voluntary Export Restraint Agreement",@"VFD",@"Veterinary Feed Directive",@"VOC",@"Volatile organic compounds",
+        @"Value-added products",@"Value-based pricing",@"Variable import levy",@"Vegetative controls",@"Vertical integration",@"Visegrad countries",
+        @"Voluntary  export restraint arrangement",@"VER"];
+    [AgricultureWord addObjectsFromArray:VWord];
+    NSArray *WWord = @[@"WAOB",@"World Agricultural Outlook Board",@"WEQ",@"Wind erosion equation",@"WEP",@"United Nations World Food Program",];
     
     return AgricultureWord;
 }
