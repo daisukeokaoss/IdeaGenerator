@@ -149,8 +149,46 @@
         @"Safe Tables Our Priority",@"Stock-to-use ratio",@"Science Advisory Board",@"Suspended and Canceled Pesticides",@"State agricultural Experiment Stations",
         @"Society of American Foresters",@"Scientific Advisory Panel",@"SARE",@"Sustainable Agriculture Research and Extension Program",@"School Breakfast Program",
         @"SBP",@"State Conservation",@"SCD",@"Soil Conservation District",@"Soil and Water Conservation District",@"SDWA",@"Safe Drinking Water Act",
-        @"SE",@"SEC",];
+        @"SE",@"SEC",@"Salmonella enteritidis",@"Securities and Exchange Commission",@"SFIREG",@"SFSP",@"SESP",@"Summer Food Service Program",@"SIC",
+        @"Standard Industrial Classification",@"SIP",@"Stewardship Incentive Program",@"SK",@"S-K Saltonstall-Kennedy Grant Program",@"SMP",@"School Milk Program",
+        @"SNE",@"Society for Nutrition Education",@"SOAP",@"Sunflowerseed Oil Assistance Program",@"SOCMI",@"Synthetic Organic Chemicals Manufacturing Industry",
+        @"SOPs",@"Standard Operating Procedures",@"SPS",@"Sanitary and phytosanitary",@"SRM",@"Society for Range Management",@"SSOPs",
+        @"Sanitation Standard Operating Procedures",@"SSSA",@"Soil Science Society of America",@"STC",@"State Technical Committee",@"STE",
+        @"State Trading Enterprise",@"SWCD",@"Soil and Water Conservation District",@"Safe Drinking Water Act",@"Safe Meat and Poultry Inspection Panel",
+        @"Import Safeguards",@"Sales for local currencies",@"Salmonella",@"Salvage Rider",@"Salvage Sales",@"Sample grade",@"Sanitation Standard Operating Procedures",
+        @"SSOPs",@"Scaling",@"School Breakfast Program",@"School Meals Initiative for Healthy Children",@"Science Advisory Board",
+        @"Scientific Advisory Panel",@"Scrapie",@"Section 11 special assistance",@"Section 15 lands",@"Section 201",@"Section 22",@"Section 301",
+        @"Section 32",@"Section 4 general or basic assistance",@"Section 404",@"Section 416",@"Section 502 loan",@"Section 504 loans and grants",@"Section 514 loans",
+        @"Section 515 loans",@"Section 516 grants",@"Section 521 rental assistance",@"Section 523 loans",@"Section 524 loans",@"Section 533 grants",
+        @"Seed Bank",@"Self Help land development loans",@"Septic system",@"Setaside program",@"Sheep Promotion,Research , and Information Act of 1994",
+        @"Sheet erosion",@"Shelter expense deductions",@"Shelterbelt",@"Shipper's export declaration",@"Shipping Holiday",@"Short Selling",@"Short ton",
+        @"Signup Period",@"Silt",@"Silviculture",@"Site loans",@"SmithLever Act of 1914",@"Sodbuster",@"Soil",@"Soil Bank Act",@"Soil Bank Program",
+        @"Soil conservation Service",@"SCS",@"Soil Conservation and Domestic Allotment Act of 1936",@"Soil conditioner",@"Soil conservation district",
+        @"Soil loss tolerance",@"Soil quality",@"Soil series",@"Soil solarization",@"Soil sterilant",@"Soil survey",@"Solid waste",
+        @"Soup Kitchen-Food Bank Program",@"Special Milk Program",@"Special Supplemental Nutrition Program for Women, Infants and Children",
+        @"Special and differential treatment",@"S&D",@"Special Review",@"Specialty crops",@"Species",@"Speculator",@"Spot Commodity",@"Spot market",
+        @"Spread",@"Straddle",@"Grain Standards Act of 1916",@"USGSA",@"Staple",@"State Agricultural Experiment Stations",@"SAES",@"State and Private Forestry",
+        @"State Inspection Programs",@"State rural development block grant",@"State rural development councils",@"State technical committee",
+        @"State trading enterprises",@"STEs",@"Steagall Amendment of 1941",@"Stewardship Incentives Program",@"SIP",@"Stewart B.McKinney Homeless Assistance Act",
+        @"Stocker cattle",@"Stocking Rate",@"Grain Stocks",@"Strike Price",@"Strip tillage",@"Stripcropping",@"Structure of Agriculture",@"Stubble-mulching",
+        @"Stumpage price",@"Subsidy",@"Subsistence farm",@"Sugar price support program",@"Sugar re-export programs",@"Suitable timberland",
+        @"Summer Food Service Program",@"SFSP",@"Summer fallow",@"Sunflower Oil Assistance Program",@"SOAP",@"Superfund",@"Supplement",@"Supply Control Programs",
+        @"Support price",@"Surface runoff",@"Surplus",@"Suspension",@"Sustained yield",@"Sweet potato whitefly",@"TA",@"technical assistance",@"TCDD",
+        @"Tetrachlorodibenzo-p-dioxin",@"TCK smut",@"TEA",@"Targeted Export Assistance Program",@"TEFAP",@"The Temporary Emergency Food Assistance Program",
+        @"TFP",@"Thrifty Food Plan",@"TPRG",@"Trade Policy Review Group",@"TRQ",@"Tariff-rate quota",@"TSEs",@"Transmissible spongiform encephalopathies",
+        @"Taking endangered or threatened species",@"Talmadge-Aiken plants",@"Target price",@"TEA",@"Targeting",@"Tariff",@"Tariff-rate quota",@"Tariff Schedule",
+        @"Tariffication",@"Taylor Grazing Act of 1934",@"TGA",@"Team Nutrition",@"Temporary Emergency Food Assistance Act of 1983",@"TEFAA",@"Tender",@"Teratogen",
+        @"Terminal elevator",@"Terminal Market",@"Terrace",@"Three entity rule",@"Threshold",@"Thrifty Food Plan",@"TFP",@"Timber sale",@"Timberland",
+        @"Tobacco Price Support Program",@"Pesticide residue tolerance",@"Toxic Substances Control Act",@"TSCA",@"Traceback",@"Trade Act of 1974",
+        @"Trade Adjustment Assistance",@"Trade Agreements Act of 1979",@"World Trade Organization",@"WTO",@"Trade and Tariff Act of 1984",
+        @"Transmissible Spongiform encephalopathy",@"TSEs",@"Transshipment",@"Tree measurement sales",@"Trickle Irrigation",@"Drip irrigation",
+        @"Triple base plan",@"Tvalue",@"Tlevel",@"Two-tiered pricing"];
     [AgricultureWord addObjectsFromArray:SWord];
+    NSArray *UWord = @[@"UR",@"Uruguay Round",@"USAHA",@"U.S. Animal Health Association",@"USAID",@"U.S. Agency for International Development",@"USC",@"U.S.Code",
+        @"USDA",@"U.S. Department of Agriculture",@"USMEF",@"U.S. Meat Export Federation",@"USTR",@"United States Trade Representative",@"UV",@"UltraViolet",
+        @"United States Trade Representative",@"USTR",@"United States Canada Free Trade Agreement Implementation Act",@"Universal Soil Loss Equation",
+        @"Unreasonable Risk",@"Upland cotton",@"Uplands",@"Urban and builtup areas",@"Uruguay Round Agreements Act of 1994",@"URA",@"User Fees",];
+    [AgricultureWord addObjectsFromArray:UWord];
     
     return AgricultureWord;
 }
