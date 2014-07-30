@@ -199,7 +199,12 @@
         @"World Health Organization",@"WIC",@"WIC Farmers' Market Nutrition Act of 1992",@"WIC Vendors",@"WIC vouchers",@"Coupons",@"WPA",
         @"Waterfowl Production Areas",@"WPS",@"Worker Protection Standard",@"WQIP",@"Water Quality Incentives Program",@"WRI",@"World Resources Institute",
         @"WRP",@"Wetland Reserve Program",@"WTO",@"World Trade Organization",@"WWF",@"World Wildlife Fund",@"Warehouse receipt",@"Wash versus trim",
-        @"Waste Treatment Pond",];
+        @"Waste Treatment Pond",@"Water 2000 Initiative",@"Water Bank Program",@"WBP",@"Water Quality Incentive Program",@"Water Quality Initiative",
+        @"Water quality standards",@"Water Service Contract",@"Waterfowl production area",@"Watershed",@"Watershed and flood prevention operations Program",
+        @"Wellhead protection area",@"Wetland Reserve Program",@"WRP",@"Wetmilling",@"Whole Herd Buyout Program",@"Wholesale price index",
+        @"Wilderness",@"Wildlife Habitat Incentives Program",@"Wildlife Refuges",@"Wind Erosion",@"Wind Erosion Equation",@"Wool Act of 1954",
+        @"Work/Training Programs",@"Food Stamp Program",@"World Agricultural Outlook Board",@"WAOB",@"World Food Program",@"WFP",@"Yield",
+        @"Zero, 50/85-92 provisions",@"Zoonotic Disease"];
     [AgricultureWord addObjectsFromArray:WWord];
     
     return AgricultureWord;
