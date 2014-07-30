@@ -45,6 +45,7 @@
 		C998919B1800002700E4EAD9 /* CopyrightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919A1800002700E4EAD9 /* CopyrightViewController.m */; };
 		C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */; };
 		C9A06DD21879B5AB00F2E654 /* EnglishITWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */; };
+		C9CAB3731988A24F0004B6D6 /* JapaneseMilitaryWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C9CAB3721988A24F0004B6D6 /* JapaneseMilitaryWordStore.m */; };
 		C9CCBB5A17656A48008EAF98 /* CBTWord.m in Sources */ = {isa = PBXBuildFile; fileRef = C9CCBB5917656A48008EAF98 /* CBTWord.m */; };
 		C9D729E718098CE400BBD163 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E618098CE400BBD163 /* Images.xcassets */; };
 		C9D729E9180990CA00BBD163 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E8180990CA00BBD163 /* Icon@2x.png */; };
@@ -128,6 +129,8 @@
 		C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpticalWordStore.m; sourceTree = "<group>"; };
 		C9A06DD01879B5AB00F2E654 /* EnglishITWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishITWordStore.h; sourceTree = "<group>"; };
 		C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishITWordStore.m; sourceTree = "<group>"; };
+		C9CAB3711988A24F0004B6D6 /* JapaneseMilitaryWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JapaneseMilitaryWordStore.h; sourceTree = "<group>"; };
+		C9CAB3721988A24F0004B6D6 /* JapaneseMilitaryWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JapaneseMilitaryWordStore.m; sourceTree = "<group>"; };
 		C9CCBB5817656A48008EAF98 /* CBTWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBTWord.h; sourceTree = "<group>"; };
 		C9CCBB5917656A48008EAF98 /* CBTWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBTWord.m; sourceTree = "<group>"; };
 		C9D729E618098CE400BBD163 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -288,6 +291,8 @@
 				C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */,
 				C94C26F219810E4B0065ACE8 /* EnglishAgricultureDictionary.h */,
 				C94C26F319810E4B0065ACE8 /* EnglishAgricultureDictionary.m */,
+				C9CAB3711988A24F0004B6D6 /* JapaneseMilitaryWordStore.h */,
+				C9CAB3721988A24F0004B6D6 /* JapaneseMilitaryWordStore.m */,
 				C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */,
 				C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */,
 				C994950516D9B404007FDD3A /* GeneralWordStore.h */,
@@ -407,6 +412,7 @@
 				C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */,
 				C91E8AF318EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m in Sources */,
 				C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */,
+				C9CAB3731988A24F0004B6D6 /* JapaneseMilitaryWordStore.m in Sources */,
 				C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */,
 				C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */,
 				C9698D11174D2B5B007B7392 /* ElementaryWord1.m in Sources */,
