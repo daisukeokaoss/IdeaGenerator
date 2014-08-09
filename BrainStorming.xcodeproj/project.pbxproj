@@ -273,16 +273,52 @@
 		C996D0DB1756212C00F8831E /* WordSelection */ = {
 			isa = PBXGroup;
 			children = (
-				C91E8AF118EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.h */,
-				C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */,
-				C9ED108F1756369E00DA197E /* ModeanSocialWord.h */,
-				C9ED10901756369E00DA197E /* ModeanSocialWord.m */,
+				C9EEA0AC1995E73D00389853 /* EnglishWord */,
+				C9EEA0AB1995E6C900389853 /* JapaneseWord */,
+				C99494FC16D9B259007FDD3A /* WordGenerate.h */,
+				C99494FD16D9B259007FDD3A /* WordGenerate.m */,
+				C99494FF16D9B33E007FDD3A /* WordStore.h */,
+				C994950016D9B33E007FDD3A /* WordStore.m */,
+			);
+			name = WordSelection;
+			sourceTree = "<group>";
+		};
+		C9EEA0AB1995E6C900389853 /* JapaneseWord */ = {
+			isa = PBXGroup;
+			children = (
 				C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */,
 				C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */,
+				C9ED108F1756369E00DA197E /* ModeanSocialWord.h */,
+				C9ED10901756369E00DA197E /* ModeanSocialWord.m */,
+				C91E8AF118EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.h */,
+				C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */,
 				C95CB5781914C7B500A55F77 /* SteddmanMedicalWordStoreJP.h */,
 				C95CB5791914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m */,
 				C998919C1803A2A200E4EAD9 /* OpticalWordStore.h */,
 				C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */,
+				C9CAB3711988A24F0004B6D6 /* JapaneseMilitaryWordStore.h */,
+				C9CAB3721988A24F0004B6D6 /* JapaneseMilitaryWordStore.m */,
+				C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */,
+				C994950516D9B404007FDD3A /* GeneralWordStore.h */,
+				C994950616D9B404007FDD3A /* GeneralWordStore.m */,
+				C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */,
+				C9698D0F174D2B5B007B7392 /* ElementaryWord1.h */,
+				C96B083C16DE2A26001177A0 /* ChemicalWordStore.h */,
+				C96B083D16DE2A26001177A0 /* ChemicalWordStore.m */,
+				C9698D10174D2B5B007B7392 /* ElementaryWord1.m */,
+				C9CCBB5817656A48008EAF98 /* CBTWord.h */,
+				C9CCBB5917656A48008EAF98 /* CBTWord.m */,
+				C90C908E16E9AA5E005EA9C1 /* PhysicalWordStore.h */,
+				C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */,
+				C994950216D9B3C6007FDD3A /* ITWordStore.h */,
+				C994950316D9B3C6007FDD3A /* ITWordStore.m */,
+			);
+			name = JapaneseWord;
+			sourceTree = "<group>";
+		};
+		C9EEA0AC1995E73D00389853 /* EnglishWord */ = {
+			isa = PBXGroup;
+			children = (
 				C95EDD3F181E2638004489CC /* EnglishChemicalWordStore.h */,
 				C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */,
 				C9E1EB6A182A950E000D79B5 /* EnglishMedicalWordStore.h */,
@@ -291,30 +327,10 @@
 				C9A06DD11879B5AB00F2E654 /* EnglishITWordStore.m */,
 				C94C26F219810E4B0065ACE8 /* EnglishAgricultureDictionary.h */,
 				C94C26F319810E4B0065ACE8 /* EnglishAgricultureDictionary.m */,
-				C9CAB3711988A24F0004B6D6 /* JapaneseMilitaryWordStore.h */,
-				C9CAB3721988A24F0004B6D6 /* JapaneseMilitaryWordStore.m */,
-				C930E649180EAD8900745C19 /* WorldHistoryWordStore.h */,
-				C930E64A180EAD8900745C19 /* WorldHistoryWordStore.m */,
-				C994950516D9B404007FDD3A /* GeneralWordStore.h */,
-				C994950616D9B404007FDD3A /* GeneralWordStore.m */,
 				C996D0D81754E96F00F8831E /* ElementaryWordEnglish.h */,
 				C996D0D91754E96F00F8831E /* ElementaryWordEnglish.m */,
-				C9698D0F174D2B5B007B7392 /* ElementaryWord1.h */,
-				C9698D10174D2B5B007B7392 /* ElementaryWord1.m */,
-				C96B083C16DE2A26001177A0 /* ChemicalWordStore.h */,
-				C96B083D16DE2A26001177A0 /* ChemicalWordStore.m */,
-				C99494FC16D9B259007FDD3A /* WordGenerate.h */,
-				C99494FD16D9B259007FDD3A /* WordGenerate.m */,
-				C99494FF16D9B33E007FDD3A /* WordStore.h */,
-				C994950016D9B33E007FDD3A /* WordStore.m */,
-				C9CCBB5817656A48008EAF98 /* CBTWord.h */,
-				C9CCBB5917656A48008EAF98 /* CBTWord.m */,
-				C90C908E16E9AA5E005EA9C1 /* PhysicalWordStore.h */,
-				C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */,
-				C994950216D9B3C6007FDD3A /* ITWordStore.h */,
-				C994950316D9B3C6007FDD3A /* ITWordStore.m */,
 			);
-			name = WordSelection;
+			name = EnglishWord;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
