@@ -969,7 +969,7 @@
         @"CVR",@"CVS",@"CVSS",@"CWDM",@"Cygwin",@"C++言語",@"C言語",@"Cコマース",@"Cドライブ",@"Cメール"];
     [GeneralWordArray addObjectsFromArray:C_Word];
     NSArray *D_Word = @[@"D1",@"D2",@"D2Dバックアップ",@"D4",@"D5",@"DA",@"DaaS",@"DAC",@"Dalvic VM",
-        @"DAO",@"Data Access Object",@"Disk At Once",@"DAP",@"Darwin",@"DAS"@"DAT",@"DATファイル",
+        @"DAO",@"Data Access Object",@"Disk At Once",@"DAP",@"Darwin",@"DAS",@"DAT",@"DATファイル",
         @"DAU",@"DAW",@"DAコンバータ",@"DB",@"dB",@"DB2",@"DBA",@"DBCS",@"DBD攻撃",@"DBMS",@"DBサーバ",
         @"DC",@"Interner data center",@"Direct Current",@"DCE",@"Distributed Computing Environment",
         @"Data Circuit Terminating Equipment",@"DCF",@"DC-HSDPA",@"DCMX",@"DCOM",@"DCT",
@@ -1080,7 +1080,7 @@
         @"ISAPI",@"iSCSI",@"ISDB",@"ISDB-T",@"ISDN",@"ISDNターミナルアダプタ",@"ISMS",@"ISMS適合性評価制度",
         @"ISMバンド",@"ISO",@"ISO 2022",@"ISO-2022-JP",@"ISO-8859",@"ISO　9660",@"ISO/IEC 10646",
         @"ISOイメージ",@"ISOファイル",@"ISP",@"ISR",@"IST",@"ISV",@"IT",@"ITa",@"Itanium",@"ITb",@"ITC",
-        @"ITIL",@"iTMS",@"ITO",@"ITRON",@"ITS",@"iTS",@"ITSS",@"ITU",@"iTunes",@"iTunes Music Store",@"iTunes Store"
+        @"ITIL",@"iTMS",@"ITO",@"ITRON",@"ITS",@"iTS",@"ITSS",@"ITU",@"iTunes",@"iTunes Music Store",@"iTunes Store",
         @"ITU-TS",@"ITインフラ",@"ITインフラ構築",@"ITインフラストラクチャ・ライブラリ",@"IT革命",@"ITガバナンス",
         @"IT基本法",@"ITコーディネータ試験",@"ITコンシューマライゼーション",@"ITコンソリデーション",@"IT産業",
         @"ITシステム構築",@"IT書面一括法",@"ITスキル標準",@"ITストラテジスト試験",@"ITソリューション",
