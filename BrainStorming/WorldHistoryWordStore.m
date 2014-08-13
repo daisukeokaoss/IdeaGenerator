@@ -293,7 +293,7 @@
         @"フィルドゥシー",@"シャー＝ナーメ",@"ニザーミーヤ学院",@"ウマル=ハイヤーム",@"ルバイヤート",@"千夜一夜物語",
         @"ラシード=アッディーン",@"集史",@"アルハンブラ宮殿",@"アラベスク",@"ミニアチュール",@"細密画"];
     [WorldHistryWordStore addObjectsFromArray:isuramu];
-    NSArray *europa = @[@"ゲルマン人",];
+    NSArray *europa = @[@"ゲルマン人",@"インド＝ヨーロッパ語系民族",@"ケルト人",@"ガリア戦記",@"ゲルマニア",];
     [WorldHistryWordStore addObjectsFromArray:europa];
     
     return WorldHistryWordStore;
