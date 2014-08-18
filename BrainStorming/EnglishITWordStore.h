@@ -6,10 +6,11 @@
 //  Copyright (c) 2014年 岡 大輔. All rights reserved.
 //
 
-#import "WordStore.h"
+//#import "WordStore.h"
+#import <Foundation/Foundation.h>
 
-@interface EnglishITWordStore : WordStore
+@interface EnglishITWordStore : NSObject
 
--(NSMutableArray *)GenerateWordArray;
++(NSMutableArray *)GenerateWordArray;
 
 @end

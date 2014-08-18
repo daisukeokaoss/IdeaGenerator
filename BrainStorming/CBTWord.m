@@ -10,7 +10,7 @@
 
 @implementation CBTWord
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *CBTWordStore = [[NSMutableArray alloc] init];
     

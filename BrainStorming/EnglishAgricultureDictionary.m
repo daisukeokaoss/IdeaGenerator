@@ -10,7 +10,7 @@
 
 @implementation EnglishAgricultureDictionary
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *AgricultureWord = [[NSMutableArray alloc] init];
     

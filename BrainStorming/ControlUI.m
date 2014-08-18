@@ -72,29 +72,29 @@
     self.wordGenerate = [[WordGenerate alloc] init];
     
     if(self.GeneralWordGenerate == YES) {
-        [self.wordGenerate InputWordStore:[[ElementaryWord1 alloc]init]];
+        [self.wordGenerate InputWordStore:[ElementaryWord1 GenerateWordArray]];
     }
     
     if(self.ITWordGenerate == YES){
-        [self.wordGenerate InputWordStore:[[ITWordStore alloc] init]];
+        [self.wordGenerate InputWordStore:[ITWordStore GenerateWordArray]];
     }
     
     if(self.ChemicalWordGenerate == YES){
-        [self.wordGenerate InputWordStore:[[ChemicalWordStore alloc] init]];
+        [self.wordGenerate InputWordStore:[ChemicalWordStore GenerateWordArray]];
     }
     
     if(self.PhysicalWordGenerate == YES){
-        [self.wordGenerate InputWordStore:[[PhysicalWordStore alloc] init]];
+        [self.wordGenerate InputWordStore:[PhysicalWordStore GenerateWordArray]];
     }
     
     if(self.ModernSocialWordGenerate == YES){
-        [self.wordGenerate InputWordStore:[[ModeanSocialWord alloc] init]];
+        [self.wordGenerate InputWordStore:[ModeanSocialWord GenerateWordArray]];
     }
     if(self.BiologicalWordGenerate == YES){
-        [self.wordGenerate InputWordStore:[[BiologicalWordStore alloc] init]];
+        [self.wordGenerate InputWordStore:[BiologicalWordStore GenerateWordArray]];
     }
     if(self.OpticalWordGenerate == YES){
-        [self.wordGenerate InputWordStore:[[OpticalWordStore alloc] init]];
+        [self.wordGenerate InputWordStore:[OpticalWordStore GenerateWordArray]];
     }
     
     

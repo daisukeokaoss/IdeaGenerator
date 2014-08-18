@@ -10,7 +10,7 @@
 
 @implementation SteddmanMedicalWordStoreJP
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *MedicalWordArray = [[NSMutableArray alloc] init];
     NSArray *AWord = @[@"アーヴァイン−ガス症候群",@"アーガイル・ロバートソン瞳孔",@"アーク",@"アーチキュロスタット",@"アーチバー",@"アーチファクト",@"アーチファクトの",@"アーディー症候群",

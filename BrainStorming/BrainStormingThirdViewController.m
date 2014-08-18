@@ -195,32 +195,32 @@
     if(self.GeneralWordSwitch.on == YES){
         //「一般的な用語」がオンだった時に呼び出される
         
-        [PoolToCount addObjectsFromArray:[[[ElementaryWord1 alloc] init] GenerateWordArray ]];
+        [PoolToCount addObjectsFromArray:[ElementaryWord1 GenerateWordArray]];
     }
     
     if(self.ITWordSwitch.on == YES){
         //「IT関係の用語」がオンだった時に呼び出される
-        [PoolToCount addObjectsFromArray:[[[ITWordStore alloc] init] GenerateWordArray]];
+        [PoolToCount addObjectsFromArray:[ITWordStore GenerateWordArray]];
     }
     if(self.ChemicalWordSwitch.on == YES){
         //「化学関係の用語」がオンだった時に呼び出される
-        [PoolToCount addObjectsFromArray:[[[ChemicalWordStore alloc] init] GenerateWordArray]];
+        [PoolToCount addObjectsFromArray:[ChemicalWordStore GenerateWordArray]];
     }
     if(self.PhysicalWordSwitch.on == YES){
         //「物理学科系の用語」がオンだった時に呼び出される
-        [PoolToCount addObjectsFromArray:[[[PhysicalWordStore alloc] init] GenerateWordArray]];
+        [PoolToCount addObjectsFromArray:[PhysicalWordStore GenerateWordArray]];
     }
     if(self.ModernSocialWordSwitch.on == YES){
         //「現代社会の用語」がオンだった時に呼び出される
-        [PoolToCount addObjectsFromArray:[[[ModeanSocialWord alloc] init] GenerateWordArray]];
+        [PoolToCount addObjectsFromArray:[ModeanSocialWord GenerateWordArray]];
     }
     if(self.BiologicalWordSwitch.on == YES){
         //「生物関係の用語」がオンだった時に呼び出される。
-        [PoolToCount addObjectsFromArray:[[[BiologicalWordStore alloc] init ] GenerateWordArray]];
+        [PoolToCount addObjectsFromArray:[BiologicalWordStore  GenerateWordArray]];
     }
     if(self.OpticalWordSwitch.on == YES){
         //「光学関係の単語」ガオンだった時に呼び出される
-        [PoolToCount addObjectsFromArray:[[[OpticalWordStore alloc] init] GenerateWordArray]];
+        [PoolToCount addObjectsFromArray:[OpticalWordStore  GenerateWordArray]];
     }
     
     NSString *WordCountString = [NSString stringWithFormat:@"%d",[PoolToCount count]];

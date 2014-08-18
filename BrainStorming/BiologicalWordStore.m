@@ -10,7 +10,7 @@
 
 @implementation BiologicalWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *BiologicalWordStore = [[NSMutableArray alloc] init];
     NSArray *AWord = @[@"rRNA",@"Rh因子",@"Rh式血液型",@"RNアーゼ",@"RNA",@"RNAウイルス",@"RNA干渉",@"RNAスプライシング",

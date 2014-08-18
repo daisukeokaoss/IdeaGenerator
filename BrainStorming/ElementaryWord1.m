@@ -10,7 +10,7 @@
 
 @implementation ElementaryWord1
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *ElementaryWordStore = [[NSMutableArray alloc] init];
     

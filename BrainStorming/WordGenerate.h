@@ -19,6 +19,6 @@
 
 -(NSMutableArray *)outputManyWord2:(NSInteger)NumberOfWord AvoidWord:(NSMutableArray *)avoidWords;
 
--(void)InputWordStore:(WordStore *)wordstore;
+-(void)InputWordStore:(NSArray *)wordstore;
 
 @end

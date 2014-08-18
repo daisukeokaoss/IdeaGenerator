@@ -10,7 +10,7 @@
 
 @implementation EnglishMedicalWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *MedicalWordStore = [[NSMutableArray alloc] init];
     NSArray *AWord = @[@"A",@"adenine",@"A-T",@"A.c.",@"AAA",@"AAAS",@"AAD",@"AAFP",@"American Academy of Family Physicians",

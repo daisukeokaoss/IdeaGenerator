@@ -74,9 +74,9 @@ START:;
     
 }
 
--(void)InputWordStore:(WordStore *)wordstore
+-(void)InputWordStore:(NSArray *)wordstore
 {
-    [self.words addObjectsFromArray:[wordstore GenerateWordArray]];
+    [self.words addObjectsFromArray:wordstore];
 }
 
 @end

@@ -10,7 +10,7 @@
 
 @implementation WorldHistoryWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *WorldHistryWordStore = [[NSMutableArray alloc] init];
     NSArray *Sensi = @[@"地質年代",@"新生代",@"第３紀",@"第４紀",@"更新世",@"洪積世",@"氷河期",@"氷期",@"間氷期",@"完新世",@"沖積世",

@@ -10,7 +10,7 @@
 
 @implementation ModeanSocialWord
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *ModeanSocialWord = [[NSMutableArray alloc] init];
     NSArray *Word1= @[@"自然環境",@"環境問題",@"ISO14000シリーズ",@"ISO14001",@"環境マネジメントシステム",@"環境ラベル",

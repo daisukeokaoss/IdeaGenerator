@@ -7,11 +7,12 @@
 //
 
 
-#import "WordStore.h"
+//#import "WordStore.h"
+#import <Foundation/Foundation.h>
 
 
-@interface ChemicalWordStore : WordStore
+@interface ChemicalWordStore : NSObject
 
--(NSMutableArray *)GenerateWordArray;
++(NSMutableArray *)GenerateWordArray;
 
 @end

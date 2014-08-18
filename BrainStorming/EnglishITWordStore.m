@@ -10,7 +10,7 @@
 
 @implementation EnglishITWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *ITWordStore = [[NSMutableArray alloc] init];
     NSArray *AWord =@[@"A",@"A esu",@"A Programming Language",@"A Symphony of Lights",@"a vacuum",@"A+",@"A Plus",

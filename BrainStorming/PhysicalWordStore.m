@@ -10,7 +10,7 @@
 
 @implementation PhysicalWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *PhysicalWordArray = [[NSMutableArray alloc] init];
     NSArray *DictionaryAWord = @[@"アーク",@"アーク光源",@"アークスペクトル",@"アーク灯",@"アーク放電",@"アーク炉",@"アース",@"アース電位",@"RI",@"RI実験室",@"RAM",@"RM電池",@"ROM",@"アーンショーの定理",

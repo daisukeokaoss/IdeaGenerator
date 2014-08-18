@@ -12,7 +12,7 @@
 
 
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *GeneralWordArray = [[NSMutableArray alloc] init];
     NSArray *AwordArray = @[@"アイアンパイソン",@"アイコン",@"アイソクロナス転送",@"相手先ブランド製造",@"アイドル",@"アウトソーシング",

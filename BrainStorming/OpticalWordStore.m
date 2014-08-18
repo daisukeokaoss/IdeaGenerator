@@ -27,7 +27,7 @@
 //フェムト秒テクノロジー　　基礎と応用　平尾一之　化学同人
 //薄膜作成の基礎　　日刊工業新聞社　　朝蒔立男
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *OpticalRelatedWordArray = [[NSMutableArray alloc] init];
 ////////////////////////////////////////////////////////////////////////////////////////

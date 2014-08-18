@@ -11,7 +11,7 @@
 
 @implementation JapaneseMilitaryWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *MilitaryWordStoreJp = [[NSMutableArray alloc] init];
     NSArray *AWord = @[@"特殊部隊",@"砲兵科",@"原子爆弾",@"原爆爆心地",@"原爆実験場",@"特殊部隊",@"特殊部隊派遣隊",@"対空弾幕",

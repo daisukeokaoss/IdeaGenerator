@@ -10,7 +10,7 @@
 
 @implementation ChemicalWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *ChemicalWordArray = [[NSMutableArray alloc] init];
     

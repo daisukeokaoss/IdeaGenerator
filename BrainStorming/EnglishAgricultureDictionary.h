@@ -6,10 +6,11 @@
 //  Copyright (c) 2014年 岡 大輔. All rights reserved.
 //
 
-#import "WordStore.h"
+//#import "WordStore.h"
+#import <Foundation/Foundation.h>
 
-@interface EnglishAgricultureDictionary : WordStore
+@interface EnglishAgricultureDictionary : NSObject
 
--(NSMutableArray *)GenerateWordArray;
++(NSMutableArray *)GenerateWordArray;
 
 @end

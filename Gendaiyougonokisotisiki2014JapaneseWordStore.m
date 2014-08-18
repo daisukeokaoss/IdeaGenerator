@@ -11,7 +11,7 @@
 
 @implementation Gendaiyougonokisotisiki2014JapaneseWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *SocialWordSore = [[NSMutableArray alloc] init];
     

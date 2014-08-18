@@ -13,7 +13,7 @@
 
 @implementation GeneralWordStore
 
--(NSMutableArray *)GenerateWordArray
++(NSMutableArray *)GenerateWordArray
 {
     NSMutableArray *GenerateWord = [[NSMutableArray alloc] init];
     
