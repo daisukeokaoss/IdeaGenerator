@@ -49,6 +49,7 @@
 		C9CCBB5A17656A48008EAF98 /* CBTWord.m in Sources */ = {isa = PBXBuildFile; fileRef = C9CCBB5917656A48008EAF98 /* CBTWord.m */; };
 		C9D729E718098CE400BBD163 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E618098CE400BBD163 /* Images.xcassets */; };
 		C9D729E9180990CA00BBD163 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D729E8180990CA00BBD163 /* Icon@2x.png */; };
+		C9D8D5B419B44F79007887C8 /* EthicalWordStoreJP.m in Sources */ = {isa = PBXBuildFile; fileRef = C9D8D5B319B44F79007887C8 /* EthicalWordStoreJP.m */; };
 		C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */; };
 		C9EB947A17886043004979FA /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB947917886043004979FA /* Icon.png */; };
 		C9EB947E17886681004979FA /* 09-chat-2.png in Resources */ = {isa = PBXBuildFile; fileRef = C9EB947D17886681004979FA /* 09-chat-2.png */; };
@@ -135,6 +136,8 @@
 		C9CCBB5917656A48008EAF98 /* CBTWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBTWord.m; sourceTree = "<group>"; };
 		C9D729E618098CE400BBD163 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C9D729E8180990CA00BBD163 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		C9D8D5B219B44F79007887C8 /* EthicalWordStoreJP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EthicalWordStoreJP.h; sourceTree = "<group>"; };
+		C9D8D5B319B44F79007887C8 /* EthicalWordStoreJP.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EthicalWordStoreJP.m; sourceTree = "<group>"; };
 		C9E1EB6A182A950E000D79B5 /* EnglishMedicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishMedicalWordStore.h; sourceTree = "<group>"; };
 		C9E1EB6B182A950E000D79B5 /* EnglishMedicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishMedicalWordStore.m; sourceTree = "<group>"; };
 		C9EB947917886043004979FA /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
@@ -312,6 +315,8 @@
 				C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */,
 				C994950216D9B3C6007FDD3A /* ITWordStore.h */,
 				C994950316D9B3C6007FDD3A /* ITWordStore.m */,
+				C9D8D5B219B44F79007887C8 /* EthicalWordStoreJP.h */,
+				C9D8D5B319B44F79007887C8 /* EthicalWordStoreJP.m */,
 			);
 			name = JapaneseWord;
 			sourceTree = "<group>";
@@ -416,6 +421,7 @@
 				C998919B1800002700E4EAD9 /* CopyrightViewController.m in Sources */,
 				C99494DE16D90588007FDD3A /* BrainStormingFirstViewController.m in Sources */,
 				C9EC50AC17FED28B006E2448 /* WordSetPlottingScrollView.m in Sources */,
+				C9D8D5B419B44F79007887C8 /* EthicalWordStoreJP.m in Sources */,
 				C99494FB16D90C27007FDD3A /* ControlUI.m in Sources */,
 				C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */,
 				C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */,
