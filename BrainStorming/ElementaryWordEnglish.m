@@ -28,7 +28,10 @@
         @"misleading",@"misconception",@"misunderstanding",@"erroneous",@"fallacy",@"defective",@"clear",@"clear-cut",@"distinct",@"definitive",
         @"definite",@"specific",@"apparent",@"evident",@"obvious",@"explicit",@"manifest",@"noticeable",@"visible",@"overt",@"remarkable",@"considerable",
         @"marked",@"plain",@"noteworthy",@"significant",@"conspicuous",@"vague",@"obscure",@"ambiguous",@"ambivalent",@"indecisive",@"dubious",
-        @"suspicious",@"odd",@"mysterious",@"enigmatic",];
+        @"suspicious",@"odd",@"mysterious",@"enigmatic",@"labyrinth",@"chaotic",@"complex",@"complicated",@"intricate",@"controversial",@"delicate",
+        @"confusing",@"perplexing",@"puzzling",@"abstruct",@"insignificant",@"meaningless",@"minor",@"secondary",@"subtle",@"faint",@"trivial",@"trifle",
+        @"necessary",@"essential",@"indispensable",@"integral",@"vital",@"imperative",@"urgent",@"pressing",@"crucial",@"critical",@"priority",@"must",
+        @"decisive",@"matter",@"make a difference",@"count",@"play a role",@"key",@"clue",@"major",@"leading",@"main",@"chief",@"primary",];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
