@@ -31,7 +31,10 @@
         @"suspicious",@"odd",@"mysterious",@"enigmatic",@"labyrinth",@"chaotic",@"complex",@"complicated",@"intricate",@"controversial",@"delicate",
         @"confusing",@"perplexing",@"puzzling",@"abstruct",@"insignificant",@"meaningless",@"minor",@"secondary",@"subtle",@"faint",@"trivial",@"trifle",
         @"necessary",@"essential",@"indispensable",@"integral",@"vital",@"imperative",@"urgent",@"pressing",@"crucial",@"critical",@"priority",@"must",
-        @"decisive",@"matter",@"make a difference",@"count",@"play a role",@"key",@"clue",@"major",@"leading",@"main",@"chief",@"primary",];
+        @"decisive",@"matter",@"make a difference",@"count",@"play a role",@"key",@"clue",@"major",@"leading",@"main",@"chief",@"primary",@"principal",
+        @"fundamental",@"elementary",@"basic",@"compulsory",@"dangerous",@"harmful",@"hazardous",@"perilous",@"scary",@"frightening",@"threatening",
+        @"dreadful",@"miserable",@"awful",@"terrible",@"horrible",@"disastrous",@"tragic",@"catastrophic",@"calamitous",@"nightmare",@"hell",@"appalling",
+        @"fatal",@"lethal",@"unfavorable",@"adverse",@"ugly",@"hideous",];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
