@@ -41,7 +41,9 @@
         @"mediocre",@"norm",@"customary",@"habitual",@"usual",@"familiar",@"widespread",@"prevalent",@"universal",@"traditional",@"conventional",
         @"excellent",@"outstanding",@"prominent",@"notable",@"noted",@"renowned",@"superb",@"extraordinary",@"exceptional",@"second to none",@"admirable",
         @"wonderful",@"terrific",@"marvelous",@"leave nothing to be desired",@"breathtaking",@"amazing",@"astonishing",@"astounding",@"startling",
-        @"stunning",@"attractive",@"appealing",@"fascinating",@"charming"];
+        @"stunning",@"attractive",@"appealing",@"fascinating",@"charming",@"impressive",@"striking",@"moving",@"touching",@"fun",@"interesting",@"curious",
+        @"stimulating",@"exciting",@"spectacular",@"rewarding",@"worthy",@"deserve",@"fruitful",@"productive",@"pleasant",@"delightful",@"comfortable",
+        @"agreeable",@"neat",@"tidy",@"relaxing",@"soothing",@"refreshing",@"useful",@"convenient",@"effective",@"efficient",@"beneficial",];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
