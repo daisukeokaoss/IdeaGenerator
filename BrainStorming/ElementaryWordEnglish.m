@@ -43,7 +43,9 @@
         @"wonderful",@"terrific",@"marvelous",@"leave nothing to be desired",@"breathtaking",@"amazing",@"astonishing",@"astounding",@"startling",
         @"stunning",@"attractive",@"appealing",@"fascinating",@"charming",@"impressive",@"striking",@"moving",@"touching",@"fun",@"interesting",@"curious",
         @"stimulating",@"exciting",@"spectacular",@"rewarding",@"worthy",@"deserve",@"fruitful",@"productive",@"pleasant",@"delightful",@"comfortable",
-        @"agreeable",@"neat",@"tidy",@"relaxing",@"soothing",@"refreshing",@"useful",@"convenient",@"effective",@"efficient",@"beneficial",];
+        @"agreeable",@"neat",@"tidy",@"relaxing",@"soothing",@"refreshing",@"useful",@"convenient",@"effective",@"efficient",@"beneficial",@"practical",
+        @"profitable",@"ideal",@"blessing",@"pro",@"advantage",@"virtue",@"elaborate",@"sophisticated",@"genuine",@"gorgeous",@"luxurious",@"valuable",
+        @"precious",@"promising",@"unusual",@"rare",@"uncommon",@"unfamiliar",@"novel",@"unique",@"peculiar",@"typical",@"particular",];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
