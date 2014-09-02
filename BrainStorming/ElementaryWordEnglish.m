@@ -39,7 +39,9 @@
         @"discouraging",@"problem",@"trouble",@"curse",@"con",@"disadvantage",@"vice",@"sin",@"wicked",@"evil",@"rotten",@"corrupt",@"fault",@"pity",
         @"shame",@"dull",@"boring",@"monotonous",@"tedious",@"routine",@"common",@"commonplace",@"bureaucratic",@"cliche",@"stereotype",@"ordinary",
         @"mediocre",@"norm",@"customary",@"habitual",@"usual",@"familiar",@"widespread",@"prevalent",@"universal",@"traditional",@"conventional",
-        @"excellent",@"outstanding",@"prominent",@"notable",@"noted",@"renowned",@"superb",@"extraordinary"];
+        @"excellent",@"outstanding",@"prominent",@"notable",@"noted",@"renowned",@"superb",@"extraordinary",@"exceptional",@"second to none",@"admirable",
+        @"wonderful",@"terrific",@"marvelous",@"leave nothing to be desired",@"breathtaking",@"amazing",@"astonishing",@"astounding",@"startling",
+        @"stunning",@"attractive",@"appealing",@"fascinating",@"charming"];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
