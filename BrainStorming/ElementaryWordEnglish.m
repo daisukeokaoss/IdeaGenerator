@@ -34,7 +34,11 @@
         @"decisive",@"matter",@"make a difference",@"count",@"play a role",@"key",@"clue",@"major",@"leading",@"main",@"chief",@"primary",@"principal",
         @"fundamental",@"elementary",@"basic",@"compulsory",@"dangerous",@"harmful",@"hazardous",@"perilous",@"scary",@"frightening",@"threatening",
         @"dreadful",@"miserable",@"awful",@"terrible",@"horrible",@"disastrous",@"tragic",@"catastrophic",@"calamitous",@"nightmare",@"hell",@"appalling",
-        @"fatal",@"lethal",@"unfavorable",@"adverse",@"ugly",@"hideous",];
+        @"fatal",@"lethal",@"unfavorable",@"adverse",@"ugly",@"hideous",@"nasty",@"hypocritical",@"disagreeable",@"disgusting",@"embarrassing",@"depressing",
+        @"formidable",@"notorious",@"infamous",@"irritating",@"annoying",@"nuisance",@"bother",@"upsetting",@"disturbing",@"alarming",@"disappointing",
+        @"discouraging",@"problem",@"trouble",@"curse",@"con",@"disadvantage",@"vice",@"sin",@"wicked",@"evil",@"rotten",@"corrupt",@"fault",@"pity",
+        @"shame",@"dull",@"boring",@"monotonous",@"tedious",@"routine",@"common",@"commonplace",@"bureaucratic",@"cliche",@"stereotype",@"ordinary",
+        @"mediocre",@"norm",@"customary",@"habitual",@"usual",@"familiar",@"widespread",@"prevalent",@"universal",];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
