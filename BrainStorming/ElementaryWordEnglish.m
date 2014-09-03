@@ -49,8 +49,24 @@
         @"defining",@"original",@"eccentric",@"insane",@"lunatic",@"epoch-making",@"unprecedented",@"a number of",@"a great amount of",@"plenty of",
         @"abundant",@"numerous",@"ample",@"huge",@"enormous",@"vast",@"immense",@"gigantic",@"colossal",@"extensive",@"substantial",@"tremendous",
         @"overwhelming",@"magnificent",@"massive",@"infinite",@"phenomenon",@"sensational",@"beyond description",@"excessive",@"sufficient",
-        @"go around",@"intence",@"intence"];
+        @"go around",@"intence",@"intence",@"tiny",@"minute",@"in miniature",@"microscope",@"slight",@"scarce",@"in short supply",@"fall short of",
+        @"short",@"lacking",@"wanting",@"limited",@"restricted",@"restricted",@"finite",@"deficient",@"possible",@"probable",@"likely",@"certain",
+        @"sure",@"unbelievable",@"incredible",@"too good to be true",@"conceivable",@"imaginable",@"plausible",@"inevitable"];
     [ElementaryWordEnglish addObjectsFromArray:handan];
+    NSArray *YutakaMazusii = @[@"wealthy",@"be well off",@"be badly off",@"affluent",@"prosperous",@"thriving",@"flourishing",@"fertile",@"sterile",
+        @"deserted",@"barren",@"no-frills",@"whole",@"entire",@"through",@"utter",@"complete",@"total",@"sheer",@"absolute",@"unconditional",@"radical",
+        @"mere",@"drastic",@"extreme",@"ultimate",@"desperate",@"steep",@"abrupt",@"sudden",@"swift",@"prompt",@"hasty",@"rapid",@"incomplete",@"partial",
+        @"gradual",@"progressive",@"steady",@"moderate",@"constant",@"regular",@"stable",@"relative",@"comparative",@"neutral",@"diplomatic",@"to some extent",
+        @"developed",@"developing",@"underdeveloped",@"emerging",@"advanced",@"cutting-edge",@"primitive",@"savage",@"crude",@"raw",@"naked",@"bare",
+        @"natural",@"innate",@"intrinsic",@"identical",@"similar",@"alike",@"resembles",@"take after",@"equal",@"parallel",@"equivalent",@"counterpart",
+        @"amount to",@"different",@"various",@"vary",@"range",@"diverse",@"homogeneous",@"heterogeneous",@"alternative",@"mutual"];
+    [ElementaryWordEnglish addObjectsFromArray:YutakaMazusii];
+    NSArray *MononoHenka = @[@"occur",@"take place",@"appear",@"turn up",@"emerge",@"arise",@"come about",@"come into existence",@"break out",@"advent",
+        @"exist",@"survive",@"be situated",@"be located",@"persist",@"underlie",@"disappear",@"vanish",@"fade away",@"missing",@"expire",@"come to an end",
+        @"extinct",@"die out",@"pass away",@"evaporate",@"perish",@"advance",@"progress",@"develop",@"innovative",@"evolve",@"improve",@"prosper",
+        @"thrive",@"flourish",@"bloom",@"increase",@"-fold",@"explode",@"multiply",@"leap",@"rise",@"skyrocket",@"ascend",@"soar",@"accumulate",@"decrease",
+        @"reduce",@"decline",@"lesson",@"worsen",@"weaken",@"recede",@"deteriorate",@"stagnant",@"collapse",@"decay",@"shrink",@"dwindle",@"bankrupt",];
+    [ElementaryWordEnglish addObjectsFromArray:MononoHenka];
     return ElementaryWordEnglish;
 }
 
