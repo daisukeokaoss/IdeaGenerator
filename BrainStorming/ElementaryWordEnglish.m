@@ -68,7 +68,12 @@
         @"reduce",@"decline",@"lesson",@"worsen",@"weaken",@"recede",@"deteriorate",@"stagnant",@"collapse",@"decay",@"shrink",@"dwindle",@"bankrupt"];
     [ElementaryWordEnglish addObjectsFromArray:MononoHenka];
     NSArray *MonotoMono = @[@"cause",@"result in",@"bring about",@"lead to",@"give rise to",@"arouse",@"trigger",@"mean",@"be responsible for",@"be to blame for",
-        @"account for",@"enable",@"result from",@"spring from",@"derive from",];
+        @"account for",@"enable",@"result from",@"spring from",@"derive from",@"stem from",@"be attributed to",@"be ascribed to",@"consequence",
+        @"influence",@"have an influence on",@"affect",@"have an effect on",@"impact",@"shape",@"form",@"mold",@"depend on",@"be a function of",
+        @"have something to do with",@"be related to",@"be accompanied by",@"be combined with",@"be connected with",@"be coupled with",@"be associated with",
+        @"be concerned with",@"be linked to",@"interact",@"interdependent",@"mean",@"refer to",@"signify",@"represent",@"stand for",@"imply",@"connote",
+        @"synonymous",@"consist of",@"comprise",@"contain",@"include",@"involve",@"be made up of",@"be composed of",@"constituted",@"account for",
+        @"prove",@"turn out",];
     [ElementaryWordEnglish addObjectsFromArray:MonotoMono];
     return ElementaryWordEnglish;
 }
