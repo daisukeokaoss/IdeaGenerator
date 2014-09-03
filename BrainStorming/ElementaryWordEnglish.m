@@ -45,7 +45,11 @@
         @"stimulating",@"exciting",@"spectacular",@"rewarding",@"worthy",@"deserve",@"fruitful",@"productive",@"pleasant",@"delightful",@"comfortable",
         @"agreeable",@"neat",@"tidy",@"relaxing",@"soothing",@"refreshing",@"useful",@"convenient",@"effective",@"efficient",@"beneficial",@"practical",
         @"profitable",@"ideal",@"blessing",@"pro",@"advantage",@"virtue",@"elaborate",@"sophisticated",@"genuine",@"gorgeous",@"luxurious",@"valuable",
-        @"precious",@"promising",@"unusual",@"rare",@"uncommon",@"unfamiliar",@"novel",@"unique",@"peculiar",@"typical",@"particular",];
+        @"precious",@"promising",@"unusual",@"rare",@"uncommon",@"unfamiliar",@"novel",@"unique",@"peculiar",@"typical",@"particular",@"singular",
+        @"defining",@"original",@"eccentric",@"insane",@"lunatic",@"epoch-making",@"unprecedented",@"a number of",@"a great amount of",@"plenty of",
+        @"abundant",@"numerous",@"ample",@"huge",@"enormous",@"vast",@"immense",@"gigantic",@"colossal",@"extensive",@"substantial",@"tremendous",
+        @"overwhelming",@"magnificent",@"massive",@"infinite",@"phenomenon",@"sensational",@"beyond description",@"excessive",@"sufficient",
+        @"go around",@"intence",@"intence"];
     [ElementaryWordEnglish addObjectsFromArray:handan];
     return ElementaryWordEnglish;
 }
