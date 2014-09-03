@@ -65,8 +65,11 @@
         @"exist",@"survive",@"be situated",@"be located",@"persist",@"underlie",@"disappear",@"vanish",@"fade away",@"missing",@"expire",@"come to an end",
         @"extinct",@"die out",@"pass away",@"evaporate",@"perish",@"advance",@"progress",@"develop",@"innovative",@"evolve",@"improve",@"prosper",
         @"thrive",@"flourish",@"bloom",@"increase",@"-fold",@"explode",@"multiply",@"leap",@"rise",@"skyrocket",@"ascend",@"soar",@"accumulate",@"decrease",
-        @"reduce",@"decline",@"lesson",@"worsen",@"weaken",@"recede",@"deteriorate",@"stagnant",@"collapse",@"decay",@"shrink",@"dwindle",@"bankrupt",];
+        @"reduce",@"decline",@"lesson",@"worsen",@"weaken",@"recede",@"deteriorate",@"stagnant",@"collapse",@"decay",@"shrink",@"dwindle",@"bankrupt"];
     [ElementaryWordEnglish addObjectsFromArray:MononoHenka];
+    NSArray *MonotoMono = @[@"cause",@"result in",@"bring about",@"lead to",@"give rise to",@"arouse",@"trigger",@"mean",@"be responsible for",@"be to blame for",
+        @"account for",@"enable",@"result from",@"spring from",@"derive from",];
+    [ElementaryWordEnglish addObjectsFromArray:MonotoMono];
     return ElementaryWordEnglish;
 }
 
