@@ -73,8 +73,13 @@
         @"have something to do with",@"be related to",@"be accompanied by",@"be combined with",@"be connected with",@"be coupled with",@"be associated with",
         @"be concerned with",@"be linked to",@"interact",@"interdependent",@"mean",@"refer to",@"signify",@"represent",@"stand for",@"imply",@"connote",
         @"synonymous",@"consist of",@"comprise",@"contain",@"include",@"involve",@"be made up of",@"be composed of",@"constituted",@"account for",
-        @"prove",@"turn out",];
+        @"prove",@"turn out",@"act as",@"serve as",@"suggest",@"reveal",@"prove",@"illustrate",@"prefer",@"preferable",@"prior",@"excel",@"surpass",
+        @"exceed",@"outperform",@"outnumber",@"outlive",@"outgrow",@"compare",@"be true of",@"be the case with",@"apply to",@"correspond",@"coincide",
+        @"identify",@"vice versa",@"contradiction",@"paradox",@"irony",@"dilemma",@"trade-off",@"substitute",@"replace",@"compensate",@"follow",
+        @"precede",@"notice",@"realize"];
     [ElementaryWordEnglish addObjectsFromArray:MonotoMono];
+    NSArray *HitotoMono = @[@"understand",@"comprehend",@"grasp",];
+    [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
 
