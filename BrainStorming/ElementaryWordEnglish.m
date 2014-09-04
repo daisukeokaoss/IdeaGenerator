@@ -86,7 +86,17 @@
         @"harbor",@"bear in mind",@"meditate",@"speculate",@"notion",@"criterion",@"ignore",@"ignorant",@"unaware of",@"unconscious of",@"overlook",
         @"dismiss",@"disregard",@"indifferent",@"shrug one's shoulders",@"neglect",@"agree",@"be for",@"in favor of",@"approve of",@"consent",@"assessment",
         @"assent",@"admit",@"advocate",@"champion",@"champion",@"unanimous",@"consensus",@"nod",@"affirmative",@"allow",@"permit",@"accept",@"tolerate",
-        @"put up with",@"can stand",@"bear",@"endure",@"sustain",@"persevere",];
+        @"put up with",@"can stand",@"bear",@"endure",@"sustain",@"persevere",@"disagree",@"oppose",@"be opposed to",@"object to",@"disapprove of",
+        @"deny",@"dissent",@"challenge",@"disprove",@"refuse",@"reject",@"decline",@"turn down",@"withdraw",@"resisit",@"prohibit",@"ban",@"forbid",
+        @"shake one's head",@"frown",@"argue",@"claim",@"assert",@"affirm",@"maintain",@"insist",@"stick to",@"cling to",@"declare",@"proclaim",
+        @"pronounce",@"confess",@"complain",@"mention",@"refer to",@"state",@"remark",@"observe",@"express",@"describe",@"narrate",@"utter",@"put",
+        @"go",@"quote",@"cite",@"broadcast",@"exaggerate",@"emphasize",@"inform",@"warn",@"remind",@"scream",@"yell",@"cheer",@"roar",@"establish",
+        @"set up",@"erect",@"found",@"construct",@"create",@"design",@"develop",@"invent",@"devise",@"install",@"give birth to",@"existence",
+        @"organize",@"introduce",@"initiated",@"initiate",@"commerce",@"commence",@"launch",@"embark",@"set out",@"set off",@"take up",@"undertake",
+        @"resume",@"decide",@"make up one's mind to do",@"be determined to do",@"resolve",@"adopt",@"put it into practice",@"realize",@"afford",
+        @"manage to do",@"succeed",@"dare",@"venture",@"boldness",@"have the courage to do",@"have the nerve to do",@"produce",@"manufacture",@"yield",
+        @"assemble",@"weave",@"dye",@"harvest",@"crop",@"reap",@"cultivate",@"accomplish",@"achieve",@"attain",@"complete",@"perform",@"execute",
+        @"carry out",@"fulfill",@"satisfy",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
