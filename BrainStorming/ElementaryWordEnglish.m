@@ -78,7 +78,15 @@
         @"identify",@"vice versa",@"contradiction",@"paradox",@"irony",@"dilemma",@"trade-off",@"substitute",@"replace",@"compensate",@"follow",
         @"precede",@"notice",@"realize"];
     [ElementaryWordEnglish addObjectsFromArray:MonotoMono];
-    NSArray *HitotoMono = @[@"understand",@"comprehend",@"grasp",];
+    NSArray *HitotoMono = @[@"understand",@"comprehend",@"grasp",@"make out",@"figure out",@"recognize",@"identify",@"perceive",@"sense",@"intuit",@"discern",@"detect",
+        @"insight",@"know something about",@"be familiar with",@"be aware of",@"be conscious of",@"appreciate",@"glance",@"glimpse",@"stare",@"gaze",
+        @"smell",@"recollect",@"recall",@"think",@"see",@"regard",@"look on",@"view",@"consider",@"describe",@"refer to",@"take",@"mistake",@"granted",
+        @"think",@"suspect",@"suppose",@"assume",@"presume",@"imagine",@"picture",@"estimate",@"assess",@"dream",@"conclude",@"reason",@"deduce",@"infer",
+        @"expect",@"forecast",@"predict",@"foretell",@"foresee",@"prophesy",@"reflect",@"allow for",@"weigh",@"ponder",@"contemplate",@"conceive of",
+        @"harbor",@"bear in mind",@"meditate",@"speculate",@"notion",@"criterion",@"ignore",@"ignorant",@"unaware of",@"unconscious of",@"overlook",
+        @"dismiss",@"disregard",@"indifferent",@"shrug one's shoulders",@"neglect",@"agree",@"be for",@"in favor of",@"approve of",@"consent",@"assessment",
+        @"assent",@"admit",@"advocate",@"champion",@"champion",@"unanimous",@"consensus",@"nod",@"affirmative",@"allow",@"permit",@"accept",@"tolerate",
+        @"put up with",@"can stand",@"bear",@"endure",@"sustain",@"persevere",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
