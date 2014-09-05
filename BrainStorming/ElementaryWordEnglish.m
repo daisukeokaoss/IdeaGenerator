@@ -107,7 +107,8 @@
         @"obstruct",@"obstacle",@"curb",@"control",@"prevent",@"hinder",@"inhibit",@"discourage",@"dissuade",@"restrain",@"constrain",@"extinguish",
         @"put out",@"turn off",@"erase",@"wipe off",@"do without",@"dispense with",@"throw away",@"litter",@"dump",@"abandon",@"desert",@"dispose of",
         @"remove",@"do away with",@"abolish",@"eliminate",@"eradicate",@"lift",@"get rid of",@"clear",@"wipe out",@"destroy",@"demolish",@"tear",
-        @"tear down",@"spoil",];
+        @"tear down",@"spoil",@"ruin",@"wreck",@"paralyze",@"pollute",@"contaminate",@"undermine",@"negate",@"make use of",@"take advantage of",
+        @"make the most of",@"spend",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
