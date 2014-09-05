@@ -99,7 +99,15 @@
         @"carry out",@"fulfill",@"satisfy",@"commit",@"exercise",@"gain",@"acquire",@"obtain",@"come by",@"possess",@"secure",@"solve",@"resolve",
         @"work out",@"settle",@"compromise",@"overcome",@"grow up",@"grow",@"bring up",@"raise",@"rear",@"breed",@"bear",@"look after",@"mature",
         @"ripe",@"enlighten",@"promote",@"foster",@"spur",@"accelerate",@"stimulate",@"provoke",@"stir up",@"boost",@"encourage",@"prompt",@"urge",
-        @"drive",];
+        @"drive",@"induce",@"inspire",@"lure",@"invite",@"convince",@"persuade",@"talk",@"recommend",@"propose",@"suggest",@"advertise",@"ask",
+        @"request",@"beg",@"implore",@"call on",@"want",@"hope",@"long",@"yearn",@"wish",@"feel like",@"feel tempted to do",@"bring oneself to do",
+        @"be inclined to do",@"be eager to do",@"look forward to",@"anticipate",@"aim",@"order",@"instruct",@"command",@"require",@"demand",@"force",
+        @"compel",@"oblige",@"limit",@"confine",@"restrict",@"exclude",@"conceal",@"refrain from",@"hesitate",@"fail",@"cease",@"quit",@"avoid",@"escape",
+        @"evade",@"halt",@"suspend",@"postpone",@"put off",@"delay",@"cancel",@"call off",@"resign",@"terminate",@"interrupt",@"intervene",@"interfere with",
+        @"obstruct",@"obstacle",@"curb",@"control",@"prevent",@"hinder",@"inhibit",@"discourage",@"dissuade",@"restrain",@"constrain",@"extinguish",
+        @"put out",@"turn off",@"erase",@"wipe off",@"do without",@"dispense with",@"throw away",@"litter",@"dump",@"abandon",@"desert",@"dispose of",
+        @"remove",@"do away with",@"abolish",@"eliminate",@"eradicate",@"lift",@"get rid of",@"clear",@"wipe out",@"destroy",@"demolish",@"tear",
+        @"tear down",@"spoil",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
