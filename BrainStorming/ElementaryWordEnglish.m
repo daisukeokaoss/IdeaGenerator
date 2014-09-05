@@ -97,7 +97,9 @@
         @"manage to do",@"succeed",@"dare",@"venture",@"boldness",@"have the courage to do",@"have the nerve to do",@"produce",@"manufacture",@"yield",
         @"assemble",@"weave",@"dye",@"harvest",@"crop",@"reap",@"cultivate",@"accomplish",@"achieve",@"attain",@"complete",@"perform",@"execute",
         @"carry out",@"fulfill",@"satisfy",@"commit",@"exercise",@"gain",@"acquire",@"obtain",@"come by",@"possess",@"secure",@"solve",@"resolve",
-        @"work out",@"settle",];
+        @"work out",@"settle",@"compromise",@"overcome",@"grow up",@"grow",@"bring up",@"raise",@"rear",@"breed",@"bear",@"look after",@"mature",
+        @"ripe",@"enlighten",@"promote",@"foster",@"spur",@"accelerate",@"stimulate",@"provoke",@"stir up",@"boost",@"encourage",@"prompt",@"urge",
+        @"drive",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
