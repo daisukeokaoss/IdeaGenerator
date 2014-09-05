@@ -96,7 +96,8 @@
         @"resume",@"decide",@"make up one's mind to do",@"be determined to do",@"resolve",@"adopt",@"put it into practice",@"realize",@"afford",
         @"manage to do",@"succeed",@"dare",@"venture",@"boldness",@"have the courage to do",@"have the nerve to do",@"produce",@"manufacture",@"yield",
         @"assemble",@"weave",@"dye",@"harvest",@"crop",@"reap",@"cultivate",@"accomplish",@"achieve",@"attain",@"complete",@"perform",@"execute",
-        @"carry out",@"fulfill",@"satisfy",];
+        @"carry out",@"fulfill",@"satisfy",@"commit",@"exercise",@"gain",@"acquire",@"obtain",@"come by",@"possess",@"secure",@"solve",@"resolve",
+        @"work out",@"settle",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
