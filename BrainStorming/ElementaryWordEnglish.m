@@ -113,8 +113,16 @@
         @"be exposed to",@"meet with",@"take a step",@"take measures",@"look over",@"look into",@"look up",@"examine",@"inspect",@"investigate",@"survey",@"reserch",@"poll",@"census",
         @"statistic",@"inquire",@"trace",@"probe into",@"experiment",@"analyze",@"classify",@"present",@"provide",@"supply",@"feed",@"reward",@"endow",@"equip",@"furnish",@"infect",
         @"fill",@"stuff",@"cram",@"scatter",@"load",@"burden",@"award",@"bestow",@"impose",@"allow",@"deny",@"spare",@"lend",@"borrow",@"rent",@"owe",@"assign",@"submit",@"hand in",
-        @"govern",@"subject",@"conquer",@"dominate",@"reigh",@"prevail",@"rule",];
+        @"govern",@"subject",@"conquer",@"dominate",@"reigh",@"prevail",@"rule",@"regime",@"suppress",@"oppress",@"persecute",@"occupy",@"domesticate",@"tame",@"beat",@"defeat",
+        @"overwhelm",@"victorious",@"triumph",@"administer",@"supervise",@"regulate",@"obey",@"follow",@"observe",@"comply",@"conform",@"adapt",@"adjust",@"yield to",@"give way to",
+        @"give in",@"surrender",@"succumb",@"report to",@"change",@"turn",@"transform",@"reform",@"convert",@"modify",@"alter",@"amend",@"revise",@"elaborate",@"refine",@"accustom",
+        @"used",@"correct",@"repair",@"mend",@"fix",@"expand",@"extend",@"stretch",@"enlarge",@"prolong",@"enhance",@"condence",@"extract",@"abbreviate",@"sum up",@"synthesize",
+        @"strengthen",@"reinforce",@"ameliorate",@"enrich",@"sharpen"];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
+    NSArray *HitotoHito = @[@"get acquainted with",@"make friends with",@"keep company with",@"associated with",@"go around with",@"get along with",@"be on good terms with",
+        @"relative",@"colleague",@"intimate",@"come across",@"bump into",@"run into",@"encounter",@"get-together",@"appointment",@"contact",@"keep in touch with",@"communicate",
+        @"treat",@"hospitarity",@"affection",@"kinship",@"attachment",@"sympathy",@"empathy",@"empathize",@"cherish",@"console",@"hug",@"embrace",];
+    [ElementaryWordEnglish addObjectsFromArray:HitotoHito];
     return ElementaryWordEnglish;
 }
 
