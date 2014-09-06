@@ -108,7 +108,12 @@
         @"put out",@"turn off",@"erase",@"wipe off",@"do without",@"dispense with",@"throw away",@"litter",@"dump",@"abandon",@"desert",@"dispose of",
         @"remove",@"do away with",@"abolish",@"eliminate",@"eradicate",@"lift",@"get rid of",@"clear",@"wipe out",@"destroy",@"demolish",@"tear",
         @"tear down",@"spoil",@"ruin",@"wreck",@"paralyze",@"pollute",@"contaminate",@"undermine",@"negate",@"make use of",@"take advantage of",
-        @"make the most of",@"spend",];
+        @"make the most of",@"spend",@"waste",@"utilize",@"employ",@"avail oneself of",@"operate",@"handle",@"attend",@"consult",@"abuse",@"manipulate",@"exploit",@"profit",@"benefit",@"rob",
+        @"deprive",@"effort",@"take pains",@"seek",@"attempt",@"struggle",@"endeavor",@"pursue",@"search",@"quest",@"face",@"confront",@"deal with",@"cope with",@"tackle",
+        @"be exposed to",@"meet with",@"take a step",@"take measures",@"look over",@"look into",@"look up",@"examine",@"inspect",@"investigate",@"survey",@"reserch",@"poll",@"census",
+        @"statistic",@"inquire",@"trace",@"probe into",@"experiment",@"analyze",@"classify",@"present",@"provide",@"supply",@"feed",@"reward",@"endow",@"equip",@"furnish",@"infect",
+        @"fill",@"stuff",@"cram",@"scatter",@"load",@"burden",@"award",@"bestow",@"impose",@"allow",@"deny",@"spare",@"lend",@"borrow",@"rent",@"owe",@"assign",@"submit",@"hand in",
+        @"govern",@"subject",@"conquer",@"dominate",@"reigh",@"prevail",@"rule",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     return ElementaryWordEnglish;
 }
