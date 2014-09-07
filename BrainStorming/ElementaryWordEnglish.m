@@ -153,7 +153,11 @@
         @"mammal",@"ape",@"primate",@"instinct",@"impulse",@"drive",@"spontaneous",@"gene",@"inherit",@"pass on",@"acquire",@"mate",@"reproduce",@"genetically-modified",@"clone",@"genome",
         @"archeology",@"anthropology",@"ruins",@"excavation",@"prehistory",@"antiquity",@"race",@"tribe",@"barbarian",@"civilization",@"ancestor",@"descendant",@"forefather",@"offspring",
         @"walk upright",@"date back to",@"originate",@"irrigation",@"culture",@"agriculture",@"wheat",@"grain",@"barley",@"livestock",@"famine",@"starve",@"plague",@"epidemic",
-        @"middle age",@"medieval",@"feudalism",@"load",@"peasant",@"merchant",@"priest",@"warrior",];
+        @"middle age",@"medieval",@"feudalism",@"load",@"peasant",@"merchant",@"priest",@"warrior",@"wizard",@"witch",@"Age of Discovery",@"Columbian Exchange",@"Renaissance",
+        @"gunpowder",@"riot",@"globe",@"hemisphere",@"planet",@"satellite",@"lunar",@"stellar",@"galaxy",@"meteor",@"comet",@"constellation",@"celestial",@"astronomy",
+        @"astrology",@"astronaut",@"physics",@"revolve",@"orbit",@"rotate",@"axis",@"eclipse",@"gravity",@"velocity",@"vertical",@"horizontal",@"light year",@"pole",@"Arctic",
+        @"Antarctic",@"Pacific Ocean",@"Atlantic Ocean",@"equator",@"tropic",@"equinox",@"longitude",@"latitude",@"altitude",@"volcano",@"eruption",@"tide",@"current",@"peninsula",
+        @"archipelago",@"continent",@"mainland",@"gulf",@"channel",@"glacier",@"meteorology",];
     [ElementaryWordEnglish addObjectsFromArray:KankyoMondai];
     return ElementaryWordEnglish;
 }
