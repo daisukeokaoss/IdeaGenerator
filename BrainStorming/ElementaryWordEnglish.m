@@ -157,8 +157,28 @@
         @"gunpowder",@"riot",@"globe",@"hemisphere",@"planet",@"satellite",@"lunar",@"stellar",@"galaxy",@"meteor",@"comet",@"constellation",@"celestial",@"astronomy",
         @"astrology",@"astronaut",@"physics",@"revolve",@"orbit",@"rotate",@"axis",@"eclipse",@"gravity",@"velocity",@"vertical",@"horizontal",@"light year",@"pole",@"Arctic",
         @"Antarctic",@"Pacific Ocean",@"Atlantic Ocean",@"equator",@"tropic",@"equinox",@"longitude",@"latitude",@"altitude",@"volcano",@"eruption",@"tide",@"current",@"peninsula",
-        @"archipelago",@"continent",@"mainland",@"gulf",@"channel",@"glacier",@"meteorology",];
+        @"archipelago",@"continent",@"mainland",@"gulf",@"channel",@"glacier",@"meteorology",@"weather",@"climate",@"humid",@"moist",@"damp",@"temperature",@"high pressure system",
+        @"thermometer",@"barometer",@"rainwater",@"reservoir",@"rainfall",@"precipitation",@"pour",@"let up",@"get soaked",@"flood",@"submerge",@"thunderstorm",@"thunderbolt",
+        @"thunder",@"lightning",@"fog",@"dry spell",@"drought",@"evacuate",@"refuge",@"victim",@"casualty",@"flu",@"cancer",@"pneumonia",@"tuberculosis",@"smallpox",@"cowpox",
+        @"allergy",@"stroke",@"symptom",@"ache",@"sore",@"hurt",@"acute",@"chronic",@"injure",@"wound",@"fever",@"take one's temperature",@"cough",@"chill",@"dizzy",@"insomnia",
+        @"fatigue",@"diarrhea",@"faint",@"bleed",@"fracture",@"runny",@"sneeze",@"yawn",@"physician",@"surgeon",@"pharmacist",@"veternarian",@"check-up",@"ambulance",@"hospitalize",
+        @"complain of",@"infection",@"addiction",@"diagnose",@"treatment",@"cure",@"heal",@"soothe",@"remedy",@"therapy",@"medicine",@"malpractice",@"does",@"pill",@"prescribe",
+        @"over-the-counter medicine",@"antibiotics",@"nutrition",@"diet",@"digestion",@"exercise",@"hygienic",@"sanitary",@"breathe",@"respiration",@"injection",@"vaccine",
+        @"virus",@"germ",@"biology",@"anatomy",@"organ",@"organism",@"cell",@"nerve",@"limb",@"skull",@"skeleton",@"muscle",@"blood vessel",@"lung",@"intestine",@"transplant",
+        @"donate",@"immune",@"enthanasia"];
     [ElementaryWordEnglish addObjectsFromArray:KankyoMondai];
+    NSArray *ChemicalMathmatic = @[@"chemistry",@"alchemy",@"atom",@"molecule",@"particle",@"nuclear",@"element",@"substance",@"formula",@"axiom",@"theorem",@"hypothesis",@"equation",
+        @"mathematics",@"arithmetic",@"algebra",@"geometry",@"add",@"subtract",@"multiply",@"divide",@"square",@"cube",@"rectangle",@"diameter",@"radius",@"fraction",@"laboratory",
+        @"instrument",@"device",@"apparatus",@"apply",@"ingenuity",@"internal combustion engine",@"Model T Ford",@"artificial intelligence",@"information technology",@"Internet",
+        @"e-mail",@"democracy",@"liberty",@"freedom",@"privilege",@"aristocracy",@"bureaucracy",@"meritocracy",@"tyranny",@"dictator",@"monarch",@"anarchy",@"citizen",@"slave",
+        @"politics",@"statesman",@"government",@"parliament",@"congress",@"Diet",@"cabinet",@"minister",@"ministry",@"secretary",@"senator",@"representative",@"delegate",
+        @"legislation",@"judiciary",@"executive",@"local government",@"governor",@"mayor",@"municipal",@"prefecture",@"district",@"region",@"office",@"authority",@"constitution",
+        @"bill",@"treaty",@"campaign",@"candidate",@"run",@"vote",@"laissez-faire",@"welfare state",@"bribe",@"lobby",@"corruption",@"diplomacy",@"embassy",@"ambassador",@"warfare",
+        @"strategy",@"tactics",@"ally",@"foe",@"security",@"sanction",@"incentive",@"troop",@"corps",@"patriot",@"dispatch",@"expedition",@"colony",@"imperialism",@"autonomy",
+        @"genocide",@"organization",@"institution",@"council",@"committee",@"conference",@"party"];
+    [ElementaryWordEnglish addObjectsFromArray:ChemicalMathmatic];
+    NSArray *KeizaiKeiei = @[@"economy"];
+    [ElementaryWordEnglish addObjectsFromArray:KeizaiKeiei];
     return ElementaryWordEnglish;
 }
 
