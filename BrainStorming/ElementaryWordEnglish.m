@@ -139,8 +139,18 @@
         @"sacrifice",@"be crazy about",@"be keen on",@"indulge in",@"enthusiastic",@"zeal",@"optimistic",@"pessimistic",@"solid",@"hard",@"firm",@"stable",@"steady",@"stiff",
         @"rigid",@"fixed",@"strict",@"severe",@"austere",@"stubborn",@"obstinate",@"be particular about",@"be fussy about",@"be loyal to",@"tender",@"fragile",@"flexible",
         @"opportunistic",@"tolerant",@"patient",@"broad-minded",@"generous",@"timid",@"coward",@"blush",@"punctual",@"sincere",@"honest",@"thoughtful",@"considerate",@"tactful",
-        @"sociable",@"polite",@"courteous",@"proper",@"decent",];
+        @"sociable",@"polite",@"courteous",@"proper",@"decent",@"modest",@"reserved",@"noble",@"graceful",@"dignified",@"unselfish",@"disinterested",@"impartial",@"charitable",
+        @"benevolent",@"positive",@"careful",@"cautious",@"prudent",@"lazy",@"idle",@"be reluctant to do",@"passive",@"negative",@"careless",@"negligible",@"loose",@"awkward",
+        @"egocentric",@"selfish",@"reckless",@"rude",@"vulgar",@"ignoble",@"humble",@"shabby",@"mean",@"stingy",@"greedy",@"conceited",@"arrogant"];
     [ElementaryWordEnglish addObjectsFromArray:HitotoHito];
+    //テーマ別語彙
+    //環境問題
+    NSArray *KankyoMondai = @[@"environment",@"nature",@"environmentally friendly",@"atmosphere",@"soil",@"global warming",@"greenhouse effect",@"carbon dioxide",@"fossil fuels",@"exhaust",
+        @"emit",@"ice cap",@"Kyoto Protocol",@"endangered species",@"extinct",@"habitat",@"fauna and flora",@"wildlife",@"vegetation",@"sanctuary",@"fur",@"ecosystem",@"food chain",
+        @"tropical rain forest",@"erosion",@"desertification",@"acid rain",@"ozone layer",@"ozone hole",@"ultraviolet radiation",@"rays",@"endocrine disrupting chemicals",@"pesticide",
+        @"fertilizer",@"pollution",@"contamination",@"garbage",@"trash",@"reuse",@"disposable",@"industrial waste",@"sewage",@"natural resources",@"source of energy",@"generate",
+        @"electricity",@"power plant",@"nuclear",@"evolution",@"natural selection",@"survival of the fittest",@"adaptation",@"prey",@"predator",@"carnivorous",];
+    [ElementaryWordEnglish addObjectsFromArray:KankyoMondai];
     return ElementaryWordEnglish;
 }
 
