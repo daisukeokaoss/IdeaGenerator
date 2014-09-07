@@ -137,7 +137,7 @@
         @"regret",@"repent",@"lament",@"deplore",@"groan",@"nervous",@"pleased",@"delighted",@"joy",@"satisfied",@"content",@"contented",@"relief",@"sigh",@"hardworking",
         @"industrious",@"earnest",@"energetic",@"aggressive",@"active",@"concentrate",@"focus",@"be intent on",@"busy",@"be absorbed in",@"be engaged in",@"devote",@"dedicate",
         @"sacrifice",@"be crazy about",@"be keen on",@"indulge in",@"enthusiastic",@"zeal",@"optimistic",@"pessimistic",@"solid",@"hard",@"firm",@"stable",@"steady",@"stiff",
-        @"rigid",@"fixed",@"strict",@"severe",@"austere",@"stubborn",@"obstinate",];
+        @"rigid",@"fixed",@"strict",@"severe",@"austere",@"stubborn",@"obstinate",@"be particular about",@"be fussy about",@"be loyal to",@"tender",@"fragile",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoHito];
     return ElementaryWordEnglish;
 }
