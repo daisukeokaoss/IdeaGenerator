@@ -121,7 +121,17 @@
     [ElementaryWordEnglish addObjectsFromArray:HitotoMono];
     NSArray *HitotoHito = @[@"get acquainted with",@"make friends with",@"keep company with",@"associated with",@"go around with",@"get along with",@"be on good terms with",
         @"relative",@"colleague",@"intimate",@"come across",@"bump into",@"run into",@"encounter",@"get-together",@"appointment",@"contact",@"keep in touch with",@"communicate",
-        @"treat",@"hospitarity",@"affection",@"kinship",@"attachment",@"sympathy",@"empathy",@"empathize",@"cherish",@"console",@"hug",@"embrace",];
+        @"treat",@"hospitarity",@"affection",@"kinship",@"attachment",@"sympathy",@"empathy",@"empathize",@"cherish",@"console",@"hug",@"embrace",@"respect",@"look up to",
+        @"admire",@"adore",@"worship",@"sacred",@"venerate",@"exalt",@"hail",@"value",@"esteem",@"honor",@"applaud",@"compliment",@"flatter",@"envy",@"jealous",@"trust",
+        @"faith",@"confidence",@"help",@"assist",@"give a hand",@"aid",@"rescue",@"save",@"protect",@"shield",@"defend",@"preserve",@"conserve",@"maintain",@"cheer up",
+        @"cooperate",@"collaborate",@"contribute",@"coexist",@"depend on",@"rely on",@"turn to",@"count on",@"reconcile",@"look down on",@"despise",@"contempt",@"disdain",
+        @"scorn",@"insult",@"humiliate",@"make fun of",@"make a fool of",@"mock",@"tease",@"bully",@"discriminate",@"antipathy",@"hatred",@"hostile",@"fight",@"fistfight",@"quarrel",
+        @"argue",@"dispute",@"discuss",@"debate",@"controversy",@"contradict",@"compete",@"conflict",@"friction",@"collide",@"intrude",@"invade",@"disturb",@"bother",@"annoy",
+        @"irritate",@"offend",@"assault",@"cheat",@"take in",@"deceive",@"betray",@"fraud",@"trick",@"thank",@"thankful",@"grateful",@"indebted",@"praise",@"punish",
+        @"blame",@"reproach",@"criticize",@"accuse",@"charge",@"denounce",@"condemn",@"sentence",@"scold",@"fine",@"excuse",@"forgive",@"apologize",@"congratulate",
+        @"capable",@"competent",@"skillful",@"handy",@"proficient",@"fluent",@"have a good command of",@"faculty",@"gift",@"potential",@"be qualified to do",@"be entitled to do",
+        @"be equipped to do",@"have access to",@"tend to do",@"be apt to do",@"be conditioned to do",@"be prone to do",@"be prone to",@"be liable to do",@"be liable to",
+        @"be subject to",@"be susceptible to",@"be supposed to do",@"be meant to do",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoHito];
     return ElementaryWordEnglish;
 }
