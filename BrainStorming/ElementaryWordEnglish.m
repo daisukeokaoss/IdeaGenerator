@@ -149,7 +149,11 @@
         @"emit",@"ice cap",@"Kyoto Protocol",@"endangered species",@"extinct",@"habitat",@"fauna and flora",@"wildlife",@"vegetation",@"sanctuary",@"fur",@"ecosystem",@"food chain",
         @"tropical rain forest",@"erosion",@"desertification",@"acid rain",@"ozone layer",@"ozone hole",@"ultraviolet radiation",@"rays",@"endocrine disrupting chemicals",@"pesticide",
         @"fertilizer",@"pollution",@"contamination",@"garbage",@"trash",@"reuse",@"disposable",@"industrial waste",@"sewage",@"natural resources",@"source of energy",@"generate",
-        @"electricity",@"power plant",@"nuclear",@"evolution",@"natural selection",@"survival of the fittest",@"adaptation",@"prey",@"predator",@"carnivorous",];
+        @"electricity",@"power plant",@"nuclear",@"evolution",@"natural selection",@"survival of the fittest",@"adaptation",@"prey",@"predator",@"carnivorous",@"herbivorous",@"dinosaur",
+        @"mammal",@"ape",@"primate",@"instinct",@"impulse",@"drive",@"spontaneous",@"gene",@"inherit",@"pass on",@"acquire",@"mate",@"reproduce",@"genetically-modified",@"clone",@"genome",
+        @"archeology",@"anthropology",@"ruins",@"excavation",@"prehistory",@"antiquity",@"race",@"tribe",@"barbarian",@"civilization",@"ancestor",@"descendant",@"forefather",@"offspring",
+        @"walk upright",@"date back to",@"originate",@"irrigation",@"culture",@"agriculture",@"wheat",@"grain",@"barley",@"livestock",@"famine",@"starve",@"plague",@"epidemic",
+        @"middle age",@"medieval",@"feudalism",@"load",@"peasant",@"merchant",@"priest",@"warrior",];
     [ElementaryWordEnglish addObjectsFromArray:KankyoMondai];
     return ElementaryWordEnglish;
 }
