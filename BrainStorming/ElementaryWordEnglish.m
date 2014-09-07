@@ -131,7 +131,13 @@
         @"blame",@"reproach",@"criticize",@"accuse",@"charge",@"denounce",@"condemn",@"sentence",@"scold",@"fine",@"excuse",@"forgive",@"apologize",@"congratulate",
         @"capable",@"competent",@"skillful",@"handy",@"proficient",@"fluent",@"have a good command of",@"faculty",@"gift",@"potential",@"be qualified to do",@"be entitled to do",
         @"be equipped to do",@"have access to",@"tend to do",@"be apt to do",@"be conditioned to do",@"be prone to do",@"be prone to",@"be liable to do",@"be liable to",
-        @"be subject to",@"be susceptible to",@"be supposed to do",@"be meant to do",];
+        @"be subject to",@"be susceptible to",@"be supposed to do",@"be meant to do",@"be bound to",@"be bound for",@"be aimed at",@"be destined to do",@"be doomed to do",
+        @"characteristic",@"trait",@"feature",@"angry",@"furious",@"rage",@"indignant",@"resent",@"lose one's temper",@"overreact",@"grief",@"sorrow",@"mourn",@"depressed",
+        @"disappointed",@"desperate",@"distress",@"agony",@"torture",@"weep",@"burst into tears",@"worry",@"anxious",@"concerned",@"tremble",@"preoccupied",@"obsessed",
+        @"regret",@"repent",@"lament",@"deplore",@"groan",@"nervous",@"pleased",@"delighted",@"joy",@"satisfied",@"content",@"contented",@"relief",@"sigh",@"hardworking",
+        @"industrious",@"earnest",@"energetic",@"aggressive",@"active",@"concentrate",@"focus",@"be intent on",@"busy",@"be absorbed in",@"be engaged in",@"devote",@"dedicate",
+        @"sacrifice",@"be crazy about",@"be keen on",@"indulge in",@"enthusiastic",@"zeal",@"optimistic",@"pessimistic",@"solid",@"hard",@"firm",@"stable",@"steady",@"stiff",
+        @"rigid",@"fixed",@"strict",@"severe",@"austere",@"stubborn",@"obstinate",];
     [ElementaryWordEnglish addObjectsFromArray:HitotoHito];
     return ElementaryWordEnglish;
 }
