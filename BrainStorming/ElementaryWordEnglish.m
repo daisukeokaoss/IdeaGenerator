@@ -177,7 +177,10 @@
         @"strategy",@"tactics",@"ally",@"foe",@"security",@"sanction",@"incentive",@"troop",@"corps",@"patriot",@"dispatch",@"expedition",@"colony",@"imperialism",@"autonomy",
         @"genocide",@"organization",@"institution",@"council",@"committee",@"conference",@"party"];
     [ElementaryWordEnglish addObjectsFromArray:ChemicalMathmatic];
-    NSArray *KeizaiKeiei = @[@"economy"];
+    NSArray *KeizaiKeiei = @[@"economy",@"economics",@"sector",@"industry",@"mining",@"commerce",@"trade",@"barter",@"retail",@"demand",@"enterprise",@"capital",@"invest",@"speculation",
+        @"stock",@"bond",@"fund",@"fortune",@"finance",@"fiscal",@"budget",@"revenue",@"wage",@"expense",@"surplus",@"deficit",@"debt",@"asset",@"property",@"estate",@"bankruptcy",
+        @"mortgage",@"interest",@"branch",@"department",@"subsidiary",@"executive",@"personnel",@"clerk",@"white-collar",@"commodity",@"raw material",@"petroleum",@"goods",
+        @"merchandise",@"article",@"purchase",];
     [ElementaryWordEnglish addObjectsFromArray:KeizaiKeiei];
     return ElementaryWordEnglish;
 }
