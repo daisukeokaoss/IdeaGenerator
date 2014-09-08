@@ -180,7 +180,8 @@
     NSArray *KeizaiKeiei = @[@"economy",@"economics",@"sector",@"industry",@"mining",@"commerce",@"trade",@"barter",@"retail",@"demand",@"enterprise",@"capital",@"invest",@"speculation",
         @"stock",@"bond",@"fund",@"fortune",@"finance",@"fiscal",@"budget",@"revenue",@"wage",@"expense",@"surplus",@"deficit",@"debt",@"asset",@"property",@"estate",@"bankruptcy",
         @"mortgage",@"interest",@"branch",@"department",@"subsidiary",@"executive",@"personnel",@"clerk",@"white-collar",@"commodity",@"raw material",@"petroleum",@"goods",
-        @"merchandise",@"article",@"purchase",];
+        @"merchandise",@"article",@"purchase",@"negotiate",@"bargain",@"contract",@"transaction",@"productivity",@"morale",@"share",@"monopoly",@"customer",@"client",@"vending machine",
+        @"labor",@"manual labor",@"labor force",@"union",@"unemplyment",@"lay off",@"fire",@"boom",@"recession",@"depression",@"stagnant",@"per capita",@"discrimination",@"gender",];
     [ElementaryWordEnglish addObjectsFromArray:KeizaiKeiei];
     return ElementaryWordEnglish;
 }
