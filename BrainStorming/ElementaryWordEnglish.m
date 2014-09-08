@@ -181,7 +181,17 @@
         @"stock",@"bond",@"fund",@"fortune",@"finance",@"fiscal",@"budget",@"revenue",@"wage",@"expense",@"surplus",@"deficit",@"debt",@"asset",@"property",@"estate",@"bankruptcy",
         @"mortgage",@"interest",@"branch",@"department",@"subsidiary",@"executive",@"personnel",@"clerk",@"white-collar",@"commodity",@"raw material",@"petroleum",@"goods",
         @"merchandise",@"article",@"purchase",@"negotiate",@"bargain",@"contract",@"transaction",@"productivity",@"morale",@"share",@"monopoly",@"customer",@"client",@"vending machine",
-        @"labor",@"manual labor",@"labor force",@"union",@"unemplyment",@"lay off",@"fire",@"boom",@"recession",@"depression",@"stagnant",@"per capita",@"discrimination",@"gender",];
+        @"labor",@"manual labor",@"labor force",@"union",@"unemplyment",@"lay off",@"fire",@"boom",@"recession",@"depression",@"stagnant",@"per capita",@"discrimination",@"gender",
+        @"male",@"female",@"glass ceiling",@"emancipate",@"women's liberation",@"work outside the home",@"housework",@"chore",@"drudgery",@"routine",@"help around the house",
+        @"household appliance",@"labor-saving device",@"marry",@"divorce",@"ex",@"abortion",@"ethnic",@"settle",@"migrate",@"immigrate",@"emigrate",@"the Pilgrim Fathers",@"melting pot",
+        @"salad bowl",@"coexist",@"intermarriage",@"assimilation",@"class",@"status",@"social ladder",@"hierarchy",@"social mobility",@"seniority",@"age",@"gray",@"birthrate",
+        @"population explosion",@"life expectancy",@"life span",@"longevity",@"population density",@"crime",@"criminal",@"juvenile delinquency",@"robby",@"burglary",@"theft",
+        @"pickpocket",@"fraud",@"kidnap",@"incident",@"fire arms",@"weapon",@"National Rifle Association",@"murder",@"homicide",@"massacre",@"suicide",@"violate",@"arrest",
+        @"jail",@"imprison",@"suspect",@"defendant",@"prosecutor",@"lawsuit",@"sue",@"trial",@"witness",@"testimony",@"jury",@"dwell in",@"inhabit",@"reside in",@"urban",
+        @"rural",@"suburb",@"downtown",@"metropolis",@"province",@"commute",@"traffic",@"traffic jam",@"traffic congestion",@"traffic light",@"vehicle",@"carsick",@"jet lag",
+        @"intersection",@"public transportation",@"fare",@"destination",@"accommodation",@"facility",@"book",@"appointment",@"view",@"scenery",@"landscape",@"orchard",
+        @"vineyard",@"meadow",@"path",@"alley",@"pavement",@"pedestrian",@"sidewalk",@"direction",@"itinerary",@"wander",@"stroll",@"browse",@"see",@"pick",@"skyscraper",
+        @"neighborhood",@"community",@"surrounding",@"circumstance",@"situation",@"occasion",@"opportunity",@"fire department",@"basement",];
     [ElementaryWordEnglish addObjectsFromArray:KeizaiKeiei];
     return ElementaryWordEnglish;
 }
