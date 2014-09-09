@@ -227,7 +227,10 @@
         @"in proportion to",@"in the course of",@"at the beginning of",@"at a speed of",@"across from",@"in the direction of",@"hardly",@"scarcely",@"rarely",@"seldom",@"little",
         @"few",@"quite a few",@"not at all",@"not in the least",@"in no way",@"by no means",@"anything but",@"far from",@"nothing but",@"nearly",@"come near to",@"barely",
         @"next to",@"virtually",@"practically",@"hard",@"late",@"short",@"high",@"fair",@"pretty",@"right",@"aloud",@"outdoors",@"abroad",@"downtown",@"firsthand",@"face to face",
-        @"online",@"overtime",@"from now on",@"before long",@"in time",@"right away",@"in no time",];
+        @"online",@"overtime",@"from now on",@"before long",@"in time",@"right away",@"in no time",@"on the spot",@"so far",@"for the time being",@"all the time",@"for good",@"in advance",
+        @"all of a sudden",@"once in a while",@"from time to time",@"every now and then",@"occasionally",@"for the first time",@"at first",@"in the long run",@"in the end",
+        @"in general",@"on the whole",@"as a rule",@"by and large",@"for one thing",@"on purpose",@"by chance",@"by turns",@"in turn",@"by degrees",@"by hand",@"in cash",
+        @"for nothing",@"in itself",@"at least",@"for onself",@"by onself",@"on one's own",@"on and off",@"just in case"];
     [ElementaryWordEnglish addObjectsFromArray:JikanRyou];
     return ElementaryWordEnglish;
 }
