@@ -217,7 +217,17 @@
         @"in the light of",@"for lack of",@"therefore",@"thus",@"hence",@"seeing",@"considering",@"with the result that",@"for the purpose of",@"with a view to",@"with the intention of",
         @"in the hope of",@"in the interest of",@"for the sake of",@"for fear of",@"so that",@"in order that",@"in spite of",@"despite",@"in the face of",@"for all",@"with all",
         @"notwithstanding",@"however",@"nevertheless",@"nonetheless",@"still",@"yet",@"though",@"admitting",@"granting",@"regardless of",@"irrespective of",@"without reference to",
-        @"without respect to",@"besides",@"in addition to",@"moreover",@"furthermore",@"what is more",@"as well",@"nor",@"neither",@"instead of",];
+        @"without respect to",@"besides",@"in addition to",@"moreover",@"furthermore",@"what is more",@"as well",@"nor",@"neither",@"instead of",@"in lieu of",@"as opposed to",
+        @"on behalf of",@"like",@"as with",@"unlike",@"in contrast to",@"contrary to",@"in comparison with",@"similarly",@"likewise",@"on the other hand",@"while",@"from the point of view of",
+        @"from the standpoint of",@"in terms of",@"in respect of",@"in reference to",@"concerning",@"in regard to",@"as to",@"as for",@"when it comes to",@"as far as",@"as long as",
+        @"for example",@"for instance",@"in other words",@"that is to say",@"namely",@"or rather",@"in short",@"actually",@"in fact",@"on the contrary",@"otherwise",@"to be sure",
+        @"by the way",@"incidentally",@"except",@"except for",@"save",@"apart from",@"in case of",@"on the condition that",@"supposing that",@"providing that",@"given that",
+        @"at the sight of",@"at the thought of",@"according to",@"in accordance with",@"by means of",@"by way of",@"in danger of",@"on the verge of",@"on the point of",
+        @"in the company of",@"at the cost of",@"at the risk of",@"at the mercy of",@"in favor of",@"in opposition to",@"in honor of",@"on the part of",@"in response to",
+        @"in proportion to",@"in the course of",@"at the beginning of",@"at a speed of",@"across from",@"in the direction of",@"hardly",@"scarcely",@"rarely",@"seldom",@"little",
+        @"few",@"quite a few",@"not at all",@"not in the least",@"in no way",@"by no means",@"anything but",@"far from",@"nothing but",@"nearly",@"come near to",@"barely",
+        @"next to",@"virtually",@"practically",@"hard",@"late",@"short",@"high",@"fair",@"pretty",@"right",@"aloud",@"outdoors",@"abroad",@"downtown",@"firsthand",@"face to face",
+        @"online",@"overtime",@"from now on",@"before long",@"in time",@"right away",@"in no time",];
     [ElementaryWordEnglish addObjectsFromArray:JikanRyou];
     return ElementaryWordEnglish;
 }
