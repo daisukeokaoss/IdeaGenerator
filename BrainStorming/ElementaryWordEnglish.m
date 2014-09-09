@@ -191,8 +191,33 @@
         @"rural",@"suburb",@"downtown",@"metropolis",@"province",@"commute",@"traffic",@"traffic jam",@"traffic congestion",@"traffic light",@"vehicle",@"carsick",@"jet lag",
         @"intersection",@"public transportation",@"fare",@"destination",@"accommodation",@"facility",@"book",@"appointment",@"view",@"scenery",@"landscape",@"orchard",
         @"vineyard",@"meadow",@"path",@"alley",@"pavement",@"pedestrian",@"sidewalk",@"direction",@"itinerary",@"wander",@"stroll",@"browse",@"see",@"pick",@"skyscraper",
-        @"neighborhood",@"community",@"surrounding",@"circumstance",@"situation",@"occasion",@"opportunity",@"fire department",@"basement",];
+        @"neighborhood",@"community",@"surrounding",@"circumstance",@"situation",@"occasion",@"opportunity",@"fire department",@"basement",@"cellar",@"attic",@"corridor",
+        @"aisle",@"yard",@"microwave",@"refrigerator",@"faucet",@"sink",@"drain",@"bathroom",@"closet",@"cupboard",@"drawer",@"shelf",@"rack",@"shade",@"household",@"earn one's living",
+        @"live beyond one's means",@"make both ends meet",@"eat out",@"meal",@"beverage",@"appetite",@"staple",@"nephew",@"niece",@"cousin",@"spectator",@"audience",
+        @"bow",@"greet",@"celebrity",@"rumor",@"prestige",@"vogue",@"craze",@"spare time",@"leisure",@"pastime",@"kill time",@"amateur",@"layperson",@"subscribe"];
     [ElementaryWordEnglish addObjectsFromArray:KeizaiKeiei];
+    NSArray *KyouikuHatuiku = @[@"infant",@"toddler",@"cradle",@"nursery",@"kindergarten",@"elementary school",@"adolescence",@"juvenile",@"maturity",@"come of age",@"score",@"grade",
+        @"graduate",@"educate",@"nurture",@"literacy",@"discipline",@"mischief",@"behave oneself",@"know better than to do",@"major",@"tuition fee",@"undergraduate",@"graduate school",
+        @"thesis",@"degree",@"bachelor",@"dormitory",@"board",@"landlord",@"work one's way through college",@"resume",@"rite of passage",@"lesson",@"succeed",@"generation",
+        @"occupation",@"career",@"vocation",@"retire",@"pension",@"insurance",@"funeral",@"bury",@"tomb",@"grave",@"cemetery"];
+    [ElementaryWordEnglish addObjectsFromArray:KyouikuHatuiku];
+    NSArray *GengoBungaku = @[@"linguistics",@"verbal",@"mother tongue",@"second language",@"polyglot",@"language acquisition",@"creole",@"noun",@"adverb",@"adjective",@"onomatopoeia",
+        @"usage",@"accent",@"dialect",@"pronunciation",@"colloquial",@"coin",@"translate",@"interpret",@"letter",@"literature",@"prose",@"poetry",@"rhyme",@"rhythm",@"rhetoric",
+        @"eloquent",@"monologue",@"narrative",@"playwright",@"script",@"manuscript",@"masterpiece",@"novel",@"anecdote",@"fable",@"biography",@"satire",@"sarcasm",@"calligraphy",
+        @"chronicle",@"epic",@"lyric",@"hymn",@"national anthem",@"maxim",@"proverb",@"recite",@"rehearse",@"exhibit",@"art",@"director",@"conductor",@"choir",@"visual",
+        @"sculpture",@"carving",@"handicraft",@"artisan"];
+    [ElementaryWordEnglish addObjectsFromArray:GengoBungaku];
+    NSArray *Tetugaku = @[@"philosophy",@"outlook",@"perspective",@"worldwide",@"Confucianism",@"Buddhism",@"Catholicism",@"Protestantism",@"Puritanism",@"Islam",@"religion",
+        @"cult",@"superstition",@"legend",@"monotheism",@"atheism",@"fundamentalism",@"pray",@"priest",@"adherent",@"fanatic",@"ritual",@"rite",@"ethics",@"moral",@"spiritual",
+        @"mental",@"psychology",@"consciousness",@"subconscious",@"conscience"];
+    [ElementaryWordEnglish addObjectsFromArray:Tetugaku];
+    NSArray *JikanRyou = @[@"era",@"epoch",@"decade",@"millennium",@"dawn",@"temporary",@"contemporary",@"permanent",@"eternal",@"annual",@"term",@"rate",@"phase",@"amount",@"quantity",
+        @"sum",@"scale",@"proportion",@"dimension",@"aspect",@"degree",@"field",@"domain",@"realm",@"scope",@"boundary",@"means",@"method",@"manner",@"fashion",@"medium",@"a series of",
+        @"a chain of",@"a set of",@"a body of",@"because of",@"owing to",@"thanks to",@"as a result of",@"in consequence of",@"due to",@"on account of",@"on the ground of",
+        @"in the light of",@"for lack of",@"therefore",@"thus",@"hence",@"seeing",@"considering",@"with the result that",@"for the purpose of",@"with a view to",@"with the intention of",
+        @"in the hope of",@"in the interest of",@"for the sake of",@"for fear of",@"so that",@"in order that",@"in spite of",@"despite",@"in the face of",@"for all",@"with all",
+        @"notwithstanding",@"however",@"nevertheless",@"nonetheless",@"still",@"yet",@"though",@"admitting",@"granting",@"regardless of",@"irrespective of",@"without reference to",];
+    [ElementaryWordEnglish addObjectsFromArray:JikanRyou];
     return ElementaryWordEnglish;
 }
 
