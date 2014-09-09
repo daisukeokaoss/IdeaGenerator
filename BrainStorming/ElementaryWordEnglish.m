@@ -216,7 +216,8 @@
         @"a chain of",@"a set of",@"a body of",@"because of",@"owing to",@"thanks to",@"as a result of",@"in consequence of",@"due to",@"on account of",@"on the ground of",
         @"in the light of",@"for lack of",@"therefore",@"thus",@"hence",@"seeing",@"considering",@"with the result that",@"for the purpose of",@"with a view to",@"with the intention of",
         @"in the hope of",@"in the interest of",@"for the sake of",@"for fear of",@"so that",@"in order that",@"in spite of",@"despite",@"in the face of",@"for all",@"with all",
-        @"notwithstanding",@"however",@"nevertheless",@"nonetheless",@"still",@"yet",@"though",@"admitting",@"granting",@"regardless of",@"irrespective of",@"without reference to",];
+        @"notwithstanding",@"however",@"nevertheless",@"nonetheless",@"still",@"yet",@"though",@"admitting",@"granting",@"regardless of",@"irrespective of",@"without reference to",
+        @"without respect to",@"besides",@"in addition to",@"moreover",@"furthermore",@"what is more",@"as well",@"nor",@"neither",@"instead of",];
     [ElementaryWordEnglish addObjectsFromArray:JikanRyou];
     return ElementaryWordEnglish;
 }
