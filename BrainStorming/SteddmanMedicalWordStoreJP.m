@@ -32,6 +32,12 @@
         @"秋熱",@"あきやみ",@"秋疫",@"亜急性移動性皮下脂肪組織炎",@"亜急性壊死性脊髄炎",@"亜急性炎症",@"亜急性海綿状脳障害",@"亜急性硬化性全脳炎",@"亜急性細菌性心内膜炎",];
     [MedicalWordArray addObjectsFromArray:AWord];
     
+    //以下、Weblio英和和英からもらった
+    //http://ejje.weblio.jp/category/healthcare/eigky/aa/1
+    NSArray *aaWord = @[@"足",@"相性張力",@"愛情遮断性こびと症",@"アイゼンメンジャー症候群",@"アイソザイム",@"アイソトープ",@"アイソトープ診断",@"アイソトープ誘導体法",@"アイソトープ療法",@"相対",@"アイデンティティー",
+        @"アイバンク",@"相引カップリング",@"亜イレウス",@"アイントーベンの三角形",];
+    [MedicalWordArray addObjectsFromArray:aaWord];
+    
     return MedicalWordArray;
 }
 
