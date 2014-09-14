@@ -30,8 +30,10 @@
         @"Auger effect",@"Auger electron",@"Aurora",@"Avalanche multiplication",@"Average Binding energy",@"Avogadro number",@"Avogadro's law",@"Avogadro's principle",
         @"Axial chromatic aberration",@"Axis of Procession",@"Axis of rotation",@"Axis",@"Azimuthal quantum number",@"Babinet compensator",@"Back EMF",@"Background",@"Baking",
         @"Ballistic Galvanometer",@"Ballistic Pendulum",@"Ballistics",@"Balmer series",@"Band Spectrum",@"Band theory",@"Band Width",@"Bar",@"Barns",@"Barometer",
-        ];
+        @"Bartlett force",@"Baryons",@"Battery",@"BCC",@"Beat frequency"];
     [PhysicalWord addObjectsFromArray:AWord];
+    NSArray *BWord = @[@"Beats",@"Beer's law",@"Bel",@"Becquerel",@"Bernoulli's principle",@"Beta decay",@"Beta particle",@"Betatron",@"Biaxial crystal",@"Biconcave lens",@"Biconvex lens",
+        ];
     
     return PhysicalWord;
 }
