@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */; };
 		C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */; };
 		C91909CB17618A1C009ACF8D /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C91909CA17618A1C009ACF8D /* SearchViewController.m */; };
 		C91E8AF318EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */; };
@@ -65,6 +66,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70DC3BE019C530E3006CFC5E /* EnglishPhysicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishPhysicalWordStore.h; sourceTree = "<group>"; };
+		70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishPhysicalWordStore.m; sourceTree = "<group>"; };
 		C90C908E16E9AA5E005EA9C1 /* PhysicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhysicalWordStore.h; sourceTree = "<group>"; };
 		C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhysicalWordStore.m; sourceTree = "<group>"; };
 		C91909C917618A1C009ACF8D /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
@@ -324,6 +327,8 @@
 		C9EEA0AC1995E73D00389853 /* EnglishWord */ = {
 			isa = PBXGroup;
 			children = (
+				70DC3BE019C530E3006CFC5E /* EnglishPhysicalWordStore.h */,
+				70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */,
 				C95EDD3F181E2638004489CC /* EnglishChemicalWordStore.h */,
 				C95EDD40181E2638004489CC /* EnglishChemicalWordStore.m */,
 				C9E1EB6A182A950E000D79B5 /* EnglishMedicalWordStore.h */,
@@ -425,6 +430,7 @@
 				C99494FB16D90C27007FDD3A /* ControlUI.m in Sources */,
 				C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */,
 				C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */,
+				70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */,
 				C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */,
 				C94C26F419810E4B0065ACE8 /* EnglishAgricultureDictionary.m in Sources */,
 				C994950116D9B33E007FDD3A /* WordStore.m in Sources */,
