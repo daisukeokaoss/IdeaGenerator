@@ -26,7 +26,11 @@
         @"Anti matter",@"Anti particle",@"Anti-node",@"Antistokes lines",@"Aphelion",@"Apeture",@"Aplanatic point",@"Aplanatism",@"Apochromat",@"Apogee",@"Arc",@"Archimedes principle",
         @"Area",@"Artificial Transmutation",@"Asteroids",@"Astigmatism",@"Astronaut",@"Astronomical unit",@"Astronomy",@"Astrophysics",@"Athermanous",@"Atmosphere",
         @"Atmospheric electricity",@"Atmospheric pressure",@"Atom Bomb",@"Atom percent",@"Atom",@"Atomic clock",@"Atomic mass unit",@"amu",@"Atomic number",@"Atomic orbital",
-        @"Atomic Packing Fraction",@"Atomic physics",@"Atomic radius",@"Atomic structure",@"Atomic Weight",@"Atomicity",@"Atto",@"Audio frequency",@"Audio meter",@"Aufbau principle",];
+        @"Atomic Packing Fraction",@"Atomic physics",@"Atomic radius",@"Atomic structure",@"Atomic Weight",@"Atomicity",@"Atto",@"Audio frequency",@"Audio meter",@"Aufbau principle",
+        @"Auger effect",@"Auger electron",@"Aurora",@"Avalanche multiplication",@"Average Binding energy",@"Avogadro number",@"Avogadro's law",@"Avogadro's principle",
+        @"Axial chromatic aberration",@"Axis of Procession",@"Axis of rotation",@"Axis",@"Azimuthal quantum number",@"Babinet compensator",@"Back EMF",@"Background",@"Baking",
+        @"Ballistic Galvanometer",@"Ballistic Pendulum",@"Ballistics",@"Balmer series",@"Band Spectrum",@"Band theory",@"Band Width",@"Bar",@"Barns",@"Barometer",
+        ];
     [PhysicalWord addObjectsFromArray:AWord];
     
     return PhysicalWord;
