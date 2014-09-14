@@ -10,4 +10,26 @@
 
 @implementation EnglishPhysicalWordStore
 
++(NSMutableArray *)GenerateWordArray
+{
+    NSMutableArray *PhysicalWord = [[NSMutableArray alloc] init];
+    
+    NSArray *AWord = @[@"Aberration",@"Aberration of starlight",@"Abrasive",@"Abscissa",@"Absolute error",@"Absolute humidity",@"Absolute humidity",@"Absolute permeability",@"Absolute permittivity",
+        @"Absolute pressure",@"Absolute temperature",@"Absolute Zero",@"Absorbed Fraction",@"Absorbing power",@"Absorptance",@"Absorption spectrum",@"Absorption",@"Absorptivity",
+        @"Abundance",@"Acceleration",@"Acceleration due to gravity",@"Accelerator",@"Accuracy",@"Achromatic combination of lenses",@"Achromatic lens",@"Achromatic prism",
+        @"Acoustic impedance",@"Acoustics",@"Actinide",@"Actinium series",@"Actinometer",@"Activator",@"Active Device",@"Activity",@"Acute Angle",@"Adhesion",@"Adiabatic demagnetization",
+        @"Adiabetic process",@"Admittance",@"Adsorbate",@"Adsorbent",@"Adsorption",@"Aerodynamics",@"Aerosol",@"After glow",@"Air break down",@"Air",@"Albedo",@"algorithm",
+        @"Allobar",@"Allostropy",@"Alloy",@"Alpha Iron",@"Alpha particle spectrum",@"Alpha particle",@"alternating current",@"Altitude",@"Ammeter",@"Amorphous",@"Ampere",@"Amperes law",
+        @"Amplifier",@"Amplitude Modulation",@"Amplitude",@"Analog",@"Anelasticity",@"Anemometer",@"Angle",@"Angle of Incidence",@"Angle of minimum Deviation",@"Angle of Reflection",
+        @"Angle of Refraction",@"Angstrom",@"Angular aperture",@"Angular displacement",@"Angular momentum",@"Angular velocity",@"Anisotropy",@"Annealing",@"anode ray",@"Anode",
+        @"Anodizing",@"Anomalous Dielectric Dispersion",@"Anomalous Expansion of water",@"Anomalous Zeeman Effect",@"Antenna",@"Antiferromagnetism",@"Antilogarithm",
+        @"Anti matter",@"Anti particle",@"Anti-node",@"Antistokes lines",@"Aphelion",@"Apeture",@"Aplanatic point",@"Aplanatism",@"Apochromat",@"Apogee",@"Arc",@"Archimedes principle",
+        @"Area",@"Artificial Transmutation",@"Asteroids",@"Astigmatism",@"Astronaut",@"Astronomical unit",@"Astronomy",@"Astrophysics",@"Athermanous",@"Atmosphere",
+        @"Atmospheric electricity",@"Atmospheric pressure",@"Atom Bomb",@"Atom percent",@"Atom",@"Atomic clock",@"Atomic mass unit",@"amu",@"Atomic number",@"Atomic orbital",
+        @"Atomic Packing Fraction",@"Atomic physics",@"Atomic radius",@"Atomic structure",@"Atomic Weight",@"Atomicity",@"Atto",@"Audio frequency",@"Audio meter",@"Aufbau principle",];
+    [PhysicalWord addObjectsFromArray:AWord];
+    
+    return PhysicalWord;
+}
+
 @end

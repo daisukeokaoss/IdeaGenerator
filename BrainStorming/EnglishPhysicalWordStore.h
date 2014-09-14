@@ -10,4 +10,6 @@
 
 @interface EnglishPhysicalWordStore : NSObject
 
++(NSMutableArray *)GenerateWordArray;
+
 @end
