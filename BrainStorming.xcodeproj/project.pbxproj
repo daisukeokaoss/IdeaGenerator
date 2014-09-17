@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70B6659C19C909B6009C5384 /* MedicalWordJp_MachineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */; };
 		70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */; };
 		C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */; };
 		C91909CB17618A1C009ACF8D /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C91909CA17618A1C009ACF8D /* SearchViewController.m */; };
@@ -66,6 +67,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70B6659A19C909B6009C5384 /* MedicalWordJp_MachineCollect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicalWordJp_MachineCollect.h; sourceTree = "<group>"; };
+		70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicalWordJp_MachineCollect.m; sourceTree = "<group>"; };
 		70DC3BE019C530E3006CFC5E /* EnglishPhysicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishPhysicalWordStore.h; sourceTree = "<group>"; };
 		70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnglishPhysicalWordStore.m; sourceTree = "<group>"; };
 		C90C908E16E9AA5E005EA9C1 /* PhysicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhysicalWordStore.h; sourceTree = "<group>"; };
@@ -300,6 +303,8 @@
 				C91E8AF218EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m */,
 				C95CB5781914C7B500A55F77 /* SteddmanMedicalWordStoreJP.h */,
 				C95CB5791914C7B500A55F77 /* SteddmanMedicalWordStoreJP.m */,
+				70B6659A19C909B6009C5384 /* MedicalWordJp_MachineCollect.h */,
+				70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */,
 				C998919C1803A2A200E4EAD9 /* OpticalWordStore.h */,
 				C998919D1803A2A200E4EAD9 /* OpticalWordStore.m */,
 				C9CAB3711988A24F0004B6D6 /* JapaneseMilitaryWordStore.h */,
@@ -438,6 +443,7 @@
 				C9A06DD21879B5AB00F2E654 /* EnglishITWordStore.m in Sources */,
 				C994950716D9B405007FDD3A /* GeneralWordStore.m in Sources */,
 				C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */,
+				70B6659C19C909B6009C5384 /* MedicalWordJp_MachineCollect.m in Sources */,
 				C91E8AF318EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m in Sources */,
 				C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */,
 				C9CAB3731988A24F0004B6D6 /* JapaneseMilitaryWordStore.m in Sources */,
