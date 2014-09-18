@@ -96,6 +96,7 @@
     if(self.OpticalWordGenerate == YES){
         [self.wordGenerate InputWordStore:[OpticalWordStore GenerateWordArray]];
     }
+    [self.wordGenerate InputWordStore:[MedicalWordJp_MachineCollect GenerateWordArray]];
     
     
     

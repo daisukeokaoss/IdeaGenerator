@@ -222,6 +222,7 @@
         //「光学関係の単語」ガオンだった時に呼び出される
         [PoolToCount addObjectsFromArray:[OpticalWordStore  GenerateWordArray]];
     }
+    [PoolToCount addObjectsFromArray:[MedicalWordJp_MachineCollect GenerateWordArray]];
     
     NSString *WordCountString = [NSString stringWithFormat:@"%d",[PoolToCount count]];
     

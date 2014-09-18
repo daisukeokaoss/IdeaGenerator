@@ -31,6 +31,7 @@
 #import "ModeanSocialWord.h"
 #import "BiologicalWordStore.h"
 #import "OpticalWordStore.h"
+#import "MedicalWordJp_MachineCollect.h"
 
 
 @interface ControlUI : NSObject
