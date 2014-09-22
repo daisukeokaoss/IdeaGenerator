@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70B1566419D06FF10037A5DC /* ComputerWord_machineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */; };
 		70B6659C19C909B6009C5384 /* MedicalWordJp_MachineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */; };
 		70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */; };
 		C90C909016E9AA5E005EA9C1 /* PhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = C90C908F16E9AA5E005EA9C1 /* PhysicalWordStore.m */; };
@@ -67,6 +68,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70B1566219D06FF10037A5DC /* ComputerWord_machineCollect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComputerWord_machineCollect.h; path = ../ComputerWord_machineCollect.h; sourceTree = "<group>"; };
+		70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComputerWord_machineCollect.m; path = ../ComputerWord_machineCollect.m; sourceTree = "<group>"; };
 		70B6659A19C909B6009C5384 /* MedicalWordJp_MachineCollect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicalWordJp_MachineCollect.h; sourceTree = "<group>"; };
 		70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicalWordJp_MachineCollect.m; sourceTree = "<group>"; };
 		70DC3BE019C530E3006CFC5E /* EnglishPhysicalWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnglishPhysicalWordStore.h; sourceTree = "<group>"; };
@@ -295,6 +298,8 @@
 		C9EEA0AB1995E6C900389853 /* JapaneseWord */ = {
 			isa = PBXGroup;
 			children = (
+				70B1566219D06FF10037A5DC /* ComputerWord_machineCollect.h */,
+				70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */,
 				C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */,
 				C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */,
 				C9ED108F1756369E00DA197E /* ModeanSocialWord.h */,
@@ -435,6 +440,7 @@
 				C99494FB16D90C27007FDD3A /* ControlUI.m in Sources */,
 				C998919E1803A2A200E4EAD9 /* OpticalWordStore.m in Sources */,
 				C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */,
+				70B1566419D06FF10037A5DC /* ComputerWord_machineCollect.m in Sources */,
 				70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */,
 				C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */,
 				C94C26F419810E4B0065ACE8 /* EnglishAgricultureDictionary.m in Sources */,

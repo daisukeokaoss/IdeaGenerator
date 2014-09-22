@@ -12,20 +12,24 @@
 	<dict>
 		<key>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</key>
 		<string>https://github.com/Daisukedayon/IdeaGenerator.git</string>
+		<key>9358655EA7202C3EF85DD732F53CD3CDFA726FE9</key>
+		<string>https://github.com/Daisukedayon/IdeaGenerator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>BrainStorming.xcodeproj/project.xcworkspace</string>
+	<string>BrainStorming.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</key>
+		<string>../../../BrainStorming</string>
+		<key>9358655EA7202C3EF85DD732F53CD3CDFA726FE9</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Daisukedayon/IdeaGenerator.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</string>
+	<string>9358655EA7202C3EF85DD732F53CD3CDFA726FE9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>1E0D3E00-2031-4AA1-9FC9-7A8D83B0F2AD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BrainStorming</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9358655EA7202C3EF85DD732F53CD3CDFA726FE9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IdeaGenerator12</string>
 		</dict>
 	</array>
 </dict>
