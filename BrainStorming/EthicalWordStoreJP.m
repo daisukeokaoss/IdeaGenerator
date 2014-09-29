@@ -181,7 +181,8 @@
         @"万人司祭主義",@"キリスト者の自由",@"カルヴァン",@"カルヴィン",@"カルヴァンの生涯と思想",@"予定説",@"カルヴィニズム",@"ピューリタニズム",@"キリスト教要綱",@"召命",@"天職",@"職業召命感",
         @"プロテスタンティズムの倫理と資本主義の精神",@"職業人",@"反宗教改革",@"イエズス会",@"イグナティウス・ロヨラ",@"教会統一"];
     [EthicalWordStore addObjectsFromArray:Runesansu];
-    NSArray *KindaiGouri = @[];
+    NSArray *KindaiGouri = @[@"近代科学",@"自然法則",@"科学革命",@"観察",@"実験",@"仮説",@"天動説",@"プトレマイオス",@"地動説",@"アリスタルコス",@"コペルニクス",@"天体の回転について",];
+    [EthicalWordStore addObjectsFromArray:KindaiGouri];
     
     
     return EthicalWordStore;
