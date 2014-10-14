@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70AFC09C19E7A9A30086AAA8 /* BuddistWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70AFC09B19E7A9A30086AAA8 /* BuddistWordStore.m */; };
 		70B1566419D06FF10037A5DC /* ComputerWord_machineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */; };
 		70B6659C19C909B6009C5384 /* MedicalWordJp_MachineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */; };
 		70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70DC3BE119C530E3006CFC5E /* EnglishPhysicalWordStore.m */; };
@@ -68,6 +69,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70AFC09A19E7A9A30086AAA8 /* BuddistWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuddistWordStore.h; sourceTree = "<group>"; };
+		70AFC09B19E7A9A30086AAA8 /* BuddistWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuddistWordStore.m; sourceTree = "<group>"; };
 		70B1566219D06FF10037A5DC /* ComputerWord_machineCollect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComputerWord_machineCollect.h; path = ../ComputerWord_machineCollect.h; sourceTree = "<group>"; };
 		70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComputerWord_machineCollect.m; path = ../ComputerWord_machineCollect.m; sourceTree = "<group>"; };
 		70B6659A19C909B6009C5384 /* MedicalWordJp_MachineCollect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicalWordJp_MachineCollect.h; sourceTree = "<group>"; };
@@ -330,6 +333,8 @@
 				C994950316D9B3C6007FDD3A /* ITWordStore.m */,
 				C9D8D5B219B44F79007887C8 /* EthicalWordStoreJP.h */,
 				C9D8D5B319B44F79007887C8 /* EthicalWordStoreJP.m */,
+				70AFC09A19E7A9A30086AAA8 /* BuddistWordStore.h */,
+				70AFC09B19E7A9A30086AAA8 /* BuddistWordStore.m */,
 			);
 			name = JapaneseWord;
 			sourceTree = "<group>";
@@ -442,6 +447,7 @@
 				C99494FE16D9B259007FDD3A /* WordGenerate.m in Sources */,
 				70B1566419D06FF10037A5DC /* ComputerWord_machineCollect.m in Sources */,
 				70DC3BE219C530E3006CFC5E /* EnglishPhysicalWordStore.m in Sources */,
+				70AFC09C19E7A9A30086AAA8 /* BuddistWordStore.m in Sources */,
 				C9E1EB6C182A950E000D79B5 /* EnglishMedicalWordStore.m in Sources */,
 				C94C26F419810E4B0065ACE8 /* EnglishAgricultureDictionary.m in Sources */,
 				C994950116D9B33E007FDD3A /* WordStore.m in Sources */,

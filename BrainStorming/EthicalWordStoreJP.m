@@ -294,6 +294,7 @@
         @"ICBL",@"人道に対する罪",@"ユネスコ憲章",@"ユニセフ",@"UNICEF",@"国連児童基金",@"人道に対する罪",@"ユネスコ憲章",@"ユニセフ",@"UNICEF",@"地球市民",@"民際化",@"ノブレス・オブリージュ",
         @"アポロ１１号"];
     [EthicalWordStore addObjectsFromArray:Kokusai];
+    //2015年１０月１０日完成
     
     return EthicalWordStore;
 }
