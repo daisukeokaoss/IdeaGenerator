@@ -33,7 +33,8 @@
         @"Bartlett force",@"Baryons",@"Battery",@"BCC",@"Beat frequency"];
     [PhysicalWord addObjectsFromArray:AWord];
     NSArray *BWord = @[@"Beats",@"Beer's law",@"Bel",@"Becquerel",@"Bernoulli's principle",@"Beta decay",@"Beta particle",@"Betatron",@"Biaxial crystal",@"Biconcave lens",@"Biconvex lens",
-        ];
+        @"Biconvex lens",@"Bifocals",@"Big bang theory",@"Bimetallic strip",@"Binary system",@"Binding energy per nucleon",@"Binding energy",@"Binoculars",@"Bioluminescence",
+        @"Biophysics",@"Biot Savart law",@"Biprism",@"Birefingence",@"Black Body",@"Black hole",@"Bloch theorem",@"Blue Moon",@"Body centered cubic",@"Body waves",@"Bohr magneton",];
     
     return PhysicalWord;
 }
