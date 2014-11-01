@@ -34,7 +34,13 @@
     [PhysicalWord addObjectsFromArray:AWord];
     NSArray *BWord = @[@"Beats",@"Beer's law",@"Bel",@"Becquerel",@"Bernoulli's principle",@"Beta decay",@"Beta particle",@"Betatron",@"Biaxial crystal",@"Biconcave lens",@"Biconvex lens",
         @"Biconvex lens",@"Bifocals",@"Big bang theory",@"Bimetallic strip",@"Binary system",@"Binding energy per nucleon",@"Binding energy",@"Binoculars",@"Bioluminescence",
-        @"Biophysics",@"Biot Savart law",@"Biprism",@"Birefingence",@"Black Body",@"Black hole",@"Bloch theorem",@"Blue Moon",@"Body centered cubic",@"Body waves",@"Bohr magneton",];
+        @"Biophysics",@"Biot Savart law",@"Biprism",@"Birefingence",@"Black Body",@"Black hole",@"Bloch theorem",@"Blue Moon",@"Body centered cubic",@"Body waves",@"Bohr magneton",
+        @"Bohr's atomic theory",@"Bohr's complementarity principle",@"Boiling point",@"Boiling water reactor",@"Boiling",@"Bolometer",@"Boltzmann constant",@"Boltzmann's canonical distribution law",
+        @"Bonding energy",@"Bonding",@"Boron-10",@"Bose Einstein Condensation",@"Bose Einstein statistics",@"Bosons",@"Boundary",@"Boyle's law",@"Brackett series",
+        @"Bragg Curve",@"Bragg's law",@"Branching Ratio",@"Brass",@"Brazing",@"Breakdown Voltage",@"Breeder reactor",@"Breeding",@"Bremsstrahlung X-rays",@"Bremstahlung",
+        @"Brewster's angle of incidence",@"Brewster's law",@"Brillouin zones",@"British Thermal Unit",@"BTU",@"Brittle substances",@"Bronze",@"Brownian motion",@"Bubble chamber",
+        @"Bulk modulus",@"Bulk stress",@"Buoyancy",@"Buoyant force",@"Burgers vector",@"Calcination",@"Calcite",@"Calculus",@"Calorie",];
+    [PhysicalWord addObjectsFromArray:BWord];
     
     return PhysicalWord;
 }
