@@ -39,7 +39,14 @@
         @"Bonding energy",@"Bonding",@"Boron-10",@"Bose Einstein Condensation",@"Bose Einstein statistics",@"Bosons",@"Boundary",@"Boyle's law",@"Brackett series",
         @"Bragg Curve",@"Bragg's law",@"Branching Ratio",@"Brass",@"Brazing",@"Breakdown Voltage",@"Breeder reactor",@"Breeding",@"Bremsstrahlung X-rays",@"Bremstahlung",
         @"Brewster's angle of incidence",@"Brewster's law",@"Brillouin zones",@"British Thermal Unit",@"BTU",@"Brittle substances",@"Bronze",@"Brownian motion",@"Bubble chamber",
-        @"Bulk modulus",@"Bulk stress",@"Buoyancy",@"Buoyant force",@"Burgers vector",@"Calcination",@"Calcite",@"Calculus",@"Calorie",];
+        @"Bulk modulus",@"Bulk stress",@"Buoyancy",@"Buoyant force",@"Burgers vector",@"Calcination",@"Calcite",@"Calculus",@"Calorie",@"Calorimeter",@"CAMAC Layout",@"CAMAC Logic",
+        @"CAMAC Standard",@"Camera",@"Canal rays",@"Candela",@"Canonical ensemble",@"Capacitance",@"Capacitor",@"Capillarity",@"Capillary tube",@"Carat",@"Carbon-Nitrogen cycle",
+        @"Carburizing",@"Cardinal points",@"Carnot's engine",@"Carnot's cycle",@"Carnot's theorem",@"Carrier wave",@"Cartesian coordinates",@"Cathetometer",@"Cathode ray oscilloscope",
+        @"Cathode ray tube",@"Cathode ray",@"Cathode",@"Cathodic sputtering",@"Cation",@"Cauchy's dispersion formula",@"Causality Law",@"Causality",@"Cavendish experiment",
+        @"Celestial body",@"Celsius scale",@"Celsius",@"Cema",@"Center of mass frame",@"Center of mass",@"Centi",@"Central Tendency",@"Central force",@"Centre of gravity",
+        @"Centrifugal force",@"Centripetal acceleration",@"Centripetal force",@"Centroid",@"Ceramic",@"Cerenkov radiation",@"Cermet",@"CGS units",@"Chain reaction",
+        @"Chandrasekhar limit",@"Characteristic X-ray radiation",@"Charge conjugation",@"Charge coupled device",@"Charge transfer device",@"Charge",@"Charles law",
+        @"Chemiluminescence",@"Chemisorption",@"Cherenkov radiation",];
     [PhysicalWord addObjectsFromArray:BWord];
     
     return PhysicalWord;
