@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70734F4F1A7E4DDE0040EF73 /* GameWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70734F4E1A7E4DDE0040EF73 /* GameWordStore.m */; };
 		70AFC09C19E7A9A30086AAA8 /* BuddistWordStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 70AFC09B19E7A9A30086AAA8 /* BuddistWordStore.m */; };
 		70B1566419D06FF10037A5DC /* ComputerWord_machineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */; };
 		70B6659C19C909B6009C5384 /* MedicalWordJp_MachineCollect.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B6659B19C909B6009C5384 /* MedicalWordJp_MachineCollect.m */; };
@@ -69,6 +70,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70734F4D1A7E4DDE0040EF73 /* GameWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameWordStore.h; sourceTree = "<group>"; };
+		70734F4E1A7E4DDE0040EF73 /* GameWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameWordStore.m; sourceTree = "<group>"; };
 		70AFC09A19E7A9A30086AAA8 /* BuddistWordStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuddistWordStore.h; sourceTree = "<group>"; };
 		70AFC09B19E7A9A30086AAA8 /* BuddistWordStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuddistWordStore.m; sourceTree = "<group>"; };
 		70B1566219D06FF10037A5DC /* ComputerWord_machineCollect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComputerWord_machineCollect.h; path = ../ComputerWord_machineCollect.h; sourceTree = "<group>"; };
@@ -303,6 +306,8 @@
 			children = (
 				70B1566219D06FF10037A5DC /* ComputerWord_machineCollect.h */,
 				70B1566319D06FF10037A5DC /* ComputerWord_machineCollect.m */,
+				70734F4D1A7E4DDE0040EF73 /* GameWordStore.h */,
+				70734F4E1A7E4DDE0040EF73 /* GameWordStore.m */,
 				C92C072F1784FC65002F2AA1 /* BiologicalWordStore.h */,
 				C92C07301784FC65002F2AA1 /* BiologicalWordStore.m */,
 				C9ED108F1756369E00DA197E /* ModeanSocialWord.h */,
@@ -457,6 +462,7 @@
 				C96B083B16DB9CB0001177A0 /* UserDefaultDataForBrainstormingSecondView.m in Sources */,
 				70B6659C19C909B6009C5384 /* MedicalWordJp_MachineCollect.m in Sources */,
 				C91E8AF318EFC5E0009421AD /* Gendaiyougonokisotisiki2014JapaneseWordStore.m in Sources */,
+				70734F4F1A7E4DDE0040EF73 /* GameWordStore.m in Sources */,
 				C96B083E16DE2A26001177A0 /* ChemicalWordStore.m in Sources */,
 				C9CAB3731988A24F0004B6D6 /* JapaneseMilitaryWordStore.m in Sources */,
 				C94C8DA316E7672900139C04 /* BrainStormingThirdViewController.m in Sources */,
